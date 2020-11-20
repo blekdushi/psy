@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Methodische Grundlagen wissenschaftlicher Psychologie
 ## Inhalte und Ziele der Psychologie
 In der Psychologie ist der Mensch **Forschungsgegenstand** und Forscher zugleich. Daraus entstehen Herausforderungen durch individuelle Unterschiede, sowohl durch Anlage (Persönlichkeit) als auch die Situation (z.B. Tagesform). Beforscht werden:
