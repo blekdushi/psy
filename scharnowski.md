@@ -78,7 +78,7 @@ Abgegrenzt davon ist [Wissenschaftstheorie](https://de.wikipedia.org/wiki/Wissen
 
 **[Deduktion](https://de.wikipedia.org/wiki/Deduktion)** ist das Schlussfolgern vom Allgemeinen (einer Theorie) auf das Spezielle (Beobachtung). Widerspricht eine Beobachtung der Theorie, dann ist diese widerlegt. Stimmt sie überein, dass ist die Theorie bekräftigt, aber nie endgültig bestätigt. Man kann Theorie somit nicht beweisen, aber man kann sie erhärten und falsifizieren.
 
-Hier setzt auch der **[kritische Rationalsmus](https://de.wikipedia.org/wiki/Kritischer_Rationalismus)** von [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) an. Demnach sind Theorien nicht etwas, das man beweisen soll, sondern Vermutungen/Vorschläge, die man versuchen soll zu falsifizieren (_Falsifikationsprinzip_). Aus ihnen leitet man dann _Hypothesen_ ab, die durch empirische Beobachtungen widerlegt werden sollen. Das geht nur dann, wenn man Theorien und Hypothesen so aufstellt, dass sie _falsifizierbar_ sind, wodurch sich die Wissenschaft von der Nicht-Wissenschaft abgrenzt (_Poppers Abgrenzungskriterium_), wobei man _"fasifizierbar"_ nicht mit _"falsifiziert"_ verwechseln darf.
+Hier setzt auch der **[kritische Rationalismus](https://de.wikipedia.org/wiki/Kritischer_Rationalismus)** von [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) an. Demnach sind Theorien nicht etwas, das man beweisen soll, sondern Vermutungen/Vorschläge, die man versuchen soll zu falsifizieren (_Falsifikationsprinzip_). Aus ihnen leitet man dann _Hypothesen_ ab, die durch empirische Beobachtungen widerlegt werden sollen. Das geht nur dann, wenn man Theorien und Hypothesen so aufstellt, dass sie _falsifizierbar_ sind, wodurch sich die Wissenschaft von der Nicht-Wissenschaft abgrenzt (_Poppers Abgrenzungskriterium_), wobei man _"fasifizierbar"_ nicht mit _"falsifiziert"_ verwechseln darf.
 
 Der Forschungsprozess ist daher:
 * Theoriebezug und Forschungshypothesen
@@ -89,7 +89,7 @@ zum Forschungsproblem unter Einhaltung wissenschaftlicher Gütekriterien:
  * angemessenes Untersuchungsdesign
  * geeignete Untersuchungsinstrumente
  * aussagekräftige Stichprobe
- * begründete Datenerhebungs-, -aufbereitung, -analysemethoden
+ * begründete Datenerhebungs-, -aufbereitungs- und -analysemethoden
 * Vorgehen gemäß Prinzipien der der Wissenschaftsethik (Manipulationen,
 Risiken für VersuchsteilnehmerInnen, Aufklärung & Einwilligung,...)
 * schriftliche Dokumentation des Forschungsprozesses und Archivierung
@@ -108,14 +108,30 @@ Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Be
 **Hypothesen** sollen folgenden Kriterien genügen:
 * widerlegbar/falsifizierbar durch empirisch überprüfbare Sachverhalte
 * widerspruchsfrei und präzise
-* begründet und nachvollziehbar (vor der Datenerhebung formuliert)
+* begründet und nachvollziehbar
 * Operationalisierbarkeit der verwendeten Begriffe
 * generalisierend und theoriegeleitet
 
+ In der Regel sollen Hypothesen vor der Datenerhebung formuliert werden (_Prüfexperimente_). Eine Ausnahme sind _Erkundungsexperimente_ bei denen Hypothesen nach der Datenerhebung aufgestellt werden (Hussy et al., 2013, p.34)
 
+Es gibt mehrere **Hypothesenarten**, wobei Hussy et al. (2013, p.32) folgende herausstreichen:
+* Universell
+* Beschränkt universell
+* Quasiuniversell
 
+Für die Psychologie ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung, weil sie Regelmäßigkeiten postuliert, gleichzeitig aber auch Ausnahmen toleriert, z.B. "Wenn beim Lösen von Problemen
+Pausen gemacht werden, dann ist die Lösungsgüte zumeist besser, als wenn keine Pausen
+gemacht werden". Sie bezieht sich auf die Wahrscheinlichkeit des Zutreffens und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
+
+Eine Hypothesen kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>_** und Null- bzw. **Gegenhypothese H<sub>0</sub>**, die sich gegenseitig ausschließen.
+
+![Hypothesenebenen mit Beispielen](/assets/img/hypothesenebenen.svg)
+
+Da wir laut _kritischem Rationalismus_ Erkenntnisgewinn nur durch Falsifizieren erlangen können, müssen wir versuchen die Nullhypothese zu falsifizieren um unsere Arbeitshypothese zu stärken, ähnlich der Unschuldsvermutung vor Gericht. Hypothesen _gerichtet_ ("etwas ist besser/schlechter") oder _ungerichtet_ ("es gibt einen Unterschied") sein.
 
 ## Wahrscheinlichkeiten
+
+
 ## Inferenz
 
 # Einführung in die empirische Forschung - Daten sind das neue Gold
