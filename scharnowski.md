@@ -74,11 +74,11 @@ nützlich erweisen, aber ihre Aussagen variieren, sind widersprüchlich, von Int
 
 Abgegrenzt davon ist [Wissenschaftstheorie](https://de.wikipedia.org/wiki/Wissenschaftstheorie) ein Teilgebiet der Philosophie und beschäftigt sich mit Fragen über den wissenschaftlichen Erkenntnisgewinn. Ob und wie dieser möglich ist, welche Einflüsse darauf wirken und welche Rolle Ethik dabei spielen soll. Dabei handelt es sich um ein aktives Forschungsfeld, das an sich selbst den Anspruch stellt keine endgültigen ("in Stein  gemeißelten") Ergebnisse zu produzieren. Sie unterscheidet zwei grundlegende Herangehensweisen: die _Induktion_ und die _Deduktion_.
 
-**[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgeren von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab. [David Hume](https://de.wikipedia.org/wiki/David_Hume#Induktion) meint jedoch, dass über Induktion kein Erkenntnisgewinn möglich sei, weil die Beobachtungen der Vergangenheit rational betrachtet keinerlei Aussage über die Zukunft träfen. Mit dem selben Argument ließen sich daher nicht einmal Wahrscheinlichkeiten ableiten. (z.B. erwacht man jeden Morgen -> daraus abzuleiten, dass man auch in Zukunft jeden Morgen aufwachen würde, wäre falsch, da man ja irgendwann stirbt). Humes Diskussion dazu wird auch [Induktionsproblem](https://de.wikipedia.org/wiki/Induktionsproblem) genannt. Tatsächlich muss der Mensch aber Induktion anwenden und in diesem Sinne aus der Erfahrung lernen. Aus einem praktischen Standpunkt aus betrachtet ist das durchaus nutzbringend zu bewerten. Dennoch ist diese Praxis unter dem Vernunftsgesichtspunkt für Hume irrational ([Quelle: Wikipedia](https://de.wikipedia.org/wiki/David_Hume#Induktion)). Induktion eignet sich dafür Ideen für Gesetzmäßigkeiten zu gewissen, nicht aber dafür sie zu beweisen.
+**[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgeren von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab. [David Hume](https://de.wikipedia.org/wiki/David_Hume#Induktion) meint jedoch, dass über Induktion kein Erkenntnisgewinn möglich sei, weil die Beobachtungen der Vergangenheit rational betrachtet keinerlei Aussage über die Zukunft träfen. Mit dem selben Argument ließen sich daher nicht einmal Wahrscheinlichkeiten ableiten. (z.B. erwacht man jeden Morgen -> daraus abzuleiten, dass man auch in Zukunft jeden Morgen aufwachen würde, wäre falsch, da man ja irgendwann stirbt). Humes Diskussion dazu wird auch [Induktionsproblem](https://de.wikipedia.org/wiki/Induktionsproblem) genannt. Tatsächlich muss der Mensch aber Induktion anwenden und in diesem Sinne aus der Erfahrung lernen. Aus einem praktischen Standpunkt aus betrachtet ist das durchaus nutzbringend zu bewerten. Dennoch ist diese Praxis unter dem Vernunftsgesichtspunkt für Hume irrational ([Quelle: Wikipedia](https://de.wikipedia.org/wiki/David_Hume#Induktion)). Induktion ist im Forschungsprozess trotzdem wichtig um damit Ideen für Gesetzmäßigkeiten zu finden, auch wenn sie dadurch weder geprüft noch erhärtet (geschweige denn bewiesen) werden können (Hussy et al., 2013, p.8)
 
-**[Deduktion](https://de.wikipedia.org/wiki/Deduktion)** ist das Schlussfolgern vom Allgemeinen (einer Theorie) auf das Spezielle (Beobachtung). Widerspricht eine Beobachtung der Theorie, dann ist diese widerlegt. Stimmt sie überein, dass ist die Theorie bekräftigt, aber nie endgültig bestätigt. Man kann Theorie somit nicht beweisen, aber man kann sie falsifizieren.
+**[Deduktion](https://de.wikipedia.org/wiki/Deduktion)** ist das Schlussfolgern vom Allgemeinen (einer Theorie) auf das Spezielle (Beobachtung). Widerspricht eine Beobachtung der Theorie, dann ist diese widerlegt. Stimmt sie überein, dass ist die Theorie bekräftigt, aber nie endgültig bestätigt. Man kann Theorie somit nicht beweisen, aber man kann sie erhärten und falsifizieren.
 
-Hier setzt auch der **[kritische Rationalsmus](https://de.wikipedia.org/wiki/Kritischer_Rationalismus)** von [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) an. Demnach sind Theorien nicht etwas, das man beweisen soll, sondern etwas, das man falsifizieren soll (_Falsifikationsprinzip_). Aus ihnen leitet man dann _Hypothesen_ ab, die durch empirische Beobachtungen widerlegt werden sollen. Das geht nur dann, wenn man Theorien und Hypothesen so aufstellt, dass sie _falsifizierbar_ sind, wodurch sich die Wissenschaft von der Nicht-Wissenschaft abgrenzt (_Poppers Abgrenzungskriterium_).
+Hier setzt auch der **[kritische Rationalsmus](https://de.wikipedia.org/wiki/Kritischer_Rationalismus)** von [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) an. Demnach sind Theorien nicht etwas, das man beweisen soll, sondern Vermutungen/Vorschläge, die man versuchen soll zu falsifizieren (_Falsifikationsprinzip_). Aus ihnen leitet man dann _Hypothesen_ ab, die durch empirische Beobachtungen widerlegt werden sollen. Das geht nur dann, wenn man Theorien und Hypothesen so aufstellt, dass sie _falsifizierbar_ sind, wodurch sich die Wissenschaft von der Nicht-Wissenschaft abgrenzt (_Poppers Abgrenzungskriterium_), wobei man _"fasifizierbar"_ nicht mit _"falsifiziert"_ verwechseln darf.
 
 Der Forschungsprozess ist daher:
 * Theoriebezug und Forschungshypothesen
@@ -102,7 +102,19 @@ Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Be
 ![Open Science als Zusammenspiel von Open Data, Open Access und Open Source](/assets/img/openscience.svg)
 
 # Überprüfung psychologischer Ideen (Hypothesen testen)
+
 ## Hypothesen
+
+**Hypothesen** sollen folgenden Kriterien genügen:
+* widerlegbar/falsifizierbar durch empirisch überprüfbare Sachverhalte
+* widerspruchsfrei und präzise
+* begründet und nachvollziehbar (vor der Datenerhebung formuliert)
+* Operationalisierbarkeit der verwendeten Begriffe
+* generalisierend und theoriegeleitet
+
+
+
+
 ## Wahrscheinlichkeiten
 ## Inferenz
 
