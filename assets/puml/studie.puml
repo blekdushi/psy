@@ -1,0 +1,12 @@
+@startuml
+skinparam activitybackgroundcolor white
+skinparam activitybordercolor black
+skinparam arrowcolor black
+:Forschungsfrage diskutieren;
+:Hypothese formulieren;
+:Signifikanzniveau festlegen;
+:Stichprobe wählen;
+:Daten erheben;
+:Statistisch auswerten;
+:Hypothese verwerfen/akzeptieren;
+@enduml

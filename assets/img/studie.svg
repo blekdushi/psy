@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="378px" preserveAspectRatio="none" style="width:250px;height:378px;" version="1.1" viewBox="0 0 250 378" width="250px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="fu03lfazkqari" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0" />
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0" />
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3" />
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal" />
+        </filter>
+    </defs>
+    <g>
+        <rect fill="#FFFFFF" filter="url(#fu03lfazkqari)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="200" x="24.5" y="10" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="180" x="34.5" y="31.1387">Forschungsfrage diskutieren</text>
+        <rect fill="#FFFFFF" filter="url(#fu03lfazkqari)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="162" x="43.5" y="63.9688" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="142" x="53.5" y="85.1074">Hypothese formulieren</text>
+        <rect fill="#FFFFFF" filter="url(#fu03lfazkqari)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="189" x="30" y="117.9375" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="169" x="40" y="139.0762">Signifikanzniveau festlegen</text>
+        <rect fill="#FFFFFF" filter="url(#fu03lfazkqari)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="136" x="56.5" y="171.9063" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="116" x="66.5" y="193.0449">Stichprobe wählen</text>
+        <rect fill="#FFFFFF" filter="url(#fu03lfazkqari)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="115" x="67" y="225.875" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="95" x="77" y="247.0137">Daten erheben</text>
+        <rect fill="#FFFFFF" filter="url(#fu03lfazkqari)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="156" x="46.5" y="279.8438" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="136" x="56.5" y="300.9824">Statistisch auswerten</text>
+        <rect fill="#FFFFFF" filter="url(#fu03lfazkqari)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="229" x="10" y="333.8125" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="209" x="20" y="354.9512">Hypothese verwerfen/akzeptieren</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="124.5" x2="124.5" y1="43.9688" y2="63.9688" />
+        <polygon fill="#000000" points="120.5,53.9688,124.5,63.9688,128.5,53.9688,124.5,57.9688" style="stroke: #000000; stroke-width: 1.0;" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="124.5" x2="124.5" y1="97.9375" y2="117.9375" />
+        <polygon fill="#000000" points="120.5,107.9375,124.5,117.9375,128.5,107.9375,124.5,111.9375" style="stroke: #000000; stroke-width: 1.0;" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="124.5" x2="124.5" y1="151.9063" y2="171.9063" />
+        <polygon fill="#000000" points="120.5,161.9063,124.5,171.9063,128.5,161.9063,124.5,165.9063" style="stroke: #000000; stroke-width: 1.0;" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="124.5" x2="124.5" y1="205.875" y2="225.875" />
+        <polygon fill="#000000" points="120.5,215.875,124.5,225.875,128.5,215.875,124.5,219.875" style="stroke: #000000; stroke-width: 1.0;" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="124.5" x2="124.5" y1="259.8438" y2="279.8438" />
+        <polygon fill="#000000" points="120.5,269.8438,124.5,279.8438,128.5,269.8438,124.5,273.8438" style="stroke: #000000; stroke-width: 1.0;" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="124.5" x2="124.5" y1="313.8125" y2="333.8125" />
+        <polygon fill="#000000" points="120.5,323.8125,124.5,333.8125,128.5,323.8125,124.5,327.8125" style="stroke: #000000; stroke-width: 1.0;" />
+        <!--MD5=[8669e9fc4d9a8d5feac2f07ba7868735]
+@startuml
+skinparam activitybackgroundcolor white
+skinparam activitybordercolor black
+skinparam arrowcolor black
+:Forschungsfrage diskutieren;
+:Hypothese formulieren;
+:Signifikanzniveau festlegen;
+:Stichprobe wählen;
+:Daten erheben;
+:Statistisch auswerten;
+:Hypothese verwerfen/akzeptieren;
+@enduml
+
+PlantUML version 1.2020.08(Sun Apr 26 16:08:22 CEST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.9.1+1-Ubuntu-0ubuntu1.18.04
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

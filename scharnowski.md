@@ -102,7 +102,13 @@ Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Be
 
 ![Open Science als Zusammenspiel von Open Data, Open Access und Open Source](/assets/img/openscience.svg)
 
+
 # Überprüfung psychologischer Ideen (Hypothesen testen)
+
+Ein typischer Ablauf einer Studie skizziert sich wie folgt:
+
+![Ablauf einer Studie: Forschungsfrage diskutieren -  Hypothese formulieren - Signifikanzniveau festlegen -
+Stichprobe wählen - Daten erheben - Statistisch auswerten - Hypothese verwerfen/akzeptieren](/assets/img/studie.svg)
 
 ## Hypothesen
 
@@ -164,6 +170,27 @@ Bei Aussagen über die Stichprobe werden lateinische und für Aussagen über die
 
 Eine Stichprobe ist nie "perfekt" repräsentativ, wodurch ihre _Generalisierbarkeit_ eingeschränkt, das Schließen von der Stichprobe auf die Population mit Fehlern behaftet ist und sie somit nur zu einer _geschätzten Wahrscheinlichkeit_ als Ergebnis führt. Bezogen auf unsere Hypothese H<sub>0</sub>, die wir zu falsifizieren versuchen, bedeutet das, dass wir die H<sub>0</sub> nur auf Basis dieser geschätzten Wahrscheinlichkeit ablehnen können. Welche Wahrscheinlichkeit ist nun "gerade noch groß genug", damit wir das dürfen? Dieses _Falsifikationskriterium_ wird im **[statistischen Hypothesentest](https://de.wikipedia.org/wiki/Statistischer_Test)** (Signifikanztest) formalisiert:<br>
 "Das zentrale Ergebnis eines Signifikanztests ist die sog. Überschreitungswahrscheinlichkeit _p_. Diese ist die Wahrscheinlichkeit, dass ein gefundenes Stichprobenergebnis oder ein noch stärker von der H<sub>0</sub> abweichendes Ergebnis zustande kommt, falls die H<sub>0</sub> in der Population gilt...Per Konvention gelten Werte für _p_ von weniger als 0,05 (5%) oder 0,01 (1%) als so gering, dass die Nullhypothese verworfen wird." (Hussy et al., 2013, p.180)
+
+Je nach Fragestellung und Hypothese kommen unterschiedliche Methoden der Inferenzstatistik zum Einsatz (Details dazu dann in _VO Einführung in quantitative Methoden_):
+* Dependenzanalyse
+ * Unterschiede
+   * zentrale Tendenz
+     * unabhängige Stichproben
+     * verbundene Stichproben
+   * Proportion/Häufigkeiten
+     * Binomialtest
+     * ...
+   * Varianzen
+     * Chi²
+     * ...
+ * Zusammenhänge
+   * Korrelation
+   * einfache Regression
+   * ...
+* Interdependenzanalyse
+ * Faktorenanalyse
+ * Clusteranalyse
+ * ...
 
 # Einführung in die empirische Forschung - Daten sind das neue Gold
 ## Untersuchungsdesigns
