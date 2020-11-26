@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: Scharnowski
 ---
 # Methodische Grundlagen wissenschaftlicher Psychologie
 ## Inhalte und Ziele der Psychologie
@@ -67,7 +68,7 @@ Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenscha
 * Intuition
 * Anekdotische Evidenz
 * Logik
-Für eine detailliertere Ausführung nicht-wissenschaftlicher Quellen siehe dazu auch Tabelle 1.1 auf Seite 6 in Döring & Bortz (2016) oder auf Folie 26 der Vorlesungsfolien von Scharnowski am 06.10.2020.
+Für eine detailliertere Ausführung nicht-wissenschaftlicher Quellen (siehe dazu auch Tabelle 1.1 auf Seite 6 in Döring & Bortz (2016) oder auf Folie 26 der Vorlesungsfolien von Scharnowski am 06.10.2020).
 
 Nicht-wissenschaftliche Quellen können zutreffend sein und sich als
 nützlich erweisen, aber ihre Aussagen variieren, sind widersprüchlich, von Interessen geleitet und es bleibt unklar, wie man zu dieser Aussage gekommen ist und auf welche Beobachtungen und Daten sie sich stützt.
@@ -78,7 +79,7 @@ Abgegrenzt davon ist [Wissenschaftstheorie](https://de.wikipedia.org/wiki/Wissen
 
 **[Deduktion](https://de.wikipedia.org/wiki/Deduktion)** ist das Schlussfolgern vom Allgemeinen (einer Theorie) auf das Spezielle (Beobachtung). Widerspricht eine Beobachtung der Theorie, dann ist diese widerlegt. Stimmt sie überein, dass ist die Theorie bekräftigt, aber nie endgültig bestätigt. Man kann Theorie somit nicht beweisen, aber man kann sie erhärten und falsifizieren.
 
-Hier setzt auch der **[kritische Rationalismus](https://de.wikipedia.org/wiki/Kritischer_Rationalismus)** von [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) an. Demnach sind Theorien nicht etwas, das man beweisen soll, sondern Vermutungen/Vorschläge, die man versuchen soll zu falsifizieren (_Falsifikationsprinzip_). Aus ihnen leitet man dann _Hypothesen_ ab, die durch empirische Beobachtungen widerlegt werden sollen. Das geht nur dann, wenn man Theorien und Hypothesen so aufstellt, dass sie _falsifizierbar_ sind, wodurch sich die Wissenschaft von der Nicht-Wissenschaft abgrenzt (_Poppers Abgrenzungskriterium_), wobei man _"fasifizierbar"_ nicht mit _"falsifiziert"_ verwechseln darf.
+Hier setzt auch der **[Kritische Rationalismus](https://de.wikipedia.org/wiki/Kritischer_Rationalismus)** von [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) an. Demnach sind Theorien nicht etwas, das man beweisen soll, sondern Vermutungen/Vorschläge, die man versuchen soll zu falsifizieren (_Falsifikationsprinzip_). Aus ihnen leitet man dann _Hypothesen_ ab, die durch empirische Beobachtungen widerlegt werden sollen. Das geht nur dann, wenn man Theorien und Hypothesen so aufstellt, dass sie _falsifizierbar_ sind, wodurch sich die Wissenschaft von der Nicht-Wissenschaft abgrenzt (_Poppers Abgrenzungskriterium_), wobei man _"fasifizierbar"_ nicht mit _"falsifiziert"_ verwechseln darf.
 
 Der Forschungsprozess ist daher:
 * Theoriebezug und Forschungshypothesen
@@ -112,27 +113,57 @@ Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Be
 * Operationalisierbarkeit der verwendeten Begriffe
 * generalisierend und theoriegeleitet
 
- In der Regel sollen Hypothesen vor der Datenerhebung formuliert werden (_Prüfexperimente_). Eine Ausnahme sind _Erkundungsexperimente_ bei denen Hypothesen nach der Datenerhebung aufgestellt werden (Hussy et al., 2013, p.34)
+ In der Regel sollen Hypothesen vor der Datenerhebung formuliert werden (_Prüfexperimente_). Eine Ausnahme sind _Erkundungsexperimente_ bei denen Hypothesen nach der Datenerhebung aufgestellt werden (Hussy et al., 2013, p.34).
 
 Es gibt mehrere **Hypothesenarten**, wobei Hussy et al. (2013, p.32) folgende herausstreichen:
 * Universell
 * Beschränkt universell
 * Quasiuniversell
 
-Für die Psychologie ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung, weil sie Regelmäßigkeiten postuliert, gleichzeitig aber auch Ausnahmen toleriert, z.B. "Wenn beim Lösen von Problemen
+Weil man in der Psychologie Hypothesen eigentlich nie zu 100% widerlegen kann, ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung. Sie postuliert Regelmäßigkeiten aber toleriert gleichzeitig auch Ausnahmen. Eine Beispielhypothese ist _"Wenn beim Lösen von Problemen
 Pausen gemacht werden, dann ist die Lösungsgüte zumeist besser, als wenn keine Pausen
-gemacht werden". Sie bezieht sich auf die Wahrscheinlichkeit des Zutreffens und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
+gemacht werden"_. Sie ist somit eine Wahrscheinlichkeitsaussage und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
 
-Eine Hypothesen kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>_** und Null- bzw. **Gegenhypothese H<sub>0</sub>**, die sich gegenseitig ausschließen.
+Eine Hypothesen kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen.
 
 ![Hypothesenebenen mit Beispielen](/assets/img/hypothesenebenen.svg)
 
-Da wir laut _kritischem Rationalismus_ Erkenntnisgewinn nur durch Falsifizieren erlangen können, müssen wir versuchen die Nullhypothese zu falsifizieren um unsere Arbeitshypothese zu stärken, ähnlich der Unschuldsvermutung vor Gericht. Hypothesen _gerichtet_ ("etwas ist besser/schlechter") oder _ungerichtet_ ("es gibt einen Unterschied") sein.
+Da wir laut _Kritischem Rationalismus_ Erkenntnisgewinn nur durch Falsifizieren erlangen können, müssen wir versuchen die Nullhypothese zu falsifizieren, um zu beweisen, dass es überhaupt einen Effekt gibt, und um somit unsere Arbeitshypothese zu stärken (ähnlich der Unschuldsvermutung vor Gericht). Hypothesen können _gerichtet_ ("etwas ist besser/schlechter") oder _ungerichtet_ ("es gibt einen Unterschied") sein.
 
 ## Wahrscheinlichkeiten
 
+Da wir in der Psychologie mit _quasiuniversellen Hypothesen_ arbeiten, kann nicht ausgeschlossen werden, dass wir bei deren Prüfung falsch liegen. Auch wenn wir beim Untersuchungsdesign, -durchführung und -analyse alles richtig machen, kann z.B. der Zufall dazu führen, dass wir eine Hypothese fälschlicherweise falsifizieren bzw. erhärten:
 
-## Inferenz
+Beim **α-Fehler** (Fehler 1. Art) hat man die Nullhypothese H<sub>0</sub> fälschlicherweise falsifiziert. Man glaubt, dass es einen Effekt gibt, obwohl es ihn in Wirklichkeit nicht gibt.
+
+Beim **β-Fehler** (Fehler 2. Art) hat man die Nullhypothese fälschlicherweise nicht falsifizieren können. Man geht davon aus, dass es _keinen_ Effekt gibt, obwohl es in Wirklichkeit einen gibt.
+
+In der Regel haben α-Fehler weitreichendere Folgen als β-Fehler.
+
+"Unter **Population** ([Grundgesamtheit](https://de.wikipedia.org/wiki/Grundgesamtheit)) versteht man in der Psychologie die Menge aller potenziellen Untersuchungsobjekte für eine gegebene Fragestellung." (Hussy et al., 2013, p.118)
+
+"Unter einer **[Stichprobe](https://de.wikipedia.org/wiki/Stichprobe)** versteht man eine Teilmenge aus einer Grundgesamtheit, die
+unter bestimmten Gesichtspunkten (gemäß der Fragestellung) ausgewählt wurde." (Hussy et al., 2013, p.118)<br>
+Eine Stichprobe ist _[repräsentativ](https://de.wikipedia.org/wiki/Repr%C3%A4sentativit%C3%A4t)_, wenn sie das Wesen und die spezifischen Eigenarten der Population gut und verhältnismäßig abbildet. Das ist abhängig von der _Stichprobenstrategie_ und der _Stichprobengröße_. Strategisch wählt man die Stichprobe möglichst _[zufällig](https://de.wikipedia.org/wiki/Zufallsstichprobe#Probleme_der_Zufallsziehung)_ aus, was in der Praxis gar nicht so einfach (z.B. Wahlbefragungen, Telefonumfragen...) und auch kostenintensiv (z.B. Medikamentenstudien bei Schwangeren) ist.
+
+Die **[Deskriptive Statistik](https://de.wikipedia.org/wiki/Deskriptive_Statistik)** beschreibt die gesammelten Daten:
+* Organisation der Daten (Matrix, Kodierung, Skalentypen: Nominal-, Ordinal-, Intervall-, Verhältnisskala)
+* Darstellung der Daten (Histogramm, Boxplot, Kreisdiagramm...)
+* Beschreibung der Daten (Häufigkeiten, Mittelwert, Median, Varianz...)
+* Standardisierung von Daten für Vergleiche
+
+Mittels der **[Inferenzstatistik](https://de.wikipedia.org/wiki/Mathematische_Statistik)** leitet man Schlüsse von der Stichprobe auf die zugehörige Population ab. "Aussagen der Inferenzstatistik gehen damit über das Beobachtbare hinaus und sind mit Unsicherheit behaftet." (Hussy et al., 2013, p.179)
+
+Bei Aussagen über die Stichprobe werden lateinische und für Aussagen über die Population griechische Symbole verwendet:
+
+|Wert|Stichprobe|Population|
+|---|:---:|:---:|
+|Mittelwert|x&#x0304;|μ|
+|Standardabweichung|s|σ (sigma)|
+|Varianz|s²|σ²|
+
+Eine Stichprobe ist nie "perfekt" repräsentativ, wodurch ihre _Generalisierbarkeit_ eingeschränkt, das Schließen von der Stichprobe auf die Population mit Fehlern behaftet ist und sie somit nur zu einer _geschätzten Wahrscheinlichkeit_ als Ergebnis führt. Bezogen auf unsere Hypothese H<sub>0</sub>, die wir zu falsifizieren versuchen, bedeutet das, dass wir die H<sub>0</sub> nur auf Basis dieser geschätzten Wahrscheinlichkeit ablehnen können. Welche Wahrscheinlichkeit ist nun "gerade noch groß genug", damit wir das dürfen? Dieses _Falsifikationskriterium_ wird im **[statistischen Hypothesentest](https://de.wikipedia.org/wiki/Statistischer_Test)** (Signifikanztest) formalisiert:<br>
+"Das zentrale Ergebnis eines Signifikanztests ist die sog. Überschreitungswahrscheinlichkeit _p_. Diese ist die Wahrscheinlichkeit, dass ein gefundenes Stichprobenergebnis oder ein noch stärker von der H<sub>0</sub> abweichendes Ergebnis zustande kommt, falls die H<sub>0</sub> in der Population gilt...Per Konvention gelten Werte für _p_ von weniger als 0,05 (5%) oder 0,01 (1%) als so gering, dass die Nullhypothese verworfen wird." (Hussy et al., 2013, p.180)
 
 # Einführung in die empirische Forschung - Daten sind das neue Gold
 ## Untersuchungsdesigns
