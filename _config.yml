@@ -17,9 +17,9 @@ title: Psychologie - STEOP / WS20
 description: >- # this means to ignore newlines until "baseurl:"
   Notizen zur STEOP Psychologie / WS20 / Wien
 baseurl: "/psy" # the subpath of your site, e.g. /blog
-url: "http://dobinator.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blekdushi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blekdushi
-github_username:  dobinator
+github_username: blekdushi
 
 # Build settings
 markdown: kramdown
