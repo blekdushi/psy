@@ -1,0 +1,27 @@
+@startuml
+skinparam activity {
+    backgroundcolor white
+    bordercolor black
+    diamondbackgroundcolor white
+    diamondbordercolor black
+}
+skinparam arrowcolor black
+skinparam partitionbackgroundcolor lightgrey
+
+
+:Forschungsthema und -problem;
+:Forschungsstand und theoretischer Hintergrund;
+repeat :Untersuchungsdesign;
+
+partition "" {
+    repeat :Stichprobe ziehen;
+    :Daten erheben;
+    :Daten aufbereiten;
+    :**Daten analysieren**;
+    repeat while () is (offene\nFragen →)
+}
+->gefundene\nErgebnisse;
+:**Hypothesen und Theorien bilden**;
+repeat while ()
+:Ergebnise präsentieren;
+@enduml

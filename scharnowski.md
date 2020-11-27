@@ -103,12 +103,13 @@ Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Be
 ![Open Science als Zusammenspiel von Open Data, Open Access und Open Source](/assets/img/openscience.svg)
 
 
-# Überprüfung psychologischer Ideen (Hypothesen testen)
+# Überprüfung psychologischer Ideen
 
-Ein typischer Ablauf einer Studie skizziert sich wie folgt:
+Ein grober, typischer Ablauf einer Studie kann man wie folgt skizzieren:
 
 ![Ablauf einer Studie: Forschungsfrage diskutieren -  Hypothese formulieren - Signifikanzniveau festlegen -
 Stichprobe wählen - Daten erheben - Statistisch auswerten - Hypothese verwerfen/akzeptieren](/assets/img/studie.svg)
+
 
 ## Hypothesen
 
@@ -168,7 +169,7 @@ Bei Aussagen über die Stichprobe werden lateinische und für Aussagen über die
 |Standardabweichung|s|σ (sigma)|
 |Varianz|s²|σ²|
 
-Eine Stichprobe ist nie "perfekt" repräsentativ, wodurch ihre _Generalisierbarkeit_ eingeschränkt, das Schließen von der Stichprobe auf die Population mit Fehlern behaftet ist und sie somit nur zu einer _geschätzten Wahrscheinlichkeit_ als Ergebnis führt. Bezogen auf unsere Hypothese H<sub>0</sub>, die wir zu falsifizieren versuchen, bedeutet das, dass wir die H<sub>0</sub> nur auf Basis dieser geschätzten Wahrscheinlichkeit ablehnen können. Welche Wahrscheinlichkeit ist nun "gerade noch groß genug", damit wir das dürfen? Dieses _Falsifikationskriterium_ wird im **[statistischen Hypothesentest](https://de.wikipedia.org/wiki/Statistischer_Test)** (Signifikanztest) formalisiert:<br>
+Eine Stichprobe ist nie "perfekt" repräsentativ, wodurch ihre _Generalisierbarkeit_ eingeschränkt, das Schließen von der Stichprobe auf die Population mit Fehlern behaftet ist und sie somit nur zu einer _geschätzten Wahrscheinlichkeit_ als Ergebnis führt. Bezogen auf unsere Hypothese H<sub>0</sub>, die wir zu falsifizieren versuchen, bedeutet das, dass wir die H<sub>0</sub> nur auf Basis dieser geschätzten Wahrscheinlichkeit ablehnen können. Welche Wahrscheinlichkeit ist nun "gerade noch groß genug", damit wir das dürfen? Dieses _Falsifikationskriterium_ wird im **[statistischen Hypothesentest (Signifikanztest)](https://de.wikipedia.org/wiki/Statistischer_Test)** formalisiert:<br>
 "Das zentrale Ergebnis eines Signifikanztests ist die sog. Überschreitungswahrscheinlichkeit _p_. Diese ist die Wahrscheinlichkeit, dass ein gefundenes Stichprobenergebnis oder ein noch stärker von der H<sub>0</sub> abweichendes Ergebnis zustande kommt, falls die H<sub>0</sub> in der Population gilt...Per Konvention gelten Werte für _p_ von weniger als 0,05 (5%) oder 0,01 (1%) als so gering, dass die Nullhypothese verworfen wird." (Hussy et al., 2013, p.180)
 
 Je nach Fragestellung und Hypothese kommen unterschiedliche Methoden der Inferenzstatistik zum Einsatz (Details dazu dann in _VO Einführung in quantitative Methoden_):
@@ -193,5 +194,66 @@ Je nach Fragestellung und Hypothese kommen unterschiedliche Methoden der Inferen
  * ...
 
 # Einführung in die empirische Forschung - Daten sind das neue Gold
+
+Psychologie ist eine **[empirische Wissenschaft](https://de.wikipedia.org/wiki/Empirie#Empirische_Wissenschaften)**. Sie erklärt das Erleben und Verhalten von Menschen basierend auf Erfahrungen und mit systematischer und methodischer _Datenerhebung_ und _Datenauswertung_. Innerhalb der empirischen Wissenschaften unterscheiden wir Sozial-, Natur- und Technikwissenschaften. Im Gegensatz dazu stehen Nicht-empirische Wissenschaften wie die Formal- und Geisteswissenschaften:
+
+![Gegenüberstellung nicht-empirischer und empirischer Wissenschaften](/assets/img/wissenschaften.svg)
+
+Die Psychologie bedient und überschneidet sich in ihren Forschungsprozessen mit anderen Disziplinen:
+* Medizin (Diagnostik, Psychotherapie...)
+* Biologie (Neurowissenschaften, Physiologie...)
+* Physik (Bildgebung, Messinstrumente...)
+* Informatik (Datenverarbeitung...)
+* Mathematik (Wahrscheinlichkeit, Statistik...)
+* Philosophie (Wissenschaftstheorie...)
+* Ökonomie (Entscheidungsverhalten...)
+* Soziologie (Umwelteinflüsse...)
+* ...
+
+Um aus der komplexen Wirklichkeit verarbeitbare Einheiten für die Forschung abzuleiten, erstellt man **[Modelle](https://de.wikipedia.org/wiki/Modell)**, also vereinfachte Abbilder der Realität. Das Problem dabei ist, dass zu einfache Modelle wichtige Aspekte der Wirklichkeit vermissen und zu komplexe Modelle ihren Zweck der einfachen Verarbeitbarkeit nicht erfüllen: "Alles Einfache ist falsch, alles Komplizierte unbrauchbar." ([Paul Valéry](https://de.wikipedia.org/wiki/Paul_Val%C3%A9ry), siehe auch [Bonini-Paradox](https://de.wikipedia.org/wiki/Bonini-Paradox))
+
 ## Untersuchungsdesigns
+
+Eine zentrale Rolle und auch mit erheblichen Aufwand verbunden ist das Erheben von Daten. Dabei bedienen sich empirische Wissenschaften, hier insbesondere die Psychologie u.a. folgender **Datenerhebungsmethoden**:
+* Beobachtung
+* Interview
+* Fragebogen
+* Psychologischer Test
+* Physiologische Messung
+* Dokumentenanalyse
+* ...
+
+Damit die erhobenen Daten und folglich auch die gesamte Studie eine ernstzunehmende Aussagekraft besitzt, ist es wichtig ein angemessenes **[Untersuchungsdesign](https://de.wikipedia.org/wiki/Forschungsdesign)** zu wählen und umzusetzen. Untersuchungsdesigns sind weder genormt noch standardisiert. Sie müssen je nach Fragestellung und vorhandenen Resourcen entworfen werden. Dabei sind u.a. folgende Abwägungen zu treffen:
+* Vor- und Nachteile
+* Ökonomischer Aufwand (z.B. Textanalyse vs. [RCT](https://de.wikipedia.org/wiki/Randomisierte_kontrollierte_Studie)-Psychotherapie)
+* Umsetzbarkeit (z.B. Verfügbarkeit von Versuchspersonen)
+* Ethik
+* ...
+
+Eine mögliche Einteilung von Untersuchungsdesigns ist in _quantitative_, _qualitative_ und _mixed-methods_.
+
+**[Quantitativen Methoden](https://de.wikipedia.org/wiki/Quantitative_Sozialforschung)** haben die Ideen des kritischen Rationalismus (siehe oben) als wissenschaftstheoretische Grundlage Theorien mittels Deduktion und Falsifikation zu prüfen. Erhobenen Merkmalsausprägungen werden dabei Zahlen zugeordnet, die dann statistisch geprüft und ausgewertet werden.
+
+**[Qualitative Methoden](https://de.wikipedia.org/wiki/Qualitative_Sozialforschung)** basieren auf einem interpretativen Paradigma, [Sozialkonstruktivismus](https://de.wikipedia.org/wiki/Sozialkonstruktivismus), [Hermeneutik](https://de.wikipedia.org/wiki/Hermeneutik), [Dialektik](https://de.wikipedia.org/wiki/Dialektik), [Phänomenologie](https://de.wikipedia.org/wiki/Ph%C3%A4nomenologie)... . Merkmalsausprägungen werden verbal beschrieben. Aufgrund ihres _induktiven_ Charakters dienen sie der Theorien- und Hypothesenkonstruktion, besonders in jungen, noch unerforschten Forschungsfeldern. Das Vorgehen ist bewusst weniger strukturiert und zirkulär. Folgende Grafik zeigt eine Gegenüberstellung dieser zwei Ansätze:
+
+|Quantitative Studie|Qualitative Studie|
+|---|---|
+|![Ablauf einer qualitativen Studie](/assets/img/quantitative_studie.svg)|![Ablauf einer qualitativen Studie](/assets/img/qualitative_studie.svg)|
+
+
+
+
+Laborstudie
+Feldstudie
+externe und interne Validität
+
+Experiment, Quasi-Experiment, Nicht-Experiment
+Querschnitt- und Längsschnittstudie
+Primär-, Sekundärstudie & Metaanalyse
+
+Operationalisierung
+Variablen
+Merkmalsausprägung diskret vs. stetig , manifest vs. latent, abhängig vs. unabhängig
+
+
 ## Operationalisierung

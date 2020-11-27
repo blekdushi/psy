@@ -1,0 +1,14 @@
+@startuml
+skinparam activitybackgroundcolor white
+skinparam activitybordercolor black
+skinparam arrowcolor black
+:Forschungsthema und -problem;
+:**Forschungsstand und theoretischer Hintergrund**;
+:Untersuchungsdesign;
+:**Operationalisierung**;
+:Stichprobe ziehen;
+:Daten erheben;
+:Daten aufbereiten;
+:Daten analysieren;
+:Ergebnise präsentieren;
+@enduml
