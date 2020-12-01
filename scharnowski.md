@@ -104,7 +104,7 @@ Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Be
 
 # Überprüfung psychologischer Ideen
 
-Ein grober, typischer Ablauf einer Studie kann man wie folgt skizzieren:
+Einen groben, typischen Ablauf einer Studie kann man wie folgt skizzieren:
 
 ![Ablauf einer Studie: Forschungsfrage diskutieren - Hypothese formulieren - Signifikanzniveau festlegen -Stichprobe wählen - Daten erheben - Statistisch auswerten - Hypothese verwerfen/akzeptieren](/assets/img/studie.svg)
 
@@ -229,7 +229,15 @@ Damit die erhobenen Daten und folglich auch die gesamte Studie eine ernstzunehme
 * Ethik
 * ...
 
-Eine mögliche Einteilung von Untersuchungsdesigns ist in _quantitative_, _qualitative_ und _mixed-methods_. Dabei stehen quantitative und qualitative Designs nicht (mehr) im Widerspruch zu einander, sondern ergänzen sich je nach Forschungsstrategie und Fragestellung.
+Das Untersuchungsdesign lässt sich anhand mehrerer Dimensionen bestimmen:
+* Quantitativ / qualitativ / mixed methods
+* Labor- / Feldstudie
+* Experiment / Quasi-Experiment / Nicht-Experiment
+* Quer- / Längsschnittstudie
+
+### Quantitative Methoden, Qualitative Methoden und Mixed-methods
+
+Quantitative und qualitative Designs stehen nicht (mehr) im Widerspruch zu einander, sondern ergänzen sich je nach Forschungsstrategie und Fragestellung.
 
 **[Quantitativen Methoden](https://de.wikipedia.org/wiki/Quantitative_Sozialforschung)** haben die Ideen des kritischen Rationalismus (siehe oben) als wissenschaftstheoretische Grundlage, nämlich Theorien mittels Deduktion und dem Versuch der Falsifikation zu prüfen. Den erhobenen Merkmalsausprägungen werden dabei Zahlen zugeordnet, die dann statistisch geprüft und ausgewertet werden. Nicht allen Forschungsfragen kann man sich quantitativ nähern. Vor allem bei jenen über das _Erleben_ der Menschen stoßen quantitative Methoden an ihre Grenzen.
 
@@ -238,22 +246,19 @@ Eine mögliche Einteilung von Untersuchungsdesigns ist in _quantitative_, _quali
 |Quantitative Studie|Qualitative Studie|
 |---|---|
 |![Ablauf einer qualitativen Studie](/assets/img/quantitative_studie.svg)|![Ablauf einer qualitativen Studie](/assets/img/qualitative_studie.svg)|
+
 #TODO qualitative Studie Prozess schön zeichnen
 
-**[Mixed-Methods](https://en.wikipedia.org/wiki/Multimethodology)**
-
-"_Mixed Methods_ bezeichnet eine Forschungsmethode, die eine Kombination von
-Elementen qualitativer und quantitativer Forschungstraditionen beinhaltet, typischer-
-weise (aber nicht notwendig) innerhalb einer Untersuchung." (Hussy et al., 2013, p.290)
+"_**[Mixed-Methods](https://en.wikipedia.org/wiki/Multimethodology)**_ bezeichnet eine Forschungsmethode, die eine Kombination von Elementen qualitativer und quantitativer Forschungstraditionen beinhaltet, typischerweise (aber nicht notwendig) innerhalb einer Untersuchung." (Hussy et al., 2013, p.290)
 
 Das können sein:
 * Vorstudienmodell: Qualitative Studie zur Hypothesengenerierung und darauf folgend quantitative Studie zur Hypothesenprüfung
 * Vertiefungsmodell: Quantitative Studie und darauf folgend qualitative Studie mit ausgewählten Teilnehmern
 * Innerhalb einer Studie mehrere Methoden, z.B. Datenerhebung mit qualitativer und quantitativer Methoden
 
-**[Laborstudie](https://de.wikipedia.org/wiki/Laborstudie)**
+### Labor- und Feldstudie
 
-Das Labor ermöglicht eine künstliche & gut kontrollierbare Untersuchungssituation. Je nach Messinstrument und Fragestellung ist das Labor  alternativlos (z.B. Bildgebungsexperimente, Auswirkungen von Marihuana auf das Fahrverhalten...)
+Die **[Laborstudie](https://de.wikipedia.org/wiki/Laborstudie)** ermöglicht eine künstliche & gut kontrollierbare Untersuchungssituation. Je nach Messinstrument und Fragestellung ist das Labor  alternativlos (z.B. Bildgebungsexperimente, Auswirkungen von Marihuana auf das Fahrverhalten...)
 
 Vorteile:
 * gut standardisierbar: gezielte Manipulation der unabhängigen Variablen
@@ -266,9 +271,7 @@ Nachteile:
 * Höherere Aufwand & Kosten für die Forschenden (Laborraum, Laborpersonal, Gerätschaften...
 
 
-**[Feldstudie](https://de.wikipedia.org/wiki/Feldstudie)**
-
-Untersuchung findet im natürlichen Umfeld des Forschungsgegenstandes statt, wodurch Untersuchungsbedingungen den Alltagsbedingungen ähnlich sind.
+Bei der **[Feldstudie](https://de.wikipedia.org/wiki/Feldstudie)** findet die Untersuchung im natürlichen Umfeld des Forschungsgegenstandes statt, wodurch Untersuchungsbedingungen den Alltagsbedingungen ähnlich sind.
 
 Vorteile:
 * Höhere externe Validität (Generalisierbarkeit)
@@ -276,24 +279,44 @@ Vorteile:
 Nachteile:
 * Störvariablen weit weniger kontrollierbar
 
-"Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV
-ausschließlich auf die Variation der UV zurückgeführt werden können." (Hussy et al., 2013, p.137)<br>
-Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation). Abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) oder [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, p.124)
+"Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV ausschließlich auf die Variation der UV zurückgeführt werden können." (Hussy et al., 2013, p.137)<br>
+Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation) und ist umso höher umso besser Störvariablen minimiert/eliminiert werden konnten. Auch abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) bzw. [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, p.124)
 
-"Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Un-
-tersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität." (Hussy et al., 2013, p.137)<br>
+"Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Untersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität." (Hussy et al., 2013, p.137)<br>
 Sie steigt mit der Repräsentativität der Stichprobe und mit Nachweis des Effekts in unterschiedlichen Stichproben und Kontexten (systematische Replikationsstudien)
 
-"Unter einem **Experiment** versteht man die systematische Beobachtung einer ab-
-hängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variab-
-len bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von
-Probanden und experimentellen Bedingungen gewährleistet sein muss."  (Hussy et al., 2013, p.120)
+### Experiment, Quasi-Experiment und Nicht-Experiment
 
-Quasi-Experiment, Nicht-Experiment
+"Unter einem **[Experiment](https://de.wikipedia.org/wiki/Experiment#Psychologie,_Sozialwissenschaften)** (Laborexperiment, Feldexperiment) versteht man die systematische Beobachtung einer abhängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variablen bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von Probanden und experimentellen Bedingungen gewährleistet sein muss."  (Hussy et al., 2013, p.120)<br>
+Das Ziel des Experiments ist die Prüfung von Hypothesen, die einen kausalen Zusammenhang postulieren. Dabei werden zwei Gruppen gebildet: die _Experimentalgruppe_ und die _Kontrollgruppe_. Durch zufällige Zuordnung der Vpn zu den Gruppen (Randomisierung) soll die Vergleichbarkeit der Gruppen gewährleistet werden. Danach werden durch _experimentelle Variation_ die Untersuchungsbedingungen der Gruppen systematisch variiert und die abhängige Variable (AV) gemessen. So eine Anordnung nennt man auch [Randomized controlled trial (RCT)](https://de.wikipedia.org/wiki/Randomisierte_kontrollierte_Studie).
 
+Von einem **[Quasi-Experiment](https://de.wikipedia.org/wiki/Quasi-Experiment)** spricht man, wenn man die Vpn den Gruppen nicht zufällig zuordnen kann (z.B. Studie über den Einfluss von Lernapps auf den Lernerfolg bei Schülern). Dadurch kommt es zu Auswahlverzerrungen (=Störeffekt). Durch Parallelisierung und Matching kann man Störvariablen besser kontrollieren. Die Einteilung in Gruppen, die experimentelle Variation und das Messen der AV sind wie beim Experiment. Das Quasi-Experiment dient ebenfalls der Prüfung von Kausalhypothesen, jedoch mit geringerer interner Validität.
 
-Querschnitt- und Längsschnittstudie
-Primär-, Sekundärstudie & Metaanalyse
+Im Gegensatz dazu kann man mit dem **Nicht-Experiment** _keine_ Kausalhypothesen prüfen, weil man die Untersuchungsbedingungen nicht experimentell variieren kann und somit die interne Validität sehr gering bzw. nicht vorhanden ist. Ebenso gibt es keine randomisierte Zuordnung von Vpn zu Gruppen. Mit Hilfe des Nicht-Experiments lassen sich Unterschieds-, Zusammenhang- und Veränderunshypothesen prüfen. Gründe für die Anwendung dieser Methode statt eines Experiments sind _forschungsökonomischer_ (z.B. geringere Kosten) und _forschungsethischer_ (Drogen, Rauchen, Gewalt...) bzw. praktischer Natur (z.B. Auswirkungen einer Naturkatastrophe), wenn eine experimentelle Variation nicht möglich oder nicht vertretbar wäre. Ein Vorteil ist, dass sich durch den Wegfall der Kausalbeziehung ein breiteres Spektrum von Variablen untersuchen lassen.<br>
+Häufig werden auf Basis von Nicht-Experimenten fälschlicherweise kausale Zusammenhänge angenommen (z.B. Höhere Sterblichkeit in Spitälern am Wochenende, Gewaltbereitschaft und Ego-Shooter...)
+
+### Querschnitt- und Längsschnittstudie
+
+**[Querschnittstudien](https://dorsch.hogrefe.com/stichwort/querschnittuntersuchung)** vergleichen eine oder mehrere Stichproben zu _einem_ Zeitpunkt. Weit verbreitet, weil günstiger in der Durchführung, aber Gefahr der [Konfundierung](https://dorsch.hogrefe.com/stichwort/konfundierung) aufgrund von [Kohorteneffekten](https://de.wikipedia.org/wiki/Kohorte_(Sozialwissenschaft).
+
+**[Längsschnittstudien](https://dorsch.hogrefe.com/stichwort/laengsschnittuntersuchung)**
+messen und vergleichen _ein und dieselbe_ Stichprobe zu mehrerer Zeitpunkten innerhalb eines Zeitraums. Werden z.B. in der klinischen Psychologie in Form von pre-, post- und follow-up Messungen eingesetzt um die Auswirkung von Interventionen beurteilen zu können. Nachteile sind Sequenzeffekte, die sich bei Messwiederholungen zeigen (Hussy et al., 2013, p.120). Das können Störvariablen sein, wie z.B. die Lebenssituation der Vpn, äußere Einflüsse (Wirtschaftslage), sowie Lern- und Gewöhnungseffekte bei den Messungen und andere mehr.
+
+### Primär-, Sekundärstudie & Metaanalyse
+
+In einer **Primärstudie** erheben die Forscher die Daten selbst. Sie werten die Daten erstmalig aus und haben volle Kontrolle über Forschungsdesign, Stichprobenziehung und  Datenerhebungsmethode. Deshalb sind sie kostenintensiv.
+
+Bei der **Sekundärstudie** werten Forscher bereits aus anderen Studien vorhandene Daten aus um andere (verbesserte) Analysemethoden anzuwenden und/oder um eine andere Fragestellung zu analysieren.
+
+Vorteile:
+* kostengünstiger, da Datenerhebung wegfällt
+* Datenbanken mit umfassenden Datensätzen (Open Science)
+
+Nachteile:
+* keine Kontrolle über Datenqualität und -umfang
+* Verfügbarbkeit der Originaldaten (je nach Primärstudie) eingeschränkt
+
+**[Metaanalyse](https://dorsch.hogrefe.com/stichwort/metaanalyse)**
 
 Operationalisierung
 Variablen
