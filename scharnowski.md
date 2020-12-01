@@ -173,6 +173,7 @@ Eine Stichprobe ist nie "perfekt" repräsentativ, wodurch ihre _Generalisierbark
 "Das zentrale Ergebnis eines Signifikanztests ist die sog. Überschreitungswahrscheinlichkeit _p_. Diese ist die Wahrscheinlichkeit, dass ein gefundenes Stichprobenergebnis oder ein noch stärker von der H<sub>0</sub> abweichendes Ergebnis zustande kommt, falls die H<sub>0</sub> in der Population gilt...Per Konvention gelten Werte für _p_ von weniger als 0,05 (5%) oder 0,01 (1%) als so gering, dass die Nullhypothese verworfen wird." (Hussy et al., 2013, p.180)
 
 Je nach Fragestellung und Hypothese kommen unterschiedliche Methoden der Inferenzstatistik zum Einsatz (Details dazu dann in _VO Einführung in quantitative Methoden_):
+#TODO: WBS Diagramm machen
 * Dependenzanalyse
  * Unterschiede
    * zentrale Tendenz
@@ -230,24 +231,69 @@ Damit die erhobenen Daten und folglich auch die gesamte Studie eine ernstzunehme
 * Ethik
 * ...
 
-Eine mögliche Einteilung von Untersuchungsdesigns ist in _quantitative_, _qualitative_ und _mixed-methods_.
+Eine mögliche Einteilung von Untersuchungsdesigns ist in _quantitative_, _qualitative_ und _mixed-methods_. Dabei stehen quantitative und qualitative Designs nicht (mehr) im Widerspruch zu einander, sondern ergänzen sich je nach Forschungsstrategie und Fragestellung.
 
-**[Quantitativen Methoden](https://de.wikipedia.org/wiki/Quantitative_Sozialforschung)** haben die Ideen des kritischen Rationalismus (siehe oben) als wissenschaftstheoretische Grundlage Theorien mittels Deduktion und Falsifikation zu prüfen. Erhobenen Merkmalsausprägungen werden dabei Zahlen zugeordnet, die dann statistisch geprüft und ausgewertet werden.
+**[Quantitativen Methoden](https://de.wikipedia.org/wiki/Quantitative_Sozialforschung)** haben die Ideen des kritischen Rationalismus (siehe oben) als wissenschaftstheoretische Grundlage, nämlich Theorien mittels Deduktion und dem Versuch der Falsifikation zu prüfen. Den erhobenen Merkmalsausprägungen werden dabei Zahlen zugeordnet, die dann statistisch geprüft und ausgewertet werden. Nicht allen Forschungsfragen kann man sich quantitativ nähern. Vor allem bei jenen über das _Erleben_ der Menschen stoßen quantitative Methoden an ihre Grenzen.
 
-**[Qualitative Methoden](https://de.wikipedia.org/wiki/Qualitative_Sozialforschung)** basieren auf einem interpretativen Paradigma, [Sozialkonstruktivismus](https://de.wikipedia.org/wiki/Sozialkonstruktivismus), [Hermeneutik](https://de.wikipedia.org/wiki/Hermeneutik), [Dialektik](https://de.wikipedia.org/wiki/Dialektik), [Phänomenologie](https://de.wikipedia.org/wiki/Ph%C3%A4nomenologie)... . Merkmalsausprägungen werden verbal beschrieben. Aufgrund ihres _induktiven_ Charakters dienen sie der Theorien- und Hypothesenkonstruktion, besonders in jungen, noch unerforschten Forschungsfeldern. Das Vorgehen ist bewusst weniger strukturiert und zirkulär. Folgende Grafik zeigt eine Gegenüberstellung dieser zwei Ansätze:
+**[Qualitative Methoden](https://de.wikipedia.org/wiki/Qualitative_Sozialforschung)** basieren auf einem interpretativen Paradigma, [Sozialkonstruktivismus](https://de.wikipedia.org/wiki/Sozialkonstruktivismus), [Hermeneutik](https://de.wikipedia.org/wiki/Hermeneutik), [Dialektik](https://de.wikipedia.org/wiki/Dialektik), [Phänomenologie](https://de.wikipedia.org/wiki/Ph%C3%A4nomenologie)... . Merkmalsausprägungen werden verbal beschrieben. Aufgrund ihres _induktiven_ Charakters dienen sie der Theorien- und Hypothesenkonstruktion, besonders in jungen, noch unerforschten Forschungsfeldern. Das Vorgehen ist zirkulär und bewusst weniger strukturiert. Anpassungen am Vorgehen sind während der Untersuchung möglich (Untersuchungszyklen). Es wird mit kleinen Samples und Einzelfällen (statt mit großen, repräsentativen Stichproben) geforscht. Erhebungsverfahren sind nicht oder nur teils standardisiert (da Daten verbal beschrieben statt numerisch erfasst werden). Dabei spielt Kommunikation und Kooperation zwischen Forschenden und Beforschten eine wesentliche Rolle und des kommt zur Beeinflussung des Forschungsgegenstands durch die Untersuchungungssituation, weshalb die Forschenden bei der Interpretation der Daten auf ein hohes Maß an _Reflexivität_ achten sollten (Hussy et al., 2013, p.192). Qualitative Methoden sind vielseitig und werden flexibel an den Forschungsgegenstand angepasst (Hussy et al., 2013, p.186). Folgende Grafiken zeigen eine Gegenüberstellung der Forschungsprozesse dieser zwei Ansätze:
 
 |Quantitative Studie|Qualitative Studie|
 |---|---|
 |![Ablauf einer qualitativen Studie](/assets/img/quantitative_studie.svg)|![Ablauf einer qualitativen Studie](/assets/img/qualitative_studie.svg)|
+#TODO qualitative Studie Prozess schön zeichnen
+
+**[Mixed-Methods](https://en.wikipedia.org/wiki/Multimethodology)**
+
+"_Mixed Methods_ bezeichnet eine Forschungsmethode, die eine Kombination von
+Elementen qualitativer und quantitativer Forschungstraditionen beinhaltet, typischer-
+weise (aber nicht notwendig) innerhalb einer Untersuchung." (Hussy et al., 2013, p.290)
+
+Das können sein:
+* Vorstudienmodell: Qualitative Studie zur Hypothesengenerierung und darauf folgend quantitative Studie zur Hypothesenprüfung
+* Vertiefungsmodell: Quantitative Studie und darauf folgend qualitative Studie mit ausgewählten Teilnehmern
+* Innerhalb einer Studie mehrere Methoden, z.B. Datenerhebung mit qualitativer und quantitativer Methoden
+
+**[Laborstudie](https://de.wikipedia.org/wiki/Laborstudie)**
+
+Das Labor ermöglicht eine künstliche & gut kontrollierbare Untersuchungssituation. Je nach Messinstrument und Fragestellung ist das Labor  alternativlos (z.B. Bildgebungsexperimente, Auswirkungen von Marihuana auf das Fahrverhalten...)
+
+Vorteile:
+* gut standardisierbar: gezielte Manipulation der unabhängigen Variablen
+* höherer interne Validität, durch Minimieren der Störvariablen (umwelt- bzw. untersuchungsbedingt z. B. Raumtemperatur, Möblierung, anwesende Personen, Geräuschpegel...)
+* Einsatz komplexer Messinstrumente
+
+Nachteile:
+* reduzierte externe Validität (Künstlichkeit des Untersuchungsortes erschwert Übertragbarkeit der Befunde auf den Alltag)
+* Höherere Aufwand für die Probanden
+* Höherere Aufwand & Kosten für die Forschenden (Laborraum, Laborpersonal, Gerätschaften...
 
 
+**[Feldstudie](https://de.wikipedia.org/wiki/Feldstudie)**
+
+Untersuchung findet im natürlichen Umfeld des Forschungsgegenstandes statt, wodurch Untersuchungsbedingungen den Alltagsbedingungen ähnlich sind.
+
+Vorteile:
+* Höhere externe Validität (Generalisierbarkeit)
+
+Nachteile:
+* Störvariablen weit weniger kontrollierbar
+
+"Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV
+ausschließlich auf die Variation der UV zurückgeführt werden können." (Hussy et al., 2013, p.137)<br>
+Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation). Abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) oder [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, p.124)
+
+"Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Un-
+tersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität." (Hussy et al., 2013, p.137)<br>
+Sie steigt mit der Repräsentativität der Stichprobe und mit Nachweis des Effekts in unterschiedlichen Stichproben und Kontexten (systematische Replikationsstudien)
+
+"Unter einem **Experiment** versteht man die systematische Beobachtung einer ab-
+hängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variab-
+len bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von
+Probanden und experimentellen Bedingungen gewährleistet sein muss."  (Hussy et al., 2013, p.120)
+
+Quasi-Experiment, Nicht-Experiment
 
 
-Laborstudie
-Feldstudie
-externe und interne Validität
-
-Experiment, Quasi-Experiment, Nicht-Experiment
 Querschnitt- und Längsschnittstudie
 Primär-, Sekundärstudie & Metaanalyse
 
@@ -257,3 +303,5 @@ Merkmalsausprägung diskret vs. stetig , manifest vs. latent, abhängig vs. unab
 
 
 ## Operationalisierung
+
+# Literatur
