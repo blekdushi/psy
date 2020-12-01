@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Scharnowski
+title: Methodische Grundlagen wissenschaftlicher Psychologie (Scharnowski)
 ---
-# Methodische Grundlagen wissenschaftlicher Psychologie
-## Inhalte und Ziele der Psychologie
+# Inhalte und Ziele der Psychologie
 In der Psychologie ist der Mensch **Forschungsgegenstand** und Forscher zugleich. Daraus entstehen Herausforderungen durch individuelle Unterschiede, sowohl durch Anlage (Persönlichkeit) als auch die Situation (z.B. Tagesform). Beforscht werden:
 * Wahrnehmung
 * Erleben
@@ -58,7 +57,7 @@ Am Beispiel der Nikotinsucht:
 * _vorhersagen_: Maßnahmen zur Reduktion von dopaminerger Hyperaktivität führen zu geringerem Rauchkonsum (vorhersagen)
 * _verändern_: Neurofeedback Training
 
-## Wissenschaftstheorie
+# Wissenschaftstheorie
 
 Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenschaftlichen** Quellen:
 * Autoritätspersonen
@@ -68,7 +67,7 @@ Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenscha
 * Intuition
 * Anekdotische Evidenz
 * Logik
-Für eine detailliertere Ausführung nicht-wissenschaftlicher Quellen (siehe dazu auch Tabelle 1.1 auf Seite 6 in Döring & Bortz (2016) oder auf Folie 26 der Vorlesungsfolien von Scharnowski am 06.10.2020).
+Für eine detailliertere Ausführung nicht-wissenschaftlicher Quellen (siehe dazu auch Tabelle 1.1 auf Seite 6 in Döring & Bortz (2016) oder auf Folie 26 der Vorlesungsfolien vom 06.10.2020).
 
 Nicht-wissenschaftliche Quellen können zutreffend sein und sich als
 nützlich erweisen, aber ihre Aussagen variieren, sind widersprüchlich, von Interessen geleitet und es bleibt unklar, wie man zu dieser Aussage gekommen ist und auf welche Beobachtungen und Daten sie sich stützt.
@@ -107,8 +106,7 @@ Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Be
 
 Ein grober, typischer Ablauf einer Studie kann man wie folgt skizzieren:
 
-![Ablauf einer Studie: Forschungsfrage diskutieren -  Hypothese formulieren - Signifikanzniveau festlegen -
-Stichprobe wählen - Daten erheben - Statistisch auswerten - Hypothese verwerfen/akzeptieren](/assets/img/studie.svg)
+![Ablauf einer Studie: Forschungsfrage diskutieren - Hypothese formulieren - Signifikanzniveau festlegen -Stichprobe wählen - Daten erheben - Statistisch auswerten - Hypothese verwerfen/akzeptieren](/assets/img/studie.svg)
 
 
 ## Hypothesen
