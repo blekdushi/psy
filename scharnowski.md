@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methodische Grundlagen wissenschaftlicher Psychologie (Scharnowski)
+title: Methodische Grundlagen wissenschaftlicher Psychologie
 ---
 # Inhalte und Ziele der Psychologie
 In der Psychologie ist der Mensch **Forschungsgegenstand** und Forscher zugleich. Daraus entstehen Herausforderungen durch individuelle Unterschiede, sowohl durch Anlage (Persönlichkeit) als auch die Situation (z.B. Tagesform). Beforscht werden:
@@ -10,7 +10,7 @@ In der Psychologie ist der Mensch **Forschungsgegenstand** und Forscher zugleich
 * Bewusstsein & Gedanken
 * Gefühle & Wünsche
 
-Im Gegensatz zu viele anderen Forschungsgegenständen, haben die meisten Menschen eine Meinung bzw. intuitiven Zugang zu den Fragestellungen der Psychologie ([Alltagspsychologie](https://de.wikipedia.org/wiki/Alltagspsychologie)). Die dabei verwendete Sprache ist dabei kontextabhängig, mehrdeutig und logisch nicht wohldefiniert. Ebenso zeigen sich zahlreiche Tücken, wie [Rückschaufehler](https://de.wikipedia.org/wiki/R%C3%BCckschaufehler) und das falsche Einschätzen von Wahrscheinlichkeiten.
+Im Gegensatz zu vielen anderen Forschungsgegenständen, haben die meisten Menschen eine Meinung bzw. intuitiven Zugang zu den Fragestellungen der Psychologie ([Alltagspsychologie](https://dorsch.hogrefe.com/stichwort/alltagspsychologie)). Die dabei verwendete Sprache ist dabei kontextabhängig, mehrdeutig und logisch nicht wohldefiniert. Ebenso zeigen sich zahlreiche Tücken, wie [Rückschaufehler](https://dorsch.hogrefe.com/stichwort/rueckschaufehler) und das falsche Einschätzen von Wahrscheinlichkeiten.
 
 Es braucht daher eine präzisierte **Fachsprache** für das wissenschaftliche Beschreiben eines Forschungsgegenstandes. Dabei hilft _Mathematik_ und _Logik_ (z.B. definiert das [Weber'sche Gesetz](https://de.wikipedia.org/wiki/Weber-Fechner-Gesetz#Webersches_Gesetz) die Unterschiedsschwelle in der Sinneswahrnehmung mathematisch und eindeutig). So entstehen mit der Zeit in einer Wissenschaft eine Vielzahl an Fachausdrücken. Eine logische Folge, wenn man Eindeutigkeit sicherstellen und Missverständnisse vorbeugen möchte. Was auf den ersten Blick verwirrt und im Volksmund als "fachchinesisch" bezeichnet wird, ist notwendig, damit die forschende Community eine gemeinsame Sprache hat und somit ihre Erkenntnisse kommunizieren und diskutieren kann.
 
@@ -23,24 +23,24 @@ Es braucht daher eine präzisierte **Fachsprache** für das wissenschaftliche Be
 ...von menschlichem Erleben und Verhalten.
 
 Beim **Beschreiben** geht es um präzises und systematisches Erfassen von Daten über den Forschungsgegenstand. Die dadurch gewonnenen Daten sollen folgende _Gütekritieren_ aufweisen:
-* [Objektivität](https://de.wikipedia.org/wiki/Objektivit%C3%A4t_(Testtheorie))
-* [Reliabilität](https://de.wikipedia.org/wiki/Reliabilit%C3%A4t) (Zuverlässigkeit)
-* [Validität](https://de.wikipedia.org/wiki/Validit%C3%A4t) (Gültigkeit)
+* [Objektivität](https://dorsch.hogrefe.com/stichwort/objektivitaet))
+* [Reliabilität](https://dorsch.hogrefe.com/stichwort/reliabilitaet) (Zuverlässigkeit)
+* [Validität](https://dorsch.hogrefe.com/stichwort/validitaet) (Gültigkeit)
 
 Ein paar Beispiele für typische Methoden sind:
-* [Beobachtung](https://de.wikipedia.org/wiki/Beobachtung#Psychologie) (Selbst-/Fremd-)
+* [Beobachtung](https://dorsch.hogrefe.com/stichwort/beobachtung) (Selbst-/Fremd-)
 * [Befragung](https://de.wikipedia.org/wiki/Befragung) (Interviews)
-* [Experiment](https://de.wikipedia.org/wiki/Experiment#Psychologie,_Sozialwissenschaften)
-* Text- und [Inhaltsanalysen](https://de.wikipedia.org/wiki/Inhaltsanalyse)
-* Simulationen (Computermodelle, Szenarien)
+* [Experiment](https://dorsch.hogrefe.com/stichwort/experiment)
+* Text- und [Inhaltsanalysen](https://dorsch.hogrefe.com/stichwort/inhaltsanalyse)
+* [Simulationen](https://dorsch.hogrefe.com/stichwort/simulation) (Computermodelle, Szenarien)
 
 Danach möchte man diese Daten **erklären** und interpretieren. Dabei unterscheidet man:
 * Explorative Verfahren
 * Hypothesen-/Modell-/Theoriegeleitete Verfahren
 
-Bei **[explorativen Verfahren](https://de.wikipedia.org/wiki/Explorative_Datenanalyse)** sucht man nach unbekannten Zusammenhängen in einem Datenpool (z.B. [Data-Mining](https://de.wikipedia.org/wiki/Data-Mining))
+Bei **[explorativen Verfahren](https://de.wikipedia.org/wiki/Explorative_Datenanalyse)** sucht man nach unbekannten Zusammenhängen in einem Datenpool (z.B. [Data-Mining](https://dorsch.hogrefe.com/stichwort/data-mining))
 
-Bei **[hypothesengeleiteten Verfahren](https://de.wikipedia.org/wiki/Hypothese#Empirische_Wissenschaften)** steht zu Beginn die Formulierung einer _Theorie_. Daraus leitet man _Hypothesen_ ab und prüft dann die beobachteten Daten inhaltich und/oder statistisch um die Hypothesen zu _verifizieren_ oder _falsifizieren_.
+Bei **[hypothesengeleiteten Verfahren](https://de.wikipedia.org/wiki/Hypothese#Empirische_Wissenschaften)** steht zu Beginn die Formulierung einer _[Theorie](https://dorsch.hogrefe.com/stichwort/theorie)_. Daraus leitet man _[Hypothesen](https://dorsch.hogrefe.com/stichwort/hypothese)_ ab und prüft dann die beobachteten Daten inhaltlich und/oder statistisch um die Hypothesen zu _falsifizieren_ oder vorübergehend zu _verifizieren_.
 
 Hat die Theorie sich erhärtet, dann  kann man mit ihrer Hilfe **Vorhersagen**/Prognosen/Gesetze ableiten, deren Gültigkeit davon abhängt, wie "gut" die Theorie ist. In der Psychologie werden Prognosen bezüglich der _Struktur_ (Intelligenz, Persönlichkeit...) und der _Dynamik_ (Entstehung psychischer Störung, Entwicklungsprozesse...) getroffen.
 
@@ -51,15 +51,9 @@ Auf Basis dieser Vorhersagen können wir Verhalten auch **verändern**. Methoden
 * Aufklärung/Bildung
 * Therapie
 
-Am Beispiel der Nikotinsucht:
-* _beschreiben_: Hirnaktivität bei Nikotinsucht
-* _erklären_: Dopamin-Belohnung
-* _vorhersagen_: Maßnahmen zur Reduktion von dopaminerger Hyperaktivität führen zu geringerem Rauchkonsum (vorhersagen)
-* _verändern_: Neurofeedback Training
-
 # Wissenschaftstheorie
 
-Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenschaftlichen** Quellen:
+Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenschaftlichen** Quellen (Döring & Bortz, 2016, p.6):
 * Autoritätspersonen
 * Religion
 * Tradition
@@ -67,40 +61,34 @@ Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenscha
 * Intuition
 * Anekdotische Evidenz
 * Logik
-Für eine detailliertere Ausführung nicht-wissenschaftlicher Quellen (siehe dazu auch Tabelle 1.1 auf Seite 6 in Döring & Bortz (2016) oder auf Folie 26 der Vorlesungsfolien vom 06.10.2020).
 
-Nicht-wissenschaftliche Quellen können zutreffend sein und sich als
-nützlich erweisen, aber ihre Aussagen variieren, sind widersprüchlich, von Interessen geleitet und es bleibt unklar, wie man zu dieser Aussage gekommen ist und auf welche Beobachtungen und Daten sie sich stützt.
+Nicht-wissenschaftliche Quellen können zutreffend sein und sich als nützlich erweisen, aber ihre Aussagen variieren, sind widersprüchlich, von Interessen geleitet und es bleibt unklar, wie man zu dieser Aussage gekommen ist und auf welche Beobachtungen und Daten sie sich stützt.
 
-Abgegrenzt davon ist [Wissenschaftstheorie](https://de.wikipedia.org/wiki/Wissenschaftstheorie) ein Teilgebiet der Philosophie und beschäftigt sich mit Fragen über den wissenschaftlichen Erkenntnisgewinn. Ob und wie dieser möglich ist, welche Einflüsse darauf wirken und welche Rolle Ethik dabei spielen soll. Dabei handelt es sich um ein aktives Forschungsfeld, das an sich selbst den Anspruch stellt keine endgültigen ("in Stein  gemeißelten") Ergebnisse zu produzieren. Sie unterscheidet zwei grundlegende Herangehensweisen: die _Induktion_ und die _Deduktion_.
+**[Wissenschaftstheorie](https://dorsch.hogrefe.com/stichwort/wissenschaftstheorie)** ist abgegrenzt davon ein Teilgebiet der Philosophie und beschäftigt sich mit Fragen über den wissenschaftlichen Erkenntnisgewinn. Ob und wie dieser möglich ist, welche Einflüsse darauf wirken und welche Rolle Ethik dabei spielen soll. Dabei handelt es sich um ein aktives Forschungsfeld, das an sich selbst den Anspruch stellt keine endgültigen ("in Stein  gemeißelten") Ergebnisse zu produzieren. Sie unterscheidet zwei grundlegende Herangehensweisen: die _Induktion_ und die _Deduktion_.
 
-**[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgeren von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab. [David Hume](https://de.wikipedia.org/wiki/David_Hume#Induktion) meint jedoch, dass über Induktion kein Erkenntnisgewinn möglich sei, weil die Beobachtungen der Vergangenheit rational betrachtet keinerlei Aussage über die Zukunft träfen. Mit dem selben Argument ließen sich daher nicht einmal Wahrscheinlichkeiten ableiten. (z.B. erwacht man jeden Morgen -> daraus abzuleiten, dass man auch in Zukunft jeden Morgen aufwachen würde, wäre falsch, da man ja irgendwann stirbt). Humes Diskussion dazu wird auch [Induktionsproblem](https://de.wikipedia.org/wiki/Induktionsproblem) genannt. Tatsächlich muss der Mensch aber Induktion anwenden und in diesem Sinne aus der Erfahrung lernen. Aus einem praktischen Standpunkt aus betrachtet ist das durchaus nutzbringend zu bewerten. Dennoch ist diese Praxis unter dem Vernunftsgesichtspunkt für Hume irrational ([Quelle: Wikipedia](https://de.wikipedia.org/wiki/David_Hume#Induktion)). Induktion ist im Forschungsprozess trotzdem wichtig um damit Ideen für Gesetzmäßigkeiten zu finden, auch wenn sie dadurch weder geprüft noch erhärtet (geschweige denn bewiesen) werden können (Hussy et al., 2013, p.8)
+**[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgeren von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab. [David Hume](https://de.wikipedia.org/wiki/David_Hume#Induktion) meinte, dass über Induktion kein Erkenntnisgewinn möglich sei, weil die Beobachtungen der Vergangenheit rational betrachtet keinerlei Aussage über die Zukunft träfen. Mit dem selben Argument ließen sich daher nicht einmal Wahrscheinlichkeiten ableiten. (z.B. erwacht man jeden Morgen -> daraus abzuleiten, dass man auch in Zukunft jeden Morgen aufwachen würde, wäre falsch, da man ja irgendwann stirbt). Humes Diskussion dazu wird auch [Induktionsproblem](https://de.wikipedia.org/wiki/Induktionsproblem) genannt. Aus einem praktischen Standpunkt aus betrachtet ist es nützlich, wenn der Mensch Induktion anwendet und in diesem Sinne aus der Erfahrung lernt. Dennoch ist diese Praxis unter dem Vernunftsgesichtspunkt für Hume irrational ([Quelle: Wikipedia](https://de.wikipedia.org/wiki/David_Hume#Induktion)). Induktion ist im Forschungsprozess trotzdem wichtig um damit Ideen für Gesetzmäßigkeiten zu finden, auch wenn sie dadurch weder geprüft noch erhärtet (geschweige denn bewiesen) werden können (Hussy et al., 2013, p.8)
 
-**[Deduktion](https://de.wikipedia.org/wiki/Deduktion)** ist das Schlussfolgern vom Allgemeinen (einer Theorie) auf das Spezielle (Beobachtung). Widerspricht eine Beobachtung der Theorie, dann ist diese widerlegt. Stimmt sie überein, dass ist die Theorie bekräftigt, aber nie endgültig bestätigt. Man kann Theorie somit nicht beweisen, aber man kann sie erhärten und falsifizieren.
+**[Deduktion](https://de.wikipedia.org/wiki/Deduktion)** ist das Schlussfolgern vom Allgemeinen (einer Theorie) auf das Spezielle (Beobachtung). Widerspricht eine Beobachtung der Theorie, dann ist diese widerlegt. Stimmt sie überein, dann ist die Theorie bekräftigt, aber nie endgültig bestätigt. Man kann Theorien somit nicht beweisen, aber man kann sie erhärten bzw. falsifizieren.
 
-Hier setzt auch der **[Kritische Rationalismus](https://de.wikipedia.org/wiki/Kritischer_Rationalismus)** von [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) an. Demnach sind Theorien nicht etwas, das man beweisen soll, sondern Vermutungen/Vorschläge, die man versuchen soll zu falsifizieren (_Falsifikationsprinzip_). Aus ihnen leitet man dann _Hypothesen_ ab, die durch empirische Beobachtungen widerlegt werden sollen. Das geht nur dann, wenn man Theorien und Hypothesen so aufstellt, dass sie _falsifizierbar_ sind, wodurch sich die Wissenschaft von der Nicht-Wissenschaft abgrenzt (_Poppers Abgrenzungskriterium_), wobei man _"fasifizierbar"_ nicht mit _"falsifiziert"_ verwechseln darf.
+Hier setzt auch der **[Kritische Rationalismus](https://dorsch.hogrefe.com/stichwort/kritischer-rationalismus)** von [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) an. Demnach sind Theorien nicht etwas, das man beweisen soll, sondern Vermutungen/Vorschläge, die man versuchen soll zu falsifizieren (_Falsifikationsprinzip_). Aus ihnen leitet man dann _Hypothesen_ ab, die durch empirische Beobachtungen widerlegt werden sollen. Das geht nur dann, wenn man Theorien und Hypothesen so aufstellt, dass sie _falsifizierbar_ sind, wodurch sich die Wissenschaft von der Nicht-Wissenschaft abgrenzt (_Poppers Abgrenzungskriterium_), wobei man _"falsifizierbar"_ nicht mit _"falsifiziert"_ verwechseln darf.
 
-Der Forschungsprozess ist daher:
-* Theoriebezug und Forschungshypothesen
-* Diskussion der getroffenen Vorannahmen
-* Berücksichtigung des Forschungsstandes
-* systematische Erhebung, Aufbereitung und Analyse von empirischen Daten
-zum Forschungsproblem unter Einhaltung wissenschaftlicher Gütekriterien:
+Für den Forschungsprozess gilt daher:
+* Theorien und Hypothesen aufstellen
+* Vorannahmen diskutieren und begründen
+* Forschungsstand berücksichtigen
+* Empirische Daten systematische erheben, aufbereiten und analysieren:
  * angemessenes Untersuchungsdesign
  * geeignete Untersuchungsinstrumente
  * aussagekräftige Stichprobe
- * begründete Datenerhebungs-, -aufbereitungs- und -analysemethoden
-* Vorgehen gemäß Prinzipien der der Wissenschaftsethik (Manipulationen,
-Risiken für VersuchsteilnehmerInnen, Aufklärung & Einwilligung,...)
-* schriftliche Dokumentation des Forschungsprozesses und Archivierung
-des Datenmaterials zwecks Nachvollziehbarkeit und Nachprüfbarkeit
-* wissenschaftliche Veröffentlichung der Studie nach fachkundiger
-Begutachtung (Peer-Review)
+ * Datenerhebungs-, -aufbereitungs- und -analysemethoden begründen
+* Wissenschaftsethisches Vorgehen (Aufklärung über Risiken, Einwilligung der Vpn...)
+* Forschungsprozesses dokumentieren
+* Datenmaterial zwecks Nachvollziehbarkeit und Nachprüfbarkeit archivieren
+* wissenschaftliche Veröffentlichung der Studie (Peer-Review)
 
-Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Befunde der Vergangenheit haben sich gerade in der Psychologie als [nicht reproduzierbar](https://de.wikipedia.org/wiki/Reproduzierbarkeit_(Psychologie)) herausgestellt, weshalb zunehmend gefordert wird in der Forschung dem _[Open Science](https://de.wikipedia.org/wiki/Open_Science)_ Ansatz zu folgen, der als Zusammenspiel von _[Open Source](https://de.wikipedia.org/wiki/Open_Source), [Open Access](https://de.wikipedia.org/wiki/Open_Access)_ und _[Open Data](https://de.wikipedia.org/wiki/Open_Data)_ verstanden wird.
+Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Befunde der Vergangenheit haben sich gerade in der Psychologie als [nicht reproduzierbar](https://de.wikipedia.org/wiki/Reproduzierbarkeit_(Psychologie)) herausgestellt, weshalb zunehmend gefordert wird in der Forschung dem _[Open Science](https://dorsch.hogrefe.com/stichwort/open-science)_ Ansatz zu folgen, der als Zusammenspiel von _[Open Source](https://de.wikipedia.org/wiki/Open_Source), [Open Access](https://de.wikipedia.org/wiki/Open_Access)_ und _[Open Data](https://de.wikipedia.org/wiki/Open_Data)_ verstanden wird.
 
 ![Open Science als Zusammenspiel von Open Data, Open Access und Open Source](/assets/img/openscience.svg)
-
 
 # Überprüfung psychologischer Ideen
 
@@ -109,7 +97,7 @@ Einen groben, typischen Ablauf einer Studie kann man wie folgt skizzieren:
 ![Ablauf einer Studie: Forschungsfrage diskutieren - Hypothese formulieren - Signifikanzniveau festlegen -Stichprobe wählen - Daten erheben - Statistisch auswerten - Hypothese verwerfen/akzeptieren](/assets/img/studie.svg)
 
 
-## Hypothesen
+## <a id="Hypothesen"></a>Hypothesen
 
 **Hypothesen** sollen folgenden Kriterien genügen:
 * widerlegbar/falsifizierbar durch empirisch überprüfbare Sachverhalte
@@ -125,11 +113,9 @@ Es gibt mehrere **Hypothesenarten**, wobei Hussy et al. (2013, p.32) folgende he
 * Beschränkt universell
 * Quasiuniversell
 
-Weil man in der Psychologie Hypothesen eigentlich nie zu 100% widerlegen kann, ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung. Sie postuliert Regelmäßigkeiten aber toleriert gleichzeitig auch Ausnahmen. Eine Beispielhypothese ist _"Wenn beim Lösen von Problemen
-Pausen gemacht werden, dann ist die Lösungsgüte zumeist besser, als wenn keine Pausen
-gemacht werden"_. Sie ist somit eine Wahrscheinlichkeitsaussage und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
+Weil man in der Psychologie Hypothesen eigentlich nie zu 100% widerlegen kann, ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung. Sie postuliert Regelmäßigkeiten aber toleriert gleichzeitig auch Ausnahmen. Eine Beispielhypothese ist <q>Wenn beim Lösen von Problemen Pausen gemacht werden, dann ist die Lösungsgüte zumeist besser, als wenn keine Pausen gemacht werden</q> Hussy et al. (2013, p.115). Sie ist somit eine Wahrscheinlichkeitsaussage und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
 
-Eine Hypothesen kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen.
+Eine Hypothesen kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen. Folgende Grafik zeigt Beispiele von Hussy et al. (2013, p.116) für Hypothesen und ihre Ebenen:
 
 ![Hypothesenebenen mit Beispielen](/assets/img/hypothesenebenen.svg)
 
@@ -141,15 +127,16 @@ Da wir in der Psychologie mit _quasiuniversellen Hypothesen_ arbeiten, kann nich
 
 Beim **α-Fehler** (Fehler 1. Art) hat man die Nullhypothese H<sub>0</sub> fälschlicherweise falsifiziert. Man glaubt, dass es einen Effekt gibt, obwohl es ihn in Wirklichkeit nicht gibt.
 
-Beim **β-Fehler** (Fehler 2. Art) hat man die Nullhypothese fälschlicherweise nicht falsifizieren können. Man geht davon aus, dass es _keinen_ Effekt gibt, obwohl es in Wirklichkeit einen gibt.
+Beim **β-Fehler** (Fehler 2. Art) hat man die Nullhypothese fälschlicherweise nicht falsifizieren können. Man geht davon aus, dass es _keinen_ Effekt gibt, obwohl es ihn in Wirklichkeit einen gibt.
 
 In der Regel haben α-Fehler weitreichendere Folgen als β-Fehler.
 
-"Unter **Population** ([Grundgesamtheit](https://de.wikipedia.org/wiki/Grundgesamtheit)) versteht man in der Psychologie die Menge aller potenziellen Untersuchungsobjekte für eine gegebene Fragestellung." (Hussy et al., 2013, p.118)
+<q>Unter der [Grundgesamtheit](https://de.wikipedia.org/wiki/Grundgesamtheit) (auch **Population** genannt) versteht man in der Psychologie die Menge aller potenziellen Untersuchungsobjekte für eine gegebene Fragestellung." (Hussy et al., 2013, p.118)</q>
 
-"Unter einer **[Stichprobe](https://de.wikipedia.org/wiki/Stichprobe)** versteht man eine Teilmenge aus einer Grundgesamtheit, die
-unter bestimmten Gesichtspunkten (gemäß der Fragestellung) ausgewählt wurde." (Hussy et al., 2013, p.118)<br>
-Eine Stichprobe ist _[repräsentativ](https://de.wikipedia.org/wiki/Repr%C3%A4sentativit%C3%A4t)_, wenn sie das Wesen und die spezifischen Eigenarten der Population gut und verhältnismäßig abbildet. Das ist abhängig von der _Stichprobenstrategie_ und der _Stichprobengröße_. Strategisch wählt man die Stichprobe möglichst _[zufällig](https://de.wikipedia.org/wiki/Zufallsstichprobe#Probleme_der_Zufallsziehung)_ aus, was in der Praxis gar nicht so einfach (z.B. Wahlbefragungen, Telefonumfragen...) und auch kostenintensiv (z.B. Medikamentenstudien bei Schwangeren) ist.
+<q>Unter einer **[Stichprobe](https://dorsch.hogrefe.com/stichwort/stichprobe)** versteht man eine Teilmenge aus einer Grundgesamtheit, die
+unter bestimmten Gesichtspunkten (gemäß der Fragestellung) ausgewählt wurde.</q> (Hussy et al., 2013, p.118)
+
+Eine Stichprobe ist _[repräsentativ](https://dorsch.hogrefe.com/stichwort/repraesentativ)_, wenn sie das Wesen und die spezifischen Eigenarten der Population gut und verhältnismäßig abbildet. Das ist abhängig von der _Stichprobenstrategie_ und der _Stichprobengröße_. Strategisch wählt man die Stichprobe möglichst _[zufällig](https://de.wikipedia.org/wiki/Zufallsstichprobe#Probleme_der_Zufallsziehung)_ aus, was in der Praxis gar nicht so einfach (z.B. Wahlbefragungen, Telefonumfragen...) und auch kostenintensiv (z.B. Medikamentenstudien bei Schwangeren) ist.
 
 Die **[Deskriptive Statistik](https://de.wikipedia.org/wiki/Deskriptive_Statistik)** beschreibt die gesammelten Daten:
 * Organisation der Daten (Matrix, Kodierung, Skalentypen: Nominal-, Ordinal-, Intervall-, Verhältnisskala)
@@ -157,7 +144,7 @@ Die **[Deskriptive Statistik](https://de.wikipedia.org/wiki/Deskriptive_Statisti
 * Beschreibung der Daten (Häufigkeiten, Mittelwert, Median, Varianz...)
 * Standardisierung von Daten für Vergleiche
 
-Mittels der **[Inferenzstatistik](https://de.wikipedia.org/wiki/Mathematische_Statistik)** leitet man Schlüsse von der Stichprobe auf die zugehörige Population ab. "Aussagen der Inferenzstatistik gehen damit über das Beobachtbare hinaus und sind mit Unsicherheit behaftet." (Hussy et al., 2013, p.179)
+Mittels der **[Inferenzstatistik](https://de.wikipedia.org/wiki/Mathematische_Statistik)** leitet man Schlüsse von der Stichprobe auf die zugehörige Population ab. <q>Aussagen der Inferenzstatistik gehen damit über das Beobachtbare hinaus und sind mit Unsicherheit behaftet.</q> (Hussy et al., 2013, p.179)
 
 Bei Aussagen über die Stichprobe werden lateinische und für Aussagen über die Population griechische Symbole verwendet:
 
@@ -168,33 +155,19 @@ Bei Aussagen über die Stichprobe werden lateinische und für Aussagen über die
 |Varianz|s²|σ²|
 
 Eine Stichprobe ist nie "perfekt" repräsentativ, wodurch ihre _Generalisierbarkeit_ eingeschränkt, das Schließen von der Stichprobe auf die Population mit Fehlern behaftet ist und sie somit nur zu einer _geschätzten Wahrscheinlichkeit_ als Ergebnis führt. Bezogen auf unsere Hypothese H<sub>0</sub>, die wir zu falsifizieren versuchen, bedeutet das, dass wir die H<sub>0</sub> nur auf Basis dieser geschätzten Wahrscheinlichkeit ablehnen können. Welche Wahrscheinlichkeit ist nun "gerade noch groß genug", damit wir das dürfen? Dieses _Falsifikationskriterium_ wird im **[statistischen Hypothesentest (Signifikanztest)](https://de.wikipedia.org/wiki/Statistischer_Test)** formalisiert:<br>
-"Das zentrale Ergebnis eines Signifikanztests ist die sog. Überschreitungswahrscheinlichkeit _p_. Diese ist die Wahrscheinlichkeit, dass ein gefundenes Stichprobenergebnis oder ein noch stärker von der H<sub>0</sub> abweichendes Ergebnis zustande kommt, falls die H<sub>0</sub> in der Population gilt...Per Konvention gelten Werte für _p_ von weniger als 0,05 (5%) oder 0,01 (1%) als so gering, dass die Nullhypothese verworfen wird." (Hussy et al., 2013, p.180)
+<q>Das zentrale Ergebnis eines Signifikanztests ist die sog. Überschreitungswahrscheinlichkeit _p_. Diese ist die Wahrscheinlichkeit, dass ein gefundenes Stichprobenergebnis oder ein noch stärker von der H<sub>0</sub> abweichendes Ergebnis zustande kommt, falls die H<sub>0</sub> in der Population gilt...Per Konvention gelten Werte für _p_ von weniger als 0,05 (5%) oder 0,01 (1%) als so gering, dass die Nullhypothese verworfen wird.</q> (Hussy et al., 2013, p.180)
 
 Je nach Fragestellung und Hypothese kommen unterschiedliche Methoden der Inferenzstatistik zum Einsatz (Details dazu dann in _VO Einführung in quantitative Methoden_):
-#TODO: WBS Diagramm machen
-* Dependenzanalyse
- * Unterschiede
-   * zentrale Tendenz
-     * unabhängige Stichproben
-     * verbundene Stichproben
-   * Proportion/Häufigkeiten
-     * Binomialtest
-     * ...
-   * Varianzen
-     * Chi²
-     * ...
- * Zusammenhänge
-   * Korrelation
-   * einfache Regression
-   * ...
-* Interdependenzanalyse
- * Faktorenanalyse
- * Clusteranalyse
- * ...
+
+![Inferenzmethoden gegliedert nach ihrem Anwendungszweck](/assets/img/inferenzmethoden.svg)
 
 # Einführung in die empirische Forschung - Daten sind das neue Gold
 
-Psychologie ist eine **[empirische Wissenschaft](https://de.wikipedia.org/wiki/Empirie#Empirische_Wissenschaften)**. Sie erklärt das Erleben und Verhalten von Menschen basierend auf Erfahrungen und mit systematischer und methodischer _Datenerhebung_ und _Datenauswertung_. Innerhalb der empirischen Wissenschaften unterscheiden wir Sozial-, Natur- und Technikwissenschaften. Im Gegensatz dazu stehen Nicht-empirische Wissenschaften wie die Formal- und Geisteswissenschaften:
+Psychologie ist eine **[empirische Wissenschaft](https://de.wikipedia.org/wiki/Empirie#Empirische_Wissenschaften)**. Sie erklärt das Erleben und Verhalten von Menschen basierend auf Erfahrungen und mit systematischer und methodischer _Datenerhebung_ und _Datenauswertung_.
+
+![Zirkulärer Forschungsprozess](/assets/img/theorie_daten.svg)
+
+Innerhalb der empirischen Wissenschaften unterscheiden wir Sozial-, Natur- und Technikwissenschaften. Im Gegensatz dazu stehen Nicht-empirische Wissenschaften wie die Formal- und Geisteswissenschaften:
 
 ![Gegenüberstellung nicht-empirischer und empirischer Wissenschaften](/assets/img/wissenschaften.svg)
 
@@ -209,7 +182,7 @@ Die Psychologie bedient und überschneidet sich in ihren Forschungsprozessen mit
 * Soziologie (Umwelteinflüsse...)
 * ...
 
-Um aus der komplexen Wirklichkeit verarbeitbare Einheiten für die Forschung abzuleiten, erstellt man **[Modelle](https://de.wikipedia.org/wiki/Modell)**, also vereinfachte Abbilder der Realität. Das Problem dabei ist, dass zu einfache Modelle wichtige Aspekte der Wirklichkeit vermissen und zu komplexe Modelle ihren Zweck der einfachen Verarbeitbarkeit nicht erfüllen: "Alles Einfache ist falsch, alles Komplizierte unbrauchbar." ([Paul Valéry](https://de.wikipedia.org/wiki/Paul_Val%C3%A9ry), siehe auch [Bonini-Paradox](https://de.wikipedia.org/wiki/Bonini-Paradox))
+Um aus der komplexen Wirklichkeit verarbeitbare Einheiten für die Forschung abzuleiten, erstellt man **[Modelle](https://de.wikipedia.org/wiki/Modell)**, also vereinfachte Abbilder der Realität. Das Problem dabei ist, dass zu einfache Modelle wichtige Aspekte der Wirklichkeit vermissen und zu komplexe Modelle ihren Zweck der einfachen Verarbeitbarkeit nicht erfüllen: <q>Alles Einfache ist falsch, alles Komplizierte unbrauchbar.</q> ([Paul Valéry](https://de.wikipedia.org/wiki/Paul_Val%C3%A9ry), siehe auch [Bonini-Paradox](https://de.wikipedia.org/wiki/Bonini-Paradox))
 
 ## Untersuchungsdesigns
 
@@ -247,9 +220,7 @@ Quantitative und qualitative Designs stehen nicht (mehr) im Widerspruch zu einan
 |---|---|
 |![Ablauf einer qualitativen Studie](/assets/img/quantitative_studie.svg)|![Ablauf einer qualitativen Studie](/assets/img/qualitative_studie.svg)|
 
-#TODO qualitative Studie Prozess schön zeichnen
-
-"_**[Mixed-Methods](https://en.wikipedia.org/wiki/Multimethodology)**_ bezeichnet eine Forschungsmethode, die eine Kombination von Elementen qualitativer und quantitativer Forschungstraditionen beinhaltet, typischerweise (aber nicht notwendig) innerhalb einer Untersuchung." (Hussy et al., 2013, p.290)
+<q>_**[Mixed-Methods](https://en.wikipedia.org/wiki/Multimethodology)**_ bezeichnet eine Forschungsmethode, die eine Kombination von Elementen qualitativer und quantitativer Forschungstraditionen beinhaltet, typischerweise (aber nicht notwendig) innerhalb einer Untersuchung.</q> (Hussy et al., 2013, p.290)
 
 Das können sein:
 * Vorstudienmodell: Qualitative Studie zur Hypothesengenerierung und darauf folgend quantitative Studie zur Hypothesenprüfung
@@ -279,15 +250,17 @@ Vorteile:
 Nachteile:
 * Störvariablen weit weniger kontrollierbar
 
-"Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV ausschließlich auf die Variation der UV zurückgeführt werden können." (Hussy et al., 2013, p.137)<br>
+<q>Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV ausschließlich auf die Variation der UV zurückgeführt werden können.</q> (Hussy et al., 2013, p.137)
+
 Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation) und ist umso höher umso besser Störvariablen minimiert/eliminiert werden konnten. Auch abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) bzw. [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, p.124)
 
-"Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Untersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität." (Hussy et al., 2013, p.137)<br>
+<q>Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Untersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität.</q> (Hussy et al., 2013, p.137)
+
 Sie steigt mit der Repräsentativität der Stichprobe und mit Nachweis des Effekts in unterschiedlichen Stichproben und Kontexten (systematische Replikationsstudien)
 
 ### Experiment, Quasi-Experiment und Nicht-Experiment
 
-"Unter einem **[Experiment](https://de.wikipedia.org/wiki/Experiment#Psychologie,_Sozialwissenschaften)** (Laborexperiment, Feldexperiment) versteht man die systematische Beobachtung einer abhängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variablen bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von Probanden und experimentellen Bedingungen gewährleistet sein muss."  (Hussy et al., 2013, p.120)<br>
+<q>Unter einem **[Experiment](https://de.wikipedia.org/wiki/Experiment#Psychologie,_Sozialwissenschaften)** (Laborexperiment, Feldexperiment) versteht man die systematische Beobachtung einer abhängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variablen bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von Probanden und experimentellen Bedingungen gewährleistet sein muss.</q>  (Hussy et al., 2013, p.120)<br>
 Das Ziel des Experiments ist die Prüfung von Hypothesen, die einen kausalen Zusammenhang postulieren. Dabei werden zwei Gruppen gebildet: die _Experimentalgruppe_ und die _Kontrollgruppe_. Durch zufällige Zuordnung der Vpn zu den Gruppen (Randomisierung) soll die Vergleichbarkeit der Gruppen gewährleistet werden. Danach werden durch _experimentelle Variation_ die Untersuchungsbedingungen der Gruppen systematisch variiert und die abhängige Variable (AV) gemessen. So eine Anordnung nennt man auch [Randomized controlled trial (RCT)](https://de.wikipedia.org/wiki/Randomisierte_kontrollierte_Studie).
 
 Von einem **[Quasi-Experiment](https://de.wikipedia.org/wiki/Quasi-Experiment)** spricht man, wenn man die Vpn den Gruppen nicht zufällig zuordnen kann (z.B. Studie über den Einfluss von Lernapps auf den Lernerfolg bei Schülern). Dadurch kommt es zu Auswahlverzerrungen (=Störeffekt). Durch Parallelisierung und Matching kann man Störvariablen besser kontrollieren. Die Einteilung in Gruppen, die experimentelle Variation und das Messen der AV sind wie beim Experiment. Das Quasi-Experiment dient ebenfalls der Prüfung von Kausalhypothesen, jedoch mit geringerer interner Validität.
@@ -306,7 +279,7 @@ messen und vergleichen _ein und dieselbe_ Stichprobe zu mehrerer Zeitpunkten inn
 
 In einer **Primärstudie** erheben die Forscher die Daten selbst. Sie werten die Daten erstmalig aus und haben volle Kontrolle über Forschungsdesign, Stichprobenziehung und  Datenerhebungsmethode. Deshalb sind sie kostenintensiv.
 
-Bei der **Sekundärstudie** werten Forscher bereits aus anderen Studien vorhandene Daten aus um andere (verbesserte) Analysemethoden anzuwenden und/oder um eine andere Fragestellung zu analysieren.
+Bei der **Sekundärstudie** werten Forscher die Daten anderer Studien aus um andere (verbesserte) Analysemethoden anzuwenden und/oder um eine andere Fragestellung zu analysieren.
 
 Vorteile:
 * kostengünstiger, da Datenerhebung wegfällt
@@ -314,15 +287,53 @@ Vorteile:
 
 Nachteile:
 * keine Kontrolle über Datenqualität und -umfang
-* Verfügbarbkeit der Originaldaten (je nach Primärstudie) eingeschränkt
+* Verfügbarkeit der Originaldaten kann (abhängig von Primärstudie) eingeschränkt sein
 
-**[Metaanalyse](https://dorsch.hogrefe.com/stichwort/metaanalyse)**
+Die **[Metaanalyse](https://dorsch.hogrefe.com/stichwort/metaanalyse)** ist eine statistische Zusammenfassung und Auswertung von vergleichbaren Studien zu einem Forschungsbereich. Sie schafft gleichzeitig einen Überblick über den aktuellen Forschungsstand.
 
-Operationalisierung
-Variablen
-Merkmalsausprägung diskret vs. stetig , manifest vs. latent, abhängig vs. unabhängig
+Vorteile:
+* Hohe externe Validität
 
+Nachteile:
+* methodisch komplex
+* viele hochwertige und vergleichbare Studien als Voraussetzung
 
 ## Operationalisierung
 
-# Literatur
+**Variablen** in der psychologischen Forschung definieren Hussy et al. (2013, p.38) als:
+<q>Psychologische Variablen sind veränderliche Beobachtungsgrößen aus dem Bereich des menschlichen Erlebens, Verhaltens und Handelns. Jede Variable hat mindestens zwei, in der Regel viele Ausprägungen.</q>
+
+Wichtig ist zwischen dem Konzept einer Variable unabhängig von einer konkreten Beobachtung und einer **Merkmalsausprägung** einer Variable (der Wert einer konkreten Beobachtung) zu unterscheiden.
+
+Variablen kann man unterscheiden in:
+* qualitativ/diskret (z.B. Augenfarbe) ↔ quantitativ/stetig (z.B. Körpergröße)
+* konkret/manifest (z.B. Reaktionszeit) ↔ abstrakt/latent (z.B. Intelligenz)
+* abhängig/unabhängig (Stellenwert in Untersuchung)
+
+Besonders abstrakte Variablen stellen eine Herausforderung dar, weil sie nicht direkt beobachtet und somit auch nicht direkt gemessen werden können. Sie müssen deshalb für die _quantitative_ Betrachtung **[operationalisiert](https://dorsch.hogrefe.com/stichwort/operationalisierung)** werden, wie wir es bereits beim Überführen einer theoretisch-inhaltichen Hypothese in eine empirisch-inhaltliche [weiter oben](#Hypothesen) kennengelernt haben. Dadurch definiert und _begründet_ man, von welchen messbaren, konkreten Variablen (z.B. Items eines Intelligenztests) man die Ausprägung der abstrakten Variable und des dahinter stehenden theoretischen Konzepts (z.B. Intelligenz) ableiten und mit welchen _Messinstrumenten_ man sie messen wird. Messinstrumente müssen _valide_ und _reliabel_ sein (Testtheorie).
+Da es meist mehrere Theorien gibt, kann es auch mehrere Operationalisierung eines theoretischen Konzepts geben (z.B. Intelligenztheorien und -tests)
+
+Anders ist das Vorgehen in der _qualitativen_ Forschung. Dort werden Daten erhoben und erst durch die Interpretation und Verdichtung derselben leitet man Theorien und Konzepte quasi "rückwärts-operationalisiert" ab.
+
+Merkmalsausprägung diskret vs. stetig , manifest vs. latent, abhängig vs. unabhängig
+
+# Empfohlene Literatur
+
+<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">Bortz, J., &amp; Schuster, C. (2016). <i>Statistik für Human- und Sozialwissenschaftler: Limitierte Sonderausgabe</i> (7., vollst. überarb. u. erw. Aufl. 2010, Kartonierte Sonderausgabe 2016 Edition). Springer.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-662-50373-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Statistik%20f%C3%BCr%20Human-%20und%20Sozialwissenschaftler%3A%20Limitierte%20Sonderausgabe&amp;rft.place=Berlin%20Heidelberg&amp;rft.publisher=Springer&amp;rft.edition=7.%2C%20vollst.%20%C3%BCberarb.%20u.%20erw.%20Aufl.%202010%2C%20Kartonierte%20Sonderausgabe%202016%20Edition&amp;rft.aufirst=J%C3%BCrgen&amp;rft.aulast=Bortz&amp;rft.au=J%C3%BCrgen%20Bortz&amp;rft.au=Christof%20Schuster&amp;rft.date=2016-09-21&amp;rft.tpages=674&amp;rft.isbn=978-3-662-50373-7&amp;rft.language=Deutsch"></span>
+  <div class="csl-entry">Döring, N., &amp; Bortz, J. (2016). <i>Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften</i> (5. Aufl.). Springer-Verlag. <a href="https://doi.org/10.1007/978-3-642-41089-5">https://doi.org/10.1007/978-3-642-41089-5</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-642-41088-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Forschungsmethoden%20und%20Evaluation%20in%20den%20Sozial-%20und%20Humanwissenschaften&amp;rft.place=Berlin%20Heidelberg&amp;rft.publisher=Springer-Verlag&amp;rft.edition=5&amp;rft.series=Springer-Lehrbuch&amp;rft.aufirst=Nicola&amp;rft.aulast=D%C3%B6ring&amp;rft.au=Nicola%20D%C3%B6ring&amp;rft.au=J%C3%BCrgen%20Bortz&amp;rft.date=2016&amp;rft.isbn=978-3-642-41088-8&amp;rft.language=de"></span>
+  <div class="csl-entry">Field, A. (2018). <i>Discovering statistics using IBM SPSS statistics</i> (5th edition.). Sage.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-1-5264-1952-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Discovering%20statistics%20using%20IBM%20SPSS%20statistics&amp;rft.place=Los%20Angeles%20London%20New%20Delhi%20Singapore%20Washington%20DC%20Melbourne&amp;rft.publisher=Sage&amp;rft.edition=5th%20edition.&amp;rft.series=SAGE%20edge%E2%84%A2&amp;rft.aufirst=Andy&amp;rft.aulast=Field&amp;rft.au=Andy%20Field&amp;rft.date=2018&amp;rft.isbn=978-1-5264-1952-1&amp;rft.language=eng"></span>
+  <div class="csl-entry">Hussy, W., Schreier, M., &amp; Echterhoff, G. (2013). <i>Forschungsmethoden in Psychologie und Sozialwissenschaften für Bachelor</i> (2., überarbeitete Auflage..). Springer Berlin Heidelberg : Imprint: Springer,.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-642-34362-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Forschungsmethoden%20in%20Psychologie%20und%20Sozialwissenschaften%20f%C3%BCr%20Bachelor&amp;rft.place=Berlin%2C%20Heidelberg%20%3A&amp;rft.publisher=Springer%20Berlin%20Heidelberg%20%3A%20Imprint%3A%20Springer%2C&amp;rft.edition=2.%2C%20%C3%BCberarbeitete%20Auflage..&amp;rft.series=Springer-Lehrbuch&amp;rft.aufirst=Walter&amp;rft.aulast=Hussy&amp;rft.au=Walter%20Hussy&amp;rft.au=Margrit%20Schreier&amp;rft.au=Gerald%20Echterhoff&amp;rft.date=2013&amp;rft.tpages=x%2B318&amp;rft.isbn=978-3-642-34362-9&amp;rft.language=ger"></span>
+  <div class="csl-entry">Maderthaner, R. (2017). <i>Psychologie</i> (2. Edition). UTB GmbH.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-8252-4585-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Psychologie&amp;rft.place=Wien&amp;rft.publisher=UTB%20GmbH&amp;rft.edition=2.%20Edition&amp;rft.aufirst=Rainer&amp;rft.aulast=Maderthaner&amp;rft.au=Rainer%20Maderthaner&amp;rft.date=2017-07-17&amp;rft.tpages=480&amp;rft.isbn=978-3-8252-4585-6&amp;rft.language=Deutsch"></span>
+  <div class="csl-entry">Rasch, B., Friese, M., Hofmann, W., &amp; Naumann, E. (2014). <i>Quantitative Methoden 1: Einführung in die Statistik für Psychologen und Sozialwissenschaftler</i> (4. Aufl.). Springer-Verlag. <a href="https://doi.org/10.1007/978-3-662-43524-3">https://doi.org/10.1007/978-3-662-43524-3</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-662-43523-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantitative%20Methoden%201%3A%20Einf%C3%BChrung%20in%20die%20Statistik%20f%C3%BCr%20Psychologen%20und%20Sozialwissenschaftler&amp;rft.place=Berlin%20Heidelberg&amp;rft.publisher=Springer-Verlag&amp;rft.edition=4&amp;rft.series=Springer-Lehrbuch&amp;rft.aufirst=Bj%C3%B6rn&amp;rft.aulast=Rasch&amp;rft.au=Bj%C3%B6rn%20Rasch&amp;rft.au=Malte%20Friese&amp;rft.au=Wilhelm%20Hofmann&amp;rft.au=Ewald%20Naumann&amp;rft.date=2014&amp;rft.isbn=978-3-662-43523-6&amp;rft.language=de"></span>
+  <div class="csl-entry">Robineau, F., Meskaldji, D. E., Koush, Y., Rieger, S. W., Mermoud, C., Morgenthaler, S., Ville, D. V. D., Vuilleumier, P., &amp; Scharnowski, F. (2017). Maintenance of Voluntary Self-regulation Learned through Real-Time fMRI Neurofeedback. <i>Frontiers in Human Neuroscience</i>. <a href="https://doi.org/10.3389/fnhum.2017.00131">https://doi.org/10.3389/fnhum.2017.00131</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.3389%2Ffnhum.2017.00131&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Maintenance%20of%20Voluntary%20Self-regulation%20Learned%20through%20Real-Time%20fMRI%20Neurofeedback&amp;rft.jtitle=Frontiers%20in%20Human%20Neuroscience&amp;rft.aufirst=Fabien&amp;rft.aulast=Robineau&amp;rft.au=Fabien%20Robineau&amp;rft.au=Djalel%20E.%20Meskaldji&amp;rft.au=Yury%20Koush&amp;rft.au=Sebastian%20W.%20Rieger&amp;rft.au=Christophe%20Mermoud&amp;rft.au=Stephan%20Morgenthaler&amp;rft.au=Dimitri%20Van%20De%20Ville&amp;rft.au=Patrik%20Vuilleumier&amp;rft.au=Frank%20Scharnowski&amp;rft.date=2017-03-23&amp;rft.issn=16625161&amp;rft.language=English"></span>
+  <div class="csl-entry">Sedlmeier, P., &amp; Renkewitz, F. (2018). <i>Forschungsmethoden und Statistik Für Psychologen und Sozialwissenschaftler</i>. Pearson Education Deutschland GmbH.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-86894-321-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Forschungsmethoden%20und%20Statistik%20F%C3%BCr%20Psychologen%20und%20Sozialwissenschaftler&amp;rft.place=Hallbergmoos&amp;rft.publisher=Pearson%20Education%20Deutschland%20GmbH&amp;rft.aufirst=Peter&amp;rft.aulast=Sedlmeier&amp;rft.au=Peter%20Sedlmeier&amp;rft.au=Frank%20Renkewitz&amp;rft.date=2018&amp;rft.isbn=978-3-86894-321-4&amp;rft.language=eng"></span>
+</div>

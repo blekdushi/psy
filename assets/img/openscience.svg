@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="115.1818mm"
-   height="106.63544mm"
-   viewBox="0 0 115.1818 106.63544"
+   width="93.818741mm"
+   height="86.857498mm"
+   viewBox="0 0 93.81874 86.857501"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -27,13 +27,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="63.714587"
-     inkscape:cy="231.38632"
+     inkscape:cx="-203.9059"
+     inkscape:cy="86.136499"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -53,34 +53,38 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-35.892227,-17.780563)">
+     transform="translate(-57.255285,-37.558508)">
     <circle
-       style="opacity:0.5;fill:#fffc00;fill-opacity:1;stroke:none;stroke-width:0.28936753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#fffc00;fill-opacity:1;stroke:none;stroke-width:0.23569779;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815"
-       cx="74.173141"
-       cy="56.061478"
-       r="38.280914" />
+       cx="88.436142"
+       cy="68.739365"
+       r="31.180857" />
+    <a
+       id="a4534"
+       xlink:href="https://de.wikipedia.org/wiki/Open_Access">
+      <circle
+         r="31.180857"
+         cy="68.739365"
+         cx="119.89317"
+         id="path815-4"
+         style="opacity:0.5;fill:#ff003a;fill-opacity:1;stroke:none;stroke-width:0.23569779;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </a>
     <circle
-       style="opacity:0.5;fill:#ff003a;fill-opacity:1;stroke:none;stroke-width:0.28936753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path815-4"
-       cx="112.79311"
-       cy="56.061478"
-       r="38.280914" />
-    <circle
-       style="opacity:0.5;fill:#27ff00;fill-opacity:1;stroke:none;stroke-width:0.28936753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#27ff00;fill-opacity:1;stroke:none;stroke-width:0.23569779;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-7"
-       cx="93.483124"
-       cy="86.135086"
-       r="38.280914" />
+       cx="104.16466"
+       cy="93.235146"
+       r="31.180857" />
     <path
-       style="opacity:1;fill:#020202;fill-opacity:1;stroke:none;stroke-width:0.28936753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 93.477693,47.889784 a 38.280914,38.280914 0 0 0 -18.810222,4.99401 38.280914,38.280914 0 0 0 -0.160713,3.213241 38.280914,38.280914 0 0 0 18.964733,33.00367 38.280914,38.280914 0 0 0 18.977139,-33.00367 38.280914,38.280914 0 0 0 -0.1602,-3.240629 38.280914,38.280914 0 0 0 -18.810737,-4.966622 z"
+       style="opacity:1;fill:#020202;fill-opacity:1;stroke:none;stroke-width:0.23569779;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 104.16023,62.083296 a 31.180856,31.180856 0 0 0 -15.321441,4.067758 31.180856,31.180856 0 0 0 -0.130905,2.617273 31.180856,31.180856 0 0 0 15.447296,26.882395 31.180856,31.180856 0 0 0 15.4574,-26.882395 31.180856,31.180856 0 0 0 -0.13049,-2.639581 31.180856,31.180856 0 0 0 -15.32186,-4.04545 z"
        id="path815-5"
        inkscape:connector-curvature="0" />
     <a
        id="a4588"
        xlink:href="https://de.wikipedia.org/wiki/Open_Science"
-       transform="translate(32.874152,4.2655677)"
+       transform="matrix(0.81452746,0,0,0.81452746,54.796983,26.550173)"
        style="fill:#fff2f2;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <text
          id="text840"
@@ -97,7 +101,8 @@
     <a
        id="a854"
        xlink:href="https://de.wikipedia.org/wiki/Open_Data"
-       transform="translate(36.348656,10.423512)">
+       transform="matrix(0.81452746,0,0,0.81452746,57.627062,31.565988)"
+       target="https://de.wikipedia.org/wiki/Open_Data">
       <text
          id="text844"
          y="39.084908"
@@ -113,7 +118,7 @@
     <a
        id="a4561"
        xlink:href="https://de.wikipedia.org/wiki/Open_Access"
-       transform="translate(32.072343,4.543582)">
+       transform="matrix(0.81452746,0,0,0.81452746,54.143887,26.776624)">
       <text
          id="text848"
          y="41.757599"
@@ -129,7 +134,7 @@
     <a
        id="a4584"
        xlink:href="https://de.wikipedia.org/wiki/Open_Source"
-       transform="translate(35.814117,2.1381562)">
+       transform="matrix(0.81452746,0,0,0.81452746,57.191665,24.817338)">
       <text
          id="text852"
          y="102.69505"

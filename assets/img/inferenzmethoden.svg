@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="814px" preserveAspectRatio="none" style="width:1099px;height:814px;" version="1.1" viewBox="0 0 1099 814" width="1099px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1oo8a19jpvhby" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0" />
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0" />
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3" />
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal" />
+        </filter>
+    </defs>
+    <g>
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="115" x="481.5" y="10" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="95" x="491.5" y="31.1387">Art der Analyse</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="539" x2="539" y1="43.9688" y2="63.9688" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="367" x2="367" y1="63.9688" y2="83.9688" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="138" x="298" y="83.9688" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="118" x="308" y="105.1074">Dependenzanalyse</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="357" x2="367" y1="149.9219" y2="149.9219" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="130" x="227" y="132.9375" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="110" x="237" y="154.0762">Zusammenhänge</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="282" x2="292" y1="198.8906" y2="198.8906" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="88" x="194" y="181.9063" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="68" x="204" y="203.0449">Korrelation</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="282" x2="292" y1="247.8594" y2="247.8594" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="272" x="10" y="230.875" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="252" x="20" y="252.0137">einfache/multiple/logistische Regression</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="282" x2="292" y1="296.8281" y2="296.8281" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="32" x="250" y="279.8438" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="12" x="260" y="300.9824">...</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="292" x2="292" y1="166.9063" y2="296.8281" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="367" x2="377" y1="149.9219" y2="149.9219" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="104" x="377" y="132.9375" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="84" x="387" y="154.0762">Unterschiede</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="429" x2="569.5" y1="198.8906" y2="198.8906" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="126" x="569.5" y="181.9063" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="106" x="579.5" y="203.0449">zentrale Tendenz</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="614" x2="632.5" y1="247.8594" y2="247.8594" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="175" x="439" y="230.875" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="155" x="449" y="252.0137">verbundene Stichproben</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="526.5" x2="536.5" y1="296.8281" y2="296.8281" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="56" x="536.5" y="279.8438" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="36" x="546.5" y="300.9824">t-Test</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="526.5" x2="536.5" y1="345.7969" y2="345.7969" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="74" x="536.5" y="328.8125" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="54" x="546.5" y="349.9512">Wilcoxon</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="526.5" x2="536.5" y1="394.7656" y2="394.7656" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="86" x="536.5" y="377.7813" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="66" x="546.5" y="398.9199">Friedmann</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="526.5" x2="536.5" y1="443.7344" y2="443.7344" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="32" x="536.5" y="426.75" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="12" x="546.5" y="447.8887">...</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="526.5" x2="526.5" y1="264.8438" y2="443.7344" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="632.5" x2="642.5" y1="247.8594" y2="247.8594" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="183" x="642.5" y="230.875" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="163" x="652.5" y="252.0137">unabhängige Stichproben</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="734" x2="744" y1="296.8281" y2="296.8281" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="107" x="744" y="279.8438" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="87" x="754" y="300.9824">Mann-Whitney</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="734" x2="744" y1="345.7969" y2="345.7969" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="56" x="744" y="328.8125" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="36" x="754" y="349.9512">t-Test</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="734" x2="744" y1="394.7656" y2="394.7656" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="104" x="744" y="377.7813" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="84" x="754" y="398.9199">Kruskal Wallis</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="734" x2="744" y1="443.7344" y2="443.7344" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="32" x="744" y="426.75" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="12" x="754" y="447.8887">...</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="734" x2="734" y1="264.8438" y2="443.7344" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="632.5" x2="632.5" y1="215.875" y2="247.8594" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="429" x2="439" y1="492.7031" y2="492.7031" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="169" x="439" y="475.7188" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="149" x="449" y="496.8574">Proportion/Häufigkeiten</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="523.5" x2="533.5" y1="541.6719" y2="541.6719" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="97" x="533.5" y="524.6875" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="77" x="543.5" y="545.8262">Binomialtest</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="523.5" x2="533.5" y1="590.6406" y2="590.6406" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="32" x="533.5" y="573.6563" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="12" x="543.5" y="594.7949">...</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="523.5" x2="523.5" y1="509.6875" y2="590.6406" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="429" x2="439" y1="639.6094" y2="639.6094" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="81" x="439" y="622.625" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="61" x="449" y="643.7637">Varianzen</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="479.5" x2="489.5" y1="688.5781" y2="688.5781" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="44" x="489.5" y="671.5938" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="24" x="499.5" y="692.7324">Chi²</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="479.5" x2="489.5" y1="737.5469" y2="737.5469" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="58" x="489.5" y="720.5625" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="38" x="499.5" y="741.7012">F-Test</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="479.5" x2="489.5" y1="786.5156" y2="786.5156" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="32" x="489.5" y="769.5313" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="12" x="499.5" y="790.6699">...</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="479.5" x2="479.5" y1="656.5938" y2="786.5156" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="429" x2="429" y1="166.9063" y2="639.6094" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="367" x2="367" y1="117.9375" y2="149.9219" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="954" x2="954" y1="63.9688" y2="83.9688" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="166" x="871" y="83.9688" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="146" x="881" y="105.1074">Interdependenzanalyse</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="954" x2="964" y1="149.9219" y2="149.9219" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="124" x="964" y="132.9375" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="104" x="974" y="154.0762">Faktorenanalyse</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="954" x2="964" y1="198.8906" y2="198.8906" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="112" x="964" y="181.9063" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="92" x="974" y="203.0449">Clusteranalyse</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="954" x2="964" y1="247.8594" y2="247.8594" />
+        <rect fill="#FFFFFF" filter="url(#f1oo8a19jpvhby)" height="33.9688" style="stroke: #000000; stroke-width: 1.5;" width="32" x="964" y="230.875" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="12" x="974" y="252.0137">...</text>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="954" x2="954" y1="117.9375" y2="247.8594" />
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="367" x2="954" y1="63.9688" y2="63.9688" />
+        <!--MD5=[34ca2252b3aebd7e3076cbe098937ef9]
+@startwbs
+<style>
+wbsDiagram {
+  Linecolor black
+  BackgroundColor White
+}
+</style>
+
+
+* Art der Analyse
+** Dependenzanalyse
+*** Unterschiede
+**** zentrale Tendenz
+***** unabhängige Stichproben
+****** Mann-Whitney
+****** t-Test
+****** Kruskal Wallis
+****** ...
+*****< verbundene Stichproben
+****** t-Test
+****** Wilcoxon
+****** Friedmann
+****** ...
+**** Proportion/Häufigkeiten
+***** Binomialtest
+***** ...
+**** Varianzen
+***** Chi²
+***** F-Test
+***** ...
+***< Zusammenhänge
+****< Korrelation
+****< einfache/multiple/logistische Regression
+****< ...
+** Interdependenzanalyse
+*** Faktorenanalyse
+*** Clusteranalyse
+*** ...
+
+@endwbs
+
+PlantUML version 1.2020.08(Sun Apr 26 16:08:22 CEST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.9.1+1-Ubuntu-0ubuntu1.18.04
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

@@ -18,10 +18,9 @@ partition "" {
     :Daten erheben;
     :Daten aufbereiten;
     :**Daten analysieren**;
-    repeat while () is (offene\nFragen →)
+    repeat while ()
 }
-->gefundene\nErgebnisse;
 :**Hypothesen und Theorien bilden**;
 repeat while ()
-:Ergebnise präsentieren;
+:Ergebnisse präsentieren;
 @enduml

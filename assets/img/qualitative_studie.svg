@@ -1,49 +1,479 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="605px" preserveAspectRatio="none" style="width:346px;height:605px;" version="1.1" viewBox="0 0 346 605" width="346px" zoomAndPan="magnify">
-    <defs>
-        <filter height="300%" id="f1m1tyk4mr1n5l" width="300%" x="-1" y="-1">
-            <feGaussianBlur result="blurOut" stdDeviation="2.0" />
-            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0" />
-            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3" />
-            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal" />
-        </filter>
-    </defs>
-    <g>
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="220" x="62.5" y="10" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="200" x="72.5" y="31.1387">Forschungsthema und -problem</text>
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="325" x="10" y="63.9688" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="305" x="20" y="85.1074">Forschungsstand und theoretischer Hintergrund</text>
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="158" x="93.5" y="117.9375" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="138" x="103.5" y="139.0762">Untersuchungsdesign</text>
-        <rect fill="#D3D3D3" filter="url(#f1m1tyk4mr1n5l)" height="292.8755" style="stroke: #000000; stroke-width: 2.0;" width="195" x="87" y="161.9063" />
-        <path d="M101,162.9063 L101,171.2031 L91,181.2031 L87,181.2031 " fill="none" style="stroke: #000000; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="94" y="175.9014" />
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="115" x="115" y="252.1719" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="95" x="125" y="273.3105">Daten erheben</text>
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="135" x="105" y="306.1406" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="115" x="115" y="327.2793">Daten aufbereiten</text>
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="151" x="97" y="360.1094" /><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="131" x="107" y="381.248">Daten analysieren</text>
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="132" x="106.5" y="198.2031" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="112" x="116.5" y="219.3418">Stichprobe ziehen</text>
-        <polygon fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" points="172.5,418.7817,172.5,418.7817,184.5,430.7817,172.5,442.7817,172.5,442.7817,160.5,430.7817,172.5,418.7817" style="stroke: #000000; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="36" x="184.5" y="415.3828">offene</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="52" x="184.5" y="428.1875">Fragen →</text>
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="252" x="46.5" y="506.7969" /><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="232" x="56.5" y="527.9355">Hypothesen und Theorien bilden</text>
-        <rect fill="#FFFFFF" filter="url(#f1m1tyk4mr1n5l)" height="33.9688" rx="12.5" ry="12.5" style="stroke: #000000; stroke-width: 1.5;" width="168" x="88.5" y="560.7656" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="148" x="98.5" y="581.9043">Ergebnise präsentieren</text>
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="43.9688" y2="63.9688" />
-        <polygon fill="#000000" points="168.5,53.9688,172.5,63.9688,176.5,53.9688,172.5,57.9688" style="stroke: #000000; stroke-width: 1.0;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="97.9375" y2="117.9375" />
-        <polygon fill="#000000" points="168.5,107.9375,172.5,117.9375,176.5,107.9375,172.5,111.9375" style="stroke: #000000; stroke-width: 1.0;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="286.1406" y2="306.1406" />
-        <polygon fill="#000000" points="168.5,296.1406,172.5,306.1406,176.5,296.1406,172.5,300.1406" style="stroke: #000000; stroke-width: 1.0;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="340.1094" y2="360.1094" />
-        <polygon fill="#000000" points="168.5,350.1094,172.5,360.1094,176.5,350.1094,172.5,354.1094" style="stroke: #000000; stroke-width: 1.0;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="232.1719" y2="252.1719" />
-        <polygon fill="#000000" points="168.5,242.1719,172.5,252.1719,176.5,242.1719,172.5,246.1719" style="stroke: #000000; stroke-width: 1.0;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="184.5" x2="260" y1="430.7817" y2="430.7817" />
-        <polygon fill="#000000" points="256,330.6328,260,320.6328,264,330.6328,260,326.6328" style="stroke: #000000; stroke-width: 1.5;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="260" x2="260" y1="215.1875" y2="430.7817" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="260" x2="238.5" y1="215.1875" y2="215.1875" />
-        <polygon fill="#000000" points="248.5,211.1875,238.5,215.1875,248.5,219.1875,244.5,215.1875" style="stroke: #000000; stroke-width: 1.0;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="394.0781" y2="418.7817" />
-        <polygon fill="#000000" points="168.5,408.7817,172.5,418.7817,176.5,408.7817,172.5,412.7817" style="stroke: #000000; stroke-width: 1.0;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="151.9063" y2="198.2031" />
-        <polygon fill="#000000" points="168.5,188.2031,172.5,198.2031,176.5,188.2031,172.5,192.2031" style="stroke: #000000; stroke-width: 1.0;" />
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="442.7817" y2="506.7969" />
-        <polygon fill="#000000" points="168.5,496.7969,172.5,506.7969,176.5,496.7969,172.5,500.7969" style="stroke: #000000; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="60" x="176.5" y="472.4922">gefundene</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="64" x="176.5" y="485.2969">Ergebnisse</text>
-        <line style="stroke: #000000; stroke-width: 1.5;" x1="172.5" x2="172.5" y1="540.7656" y2="560.7656" />
-        <polygon fill="#000000" points="168.5,550.7656,172.5,560.7656,176.5,550.7656,172.5,554.7656" style="stroke: #000000; stroke-width: 1.0;" />
-        <!--MD5=[8b46157b0372f8511e7bf5bd350815c0]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="application/ecmascript"
+   contentStyleType="text/css"
+   height="624px"
+   preserveAspectRatio="none"
+   style="width:346px;height:624px;"
+   version="1.1"
+   viewBox="0 0 346 624"
+   width="346px"
+   zoomAndPan="magnify"
+   id="svg121"
+   sodipodi:docname="qualitative_studie.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata125">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     id="namedview123"
+     showgrid="false"
+     inkscape:zoom="1.0697256"
+     inkscape:cx="181.86388"
+     inkscape:cy="230.22103"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g119" />
+  <defs
+     id="defs11">
+    <filter
+       height="300%"
+       id="fx2d42dw7dkg9"
+       width="300%"
+       x="-1"
+       y="-1">
+      <feGaussianBlur
+         result="blurOut"
+         stdDeviation="2.0"
+         id="feGaussianBlur2" />
+      <feColorMatrix
+         in="blurOut"
+         result="blurOut2"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"
+         id="feColorMatrix4" />
+      <feOffset
+         dx="4.0"
+         dy="4.0"
+         in="blurOut2"
+         result="blurOut3"
+         id="feOffset6" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut3"
+         mode="normal"
+         id="feBlend8" />
+    </filter>
+  </defs>
+  <g
+     id="g119">
+    <rect
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="stroke: #000000; stroke-width: 1.5;"
+       width="220"
+       x="62.5"
+       y="10"
+       id="rect13" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="200"
+       x="72.5"
+       y="31.1387"
+       id="text15">Forschungsthema und -problem</text>
+    <rect
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="stroke: #000000; stroke-width: 1.5;"
+       width="325"
+       x="10"
+       y="63.9688"
+       id="rect17" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="305"
+       x="20"
+       y="85.1074"
+       id="text19">Forschungsstand und theoretischer Hintergrund</text>
+    <rect
+       height="277.33176"
+       style="fill:#d3d3d3;stroke:#000000;stroke-width:2;filter:url(#fx2d42dw7dkg9)"
+       width="195"
+       x="87"
+       y="177.77071"
+       id="rect21" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="0"
+       x="94"
+       y="175.9014"
+       id="text25" />
+    <rect
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="stroke: #000000; stroke-width: 1.5;"
+       width="115"
+       x="115"
+       y="252.1719"
+       id="rect27" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="95"
+       x="125"
+       y="273.3105"
+       id="text29">Daten erheben</text>
+    <rect
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="stroke: #000000; stroke-width: 1.5;"
+       width="135"
+       x="105"
+       y="306.1406"
+       id="rect31" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="115"
+       x="115"
+       y="327.2793"
+       id="text33">Daten aufbereiten</text>
+    <rect
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="stroke: #000000; stroke-width: 1.5;"
+       width="151"
+       x="97"
+       y="371.9844"
+       id="rect35" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="131"
+       x="107"
+       y="393.123"
+       id="text37">Daten analysieren</text>
+    <rect
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="stroke: #000000; stroke-width: 1.5;"
+       width="132"
+       x="106.5"
+       y="198.2031"
+       id="rect39" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="112"
+       x="116.5"
+       y="219.3418"
+       id="text41">Stichprobe ziehen</text>
+    <polygon
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       points="172.5,425.9531,172.5,425.9531,184.5,437.9531,172.5,449.9531,172.5,449.9531,160.5,437.9531,172.5,425.9531"
+       style="stroke: #000000; stroke-width: 1.5;"
+       id="polygon43" />
+    <rect
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5;filter:url(#fx2d42dw7dkg9)"
+       width="252"
+       x="46.5"
+       y="483.95309"
+       id="rect45" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-weight="bold"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="232"
+       x="56.5"
+       y="503.0918"
+       id="text47">Hypothesen und Theorien bilden</text>
+    <rect
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="stroke: #000000; stroke-width: 1.5;"
+       width="158"
+       x="93.5"
+       y="117.9375"
+       id="rect49" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="138"
+       x="103.5"
+       y="139.0762"
+       id="text51">Untersuchungsdesign</text>
+    <polygon
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       points="172.5,535.9219,172.5,535.9219,184.5,547.9219,172.5,559.9219,172.5,559.9219,160.5,547.9219,172.5,535.9219"
+       style="stroke: #000000; stroke-width: 1.5;"
+       id="polygon53" />
+    <rect
+       fill="#FFFFFF"
+       filter="url(#fx2d42dw7dkg9)"
+       height="33.9688"
+       rx="12.5"
+       ry="12.5"
+       style="stroke: #000000; stroke-width: 1.5;"
+       width="175"
+       x="85"
+       y="579.9219"
+       id="rect55" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="155"
+       x="95"
+       y="601.0605"
+       id="text57">Ergebnisse präsentieren</text>
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="172.5"
+       x2="172.5"
+       y1="43.9688"
+       y2="63.9688"
+       id="line59" />
+    <polygon
+       fill="#000000"
+       points="168.5,53.9688,172.5,63.9688,176.5,53.9688,172.5,57.9688"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon61" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="172.5"
+       x2="172.5"
+       y1="286.1406"
+       y2="306.1406"
+       id="line63" />
+    <polygon
+       fill="#000000"
+       points="168.5,296.1406,172.5,306.1406,176.5,296.1406,172.5,300.1406"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon65" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="172.5"
+       x2="172.5"
+       y1="340.1094"
+       y2="371.9844"
+       id="line67" />
+    <polygon
+       fill="#000000"
+       points="168.5,361.9844,172.5,371.9844,176.5,361.9844,172.5,365.9844"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon69" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="172.5"
+       x2="172.5"
+       y1="232.1719"
+       y2="252.1719"
+       id="line71" />
+    <polygon
+       fill="#000000"
+       points="168.5,242.1719,172.5,252.1719,176.5,242.1719,172.5,246.1719"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon73" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="184.5"
+       x2="260"
+       y1="437.9531"
+       y2="437.9531"
+       id="line75" />
+    <polygon
+       fill="#000000"
+       points="256,330.6328,260,320.6328,264,330.6328,260,326.6328"
+       style="stroke: #000000; stroke-width: 1.5;"
+       id="polygon77" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="260"
+       x2="260"
+       y1="215.1875"
+       y2="437.9531"
+       id="line79" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="260"
+       x2="238.5"
+       y1="215.1875"
+       y2="215.1875"
+       id="line81" />
+    <polygon
+       fill="#000000"
+       points="248.5,211.1875,238.5,215.1875,248.5,219.1875,244.5,215.1875"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon83" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="172.5"
+       x2="172.5"
+       y1="405.9531"
+       y2="425.9531"
+       id="line85" />
+    <polygon
+       fill="#000000"
+       points="168.5,415.9531,172.5,425.9531,176.5,415.9531,172.5,419.9531"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon87" />
+    <line
+       style="stroke:#000000;stroke-width:1.23676789"
+       x1="172.5"
+       x2="172.5"
+       y1="460.19885"
+       y2="481.95309"
+       id="line89" />
+    <polygon
+       points="176.5,471.9531 172.5,475.9531 168.5,471.9531 172.5,481.9531 "
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="polygon91"
+       transform="translate(0,0.23369878)" />
+    <line
+       style="stroke:#000000;stroke-width:1.10544002"
+       x1="172.5"
+       x2="172.5"
+       y1="151.9063"
+       y2="177.05055"
+       id="line93" />
+    <polygon
+       points="176.5,188.2031 172.5,192.2031 168.5,188.2031 172.5,198.2031 "
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="polygon95"
+       transform="translate(0,-21.152548)" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="184.5"
+       x2="310.5"
+       y1="547.9219"
+       y2="547.9219"
+       id="line97" />
+    <polygon
+       fill="#000000"
+       points="306.5,351.9844,310.5,341.9844,314.5,351.9844,310.5,347.9844"
+       style="stroke: #000000; stroke-width: 1.5;"
+       id="polygon99" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="310.5"
+       x2="310.5"
+       y1="134.9219"
+       y2="547.9219"
+       id="line101" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="310.5"
+       x2="251.5"
+       y1="134.9219"
+       y2="134.9219"
+       id="line103" />
+    <polygon
+       fill="#000000"
+       points="261.5,130.9219,251.5,134.9219,261.5,138.9219,257.5,134.9219"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon105" />
+    <line
+       style="stroke:#000000;stroke-width:1.41893411"
+       x1="172.5"
+       x2="172.5"
+       y1="518.02521"
+       y2="535.92188"
+       id="line107" />
+    <polygon
+       fill="#000000"
+       points="168.5,525.9219,172.5,535.9219,176.5,525.9219,172.5,529.9219"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon109" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="172.5"
+       x2="172.5"
+       y1="97.9375"
+       y2="117.9375"
+       id="line111" />
+    <polygon
+       fill="#000000"
+       points="168.5,107.9375,172.5,117.9375,176.5,107.9375,172.5,111.9375"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon113" />
+    <line
+       style="stroke: #000000; stroke-width: 1.5;"
+       x1="172.5"
+       x2="172.5"
+       y1="559.9219"
+       y2="579.9219"
+       id="line115" />
+    <polygon
+       fill="#000000"
+       points="168.5,569.9219,172.5,579.9219,176.5,569.9219,172.5,573.9219"
+       style="stroke: #000000; stroke-width: 1.0;"
+       id="polygon117" />
+    <!--MD5=[be74d146affaea77317ad3ef18dae069]
 @startuml
 skinparam activity {
     backgroundcolor white
@@ -57,18 +487,18 @@ skinparam partitionbackgroundcolor lightgrey
 
 :Forschungsthema und -problem;
 :Forschungsstand und theoretischer Hintergrund;
-:Untersuchungsdesign;
+repeat :Untersuchungsdesign;
 
 partition "" {
     repeat :Stichprobe ziehen;
     :Daten erheben;
     :Daten aufbereiten;
     :**Daten analysieren**;
-    repeat while () is (offene\nFragen →)
+    repeat while ()
 }
-->gefundene\nErgebnisse;
 :**Hypothesen und Theorien bilden**;
-:Ergebnise präsentieren;
+repeat while ()
+:Ergebnisse präsentieren;
 @enduml
 
 PlantUML version 1.2020.08(Sun Apr 26 16:08:22 CEST 2020)
@@ -81,5 +511,15 @@ Default Encoding: UTF-8
 Language: en
 Country: US
 -->
-    </g>
+    <polygon
+       transform="rotate(180,172.5,175.0547)"
+       points="176.5,188.2031 172.5,192.2031 168.5,188.2031 172.5,198.2031 "
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="polygon95-1" />
+    <polygon
+       transform="rotate(180,172.5,327.78528)"
+       points="172.5,192.2031 168.5,188.2031 172.5,198.2031 176.5,188.2031 "
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="polygon95-8" />
+  </g>
 </svg>

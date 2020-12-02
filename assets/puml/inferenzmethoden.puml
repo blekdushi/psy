@@ -1,0 +1,40 @@
+@startwbs
+<style>
+wbsDiagram {
+  Linecolor black
+  BackgroundColor White
+}
+</style>
+
+
+* Art der Analyse
+** Dependenzanalyse
+*** Unterschiede
+**** zentrale Tendenz
+***** unabhängige Stichproben
+****** Mann-Whitney
+****** t-Test
+****** Kruskal Wallis
+****** ...
+*****< verbundene Stichproben
+****** t-Test
+****** Wilcoxon
+****** Friedmann
+****** ...
+**** Proportion/Häufigkeiten
+***** Binomialtest
+***** ...
+**** Varianzen
+***** Chi²
+***** F-Test
+***** ...
+***< Zusammenhänge
+****< Korrelation
+****< einfache/multiple/logistische Regression
+****< ...
+** Interdependenzanalyse
+*** Faktorenanalyse
+*** Clusteranalyse
+*** ...
+
+@endwbs
