@@ -10,9 +10,9 @@ In der Psychologie ist der Mensch **Forschungsgegenstand** und Forscher zugleich
 * Bewusstsein & Gedanken
 * Gefühle & Wünsche
 
-Im Gegensatz zu vielen anderen Forschungsgegenständen, haben die meisten Menschen eine Meinung bzw. intuitiven Zugang zu den Fragestellungen der Psychologie ([Alltagspsychologie](https://dorsch.hogrefe.com/stichwort/alltagspsychologie)). Die dabei verwendete Sprache ist dabei kontextabhängig, mehrdeutig und logisch nicht wohldefiniert. Ebenso zeigen sich zahlreiche Tücken, wie [Rückschaufehler](https://dorsch.hogrefe.com/stichwort/rueckschaufehler) und das falsche Einschätzen von Wahrscheinlichkeiten.
+Im Gegensatz zu vielen anderen Forschungsgegenständen, haben die meisten Menschen eine Meinung bzw. intuitiven Zugang zu den Fragestellungen der Psychologie ([Alltagspsychologie](https://dorsch.hogrefe.com/stichwort/alltagspsychologie)). Die dabei verwendete Sprache ist kontextabhängig, mehrdeutig und logisch nicht wohldefiniert. Ebenso zeigen sich zahlreiche Tücken wie [Rückschaufehler](https://dorsch.hogrefe.com/stichwort/rueckschaufehler) und das falsche Einschätzen von Wahrscheinlichkeiten.
 
-Es braucht daher eine präzisierte **Fachsprache** für das wissenschaftliche Beschreiben eines Forschungsgegenstandes. Dabei hilft _Mathematik_ und _Logik_ (z.B. definiert das [Weber'sche Gesetz](https://de.wikipedia.org/wiki/Weber-Fechner-Gesetz#Webersches_Gesetz) die Unterschiedsschwelle in der Sinneswahrnehmung mathematisch und eindeutig). So entstehen mit der Zeit in einer Wissenschaft eine Vielzahl an Fachausdrücken. Eine logische Folge, wenn man Eindeutigkeit sicherstellen und Missverständnisse vorbeugen möchte. Was auf den ersten Blick verwirrt und im Volksmund als "fachchinesisch" bezeichnet wird, ist notwendig, damit die forschende Community eine gemeinsame Sprache hat und somit ihre Erkenntnisse kommunizieren und diskutieren kann.
+Es braucht daher eine präzisierte **Fachsprache** für das wissenschaftliche Beschreiben eines Forschungsgegenstandes. Dabei hilft _Mathematik_ und _Logik_ (z.B. definiert das [Weber'sche Gesetz](https://de.wikipedia.org/wiki/Weber-Fechner-Gesetz#Webersches_Gesetz) die Unterschiedsschwelle in der Sinneswahrnehmung mathematisch und eindeutig). So entstehen mit der Zeit eine Vielzahl an Fachausdrücken. Eine logische Folge, wenn man Eindeutigkeit sicherstellen und Missverständnisse vorbeugen möchte. Was auf den ersten Blick verwirrt und im Volksmund als "fachchinesisch" bezeichnet wird, ist notwendig, damit die forschende Community eine gemeinsame Sprache hat und somit ihre Erkenntnisse kommunizieren und diskutieren kann.
 
 **Forschungsziele** der Psychologie sind das...
 1. Beschreiben,
@@ -23,7 +23,7 @@ Es braucht daher eine präzisierte **Fachsprache** für das wissenschaftliche Be
 ...von menschlichem Erleben und Verhalten.
 
 Beim **Beschreiben** geht es um präzises und systematisches Erfassen von Daten über den Forschungsgegenstand. Die dadurch gewonnenen Daten sollen folgende _Gütekritieren_ aufweisen:
-* [Objektivität](https://dorsch.hogrefe.com/stichwort/objektivitaet))
+* [Objektivität](https://dorsch.hogrefe.com/stichwort/objektivitaet)
 * [Reliabilität](https://dorsch.hogrefe.com/stichwort/reliabilitaet) (Zuverlässigkeit)
 * [Validität](https://dorsch.hogrefe.com/stichwort/validitaet) (Gültigkeit)
 
@@ -64,9 +64,9 @@ Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenscha
 
 Nicht-wissenschaftliche Quellen können zutreffend sein und sich als nützlich erweisen, aber ihre Aussagen variieren, sind widersprüchlich, von Interessen geleitet und es bleibt unklar, wie man zu dieser Aussage gekommen ist und auf welche Beobachtungen und Daten sie sich stützt.
 
-**[Wissenschaftstheorie](https://dorsch.hogrefe.com/stichwort/wissenschaftstheorie)** ist abgegrenzt davon ein Teilgebiet der Philosophie und beschäftigt sich mit Fragen über den wissenschaftlichen Erkenntnisgewinn. Ob und wie dieser möglich ist, welche Einflüsse darauf wirken und welche Rolle Ethik dabei spielen soll. Dabei handelt es sich um ein aktives Forschungsfeld, das an sich selbst den Anspruch stellt keine endgültigen ("in Stein  gemeißelten") Ergebnisse zu produzieren. Sie unterscheidet zwei grundlegende Herangehensweisen: die _Induktion_ und die _Deduktion_.
+**[Wissenschaftstheorie](https://dorsch.hogrefe.com/stichwort/wissenschaftstheorie)** ist abgegrenzt davon ein Teilgebiet der Philosophie und beschäftigt sich mit Fragen über den wissenschaftlichen Erkenntnisgewinn. Ob und wie dieser möglich ist, welche Einflüsse darauf wirken und welche Rolle Ethik dabei spielen soll. Ein aktives Forschungsfeld, das an sich selbst den Anspruch stellt keine endgültigen ("in Stein gemeißelten") Ergebnisse zu produzieren. Sie unterscheidet zwei grundlegende Herangehensweisen: die _Induktion_ und die _Deduktion_.
 
-**[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgeren von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab. [David Hume](https://de.wikipedia.org/wiki/David_Hume#Induktion) meinte, dass über Induktion kein Erkenntnisgewinn möglich sei, weil die Beobachtungen der Vergangenheit rational betrachtet keinerlei Aussage über die Zukunft träfen. Mit dem selben Argument ließen sich daher nicht einmal Wahrscheinlichkeiten ableiten. (z.B. erwacht man jeden Morgen -> daraus abzuleiten, dass man auch in Zukunft jeden Morgen aufwachen würde, wäre falsch, da man ja irgendwann stirbt). Humes Diskussion dazu wird auch [Induktionsproblem](https://de.wikipedia.org/wiki/Induktionsproblem) genannt. Aus einem praktischen Standpunkt aus betrachtet ist es nützlich, wenn der Mensch Induktion anwendet und in diesem Sinne aus der Erfahrung lernt. Dennoch ist diese Praxis unter dem Vernunftsgesichtspunkt für Hume irrational ([Quelle: Wikipedia](https://de.wikipedia.org/wiki/David_Hume#Induktion)). Induktion ist im Forschungsprozess trotzdem wichtig um damit Ideen für Gesetzmäßigkeiten zu finden, auch wenn sie dadurch weder geprüft noch erhärtet (geschweige denn bewiesen) werden können (Hussy et al., 2013, p.8)
+**[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgeren von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab. [David Hume](https://de.wikipedia.org/wiki/David_Hume#Induktion) meinte, dass über Induktion kein Erkenntnisgewinn möglich sei, weil die Beobachtungen der Vergangenheit rational betrachtet keinerlei Aussage über die Zukunft träfen. Mit dem selben Argument ließen sich daher nicht einmal Wahrscheinlichkeiten ableiten: Zum Beispiel erwacht man jeden Morgen -> daraus abzuleiten, dass man auch in Zukunft jeden Morgen aufwachen würde, wäre falsch, da man ja irgendwann stirbt). Humes Diskussion dazu wird auch [Induktionsproblem](https://de.wikipedia.org/wiki/Induktionsproblem) genannt. Aus einem praktischen Standpunkt aus betrachtet ist es nützlich, wenn der Mensch Induktion anwendet und in diesem Sinne aus der Erfahrung lernt. Dennoch ist diese Praxis unter dem Vernunftsgesichtspunkt für Hume irrational ([Quelle: Wikipedia](https://de.wikipedia.org/wiki/David_Hume#Induktion)). Induktion ist im Forschungsprozess trotzdem wichtig um damit Ideen für Gesetzmäßigkeiten zu finden, auch wenn sie dadurch weder geprüft noch erhärtet (geschweige denn bewiesen) werden können (Hussy et al., 2013, p.8)
 
 **[Deduktion](https://de.wikipedia.org/wiki/Deduktion)** ist das Schlussfolgern vom Allgemeinen (einer Theorie) auf das Spezielle (Beobachtung). Widerspricht eine Beobachtung der Theorie, dann ist diese widerlegt. Stimmt sie überein, dann ist die Theorie bekräftigt, aber nie endgültig bestätigt. Man kann Theorien somit nicht beweisen, aber man kann sie erhärten bzw. falsifizieren.
 
@@ -76,11 +76,11 @@ Für den Forschungsprozess gilt daher:
 * Theorien und Hypothesen aufstellen
 * Vorannahmen diskutieren und begründen
 * Forschungsstand berücksichtigen
-* Empirische Daten systematische erheben, aufbereiten und analysieren:
- * angemessenes Untersuchungsdesign
- * geeignete Untersuchungsinstrumente
- * aussagekräftige Stichprobe
- * Datenerhebungs-, -aufbereitungs- und -analysemethoden begründen
+* Empirische Daten systematisch erheben, aufbereiten und analysieren
+  * angemessenes Untersuchungsdesign
+  * geeignete Untersuchungsinstrumente
+  * aussagekräftige Stichprobe
+  * Datenerhebungs-, -aufbereitungs- und -analysemethoden begründen
 * Wissenschaftsethisches Vorgehen (Aufklärung über Risiken, Einwilligung der Vpn...)
 * Forschungsprozesses dokumentieren
 * Datenmaterial zwecks Nachvollziehbarkeit und Nachprüfbarkeit archivieren
@@ -115,7 +115,7 @@ Es gibt mehrere **Hypothesenarten**, wobei Hussy et al. (2013, p.32) folgende he
 
 Weil man in der Psychologie Hypothesen eigentlich nie zu 100% widerlegen kann, ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung. Sie postuliert Regelmäßigkeiten aber toleriert gleichzeitig auch Ausnahmen. Eine Beispielhypothese ist <q>Wenn beim Lösen von Problemen Pausen gemacht werden, dann ist die Lösungsgüte zumeist besser, als wenn keine Pausen gemacht werden</q> Hussy et al. (2013, p.115). Sie ist somit eine Wahrscheinlichkeitsaussage und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
 
-Eine Hypothesen kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen. Folgende Grafik zeigt Beispiele von Hussy et al. (2013, p.116) für Hypothesen und ihre Ebenen:
+Eine Hypothese kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen. Folgende Grafik zeigt Beispiele von Hussy et al. (2013, p.116) für Hypothesen und ihre Ebenen:
 
 ![Hypothesenebenen mit Beispielen](/assets/img/hypothesenebenen.svg)
 
@@ -127,7 +127,7 @@ Da wir in der Psychologie mit _quasiuniversellen Hypothesen_ arbeiten, kann nich
 
 Beim **α-Fehler** (Fehler 1. Art) hat man die Nullhypothese H<sub>0</sub> fälschlicherweise falsifiziert. Man glaubt, dass es einen Effekt gibt, obwohl es ihn in Wirklichkeit nicht gibt.
 
-Beim **β-Fehler** (Fehler 2. Art) hat man die Nullhypothese fälschlicherweise nicht falsifizieren können. Man geht davon aus, dass es _keinen_ Effekt gibt, obwohl es ihn in Wirklichkeit einen gibt.
+Beim **β-Fehler** (Fehler 2. Art) hat man die Nullhypothese fälschlicherweise nicht falsifizieren können. Man geht davon aus, dass es _keinen_ Effekt gibt, obwohl es ihn in Wirklichkeit gibt.
 
 In der Regel haben α-Fehler weitreichendere Folgen als β-Fehler.
 
@@ -225,7 +225,7 @@ Quantitative und qualitative Designs stehen nicht (mehr) im Widerspruch zu einan
 Das können sein:
 * Vorstudienmodell: Qualitative Studie zur Hypothesengenerierung und darauf folgend quantitative Studie zur Hypothesenprüfung
 * Vertiefungsmodell: Quantitative Studie und darauf folgend qualitative Studie mit ausgewählten Teilnehmern
-* Innerhalb einer Studie mehrere Methoden, z.B. Datenerhebung mit qualitativer und quantitativer Methoden
+* Innerhalb einer Studie mehrere Methoden, z.B. Datenerhebung mit qualitativen und quantitativen Methoden
 
 ### Labor- und Feldstudie
 
@@ -233,13 +233,13 @@ Die **[Laborstudie](https://de.wikipedia.org/wiki/Laborstudie)** ermöglicht ein
 
 Vorteile:
 * gut standardisierbar: gezielte Manipulation der unabhängigen Variablen
-* höherer interne Validität, durch Minimieren der Störvariablen (umwelt- bzw. untersuchungsbedingt z. B. Raumtemperatur, Möblierung, anwesende Personen, Geräuschpegel...)
+* höhere interne Validität, durch Minimieren der Störvariablen (umwelt- bzw. untersuchungsbedingt z.B. Raumtemperatur, Möblierung, anwesende Personen, Geräuschpegel...)
 * Einsatz komplexer Messinstrumente
 
 Nachteile:
 * reduzierte externe Validität (Künstlichkeit des Untersuchungsortes erschwert Übertragbarkeit der Befunde auf den Alltag)
 * Höherere Aufwand für die Probanden
-* Höherere Aufwand & Kosten für die Forschenden (Laborraum, Laborpersonal, Gerätschaften...
+* Höherere Aufwand & Kosten für die Forschenden (Laborraum, Laborpersonal, Gerätschaften...)
 
 
 Bei der **[Feldstudie](https://de.wikipedia.org/wiki/Feldstudie)** findet die Untersuchung im natürlichen Umfeld des Forschungsgegenstandes statt, wodurch Untersuchungsbedingungen den Alltagsbedingungen ähnlich sind.
@@ -252,7 +252,7 @@ Nachteile:
 
 <q>Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV ausschließlich auf die Variation der UV zurückgeführt werden können.</q> (Hussy et al., 2013, p.137)
 
-Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation) und ist umso höher umso besser Störvariablen minimiert/eliminiert werden konnten. Auch abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) bzw. [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, p.124)
+Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation) und ist umso höher umso besser Störvariablen minimiert/eliminiert werden konnten. Auch abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → Gegenwirken mit [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) bzw. [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, p.124)
 
 <q>Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Untersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität.</q> (Hussy et al., 2013, p.137)
 
@@ -270,7 +270,7 @@ Häufig werden auf Basis von Nicht-Experimenten fälschlicherweise kausale Zusam
 
 ### Querschnitt- und Längsschnittstudie
 
-**[Querschnittstudien](https://dorsch.hogrefe.com/stichwort/querschnittuntersuchung)** vergleichen eine oder mehrere Stichproben zu _einem_ Zeitpunkt. Weit verbreitet, weil günstiger in der Durchführung, aber Gefahr der [Konfundierung](https://dorsch.hogrefe.com/stichwort/konfundierung) aufgrund von [Kohorteneffekten](https://de.wikipedia.org/wiki/Kohorte_(Sozialwissenschaft).
+**[Querschnittstudien](https://dorsch.hogrefe.com/stichwort/querschnittuntersuchung)** vergleichen eine oder mehrere Stichproben zu _einem_ Zeitpunkt. Weit verbreitet, weil günstiger in der Durchführung, aber Gefahr der [Konfundierung](https://dorsch.hogrefe.com/stichwort/konfundierung) aufgrund von [Kohorteneffekten](https://de.wikipedia.org/wiki/Kohorte_(Sozialwissenschaft)).
 
 **[Längsschnittstudien](https://dorsch.hogrefe.com/stichwort/laengsschnittuntersuchung)**
 messen und vergleichen _ein und dieselbe_ Stichprobe zu mehrerer Zeitpunkten innerhalb eines Zeitraums. Werden z.B. in der klinischen Psychologie in Form von pre-, post- und follow-up Messungen eingesetzt um die Auswirkung von Interventionen beurteilen zu können. Nachteile sind Sequenzeffekte, die sich bei Messwiederholungen zeigen (Hussy et al., 2013, p.120). Das können Störvariablen sein, wie z.B. die Lebenssituation der Vpn, äußere Einflüsse (Wirtschaftslage), sowie Lern- und Gewöhnungseffekte bei den Messungen und andere mehr.
@@ -311,11 +311,9 @@ Variablen kann man unterscheiden in:
 * abhängig/unabhängig (Stellenwert in Untersuchung)
 
 Besonders abstrakte Variablen stellen eine Herausforderung dar, weil sie nicht direkt beobachtet und somit auch nicht direkt gemessen werden können. Sie müssen deshalb für die _quantitative_ Betrachtung **[operationalisiert](https://dorsch.hogrefe.com/stichwort/operationalisierung)** werden, wie wir es bereits beim Überführen einer theoretisch-inhaltichen Hypothese in eine empirisch-inhaltliche [weiter oben](#Hypothesen) kennengelernt haben. Dadurch definiert und _begründet_ man, von welchen messbaren, konkreten Variablen (z.B. Items eines Intelligenztests) man die Ausprägung der abstrakten Variable und des dahinter stehenden theoretischen Konzepts (z.B. Intelligenz) ableiten und mit welchen _Messinstrumenten_ man sie messen wird. Messinstrumente müssen _valide_ und _reliabel_ sein (Testtheorie).
-Da es meist mehrere Theorien gibt, kann es auch mehrere Operationalisierung eines theoretischen Konzepts geben (z.B. Intelligenztheorien und -tests)
+Da es meist mehrere Theorien gibt, kann es auch mehrere Operationalisierung eines theoretischen Konzepts geben (z.B. unterschiedliche Intelligenztheorien und -tests)
 
 Anders ist das Vorgehen in der _qualitativen_ Forschung. Dort werden Daten erhoben und erst durch die Interpretation und Verdichtung derselben leitet man Theorien und Konzepte quasi "rückwärts-operationalisiert" ab.
-
-Merkmalsausprägung diskret vs. stetig , manifest vs. latent, abhängig vs. unabhängig
 
 # Empfohlene Literatur
 
