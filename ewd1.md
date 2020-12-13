@@ -53,7 +53,7 @@ Auf Basis dieser Vorhersagen können wir Verhalten auch **verändern**. Methoden
 
 # Wissenschaftstheorie
 
-Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenschaftlichen** Quellen (Döring & Bortz, 2016, p.6):
+Im Alltag erwerben wir Wissen bewusst oder unbewusst auch aus **nicht-wissenschaftlichen** Quellen (Döring & Bortz, 2016, S.6):
 * Autoritätspersonen
 * Religion
 * Tradition
@@ -66,7 +66,7 @@ Nicht-wissenschaftliche Quellen können zutreffend sein und sich als nützlich e
 
 **[Wissenschaftstheorie](https://dorsch.hogrefe.com/stichwort/wissenschaftstheorie)** ist abgegrenzt davon ein Teilgebiet der Philosophie und beschäftigt sich mit Fragen über den wissenschaftlichen Erkenntnisgewinn. Ob und wie dieser möglich ist, welche Einflüsse darauf wirken und welche Rolle Ethik dabei spielen soll. Ein aktives Forschungsfeld, das an sich selbst den Anspruch stellt keine endgültigen ("in Stein gemeißelten") Ergebnisse zu produzieren. Sie unterscheidet zwei grundlegende Herangehensweisen: die _Induktion_ und die _Deduktion_.
 
-**[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgeren von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab. [David Hume](https://de.wikipedia.org/wiki/David_Hume#Induktion) meinte, dass über Induktion kein Erkenntnisgewinn möglich sei, weil die Beobachtungen der Vergangenheit rational betrachtet keinerlei Aussage über die Zukunft träfen. Mit dem selben Argument ließen sich daher nicht einmal Wahrscheinlichkeiten ableiten: Zum Beispiel erwacht man jeden Morgen -> daraus abzuleiten, dass man auch in Zukunft jeden Morgen aufwachen würde, wäre falsch, da man ja irgendwann stirbt). Humes Diskussion dazu wird auch [Induktionsproblem](https://de.wikipedia.org/wiki/Induktionsproblem) genannt. Aus einem praktischen Standpunkt aus betrachtet ist es nützlich, wenn der Mensch Induktion anwendet und in diesem Sinne aus der Erfahrung lernt. Dennoch ist diese Praxis unter dem Vernunftsgesichtspunkt für Hume irrational ([Quelle: Wikipedia](https://de.wikipedia.org/wiki/David_Hume#Induktion)). Induktion ist im Forschungsprozess trotzdem wichtig um damit Ideen für Gesetzmäßigkeiten zu finden, auch wenn sie dadurch weder geprüft noch erhärtet (geschweige denn bewiesen) werden können (Hussy et al., 2013, p.8)
+**[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgeren von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab. [David Hume](https://de.wikipedia.org/wiki/David_Hume#Induktion) meinte, dass über Induktion kein Erkenntnisgewinn möglich sei, weil die Beobachtungen der Vergangenheit rational betrachtet keinerlei Aussage über die Zukunft träfen. Mit dem selben Argument ließen sich daher nicht einmal Wahrscheinlichkeiten ableiten: Zum Beispiel erwacht man jeden Morgen -> daraus abzuleiten, dass man auch in Zukunft jeden Morgen aufwachen würde, wäre falsch, da man ja irgendwann stirbt). Humes Diskussion dazu wird auch [Induktionsproblem](https://de.wikipedia.org/wiki/Induktionsproblem) genannt. Aus einem praktischen Standpunkt aus betrachtet ist es nützlich, wenn der Mensch Induktion anwendet und in diesem Sinne aus der Erfahrung lernt. Dennoch ist diese Praxis unter dem Vernunftsgesichtspunkt für Hume irrational ([Quelle: Wikipedia](https://de.wikipedia.org/wiki/David_Hume#Induktion)). Induktion ist im Forschungsprozess trotzdem wichtig um damit Ideen für Gesetzmäßigkeiten zu finden, auch wenn sie dadurch weder geprüft noch erhärtet (geschweige denn bewiesen) werden können (Hussy et al., 2013, S.8)
 
 **[Deduktion](https://de.wikipedia.org/wiki/Deduktion)** ist das Schlussfolgern vom Allgemeinen (einer Theorie) auf das Spezielle (Beobachtung). Widerspricht eine Beobachtung der Theorie, dann ist diese widerlegt. Stimmt sie überein, dann ist die Theorie bekräftigt, aber nie endgültig bestätigt. Man kann Theorien somit nicht beweisen, aber man kann sie erhärten bzw. falsifizieren.
 
@@ -106,16 +106,16 @@ Einen groben, typischen Ablauf einer Studie kann man wie folgt skizzieren:
 * Operationalisierbarkeit der verwendeten Begriffe
 * generalisierend und theoriegeleitet
 
- In der Regel sollen Hypothesen vor der Datenerhebung formuliert werden (_Prüfexperimente_). Eine Ausnahme sind _Erkundungsexperimente_ bei denen Hypothesen nach der Datenerhebung aufgestellt werden (Hussy et al., 2013, p.34).
+ In der Regel sollen Hypothesen vor der Datenerhebung formuliert werden (_Prüfexperimente_). Eine Ausnahme sind _Erkundungsexperimente_ bei denen Hypothesen nach der Datenerhebung aufgestellt werden (Hussy et al., 2013, S.34).
 
-Es gibt mehrere **Hypothesenarten**, wobei Hussy et al. (2013, p.32) folgende herausstreichen:
+Es gibt mehrere **Hypothesenarten**, wobei Hussy et al. (2013, S.32) folgende herausstreichen:
 * Universell
 * Beschränkt universell
 * Quasiuniversell
 
-Weil man in der Psychologie Hypothesen eigentlich nie zu 100% widerlegen kann, ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung. Sie postuliert Regelmäßigkeiten aber toleriert gleichzeitig auch Ausnahmen. Eine Beispielhypothese ist <q>Wenn beim Lösen von Problemen Pausen gemacht werden, dann ist die Lösungsgüte zumeist besser, als wenn keine Pausen gemacht werden</q> Hussy et al. (2013, p.115). Sie ist somit eine Wahrscheinlichkeitsaussage und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
+Weil man in der Psychologie Hypothesen eigentlich nie zu 100% widerlegen kann, ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung. Sie postuliert Regelmäßigkeiten aber toleriert gleichzeitig auch Ausnahmen. Eine Beispielhypothese ist <q>Wenn beim Lösen von Problemen Pausen gemacht werden, dann ist die Lösungsgüte zumeist besser, als wenn keine Pausen gemacht werden</q> Hussy et al. (2013, S.115). Sie ist somit eine Wahrscheinlichkeitsaussage und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
 
-Eine Hypothese kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen. Folgende Grafik zeigt Beispiele von Hussy et al. (2013, p.116) für Hypothesen und ihre Ebenen:
+Eine Hypothese kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen. Folgende Grafik zeigt Beispiele von Hussy et al. (2013, S.116) für Hypothesen und ihre Ebenen:
 
 ![Hypothesenebenen mit Beispielen](/assets/img/hypothesenebenen.svg)
 
@@ -131,10 +131,10 @@ Beim **β-Fehler** (Fehler 2. Art) hat man die Nullhypothese fälschlicherweise 
 
 In der Regel haben α-Fehler weitreichendere Folgen als β-Fehler.
 
-<q>Unter der [Grundgesamtheit](https://de.wikipedia.org/wiki/Grundgesamtheit) (auch **Population** genannt) versteht man in der Psychologie die Menge aller potenziellen Untersuchungsobjekte für eine gegebene Fragestellung." (Hussy et al., 2013, p.118)</q>
+<q>Unter der [Grundgesamtheit](https://de.wikipedia.org/wiki/Grundgesamtheit) (auch **Population** genannt) versteht man in der Psychologie die Menge aller potenziellen Untersuchungsobjekte für eine gegebene Fragestellung." (Hussy et al., 2013, S.118)</q>
 
 <q>Unter einer **[Stichprobe](https://dorsch.hogrefe.com/stichwort/stichprobe)** versteht man eine Teilmenge aus einer Grundgesamtheit, die
-unter bestimmten Gesichtspunkten (gemäß der Fragestellung) ausgewählt wurde.</q> (Hussy et al., 2013, p.118)
+unter bestimmten Gesichtspunkten (gemäß der Fragestellung) ausgewählt wurde.</q> (Hussy et al., 2013, S.118)
 
 Eine Stichprobe ist _[repräsentativ](https://dorsch.hogrefe.com/stichwort/repraesentativ)_, wenn sie das Wesen und die spezifischen Eigenarten der Population gut und verhältnismäßig abbildet. Das ist abhängig von der _Stichprobenstrategie_ und der _Stichprobengröße_. Strategisch wählt man die Stichprobe möglichst _[zufällig](https://de.wikipedia.org/wiki/Zufallsstichprobe#Probleme_der_Zufallsziehung)_ aus, was in der Praxis gar nicht so einfach (z.B. Wahlbefragungen, Telefonumfragen...) und auch kostenintensiv (z.B. Medikamentenstudien bei Schwangeren) ist.
 
@@ -144,7 +144,7 @@ Die **[Deskriptive Statistik](https://de.wikipedia.org/wiki/Deskriptive_Statisti
 * Beschreibung der Daten (Häufigkeiten, Mittelwert, Median, Varianz...)
 * Standardisierung von Daten für Vergleiche
 
-Mittels der **[Inferenzstatistik](https://de.wikipedia.org/wiki/Mathematische_Statistik)** leitet man Schlüsse von der Stichprobe auf die zugehörige Population ab. <q>Aussagen der Inferenzstatistik gehen damit über das Beobachtbare hinaus und sind mit Unsicherheit behaftet.</q> (Hussy et al., 2013, p.179)
+Mittels der **[Inferenzstatistik](https://de.wikipedia.org/wiki/Mathematische_Statistik)** leitet man Schlüsse von der Stichprobe auf die zugehörige Population ab. <q>Aussagen der Inferenzstatistik gehen damit über das Beobachtbare hinaus und sind mit Unsicherheit behaftet.</q> (Hussy et al., 2013, S.179)
 
 Bei Aussagen über die Stichprobe werden lateinische und für Aussagen über die Population griechische Symbole verwendet:
 
@@ -155,7 +155,7 @@ Bei Aussagen über die Stichprobe werden lateinische und für Aussagen über die
 |Varianz|s²|σ²|
 
 Eine Stichprobe ist nie "perfekt" repräsentativ, wodurch ihre _Generalisierbarkeit_ eingeschränkt, das Schließen von der Stichprobe auf die Population mit Fehlern behaftet ist und sie somit nur zu einer _geschätzten Wahrscheinlichkeit_ als Ergebnis führt. Bezogen auf unsere Hypothese H<sub>0</sub>, die wir zu falsifizieren versuchen, bedeutet das, dass wir die H<sub>0</sub> nur auf Basis dieser geschätzten Wahrscheinlichkeit ablehnen können. Welche Wahrscheinlichkeit ist nun "gerade noch groß genug", damit wir das dürfen? Dieses _Falsifikationskriterium_ wird im **[statistischen Hypothesentest (Signifikanztest)](https://de.wikipedia.org/wiki/Statistischer_Test)** formalisiert:<br>
-<q>Das zentrale Ergebnis eines Signifikanztests ist die sog. Überschreitungswahrscheinlichkeit _p_. Diese ist die Wahrscheinlichkeit, dass ein gefundenes Stichprobenergebnis oder ein noch stärker von der H<sub>0</sub> abweichendes Ergebnis zustande kommt, falls die H<sub>0</sub> in der Population gilt...Per Konvention gelten Werte für _p_ von weniger als 0,05 (5%) oder 0,01 (1%) als so gering, dass die Nullhypothese verworfen wird.</q> (Hussy et al., 2013, p.180)
+<q>Das zentrale Ergebnis eines Signifikanztests ist die sog. Überschreitungswahrscheinlichkeit _p_. Diese ist die Wahrscheinlichkeit, dass ein gefundenes Stichprobenergebnis oder ein noch stärker von der H<sub>0</sub> abweichendes Ergebnis zustande kommt, falls die H<sub>0</sub> in der Population gilt...Per Konvention gelten Werte für _p_ von weniger als 0,05 (5%) oder 0,01 (1%) als so gering, dass die Nullhypothese verworfen wird.</q> (Hussy et al., 2013, S.180)
 
 Je nach Fragestellung und Hypothese kommen unterschiedliche Methoden der Inferenzstatistik zum Einsatz (Details dazu dann in _VO Einführung in quantitative Methoden_):
 
@@ -214,13 +214,13 @@ Quantitative und qualitative Designs stehen nicht (mehr) im Widerspruch zu einan
 
 **[Quantitativen Methoden](https://de.wikipedia.org/wiki/Quantitative_Sozialforschung)** haben die Ideen des kritischen Rationalismus (siehe oben) als wissenschaftstheoretische Grundlage, nämlich Theorien mittels Deduktion und dem Versuch der Falsifikation zu prüfen. Den erhobenen Merkmalsausprägungen werden dabei Zahlen zugeordnet, die dann statistisch geprüft und ausgewertet werden. Nicht allen Forschungsfragen kann man sich quantitativ nähern. Vor allem bei jenen über das _Erleben_ der Menschen stoßen quantitative Methoden an ihre Grenzen.
 
-**[Qualitative Methoden](https://de.wikipedia.org/wiki/Qualitative_Sozialforschung)** basieren auf einem interpretativen Paradigma, [Sozialkonstruktivismus](https://de.wikipedia.org/wiki/Sozialkonstruktivismus), [Hermeneutik](https://de.wikipedia.org/wiki/Hermeneutik), [Dialektik](https://de.wikipedia.org/wiki/Dialektik), [Phänomenologie](https://de.wikipedia.org/wiki/Ph%C3%A4nomenologie)... . Merkmalsausprägungen werden verbal beschrieben. Aufgrund ihres _induktiven_ Charakters dienen sie der Theorien- und Hypothesenkonstruktion, besonders in jungen, noch unerforschten Forschungsfeldern. Das Vorgehen ist zirkulär und bewusst weniger strukturiert. Anpassungen am Vorgehen sind während der Untersuchung möglich (Untersuchungszyklen). Es wird mit kleinen Samples und Einzelfällen (statt mit großen, repräsentativen Stichproben) geforscht. Erhebungsverfahren sind nicht oder nur teils standardisiert (da Daten verbal beschrieben statt numerisch erfasst werden). Dabei spielt Kommunikation und Kooperation zwischen Forschenden und Beforschten eine wesentliche Rolle und des kommt zur Beeinflussung des Forschungsgegenstands durch die Untersuchungungssituation, weshalb die Forschenden bei der Interpretation der Daten auf ein hohes Maß an _Reflexivität_ achten sollten (Hussy et al., 2013, p.192). Qualitative Methoden sind vielseitig und werden flexibel an den Forschungsgegenstand angepasst (Hussy et al., 2013, p.186). Folgende Grafiken zeigen eine Gegenüberstellung der Forschungsprozesse dieser zwei Ansätze:
+**[Qualitative Methoden](https://de.wikipedia.org/wiki/Qualitative_Sozialforschung)** basieren auf einem interpretativen Paradigma, [Sozialkonstruktivismus](https://de.wikipedia.org/wiki/Sozialkonstruktivismus), [Hermeneutik](https://de.wikipedia.org/wiki/Hermeneutik), [Dialektik](https://de.wikipedia.org/wiki/Dialektik), [Phänomenologie](https://de.wikipedia.org/wiki/Ph%C3%A4nomenologie)... . Merkmalsausprägungen werden verbal beschrieben. Aufgrund ihres _induktiven_ Charakters dienen sie der Theorien- und Hypothesenkonstruktion, besonders in jungen, noch unerforschten Forschungsfeldern. Das Vorgehen ist zirkulär und bewusst weniger strukturiert. Anpassungen am Vorgehen sind während der Untersuchung möglich (Untersuchungszyklen). Es wird mit kleinen Samples und Einzelfällen (statt mit großen, repräsentativen Stichproben) geforscht. Erhebungsverfahren sind nicht oder nur teils standardisiert (da Daten verbal beschrieben statt numerisch erfasst werden). Dabei spielt Kommunikation und Kooperation zwischen Forschenden und Beforschten eine wesentliche Rolle und es kommt zur Beeinflussung des Forschungsgegenstands durch die Untersuchungungssituation, weshalb die Forschenden bei der Interpretation der Daten auf ein hohes Maß an _Reflexivität_ achten sollten (Hussy et al., 2013, S.192). Qualitative Methoden sind vielseitig und werden flexibel an den Forschungsgegenstand angepasst (Hussy et al., 2013, S.186). Folgende Grafiken zeigen eine Gegenüberstellung der Forschungsprozesse dieser zwei Ansätze:
 
 |Quantitative Studie|Qualitative Studie|
 |---|---|
 |![Ablauf einer qualitativen Studie](/assets/img/quantitative_studie.svg)|![Ablauf einer qualitativen Studie](/assets/img/qualitative_studie.svg)|
 
-<q>_**[Mixed-Methods](https://en.wikipedia.org/wiki/Multimethodology)**_ bezeichnet eine Forschungsmethode, die eine Kombination von Elementen qualitativer und quantitativer Forschungstraditionen beinhaltet, typischerweise (aber nicht notwendig) innerhalb einer Untersuchung.</q> (Hussy et al., 2013, p.290)
+<q>_**[Mixed-Methods](https://en.wikipedia.org/wiki/Multimethodology)**_ bezeichnet eine Forschungsmethode, die eine Kombination von Elementen qualitativer und quantitativer Forschungstraditionen beinhaltet, typischerweise (aber nicht notwendig) innerhalb einer Untersuchung.</q> (Hussy et al., 2013, S.290)
 
 Das können sein:
 * Vorstudienmodell: Qualitative Studie zur Hypothesengenerierung und darauf folgend quantitative Studie zur Hypothesenprüfung
@@ -250,17 +250,17 @@ Vorteile:
 Nachteile:
 * Störvariablen weit weniger kontrollierbar
 
-<q>Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV ausschließlich auf die Variation der UV zurückgeführt werden können.</q> (Hussy et al., 2013, p.137)
+<q>Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV ausschließlich auf die Variation der UV zurückgeführt werden können.</q> (Hussy et al., 2013, S.137)
 
-Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation) und ist umso höher umso besser Störvariablen minimiert/eliminiert werden konnten. Auch abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → Gegenwirken mit [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) bzw. [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, p.124)
+Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation) und ist umso höher umso besser Störvariablen minimiert/eliminiert werden konnten. Auch abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → Gegenwirken mit [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) bzw. [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, S.124)
 
-<q>Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Untersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität.</q> (Hussy et al., 2013, p.137)
+<q>Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Untersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität.</q> (Hussy et al., 2013, S.137)
 
 Sie steigt mit der Repräsentativität der Stichprobe und mit Nachweis des Effekts in unterschiedlichen Stichproben und Kontexten (systematische Replikationsstudien)
 
 ### Experiment, Quasi-Experiment und Nicht-Experiment
 
-<q>Unter einem **[Experiment](https://de.wikipedia.org/wiki/Experiment#Psychologie,_Sozialwissenschaften)** (Laborexperiment, Feldexperiment) versteht man die systematische Beobachtung einer abhängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variablen bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von Probanden und experimentellen Bedingungen gewährleistet sein muss.</q>  (Hussy et al., 2013, p.120)<br>
+<q>Unter einem **[Experiment](https://de.wikipedia.org/wiki/Experiment#Psychologie,_Sozialwissenschaften)** (Laborexperiment, Feldexperiment) versteht man die systematische Beobachtung einer abhängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variablen bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von Probanden und experimentellen Bedingungen gewährleistet sein muss.</q>  (Hussy et al., 2013, S.120)<br>
 Das Ziel des Experiments ist die Prüfung von Hypothesen, die einen kausalen Zusammenhang postulieren. Dabei werden zwei Gruppen gebildet: die _Experimentalgruppe_ und die _Kontrollgruppe_. Durch zufällige Zuordnung der Vpn zu den Gruppen (Randomisierung) soll die Vergleichbarkeit der Gruppen gewährleistet werden. Danach werden durch _experimentelle Variation_ die Untersuchungsbedingungen der Gruppen systematisch variiert und die abhängige Variable (AV) gemessen. So eine Anordnung nennt man auch [Randomized controlled trial (RCT)](https://de.wikipedia.org/wiki/Randomisierte_kontrollierte_Studie).
 
 Von einem **[Quasi-Experiment](https://de.wikipedia.org/wiki/Quasi-Experiment)** spricht man, wenn man die Vpn den Gruppen nicht zufällig zuordnen kann (z.B. Studie über den Einfluss von Lernapps auf den Lernerfolg bei Schülern). Dadurch kommt es zu Auswahlverzerrungen (=Störeffekt). Durch Parallelisierung und Matching kann man Störvariablen besser kontrollieren. Die Einteilung in Gruppen, die experimentelle Variation und das Messen der AV sind wie beim Experiment. Das Quasi-Experiment dient ebenfalls der Prüfung von Kausalhypothesen, jedoch mit geringerer interner Validität.
@@ -273,7 +273,7 @@ Häufig werden auf Basis von Nicht-Experimenten fälschlicherweise kausale Zusam
 **[Querschnittstudien](https://dorsch.hogrefe.com/stichwort/querschnittuntersuchung)** vergleichen eine oder mehrere Stichproben zu _einem_ Zeitpunkt. Weit verbreitet, weil günstiger in der Durchführung, aber Gefahr der [Konfundierung](https://dorsch.hogrefe.com/stichwort/konfundierung) aufgrund von [Kohorteneffekten](https://de.wikipedia.org/wiki/Kohorte_(Sozialwissenschaft)).
 
 **[Längsschnittstudien](https://dorsch.hogrefe.com/stichwort/laengsschnittuntersuchung)**
-messen und vergleichen _ein und dieselbe_ Stichprobe zu mehrerer Zeitpunkten innerhalb eines Zeitraums. Werden z.B. in der klinischen Psychologie in Form von pre-, post- und follow-up Messungen eingesetzt um die Auswirkung von Interventionen beurteilen zu können. Nachteile sind Sequenzeffekte, die sich bei Messwiederholungen zeigen (Hussy et al., 2013, p.120). Das können Störvariablen sein, wie z.B. die Lebenssituation der Vpn, äußere Einflüsse (Wirtschaftslage), sowie Lern- und Gewöhnungseffekte bei den Messungen und andere mehr.
+messen und vergleichen _ein und dieselbe_ Stichprobe zu mehrerer Zeitpunkten innerhalb eines Zeitraums. Werden z.B. in der klinischen Psychologie in Form von pre-, post- und follow-up Messungen eingesetzt um die Auswirkung von Interventionen beurteilen zu können. Nachteile sind Sequenzeffekte, die sich bei Messwiederholungen zeigen (Hussy et al., 2013, S.120). Das können Störvariablen sein, wie z.B. die Lebenssituation der Vpn, äußere Einflüsse (Wirtschaftslage), sowie Lern- und Gewöhnungseffekte bei den Messungen und andere mehr.
 
 ### Primär-, Sekundärstudie & Metaanalyse
 
@@ -300,7 +300,7 @@ Nachteile:
 
 ## Operationalisierung
 
-**Variablen** in der psychologischen Forschung definieren Hussy et al. (2013, p.38) als:
+**Variablen** in der psychologischen Forschung definieren Hussy et al. (2013, S.38) als:
 <q>Psychologische Variablen sind veränderliche Beobachtungsgrößen aus dem Bereich des menschlichen Erlebens, Verhaltens und Handelns. Jede Variable hat mindestens zwei, in der Regel viele Ausprägungen.</q>
 
 Wichtig ist zwischen dem Konzept einer Variable unabhängig von einer konkreten Beobachtung und einer **Merkmalsausprägung** einer Variable (der Wert einer konkreten Beobachtung) zu unterscheiden.
