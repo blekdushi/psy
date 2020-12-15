@@ -3,7 +3,7 @@ layout: page
 title: EWD - 03.11.2020
 ---
 
-* Einführung in wissenschaftliches Denken
+* VO: Einführung in wissenschaftliches Denken
 * 03.11.2020
 * Vom schlussfolgernden Beobachten zur experimentellen Methode (Laback)
 

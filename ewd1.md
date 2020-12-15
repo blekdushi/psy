@@ -2,7 +2,7 @@
 layout: page
 title: EWD - 06-20.10.2020
 ---
-* Einführung in wissenschaftliches Denken
+* VO: Einführung in wissenschaftliches Denken
 * 06.10.2020 / 13.10.2020 / 20.10.2020
 * Methodische Grundlagen wissenschaftlicher Psychologie (Scharnowski)
 
