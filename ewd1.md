@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Methodische Grundlagen wissenschaftlicher Psychologie
+title: EWD - 06-20.10.2020
 ---
+* Einführung in wissenschaftliches Denken
+* 06.10.2020 | 13.10.2020 | 20.10.2020
+* Methodische Grundlagen wissenschaftlicher Psychologie (Scharnowski)
+
 # Inhalte und Ziele der Psychologie
 In der Psychologie ist der Mensch **Forschungsgegenstand** und Forscher zugleich. Daraus entstehen Herausforderungen durch individuelle Unterschiede, sowohl durch Anlage (Persönlichkeit) als auch die Situation (z.B. Tagesform). Beforscht werden:
 * Wahrnehmung

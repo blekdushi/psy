@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Leib-Seele-Problematik und bio-psychologische Methoden
+title: EWD - 10.11.2020
 ---
+
+* Einführung in wissenschaftliches Denken
+* 10.11.2020
+* Leib-Seele-Problematik und bio-psychologische Methoden (Lamm)
 
 # Analyseebenen
 
@@ -190,7 +194,7 @@ Experimente: Stich mit Nadel in die Hand oder andere Hautstellen, Ansehen von Bi
 
 # Transkranielle Magnetstimulation (TMS)
 
-Bei der **[transkranielle Magnetstimulation (TMS)](https://psychology.wikia.org/wiki/Transcranial_magnetic_stimulation)** stimuliert man über starke Magnetfelder bestimmte Areale im Gehirn. Dadurch löst man Aktionspotentiale bei den dortigen Neuronen aus. Ermöglicht Testen kausaler Hypothesen. Bei der _repetitiv transkraniellen Magnetstimulation (rTMS)_ wird das Areal in mehreren Durchläufen und bei jedem Durchlaufe mehrmals pro Sekunde stimuliert. 
+Bei der **[transkranielle Magnetstimulation (TMS)](https://psychology.wikia.org/wiki/Transcranial_magnetic_stimulation)** stimuliert man über starke Magnetfelder bestimmte Areale im Gehirn. Dadurch löst man Aktionspotentiale bei den dortigen Neuronen aus. Ermöglicht Testen kausaler Hypothesen. Bei der _repetitiv transkraniellen Magnetstimulation (rTMS)_ wird das Areal in mehreren Durchläufen und bei jedem Durchlaufe mehrmals pro Sekunde stimuliert.
 
 Experiment: emotionale Egozentrizität überwinden ist in einem gewissen Hirnareal angesiedlet. Störung dieser Region durch TMS -> emotionale Egozentrizität steigt
 
