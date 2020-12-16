@@ -3,6 +3,10 @@ layout: page
 title: PG - 10.11.2020
 ---
 
+* VO: Paradigmengeschichte
+* 10.11.2020
+* Ethik in der psychologischen Forschung (Lueger-Schuster)
+
 # Ethik
 
 ![Aufgliederung von Ethik](/assets/img/ethik.svg)
