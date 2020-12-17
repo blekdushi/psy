@@ -80,12 +80,12 @@ Sollen bei ethischen Fragestellungen Unterschiede zwischen Mensch und Tier gemac
 
 * 1932 - 1972 : Tuskegee
 * 1947 : [Nürnberger Kodex](http://www.ippnw.de/20jahre/erklaerungen/nuernbg.htm)
- * 10 ethische Prinzipien, Grundlage für weitere Kodizes
+  * 10 ethische Prinzipien, Grundlage für weitere Kodizes
 * 1952 : [APA Ethics of code](https://www.apa.org/ethics/code/ethics-code-2017.pdf)
 * 1963 : Milgram Experiment
 * 1964 : [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/)
- * World Medical Association (WMA)
- * Ethische Grundsätz nfür die medizinische Forschung am Menschen
+  * World Medical Association (WMA)
+  * Ethische Grundsätz nfür die medizinische Forschung am Menschen
 * 1971 : Stanford Prison Experiment
 * 1995 : [EFPA Meta Code of Ethics](http://ethics.efpa.eu/metaand-model-code/meta-code/)
 * 1998 : [DGPs Richtlinien](https://www.dgps.de/index.php?id=85)
@@ -94,31 +94,31 @@ Sollen bei ethischen Fragestellungen Unterschiede zwischen Mensch und Tier gemac
 **Tuskegee Syphilis Studien** („Bad Blood“)
 * Ziel: Untersuchung unbehandelter Syphilis und deren Folgen an 399 mit Syphilis infizierten afroamerikanischen Sharecroppern
 * Ethische Aspekte:
- * Fehlender Informed Consent
- * Täuschung
- * Diskriminierung einer ethnischen Gruppe
- * Kein therapeutischer Nutzen bei vorliegender Erkrankung
- * Hohes Risiko von Behinderung und Tod
+  * Fehlender Informed Consent
+  * Täuschung
+  * Diskriminierung einer ethnischen Gruppe
+  * Kein therapeutischer Nutzen bei vorliegender Erkrankung
+  * Hohes Risiko von Behinderung und Tod
 
 **Stanford-Prison-Experiment**
 * Durchführung: Philip Zimbardo
 * Ziel: Erforschung menschlichen Verhaltens in Gefangenschaft
-* 24 Student\*innen über Zeitungsannonce ausgewählt
+* 24 Student\*innen über Zeitungsinserat ausgewählt
 * Ethische Aspekte:
- * Genehmigung durch Human Subject Review Board
- * Vorhersehbarkeit der Eskalation der Situation
- * Mangelnder Informed Consent (Video-Aufnahmen)
- * Rechtfertigen die Kosten den Nutzen des Experiments?
+  * Genehmigung durch Human Subject Review Board
+  * Vorhersehbarkeit der Eskalation der Situation
+  * Mangelnder Informed Consent (Video-Aufnahmen)
+  * Rechtfertigen die Kosten den Nutzen des Experiments?
 
 **Milgram Experiment**
 * Durchführung: Stanley Milgram
 * Ziel: Studium zu blindem Gehorsam
 * Untersucht wurde die Bereitschaft, autoritären Anweisungen folge zu leisten, selbst wenn sie im Widerspruch zum eigenen Gewissen stehen.
 * Ethische Aspekte:
- * Täuschung der Teilnehmer*innen
- * Fragliche Kosten-Nutzen Relation
- * Auslösung von extremem Stress (kurzzeitige Traumatisierungen)
- * „Debriefing“ nach Teilnahme
+  * Täuschung der Teilnehmer*innen
+  * Fragliche Kosten-Nutzen Relation
+  * Auslösung von extremem Stress (kurzzeitige Traumatisierungen)
+  * „Debriefing“ nach Teilnahme
 
 # Profession & Verhaltenskodex
 
