@@ -15,38 +15,43 @@ Ethik und das daraus abgeleitete Verhalten basiert auf **Werten**, die durch unt
 
 # Das ethische Dilemma (am Beispiel Trump)
 
-Ein **ethisches Dilema** ist eine Entscheidungssituation, in welcher mehrere Handlungen richtig und geboten sind, die sich aber einander ausschließen und jede für sich einen Nachteil/Schaden/Risiko birgt (z.B. Weiche stellen bei Arbeitern auf dem Gleis, Folter anwenden bei Kindesentführer - Fall Daschner).
+Ein **ethisches Dilema** ist eine Entscheidungssituation, in welcher mehrere Handlungen möglich sind, die...
+* sich einander ausschließen
+* beide richtig sind
+* aber auch einen Nachteil/Schaden/Risiko bergen
 
-Darf man als Psychiater&ast;in die Psyche Trumps (aus der Ferne) kommentieren? Bereits Anfang der 60er Jahre ähnliche Situation bei _Barry Goldwater_ (amerikanischer Präsidentschaftskandidat). Psychiater&ast;innen verloren vor Gericht. Ethik-Kodex um **Goldwater-Regel** erweitert, die es verbietet Personen des öffentlichen Lebens aus der Ferne diagnostisch einzuschätzen, weil folgende Voraussetzungen für eine stichhaltige Diagnose nicht erfüllt sind:
+Beispiele sind: Weiche stellen bei Zug ja/nein wenn 1 vs. 5 Arbeiter auf den Gleisen stehen? Folter anwenden um einem Kindesentführer zum Reden zu bringen (Fall Daschner)?.
+
+Darf man als Psychiater\*in die Psyche Trumps kommentieren? Bereits Anfang der 60er Jahre ähnliche Situation bei _Barry Goldwater_ (amerikanischer Präsidentschaftskandidat). Psychiater\*innen verloren vor Gericht. Ethik-Kodex um **Goldwater-Regel** erweitert, die es verbietet Personen des öffentlichen Lebens aus der Ferne diagnostisch einzuschätzen, weil folgende Voraussetzungen für eine stichhaltige Diagnose nicht erfüllt sind:
 * sorgfältig durchgeführtes, persönliches Interview (Lebensgeschichte)
 * umfassende Untersuchung des psychischen Zustandes
 * körperlicher Gesundheitscheck, Laboruntersuchungen, usw.
 
-Um den Berufsstand zu schützen erweiterte die _American Psychological Association (APA)_ die Regel: jeder Kommentar ist verboten, wenn er sich auf den beruflichen Hintergrund zurückführen lässt
+Um den Berufsstand zu schützen erweiterte die _American Psychological Association (APA)_ die Regel: Psycholog\*innen ist jeder Kommentar verboten, wenn er sich auf ihren beruflichen Hintergrund zurückführen lässt.
 
 Professionelle Meinung (klinische Einschätzung) _vs._ Meinung eines Profis (in nichtklinischer Rolle)
 
-Leonard L. Glass argumentiert andererseits, dass es eine „metaphorische Pflicht“  jener Bürger sei, die über entsprechendes Fachwissen verfügen, auf die Muster der Irrationalität, Impulsivität und Intoleranz des mächtigsten Mannes der Welt hinzuweisen.
+Leonard L. Glass argumentiert andererseits, dass es eine „metaphorische Pflicht“  sei auf die Muster der Irrationalität, Impulsivität und Intoleranz des mächtigsten Mannes der Welt hinzuweisen, wenn man über entsprechendes Fachwissen verfügt.
 
-Die American Psychiatric (!) Association ist der Meinung, dass die Öffentlichkeit von Expertenmeinungen profitieren kann, man soll sich dabei nicht direkt auf eine konkrete Person beziehen.
+Die American Psychiatric (!) Association ist der Meinung, dass die Öffentlichkeit von Expertenmeinungen profitieren kann. Man soll sich dabei nicht direkt auf eine konkrete Person beziehen.
 
 Zwei Beantwortungen des Dilemmas:
 * *Nein* → Kein Kommentar:
-<br>Bild der Psychiatrie in der Öffentlichkeit wird Vorrang vor dem Recht der behandelnden Person eingeräumt, ihrem individuellen Gewissen treu zu bleiben.
+<br>Bild der Psychiatrie in der Öffentlichkeit vorrangig. Recht der Psychiater\*innen nachrangig, ihrem individuellen Gewissen treu zu bleiben.
 * *Ja* → Meinung äußern:
-<br>Vorrang der in der Berufsethik begründeten Pflicht, die Interessen der Öffentlichkeit im Auge zu behalten und die Gefahren zu benennen.
+<br>Vorrang hat berufsethische Pflicht, im Interesse der Öffentlichkeit die Gefahren zu benennen.
 
 Bei diesem Dilemma ist die Art der Fragestellung entscheidend, die man öffentlich kommentieren möchte: „Ist Donald Trump psychisch krank?“ _vs._ „Können Personen mit Verhaltensmustern Irrationalität, Impulsivität und  Intoleranz vernünftige Entscheidungen treffen?“
 
 # Ethik in der Ψ-Forschung
 
-Psychologie sowohl als wissenschaftliche Disziplin als auch im Dienst der Öffentlichkeit:
+Forschung und Praxis haben unterschiedliche ethische Fragestellungen. Psychologie ist sowohl wissenschaftliche Disziplin als angewandte Praxis:
 * Kenntnisse & Fähigkeiten (aus Forschung und Praxis)
 * Ethik (bei der Entwicklung und Anwendung dieser Kompetenzen)
 
-Unterschiede bei ethischen Fragestellungen in Forschung und Praxis. Da Ethik auf den in einer Gesellschaft gültigen Werten beruht, bildet sie den Rahmen innerhalb dessen eine Gesellschaft ihre Forschung betreibt. Wenn im Rahmen der Forschung mehrere Kulturen (mit unterschiedlichen Werten) involviert sind, muss auf diese Rücksicht genommen werden (**kultursensible Forschung**).
+Ethik basiert auf den gültigen Werten einer Kultur. Sie ist der Rahmen innerhalb dessen eine Gesellschaft ihre Forschung betreibt. Wenn im Rahmen der Forschung mehrere Kulturen (mit unterschiedlichen Werten) involviert sind, muss auf diese Rücksicht genommen werden → **kultursensible Forschung**.
 
-Psychologische Ethik ist notwendig, weil folgende vier Charakteristika der Psychologie ethische Fragestellungen aufwerfen:
+Psychologische Ethik ist notwendig, weil folgende **vier Charakteristika** der Psychologie ethische Fragestellungen aufwerfen:
 * Spezielle Methoden psychologischer Behandlung, Forschung, Diagnostik
 * Arbeit mit vulnerablen Populationen (z.B. Kinder, ältere Menschen...)
 * Entwicklung neuer Techniken und Anwendungen (z.B. Einbezug des Internets in Forschung und Behandlung)
@@ -82,7 +87,7 @@ Sollen bei ethischen Fragestellungen Unterschiede zwischen Mensch und Tier gemac
  * World Medical Association (WMA)
  * Ethische Grundsätz nfür die medizinische Forschung am Menschen
 * 1971 : Stanford Prison Experiment
-* 1995 : EFPA Meta Code of Ethics
+* 1995 : [EFPA Meta Code of Ethics](http://ethics.efpa.eu/metaand-model-code/meta-code/)
 * 1998 : [DGPs Richtlinien](https://www.dgps.de/index.php?id=85)
 * 2002 : [BÖP Richtlinien](https://www.boep.or.at/download/5bc5b77c3c15c81742000007/Ethikrichtlinien.pdf)
 
@@ -98,7 +103,7 @@ Sollen bei ethischen Fragestellungen Unterschiede zwischen Mensch und Tier gemac
 **Stanford-Prison-Experiment**
 * Durchführung: Philip Zimbardo
 * Ziel: Erforschung menschlichen Verhaltens in Gefangenschaft
-* 24 Student&ast;innen über Zeitungsannonce ausgewählt
+* 24 Student\*innen über Zeitungsannonce ausgewählt
 * Ethische Aspekte:
  * Genehmigung durch Human Subject Review Board
  * Vorhersehbarkeit der Eskalation der Situation
@@ -155,13 +160,13 @@ Sieheh auch <a href="#geschichte">Geschichte der Ethik</a> und den in der Timeli
 
 Vpn werden in Studien zu gewissen Handlungen aufgefordert. Dabei muss die **Würde und Autonomie der Person** gewährleistet werden (Privatheit, Selbstbestimmung, persönliche Freiheit).
 
-| Aspekt                          | Beschreibung                                                                                                                                                                                                                                        |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --- |
-| Informed Consent und Debriefing | Informed Consent?<br>Informationen (Ziel, Zweck, Dauer der Studie)?<br> Rücktritt der Studie?<br>Debriefing? Wann findet Debriefing statt?                                                                                                          |
-| Kosten & Nutzen der Teilnahme   | Fremdnützig vs. Interventionsforschung?<br>Vergütung (Gutscheine, Bonuspunkte)?<br>Ist diese Vergütung unverhältnismäßig hoch?<br>Welche Risiken? Können unerwünschte Vorkommnisse identifiziert werden?<br>Nachbetreuung der Vpn |     |
-| Datenschutz | Werden personenbezogene Daten anonymisiert?<br>Wer hat auf diese Daten zugriff?<br>Datenverarbeitung: automatisiert, manuelle Eingabe?<br>Haben die Vpn das Recht, ihre Daten löschen zu lassen?|
-|Vertraulichkeit und Privatsphäre              |Ist vertraulicher Umgang sichergestellt?<br>Fragen zu intimen bzw. sensiblen Themen (Sexualität, kriminelles Verhalten)?                                                                                                                                                                                                                                                   |
-|Anonymität und Publikation von Ergebnissen | Sind personenbezogene Daten anonymisiert?<br>Werden Vpn in der Publikation veröffentlicht?<br>Publikation gemäß der „good scientific practice“?|
+| Aspekt                                     | Beschreibung                                                                                                                                                                                                                      |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Informed Consent und Debriefing            | Informed Consent?<br>Informationen (Ziel, Zweck, Dauer der Studie)?<br> Rücktritt der Studie?<br>Debriefing? Wann findet Debriefing statt?                                                                                        |
+| Kosten & Nutzen der Teilnahme              | Fremdnützig vs. Interventionsforschung?<br>Vergütung (Gutscheine, Bonuspunkte)?<br>Ist diese Vergütung unverhältnismäßig hoch?<br>Welche Risiken? Können unerwünschte Vorkommnisse identifiziert werden?<br>Nachbetreuung der Vpn |
+| Datenschutz                                | Werden personenbezogene Daten anonymisiert?<br>Wer hat auf diese Daten zugriff?<br>Datenverarbeitung: automatisiert, manuelle Eingabe?<br>Haben die Vpn das Recht, ihre Daten löschen zu lassen?                                  |
+| Vertraulichkeit und Privatsphäre           | Ist vertraulicher Umgang sichergestellt?<br>Fragen zu intimen bzw. sensiblen Themen (Sexualität, kriminelles Verhalten)?                                                                                                          |
+| Anonymität und Publikation von Ergebnissen | Sind personenbezogene Daten anonymisiert?<br>Werden Vpn in der Publikation veröffentlicht?<br>Publikation gemäß der „good scientific practice“?                                                                                   |
 
 ## Aufklärung & Einwilligung
 
@@ -204,4 +209,4 @@ Besondere Vorsicht bei **personenbezogenen Daten**, insbesondere für sensitive 
 
 Bei Studien, die Daten aus Beobachtungen im Web erheben, können über öffentlich zugängliche Informationen trotz Anonymisierung Rückschlüsse auf die Person möglich sein (z.B. Suchmaschinen, Nutzerprofile...). Darstellung von Zitaten, Screenshots, fallstudienhaften Porträts o.Ä. müssen grundsätzlich anonymisiert werden, sofern UrheberIn nicht ausdrücklich Einwilligung zur Nennung des Namens/Pseudonym erteilt.
 
-Sollten die Kommunikationsräume der o.g. Kriterien zugangsbeschränkt sein, ist vor einer Veröffentlichung von Befunden zu einzelnen Personen, wörtlichen Zitaten o.Ä. – auch in anonymisierter oder pseudonymisierter Form – die Einwilligung der Nutzer&ast;innen einzuholen!
+Sollten die Kommunikationsräume der o.g. Kriterien zugangsbeschränkt sein, ist vor einer Veröffentlichung von Befunden zu einzelnen Personen, wörtlichen Zitaten o.Ä. – auch in anonymisierter oder pseudonymisierter Form – die Einwilligung der Nutzer\*innen einzuholen!
