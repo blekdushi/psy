@@ -17,7 +17,7 @@ title: EWD - 17.11.2020
 
 als teilnehmende Beobachterin: **Lotte Schenk-Danzinger**
 
-Studie finanziert durch _Rockerfeller Foundation_ ([New Deal](https://de.wikipedia.org/wiki/New_Deal) und _Arbeiterkammer_.
+Studie finanziert durch _Rockerfeller Foundation_ ([New Deal](https://de.wikipedia.org/wiki/New_Deal)) und _Arbeiterkammer_.
 
 # Zeitlicher und gesellschaftlicher Kontext
 
