@@ -189,8 +189,64 @@ TODO: Details zur Ausbildung von KP und GP in Folien wirklich relevant?
 * 1993 : ausreichende klinisch-psychologischen und gesundheitspsychologische Betreuung in Krankenanstalten ([KAKuG](https://www.jusline.at/gesetz/kakug/paragraf/11b))
 * 1994 : höchstpersönliches Recht zur Verweigerung der Aussage im Rahmen eines Strafprozesses§ 157 Abs. 1 Z 3 der Strafprozessordnung 1975 seit 01.01.1994
 * 1995 : [ASVG Gesamtvertrag](https://www.jusline.at/gesetz/asvg/paragraf/349) über klinisch-psychologische Diagnostik
+* 1997 : Arbeitszeitgesetz gilt auch für PsychologInnen in Krankenanstalten ([KA-AZG](https://www.jusline.at/gesetz/kaazg/paragraf/1))
+* 1997 : Ausbildungsvorschriften Verkehrspsychologie ([Führerscheingesetz](https://www.jusline.at/gesetz/fsg-gv/paragraf/20))
+* 1998 : klinisch-psychologische Beratung und Betreuung als gesundheitsbezogene Maßnahme im [SuchmittelGesetz](https://www.jusline.at/gesetz/smg/paragraf/11)
+* 2002 : Verankerung des Begriffs „Arbeitspsychologe“ im ([ArbeitnehmerInnenschutzgesetz](https://www.jusline.at/gesetz/aschg/paragraf/82a)) -  gesetzlich vorgeschriebenen Präventionszeiten
+* 2004 : Berücksichtigung der fachlichen Qualifikation von Klinischen PsychologInnen und GesundheitspsychologInnen bei Eintragung in die Liste der MediatorInnen ([ZivMediatG](https://www.jusline.at/gesetz/zivmediatg/paragraf/10))
+* 2006 : Freiheitsstrafe bei Missbrauch eines Autoritätsverhältnisses durch Psycholog\*innen ([StGB](https://www.jusline.at/gesetz/stgb/paragraf/212))
+* 2009 : Zuweisung zur Musiktherapie u.a. auch durch Klinische PsychologInnen nachweislich vor oder nach der ersten, jedenfalls vor der zweiten musiktherapeutischen Behandlung ([MuthG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005868))
 * 2013 : Beratung und Abklärung allfälliger psychischer Störungen durch KP/GP vor Durchführung eines Eingriffs an 16 bis 18-jährigen Personen, ebenso bei Erwachsenen mit psychischen Auffälligkeiten ([ÄsthOpG](https://www.jusline.at/gesetz/aesthopg/paragraf/5))
+* 2013 : Meldepflicht bei Verdacht auf Missbrauch von Minderjährigen ([KJH-G](https://www.jusline.at/gesetz/b-kjhg_2013/paragraf/37))
+* 2013 : Kostenübernahme klinisch-psychologischer Behandlungen bei Krisenintervention ([Verbrechensopfergesetz](https://www.jusline.at/gesetz/vog/paragraf/2))
+* 2013 : Evaluierung psychischer Fehlbelastungen durch ArbeitspsychologInnen (ASchG)
+* 2018 : Psychologisches Gutachten für Umgang mit waffen ([WaffG](https://www.ris.bka.gv.at/eli/bgbl/i/1997/12/P8/NOR40211242))
 
 ## Bachelor in Psychologie
 
+Keine „Psycholog\*innen“.
+
+Ausbildung zur „Psychologisch tätigen Fachkraft“ (PTF) möglich:
+* Theoretisch
+  * Bachelor Studium Psychologie
+  * Kommissionelle Prüfung: Berufsrecht und Ethik
+* Praktisch
+  * 750h postgraduell
+
+Tätigkeiten einer PTF:
+* PTF können nur unter Aufsicht von KP/GP arbeiten.
+* Testvorgaben und Testauswertung (unter Aufsicht)
+* Erstellen von Testberichten (unter Aufsicht)
+* Counseling (unter Aufsicht)
+* Führen von Beratungsgesprächen und Interviewführung (unter Aufsicht)
+* Bedienung und Wartung technischer Geräte für psychologische Untersuchungen
+* Dokumentation
+* Weiterbildung in psychologisch relevanten Themen
+* Mitarbeit in Forschungsprojekten
+
 # EFPA
+
+[European Federation of Psychologists' Associations](http://www.efpa.eu/)
+
+**Fakten**
+* seit 1981
+* 12 nationale Psychologenverbände
+* Anerkannte NGO im Europarat
+* 37 europäische Länder, davon 26 EU,
+* repräsentiert > 350.000 Psycholog\*innen
+
+**Tätigkeiten**
+* Promotion of psychology in Europe and beyond
+* European Congress of Psychology
+* The European Psychologist (journal) (Hogrefe Verlag)
+* Collaborative groups and projects
+* Support for Member Associations
+* Representation and lobbying at European level (EU, WHO, etc.)
+
+**Voraussetzungen für EuroPsy psychologists**
+* at least 5 years of academic education in psychology (of a particular profile)
+* at least 1 year of practice under the supervision of a qualified supervisor
+* provide evidence of professional competence
+* subscribe to a statement on ethical conduct
+* engage in continued professional education EuroPsy is a standard of qualification set by EFPA
+* EuroPsy is valid for a limited time (7 years) and for a particular area of professional practice
