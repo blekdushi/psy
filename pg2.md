@@ -31,7 +31,7 @@ title: PG - 17.11.2020
 
 **Geschichte**
 * 1953 : Gründung des BÖP
-* 1991 : Psychologe
+* 1991 : 1. Psychologen-Gesetz
 * 1992 : Gründung der [Österreichischen Akademie für Psychologie](http://www.psychologieakademie.at) (ÖAP)
 * 1994 : Gesamtvertrag Klinisch-psychologische Diagnostik
 * 2013 : 2. Psychologen-Gesetz
