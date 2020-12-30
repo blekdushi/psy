@@ -98,7 +98,7 @@ title: PG - 17.11.2020
 # Berufsfelder
 
 **Arbeits-, Wirtschafts- und Organisationspsychologie**
-* Arbeitspsychologie:
+* Arbeits- und Organisationspsychologie:
   <br>Personalauswahl/-entwicklung, Diversity, Führung, Motivation, gesunde Arbeitsbedingungen, betriebliche Gesundheitsförderung, Organisationentwicklung
 * Wirtschaftspsychologie
   <br>Konsumentenverhalten, Markt- und Meinungspsychologie, Konsumentenforschung, Werbepsychologie, Verhaltensökonomie
@@ -120,13 +120,13 @@ Erleben und Verhalten des älteren Menschen, Alterungsprozessen und deren Beeinf
 
 **Psychotherapie** eigenständige Heilbehandlung zur Verbesserung von psychischen Leidenszuständen, psychosomatisch oder psychosozial bedingten Krankheiten oder Verhaltensstörungen. PsychotherapeutInnen im BÖP - fünfjähriges Universitätsstudium der Psychologie und eine abgeschlossene Psychotherapieausbildung
 
-**Rechtspsychologie** Erstellen von Gutachten im Zivilrecht (z.B. Obsorge) und im Strafrecht (z.B. Begutachtung der Glaubhaftigkeit von Zeugenaussagen), Behandlung und Rehabilitation von StraftäterInnen, Entlassungs- prognosen von Häftlingen, Betreuung von Opfern, TäterInnen und Angehörigen als auch die Untersuchung der Ursachen/Motive zu kriminellem Verhalten. Bearbeitung von psychologischen Fragen zu familienrechtlichen Problemen
+**Rechtspsychologie** Erstellen von Gutachten im Zivilrecht (z.B. Obsorge) und im Strafrecht (z.B. Begutachtung der Glaubhaftigkeit von Zeugenaussagen), Behandlung und Rehabilitation von StraftäterInnen, Entlassungsprognosen von Häftlingen, Betreuung von Opfern, TäterInnen und Angehörigen als auch die Untersuchung der Ursachen/Motive zu kriminellem Verhalten. Bearbeitung von psychologischen Fragen zu familienrechtlichen Problemen
 
-**Sportpsychologie** Unterstützung von SportlerInnen durch mentale Techniken Betreuung im Einzelsetting, Mannschaften oder Gruppen sowie TrainerInnen, Eltern und Teammitglieder. Sportpsychologie wird im Hobby sowie Spitzensport (Bundes Sportorganisation – BSO) eingesetzt und umfasst auch Bereiche aus dem Gesundheitssport. Themen: Leistungsdruck im Sport, Kommunikation und Selbstgespräche, Aktivierung und Entspannung durch Methoden wie Tranceinduktion oder Visualisierungstechniken, Motivationspsychologie
+**Sportpsychologie** Unterstützung von SportlerInnen durch mentale Techniken. Betreuung im Einzelsetting, Mannschaften oder Gruppen sowie TrainerInnen, Eltern und Teammitglieder. Sportpsychologie wird im Hobby sowie Spitzensport (Bundes Sportorganisation – BSO) eingesetzt und umfasst auch Bereiche aus dem Gesundheitssport. Themen: Leistungsdruck im Sport, Kommunikation und Selbstgespräche, Aktivierung und Entspannung durch Methoden wie Tranceinduktion oder Visualisierungstechniken, Motivationspsychologie
 
 **Traumapsychologie** Folgeerkrankungen von traumatisierender Ereignisse wie Gewalt, Krieg, Vertreibung, Folter, Vergewaltigung, sexueller Missbrauch, Misshandlung, Vernachlässigung, Naturkatastrophen wie Lawinen, Erdbeben, Tsunami etc. Nicht nur das eigene Erleben, auch die Zeugenschaft solcher Ereignisse kann traumatisierend wirken (indirekte Traumatisierung).
 
-**Verkehrspsychologie** verkehrsbezogenen Fragestellungen, wie Verkehrseignung/-tauglichkeit im Straßen- und Luftverkehr, auf Wasserwegen, Schienen. Verhaltensforschung von FußgängerInnen- und RadfahrerInnenverhalten. Schwerpunkt: verkehrspsychologischen Diagnostik und in der Beratung, Rehabilitation und Nachschulung auffälliger KraftfahrerInnen.
+**Verkehrspsychologie** verkehrsbezogenen Fragestellungen, wie Verkehrseignung/-tauglichkeit im Straßen- und Luftverkehr, auf Wasserwegen, Schienen. Verhaltensforschung von FußgängerInnen- und RadfahrerInnenverhalten. Schwerpunkt: verkehrspsychologische Diagnostik und Beratung, Rehabilitation und Nachschulung auffälliger KraftfahrerInnen.
 
 # Psycholog\*innengesetz
 
@@ -187,15 +187,15 @@ TODO: Details zur Ausbildung von KP und GP in Folien wirklich relevant?
 * 1992 : Ärzte müssen eine psychologische Betreuung im Rahmen medizinisch unterstützter Fortpflanzung empfehlen ([FMedG](https://www.ris.bka.gv.at/eli/bgbl/1992/275/P7/NOR40168494))
 * 1992 : klinisch-psychologische Diagnostik als Pflichtleistung der [sozialen Krankenversicherung](https://www.jusline.at/gesetz/asvg/paragraf/135)
 * 1993 : ausreichende klinisch-psychologischen und gesundheitspsychologische Betreuung in Krankenanstalten ([KAKuG](https://www.jusline.at/gesetz/kakug/paragraf/11b))
-* 1994 : höchstpersönliches Recht zur Verweigerung der Aussage im Rahmen eines Strafprozesses§ 157 Abs. 1 Z 3 der Strafprozessordnung 1975 seit 01.01.1994
+* 1994 : Recht zur Verweigerung der Aussage im Rahmen eines Strafprozesses [Strafprozessordnung](https://www.jusline.at/gesetz/stpo/paragraf/157)
 * 1995 : [ASVG Gesamtvertrag](https://www.jusline.at/gesetz/asvg/paragraf/349) über klinisch-psychologische Diagnostik
 * 1997 : Arbeitszeitgesetz gilt auch für PsychologInnen in Krankenanstalten ([KA-AZG](https://www.jusline.at/gesetz/kaazg/paragraf/1))
 * 1997 : Ausbildungsvorschriften Verkehrspsychologie ([Führerscheingesetz](https://www.jusline.at/gesetz/fsg-gv/paragraf/20))
-* 1998 : klinisch-psychologische Beratung und Betreuung als gesundheitsbezogene Maßnahme im [SuchmittelGesetz](https://www.jusline.at/gesetz/smg/paragraf/11)
+* 1998 : klinisch-psychologische Beratung und Betreuung als gesundheitsbezogene Maßnahme im [Suchtmittelgesetz](https://www.jusline.at/gesetz/smg/paragraf/11)
 * 2002 : Verankerung des Begriffs „Arbeitspsychologe“ im ([ArbeitnehmerInnenschutzgesetz](https://www.jusline.at/gesetz/aschg/paragraf/82a)) -  gesetzlich vorgeschriebenen Präventionszeiten
 * 2004 : Berücksichtigung der fachlichen Qualifikation von Klinischen PsychologInnen und GesundheitspsychologInnen bei Eintragung in die Liste der MediatorInnen ([ZivMediatG](https://www.jusline.at/gesetz/zivmediatg/paragraf/10))
 * 2006 : Freiheitsstrafe bei Missbrauch eines Autoritätsverhältnisses durch Psycholog\*innen ([StGB](https://www.jusline.at/gesetz/stgb/paragraf/212))
-* 2009 : Zuweisung zur Musiktherapie u.a. auch durch Klinische PsychologInnen nachweislich vor oder nach der ersten, jedenfalls vor der zweiten musiktherapeutischen Behandlung ([MuthG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005868))
+* 2009 : Zuweisung zur Musiktherapie u.a. auch durch Klinische PsychologInnen nachweislich vor oder nach der ersten, jedenfalls vor der zweiten musiktherapeutischen Behandlung ([MuthG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005868)
 * 2013 : Beratung und Abklärung allfälliger psychischer Störungen durch KP/GP vor Durchführung eines Eingriffs an 16 bis 18-jährigen Personen, ebenso bei Erwachsenen mit psychischen Auffälligkeiten ([ÄsthOpG](https://www.jusline.at/gesetz/aesthopg/paragraf/5))
 * 2013 : Meldepflicht bei Verdacht auf Missbrauch von Minderjährigen ([KJH-G](https://www.jusline.at/gesetz/b-kjhg_2013/paragraf/37))
 * 2013 : Kostenübernahme klinisch-psychologischer Behandlungen bei Krisenintervention ([Verbrechensopfergesetz](https://www.jusline.at/gesetz/vog/paragraf/2))
