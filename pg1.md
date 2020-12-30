@@ -154,7 +154,7 @@ TODO: Tabelle von Folie 50
 
 # Richtlinien und Empfehlungen
 
-Sieheh auch <a href="#geschichte">Geschichte der Ethik</a> und den in der Timeline erwähnten Richtlinien und Empfehlungen.
+Siehe auch <a href="#geschichte">Geschichte der Ethik</a> und die dort in der Timeline erwähnten Richtlinien und Empfehlungen.
 
 # Ethische Aspekte der psychologischen Forschung
 
@@ -163,8 +163,8 @@ Vpn werden in Studien zu gewissen Handlungen aufgefordert. Dabei muss die **Wür
 | Aspekt                                     | Beschreibung                                                                                                                                                                                                                      |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Informed Consent und Debriefing            | Informed Consent?<br>Informationen (Ziel, Zweck, Dauer der Studie)?<br> Rücktritt der Studie?<br>Debriefing? Wann findet Debriefing statt?                                                                                        |
-| Kosten & Nutzen der Teilnahme              | Fremdnützig vs. Interventionsforschung?<br>Vergütung (Gutscheine, Bonuspunkte)?<br>Ist diese Vergütung unverhältnismäßig hoch?<br>Welche Risiken? Können unerwünschte Vorkommnisse identifiziert werden?<br>Nachbetreuung der Vpn |
-| Datenschutz                                | Werden personenbezogene Daten anonymisiert?<br>Wer hat auf diese Daten zugriff?<br>Datenverarbeitung: automatisiert, manuelle Eingabe?<br>Haben die Vpn das Recht, ihre Daten löschen zu lassen?                                  |
+| Kosten & Nutzen der Teilnahme              | [Fremdnützig](https://www.duden.de/rechtschreibung/fremdnuetzig) vs. [Interventionsforschung](https://www.spektrum.de/lexikon/psychologie/interventionsstudien/7398)?<br>Vergütung (Gutscheine, Bonuspunkte)?<br>Ist diese Vergütung unverhältnismäßig hoch?<br>Welche Risiken? Können unerwünschte Vorkommnisse identifiziert werden?<br>Nachbetreuung der Vpn |
+| Datenschutz                                | Werden personenbezogene Daten anonymisiert?<br>Wer hat auf diese Daten Zugriff?<br>Datenverarbeitung: automatisiert, manuelle Eingabe?<br>Haben die Vpn das Recht, ihre Daten löschen zu lassen?                                  |
 | Vertraulichkeit und Privatsphäre           | Ist vertraulicher Umgang sichergestellt?<br>Fragen zu intimen bzw. sensiblen Themen (Sexualität, kriminelles Verhalten)?                                                                                                          |
 | Anonymität und Publikation von Ergebnissen | Sind personenbezogene Daten anonymisiert?<br>Werden Vpn in der Publikation veröffentlicht?<br>Publikation gemäß der „good scientific practice“?                                                                                   |
 
