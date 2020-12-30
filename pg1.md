@@ -11,23 +11,23 @@ title: PG - 10.11.2020
 
 ![Aufgliederung von Ethik](/assets/img/ethik.svg)
 
-Ethik und das daraus abgeleitete Verhalten basiert auf **Werten**, die durch unterschiedliche Faktoren bestimmt sind (z.B. Religion, Kultur, Überzeugungen...). Die psychologische Ethik und somit die Psychologie ist daher *nicht* wertfrei. Diese Werte ändern sich über die Zeit.
+Ethik und das daraus abgeleitete Verhalten basiert auf **Werten**, die von unterschiedliche Faktoren bestimmt sind (z.B. Religion, Kultur, Überzeugungen...). Die psychologische Ethik und somit die Psychologie ist daher *nicht* wertfrei. Diese Werte ändern sich mit der Zeit.
 
 # Das ethische Dilemma (am Beispiel Trump)
 
 Ein **ethisches Dilema** ist eine Entscheidungssituation, in welcher mehrere Handlungen möglich sind, die...
-* sich einander ausschließen
-* beide richtig sind
-* aber auch einen Nachteil/Schaden/Risiko bergen
+* ...sich einander ausschließen
+* ...beide richtig sind
+* ...aber auch einen Nachteil/Schaden/Risiko bergen
 
-Beispiele sind: Weiche stellen bei Zug ja/nein wenn 1 vs. 5 Arbeiter auf den Gleisen stehen? Folter anwenden um einem Kindesentführer zum Reden zu bringen (Fall Daschner)?.
+Beispiele sind: Weiche stellen bei Zug ja/nein wenn 1 vs. 5 Arbeiter auf den Gleisen stehen? Folter anwenden um einem Kindesentführer zum Reden zu bringen (Fall Daschner)?
 
 Darf man als Psychiater\*in die Psyche Trumps kommentieren? Bereits Anfang der 60er Jahre ähnliche Situation bei _Barry Goldwater_ (amerikanischer Präsidentschaftskandidat). Psychiater\*innen verloren vor Gericht. Ethik-Kodex um **Goldwater-Regel** erweitert, die es verbietet Personen des öffentlichen Lebens aus der Ferne diagnostisch einzuschätzen, weil folgende Voraussetzungen für eine stichhaltige Diagnose nicht erfüllt sind:
 * sorgfältig durchgeführtes, persönliches Interview (Lebensgeschichte)
 * umfassende Untersuchung des psychischen Zustandes
 * körperlicher Gesundheitscheck, Laboruntersuchungen, usw.
 
-Um den Berufsstand zu schützen erweiterte die _American Psychological Association (APA)_ die Regel: Psycholog\*innen ist jeder Kommentar verboten, wenn er sich auf ihren beruflichen Hintergrund zurückführen lässt.
+Um den Berufsstand zu schützen verschärfte die _American Psychological Association (APA)_ die Regel: Psycholog\*innen ist jeder Kommentar verboten, wenn er sich auf ihren beruflichen Hintergrund zurückführen lässt.
 
 Professionelle Meinung (klinische Einschätzung) _vs._ Meinung eines Profis (in nichtklinischer Rolle)
 
@@ -45,7 +45,7 @@ Bei diesem Dilemma ist die Art der Fragestellung entscheidend, die man öffentli
 
 # Ethik in der Ψ-Forschung
 
-Forschung und Praxis haben unterschiedliche ethische Fragestellungen. Psychologie ist sowohl wissenschaftliche Disziplin als angewandte Praxis:
+Forschung und Praxis haben unterschiedliche ethische Fragestellungen. Psychologie ist sowohl wissenschaftliche Disziplin als auch angewandte Praxis:
 * Kenntnisse & Fähigkeiten (aus Forschung und Praxis)
 * Ethik (bei der Entwicklung und Anwendung dieser Kompetenzen)
 
@@ -62,7 +62,7 @@ Ethik betrifft nicht nur die _Durchführung_ von Studien, sondern auch deren _Er
 Forschungsmethoden, ob invasiv oder non-invasiv, haben **Einfluss auf die Vpn**. Ethische Erwägungen müssen folgende Dimensionen berücksichtigen:
 * zwischenmenschlich ↔ physisch
 * hoch ↔ niedrig invasiv
-* Vulnerabilität (Entwicklungsstand, Alter, phyisch & psychische Gesundheit...)
+* Vulnerabilität (Entwicklungsstand, Alter, physisch & psychische Gesundheit...)
 
 Studien brauchen ein **Ethikvotum** von einer **Ethikkommission**. Dieses ist i.d.R. auch Voraussetzung für die Publikation in Journals:
 * Wie erfolgt die Aufklärung und Einverständniserklärung der Teilnehmenden?
@@ -81,11 +81,11 @@ Sollen bei ethischen Fragestellungen Unterschiede zwischen Mensch und Tier gemac
 * 1932 - 1972 : Tuskegee
 * 1947 : [Nürnberger Kodex](http://www.ippnw.de/20jahre/erklaerungen/nuernbg.htm)
   * 10 ethische Prinzipien, Grundlage für weitere Kodizes
-* 1952 : [APA Ethics of code](https://www.apa.org/ethics/code/ethics-code-2017.pdf)
+* 1952 : [APA Ethics Code](https://www.apa.org/ethics/code/ethics-code-2017.pdf)
 * 1963 : Milgram Experiment
 * 1964 : [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/)
   * World Medical Association (WMA)
-  * Ethische Grundsätz nfür die medizinische Forschung am Menschen
+  * Ethische Grundsätze für die medizinische Forschung am Menschen
 * 1971 : Stanford Prison Experiment
 * 1995 : [EFPA Meta Code of Ethics](http://ethics.efpa.eu/metaand-model-code/meta-code/)
 * 1998 : [DGPs Richtlinien](https://www.dgps.de/index.php?id=85)
@@ -100,16 +100,6 @@ Sollen bei ethischen Fragestellungen Unterschiede zwischen Mensch und Tier gemac
   * Kein therapeutischer Nutzen bei vorliegender Erkrankung
   * Hohes Risiko von Behinderung und Tod
 
-**Stanford-Prison-Experiment**
-* Durchführung: Philip Zimbardo
-* Ziel: Erforschung menschlichen Verhaltens in Gefangenschaft
-* 24 Student\*innen über Zeitungsinserat ausgewählt
-* Ethische Aspekte:
-  * Genehmigung durch Human Subject Review Board
-  * Vorhersehbarkeit der Eskalation der Situation
-  * Mangelnder Informed Consent (Video-Aufnahmen)
-  * Rechtfertigen die Kosten den Nutzen des Experiments?
-
 **Milgram Experiment**
 * Durchführung: Stanley Milgram
 * Ziel: Studium zu blindem Gehorsam
@@ -119,6 +109,16 @@ Sollen bei ethischen Fragestellungen Unterschiede zwischen Mensch und Tier gemac
   * Fragliche Kosten-Nutzen Relation
   * Auslösung von extremem Stress (kurzzeitige Traumatisierungen)
   * „Debriefing“ nach Teilnahme
+
+**Stanford-Prison-Experiment**
+* Durchführung: Philip Zimbardo
+* Ziel: Erforschung menschlichen Verhaltens in Gefangenschaft
+* 24 Student\*innen über Zeitungsinserat ausgewählt
+* Ethische Aspekte:
+  * Genehmigung durch Human Subject Review Board
+  * Vorhersehbarkeit der Eskalation der Situation
+  * Mangelnder Informed Consent (Video-Aufnahmen)
+  * Rechtfertigen die Kosten den Nutzen des Experiments?
 
 # Profession & Verhaltenskodex
 
