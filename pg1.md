@@ -129,9 +129,9 @@ Den Begriff **Profession** definieren Pryzwansky & Wendt (1999, zitiert nach Lin
 * Systematic training
 * Body of knowledge ‚to profess‘
 * Code of ethics
-* Regulation of the member who provide a service
+* Regulation of the members who provide services
 
-Das ist _eine_ Definition von Profession. Den Begriff allgemein gültig zu definieren ist komplex aufgrund von _historischen und kulturellen Faktoren_.
+Das ist _eine_ Definition von Profession. Den Begriff allgemein gültig zu definieren ist __komplex aufgrund von historischen und kulturellen Faktoren__.
 Weitere zu berücksichtigende Faktoren für die Begriffsdefinition:
 * Specificity of knowledge and skill
 * Level of skill application
@@ -139,7 +139,7 @@ Weitere zu berücksichtigende Faktoren für die Begriffsdefinition:
 
 Psychologische Tätigkeiten gibt es in verschiedenen Berufen (Psychologen, Psychiater, Pädagogen...). Deshalb ist ein Abgrenzung der Professionen und ihrer Verhaltenskodizes wichtig um eindeutig zuordnen zu können, wer sich an welchen Kodex halten soll.
 
-**Verhaltensrichtlinien** sind meist für die Praxis und den Umgang mit Klienten/Patienten ausgelegt. Es wird versucht auch die Forschung und ihren Umgang mit Forschungsteilnehmenden zu inkludieren.
+**Verhaltensrichtlinien** sind überwiegend für die Praxis und den Umgang mit Klienten/Patienten ausgelegt. Sie sollen zukünftig auch die Forschung und ihren Umgang mit Forschungsteilnehmenden inkludieren.
 
 Kritik an Verhaltenskodex für Psychologen durch Calvin Hall: Er meinte, von Psychologen könnte man erwarten, dass sie sich ethisch verhalten. Dagegen spricht die Empirie: Allein im Jahr 2006 wurden bei der British Psychological Society insgesamt 109 Beschwerden (an 20 verschiedene Ausschüsse) eingereicht.
 Hall meint, ein Kodex sei kontraproduktiv, da man seine Lücken ausnützen und somit sein eventuell nicht-ethisches Verhalten (vermeintlich) legitimieren könne.
