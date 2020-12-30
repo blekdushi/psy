@@ -83,8 +83,8 @@ title: PG - 17.11.2020
   * Familie und Partnerschaft (17,2%)
   * Ängste (16%)
   * Beratung Corona-Pandemie (16%)
-  * Belastungsreaktionen Corona-Pandemie (8,8%)
   * Depression (10,2%)
+  * Belastungsreaktionen Corona-Pandemie (8,8%)
   * Krisenintervention & Suizidalität (6,3%)
   * Arbeit & Beruf (5,8 %)
 
