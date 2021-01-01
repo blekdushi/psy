@@ -119,7 +119,7 @@ Es gibt mehrere **Hypothesenarten**, wobei Hussy et al. (2013, S.32) folgende he
 
 Weil man in der Psychologie Hypothesen eigentlich nie zu 100% widerlegen kann, ist die _quasiuniverselle Hypothese_ von besonderer Bedeutung. Sie postuliert Regelmäßigkeiten aber toleriert gleichzeitig auch Ausnahmen. Eine Beispielhypothese ist <q>Wenn beim Lösen von Problemen Pausen gemacht werden, dann ist die Lösungsgüte zumeist besser, als wenn keine Pausen gemacht werden</q> Hussy et al. (2013, S.115). Sie ist somit eine Wahrscheinlichkeitsaussage und ist nicht schon durch eine einzige, sondern erst durch eine signifikante Anzahl gegenteiliger Beobachtungen falsifiziert.
 
-Eine Hypothese kann auf unterschiedlichen **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen. Folgende Grafik zeigt Beispiele von Hussy et al. (2013, S.116) für Hypothesen und ihre Ebenen:
+Eine Hypothese kann auf unterschiedlichen <a id="Hypothesenebenen"></a> **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen. Folgende Grafik zeigt Beispiele von Hussy et al. (2013, S.116) für Hypothesen und ihre Ebenen:
 
 ![Hypothesenebenen mit Beispielen](/assets/img/hypothesenebenen.svg)
 
@@ -135,6 +135,7 @@ Beim **β-Fehler** (Fehler 2. Art) hat man die Nullhypothese fälschlicherweise 
 
 In der Regel haben α-Fehler weitreichendere Folgen als β-Fehler.
 
+<a id="Population"></a>
 <q>Unter der [Grundgesamtheit](https://de.wikipedia.org/wiki/Grundgesamtheit) (auch **Population** genannt) versteht man in der Psychologie die Menge aller potenziellen Untersuchungsobjekte für eine gegebene Fragestellung." (Hussy et al., 2013, S.118)</q>
 
 <q>Unter einer **[Stichprobe](https://dorsch.hogrefe.com/stichwort/stichprobe)** versteht man eine Teilmenge aus einer Grundgesamtheit, die
@@ -254,7 +255,7 @@ Vorteile:
 Nachteile:
 * Störvariablen weit weniger kontrollierbar
 
-<q>Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV ausschließlich auf die Variation der UV zurückgeführt werden können.</q> (Hussy et al., 2013, S.137)
+<a id="interneValidität"></a><q>Die **interne Validität** eines Experiments ist gegeben, wenn Veränderungen in der AV ausschließlich auf die Variation der UV zurückgeführt werden können.</q> (Hussy et al., 2013, S.137)
 
 Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation) und ist umso höher umso besser Störvariablen minimiert/eliminiert werden konnten. Auch abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → Gegenwirken mit [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) bzw. [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, S.124)
 
@@ -264,7 +265,7 @@ Sie steigt mit der Repräsentativität der Stichprobe und mit Nachweis des Effek
 
 ### Experiment, Quasi-Experiment und Nicht-Experiment
 
-<q>Unter einem **[Experiment](https://de.wikipedia.org/wiki/Experiment#Psychologie,_Sozialwissenschaften)** (Laborexperiment, Feldexperiment) versteht man die systematische Beobachtung einer abhängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variablen bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von Probanden und experimentellen Bedingungen gewährleistet sein muss.</q>  (Hussy et al., 2013, S.120)<br>
+<a id="Experiment"></a><q>Unter einem **[Experiment](https://de.wikipedia.org/wiki/Experiment#Psychologie,_Sozialwissenschaften)** (Laborexperiment, Feldexperiment) versteht man die systematische Beobachtung einer abhängigen Variablen unter verschiedenen Bedingungen einer unabhängigen Variablen bei gleichzeitiger Kontrolle der Störvariablen, wobei die zufällige Zuordnung von Probanden und experimentellen Bedingungen gewährleistet sein muss.</q>  (Hussy et al., 2013, S.120)<br>
 Das Ziel des Experiments ist die Prüfung von Hypothesen, die einen kausalen Zusammenhang postulieren. Dabei werden zwei Gruppen gebildet: die _Experimentalgruppe_ und die _Kontrollgruppe_. Durch zufällige Zuordnung der Vpn zu den Gruppen (Randomisierung) soll die Vergleichbarkeit der Gruppen gewährleistet werden. Danach werden durch _experimentelle Variation_ die Untersuchungsbedingungen der Gruppen systematisch variiert und die abhängige Variable (AV) gemessen. So eine Anordnung nennt man auch [Randomized controlled trial (RCT)](https://de.wikipedia.org/wiki/Randomisierte_kontrollierte_Studie).
 
 Von einem **[Quasi-Experiment](https://de.wikipedia.org/wiki/Quasi-Experiment)** spricht man, wenn man die Vpn den Gruppen nicht zufällig zuordnen kann (z.B. Studie über den Einfluss von Lernapps auf den Lernerfolg bei Schülern). Dadurch kommt es zu Auswahlverzerrungen (=Störeffekt). Durch Parallelisierung und Matching kann man Störvariablen besser kontrollieren. Die Einteilung in Gruppen, die experimentelle Variation und das Messen der AV sind wie beim Experiment. Das Quasi-Experiment dient ebenfalls der Prüfung von Kausalhypothesen, jedoch mit geringerer interner Validität.

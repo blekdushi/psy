@@ -77,10 +77,10 @@ Introspektive Daten können auch nützlich sein, z.B. bei der Entwicklung von H�
 
 # Implicit Association Test (IAT)
 
-Der **Implicit Association Test (IAT)** ist ein Ansatz Einstellungen zu messen ohne auf Introspektion und die damit verbundenen Nachteile zurückgreifen zu müssen. Er findet Anwendung in der _Sozialpsychologie_. Die Grundidee dabei ist, dass neuronale Aktivierung von kompatiblen Konzepten schneller erfolgt als bei inkompatiblen. Beim Test misst man deshalb die Reaktionszeit der Probanden, wenn sie Begriffe mit einer Kategorie assoziieren müssen. Beispiel am Messen von rassistischen Ressentiments (Hautfarbe):
+Der **[Implicit Association Test (IAT)](https://en.wikipedia.org/wiki/Implicit-association_test)** ist ein Ansatz Einstellungen zu messen ohne auf Introspektion und die damit verbundenen Nachteile zurückgreifen zu müssen. Er findet Anwendung in der _Sozialpsychologie_. Die Grundidee dabei ist, dass neuronale Aktivierung von kompatiblen Konzepten schneller erfolgt als bei inkompatiblen. Beim Test misst man deshalb die Reaktionszeit der Probanden, wenn sie Begriffe mit einer Kategorie assoziieren müssen. Beispiel am Messen von rassistischen Ressentiments (Hautfarbe):
 * 4 Kategorien:
- * 2 Zielkategorien (target)
- * 2 Eigenschaftskategorien (attribute)
+  * 2 Zielkategorien (target)
+  * 2 Eigenschaftskategorien (attribute)
 * 5 Phasen, in denen Vpn Vornamen und Eigenschaftswörter den Kategorien zuordnen mussten:
  1. Initial target-concept discrimination (black - white)
  2. Associated attribute discrimination (pleasent - unpleasent)
@@ -90,10 +90,13 @@ Der **Implicit Association Test (IAT)** ist ein Ansatz Einstellungen zu messen o
 * Vergleich der Reaktionszeiten in Phase 3 und 5.
 * Ergebnis (**IAT-Effekt**) war für weiße Vpn positiv
 
+Der Test kann auch mit 7 Phasen durchgeführt werden. In diesem Fall werden die obige 3. und 5. Phase je zweimal hintereinander ausgeführt.
+
 **Kritik** am IAT:
 * keine/kaum Re-Test Reliabilität
 * situations- und aufgabenabhängig
 * verfälschbar (Vpn können Reaktionszeit verzögern)
+* Zweifel an Validität - Test misst vielleicht eher kulturelles Wissen als persönliche Einstellungen
 * Konfundierung ([Salienz](https://dorsch.hogrefe.com/stichwort/salienz) der gezeigten Begriffe beeinflusst das Ergebnis)
 
 <q>Zu Störvariablen werden andere Einflussgrößen erst dann, wenn sie systematisch mit den Stufen einer UV variieren und auf die AV einwirken. Diesen Sachverhalt nennt man **Konfundierung**. Zu verhindern ist also die systematische Variation einer potenziellen Einflussgröße mit den Stufen einer oder mehrerer UV.</q> (Hussy et al., 2013, S.121)
@@ -104,9 +107,80 @@ Die Open Science Collaboration (2015) hat 100 publizierte Replikationsstudien un
 
 <q>Daten bestehen, Theorien vergehen</q> Gesammelte Daten sollen von der Theorie getrennt werden, damit man auch zu einem späteren Zeitpunkt darauf zurückgreifen kann, wenn sich die Theorie in der Zwischenzeit überholt, erweitert, geändert... hat.
 
-# Quantitative Forschungsmethoden (Kapitel Zusammenfassung)
+# Quantitative Forschungsmethoden (Buchkapitel)
 
-TODO: ausformulieren der Kapitel Zusammenfassung
+Die folgenden Inhalte sind eine Zusammenfassung beziehungsweise punktuell zitierte Texte aus dem Buch von Hussy et al. (2013, S.115-145). Das Buch ist auch Grundlage und Referenz der Vorlesung von <a href="./ewd1">Scharnowski</a>, weshalb sich im Folgenden einige Überschneidungen ergeben. Um die Inhalte nicht redundant zusammenfassen zu müssen, sind an den entsprechenden Stellen Links zur Zusammenfassung der anderen Vorlesung eingefügt.
+
+## Hypothesen und Rückschlüsse
+
+Mit quantitativen Forschungsmethoden lassen sich sowohl __Kausalhypothesen__ (Experiment) als auch __Zusammenhangshypothesen__ (auch mit nicht-experimentellen Verfahren, z.B. Metaanalyse) prüfen.
+
+Siehe <a href="./ewd1#Hypothesenebenen">Hypothesenebenen</a>
+
+Beim statistischen Auswerten der Daten prüft man die Signifikanz des Ergebnisses. Konnte ein Effekt (H<sub>1</sub>) gemessen werden und ist das Ergbnis mit hoher Wahrscheinlichkeit _nicht_ durch Zufall zustande gekommen, dann ist die Testhypothese H<sub>0</sub> falsifiziert.
+
+Um einen __Rückschluss__ von den _Testhypothesen_ auf die _empirisch-inhaltlichen_ machen zu können, muss man zusätzlich die __Effektgröße__ beurteilen. Diese darf man nicht mit Signifikanz verwechseln. Signifikanz sagt lediglich aus, wie wahrscheinlich der beobachtete Effekt durch Zufall  zustande gekommen ist, aber nicht, wie groß der Effekt war. Zum Beispiel kann die Verbesserung einer Testleistung, wenn die Vpn regelmäßige Pausen zwischen den Testaufgaben macht, signifikant sein aber gleichzeitig nur so eine geringe Verbesserung sein (=kleine Effektgröße), dass sie unbedeutend und vernachlässigbar ist.
+
+Um von der _empirisch-inhaltlichen_ auf die _theoretisch-inhaltliche_ rückschließen zu können, muss man folgende Aspekte bewerten:
+* Situationsvalidität - lässt sich von der Situation im Experiments auf andere Situationen schließen?
+* Variablenvalidität - kommt man zum gleichen Ergebnis, wenn man die Variablen anders operationalisiert
+* Populationsvalidität - lässt sich von der Stichprobe des Experiments auf die Gesamtpopulation schließen?
+
+siehe <a href="./ewd1#Population">Population und Stichprobe</a>
+
+Stichproben werden optimalerweise zufällig gewählt, aber alternativ gibt es auch:
+* Quotenstichprobe - gezielte Auswahl nach Merkmalen
+* angefallene Stichprobe - Wahl nach einfacher Verfügbarkeit der Vpn
+
+## Merkmale und Variablen eines Experiments
+
+siehe <a href="./ewd1#Experiment">Experiment</a>
+Mit dem __Experiment__ lassen sich für die unäbhängige Variable X und die abhängige Variable Y folgende Fragestellungen beantworten:
+* temporal : folgt Y immer auf X?
+* konditional : ist X Bedingung für Y?
+* kausal : ist X die Ursache und Y die Wirkung?
+* final : passiert X _damit_ Y folgt
+
+Um obige Aussagen treffen zu können, muss man sicherstellen, dass während des Versuchs nur die unabhängigen Variablen und und möglichst wenig Störvariablen auf die abhängige Variable wirken.
+
+<q>Zu __Störvariablen__ werden andere Einflussgrößen erst dann, wenn sie systematisch mit den Stufen einer UV variieren und auf die AV einwirken. Diesen Sachverhalt nennt man Konfundierung. Zu verhindern ist also die systematische Variation einer potenziellen Einflussgröße mit den Stufen einer oder mehrerer UV.</q> (Hussy et al., 2013, S.121)
+
+Man kann folgende __Arten von Störvariablen__ unterscheiden:
+* Versuchspersonenmerkmale (Probandenmerkmale) - Alter, Intelligenz, Religion...
+* Situationsmerkmale - Tageszeit, Beleuchtung, Lärm...
+* Versuchsleitermerkmale - Auftreten, Erwartungshaltung, Alter...
+
+__Kontrolltechniken__  für Störvariablen (SV):
+* _Randomisieren_ - bei Probandenmerkmalen, aber große Stichprobe notwendig! Durch zufällige Zuteilung der Vpn zu den Versuchsgruppen verteilen sich die Efekte der SV gleichmäßig auf die AV.
+* _Konstanthaltung_ - z.B. Versuchsleiter, Beleuchtung...
+* _Elimination_ - z.B. Computer statt Versuchsleiter, schalldichter Raum...
+* _systematische Variation_ - z.B. bei Probandenmerkmalen: Alter als weitere UV einführen
+* _zufällige Variation_ - bei Situationsmerkmalen. Bei großen Stichproben verteilt sich der Effekt der SV gleichmäßig auf die AV.
+* _Parallelisieren_ - bei Probandenmerkmalen und kleinen Stichproben, wenn SV vorab bekannt: SV messen und Vpn danach reihen. Dann je zwei aus der Liste zufällig auf Versuchsgruppen verteilen.
+* _Blindversuche_ - Versuchsleitereffekt verhindern: VL kennt Hypothese nicht. _Doppelblind_: VL _und_ Vpn kennen die Hypothese nicht.
+
+__Spezielle Störeffekte__ (Sequenzeffekte) können bei Messwiederholungen auftreten:
+* Positionseffekte - negativ (z.B. Ermüdung), positiv (z.B. Übungseffekt)
+* Übertragungseffekte („carry over effects“) - experimentelle Bedingung beeinflusst spätere Messungen der selben AV
+* zwischenzeitliches Geschehen - Äußere Einflüsse auf die Vpn bei längerem Zeitraum zwischen den Messungen
+
+Kontrolle von speziellen Störeffekten durch: <q>Beim vollständigen interindividuellen Ausbalancieren werden alle möglichen Reihenfolgen der experimentellen Bedingungen realisiert. Man ordnet jeder denkbaren Abfolge mindestens eine Versuchsperson per Zufall zu.</q> (Hussy et al., 2013, S.126)
+
+Siehe dazu <a href="./ewd1#interneValidität">interne Validität</a>
+
+## Versuchsplananlage und Versuchsplan
+
+Eine __Versuchsplananlage__ hilft den Aufbau der unabhängigen Variablen eines Experiments einheitlich zu beschreiben. Dabei nennt man jede unabhängige Variable einen "Faktor" und jede mögliche Ausprägung einer Variable (z.B. "divers", "weiblich", "männlich"...bei der Variable "Geschlecht") nennt man "Stufe". Abhängig von der Anzahl der unabhängigen Variablen spricht man von _einfaktoriellen_, _zweifaktoriellen_, ... Versuchsplananlagen. Man kann diese als Tabelle (ein- & zweifaktoriell) darstellen oder sich ab drei Faktoren als [mehrdimensionalen Würfel](https://en.wikipedia.org/wiki/Hypercube) vorstellen.
+
+|triane|iatn|
+|:---|:---|
+
+
+
+
+
+
+
 
 # Literatur
 
@@ -114,3 +188,7 @@ TODO: in Zotero hinzufügen
 TODO: Bibliography einfügen
 Fritz Heider: The Psychology of Interpersonal Relations (1958)
 John Stuart Mill: A System of Logic (1843)
+<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">Hussy, W., Schreier, M., &amp; Echterhoff, G. (2013). <i>Forschungsmethoden in Psychologie und Sozialwissenschaften für Bachelor</i> (2., überarbeitete Auflage..). Springer Berlin Heidelberg : Imprint: Springer,.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-642-34362-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Forschungsmethoden%20in%20Psychologie%20und%20Sozialwissenschaften%20f%C3%BCr%20Bachelor&amp;rft.place=Berlin%2C%20Heidelberg%20%3A&amp;rft.publisher=Springer%20Berlin%20Heidelberg%20%3A%20Imprint%3A%20Springer%2C&amp;rft.edition=2.%2C%20%C3%BCberarbeitete%20Auflage..&amp;rft.series=Springer-Lehrbuch&amp;rft.aufirst=Walter&amp;rft.aulast=Hussy&amp;rft.au=Walter%20Hussy&amp;rft.au=Margrit%20Schreier&amp;rft.au=Gerald%20Echterhoff&amp;rft.date=2013&amp;rft.tpages=x%2B318&amp;rft.isbn=978-3-642-34362-9&amp;rft.language=ger"></span>
+</div>
