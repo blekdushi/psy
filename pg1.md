@@ -185,8 +185,8 @@ Eine Untersuchung darf nur dann stattfinden, wenn die Person ihr informiertes Ei
 Noch in Diskussion ist, wie mit Auffälligkeiten in den Daten (z.B. Tumor bei MRT entdeckt) umgegangen werden soll. Die Vpn möchte das vielleicht gar nicht wissen. Ein Ansatz ist die Vpn _vor der Unterschung_ zu fragen.
 
 **Verdeckte Forschung** sind Studien, bei denen die Vpn nicht von Anfang an über das wirkliche Vorhaben aufgeklärt werden können, da sonst von einer veränderten Untersuchungssituation und einer reaktiven Verhaltensänderung auszugehen ist. Ethisch vertretbar sind solche Täuschungen nur dann, wenn:
-* die Froscher müssen einen nachvollziehbaren Erkenntnisgewinn begründen
-* Erkenntnissgewinn ist nicht anders erreichbar
+* die Forscher müssen einen nachvollziehbaren Erkenntnisgewinn begründen
+* Erkenntnisgewinn ist nicht anders erreichbar
 * kein Schaden für die Vpn
 * Vpn müssen im Anschluss an das Experiment aufgeklärt werden
 * Vpn können die Löschung der Daten einfordern
@@ -194,7 +194,7 @@ Noch in Diskussion ist, wie mit Auffälligkeiten in den Daten (z.B. Tumor bei MR
 
 # Ethik in der Online Forschung
 
-Personen hinterlassen/veröffentlichen Daten direkt (z.B. Fotos auf Instagram) und indirekt (z.B. Surfverhalten). Der ethisch richtige Umgang mit diesen Daten ist abhängig davon, wie die Privatheit der Daten von der Person selbst eingeschätzt wird. Daraus leitet die Person die empfundene _kontextuelle Integrität_ der Verarbeitung der Daten ab, also ob die Verarbeitung der Daten in ihrem Kontext gerechtfertigt ist. In der Regel gilt: umso sensibler und eingeschränkt zugänglich Daten sind, desto privater sind sie:
+Personen hinterlassen/veröffentlichen Daten direkt (z.B. Fotos auf Instagram) und indirekt (z.B. Surfverhalten), deren Auswertung auch für die Forschung interessant sein können. Der ethisch richtige Umgang mit diesen Daten ist abhängig davon, wie die Privatheit der Daten von der Person selbst eingeschätzt wird. Daraus leitet die Person die empfundene __kontextuelle Integrität__ der Verarbeitung der Daten ab, also ob die Verarbeitung der Daten in ihrem Kontext gerechtfertigt ist. In der Regel gilt: umso sensibler und eingeschränkter zugänglich Daten sind, desto privater sind sie:
 * sensibel vs. nicht-sensibel
 * eingeschränkt vs. allgemein zugänglich
 * Plattform? → Chat vs. Soziales Netzwerk vs. Blog vs. Zeitschrifteninterview...
@@ -207,6 +207,6 @@ Besondere Vorsicht bei **personenbezogenen Daten**, insbesondere für sensitive 
 * Aggregation der Befunde ohne Nennung einzelner Datenpunkte
 * „Wort-Wolken“, anstelle direkter Zitate
 
-Bei Studien, die Daten aus Beobachtungen im Web erheben, können über öffentlich zugängliche Informationen trotz Anonymisierung Rückschlüsse auf die Person möglich sein (z.B. Suchmaschinen, Nutzerprofile...). Darstellung von Zitaten, Screenshots, fallstudienhaften Porträts o.Ä. müssen grundsätzlich anonymisiert werden, sofern UrheberIn nicht ausdrücklich Einwilligung zur Nennung des Namens/Pseudonym erteilt.
+Bei Studien, die Daten aus Beobachtungen im Web erheben, können über öffentlich zugängliche Informationen trotz Anonymisierung Rückschlüsse auf die Person möglich sein (z.B. Suchmaschinen, Nutzerprofile...). Darstellung von Zitaten, Screenshots, fallstudienhaften Porträts o.Ä. müssen grundsätzlich anonymisiert werden, sofern UrheberIn nicht ausdrücklich Einwilligung zur Nennung des Namens/Pseudonym erteilt haben.
 
 Sollten die Kommunikationsräume der o.g. Kriterien zugangsbeschränkt sein, ist vor einer Veröffentlichung von Befunden zu einzelnen Personen, wörtlichen Zitaten o.Ä. – auch in anonymisierter oder pseudonymisierter Form – die Einwilligung der Nutzer\*innen einzuholen!
