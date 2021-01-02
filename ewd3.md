@@ -82,7 +82,7 @@ Das **[Elektrookulogram](https://de.wikipedia.org/wiki/Elektrookulografie)** mis
 
 Die _[HPA-Achse (hypothalamic–pituitary–adrenal axis)](https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis)_ (Stressachse) als Zusammenspiel dreier Drüsen steuert das Stressniveau und reguliert zahlreiche Prozesse im Körper (Verdauung, Immunsystem...). **Kortisol** als Stresshormon aktiviert Energie im Körper (z.B. morgens bereits vor dem Aufwachen „antizipatorisch“ als Wecker)
 
-Hormone können in Blut, Urin und Speichel nachgewiesen werden. Experiment, in dem bei Personen Stress erzeugt wurde ([TSST](https://de.wikipedia.org/wiki/Trier_Social_Stress_Test)) und danach in Spielen mit Personen aus einer Kontrollgruppe das pro-soziale Verhalten gemessen wurde. Egebnis war, dass Stress prosoziales Verhalten fördert ("tend and  befriend"). (von Dawans et al., 2012)
+Hormone können in Blut, Urin und Speichel nachgewiesen werden. Experiment, in dem bei Personen Stress erzeugt wurde ([TSST](https://de.wikipedia.org/wiki/Trier_Social_Stress_Test)) und danach in Spielen mit Personen aus einer Kontrollgruppe das pro-soziale Verhalten gemessen wurde. Ergebnis war, dass Stress prosoziales Verhalten fördert ("tend and  befriend"). (von Dawans et al., 2012)
 
 # Messungen des zentralen Nervensystems
 
