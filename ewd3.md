@@ -74,16 +74,15 @@ Die elektrische Muskelaktivität des **Herzschlags** lässt sich mit dem **[EKG 
 Das **[Elektromyogram](https://de.wikipedia.org/wiki/Elektromyografie)** misst die elektrischen Aktionspotenziale der Muskelzellen. Die **Gesichtsmuskulatur** steht in Zusammenhang mit Emotionen:
 * Zygomaticus major - Mundwinkel anheben
 * Corrugator supercilii - Stirn runzeln
+Bei einem Versuch von Gerger et al. (2011) reagierten obige Muskeln der Vpn auf Fotos von attraktiven und unattraktiven Gesichtern. Die Muskeln reagierten auch auf abstrakte Muster, jedoch auf andere Art und Weise, weshalb eine differenzierte Verarbeitung der Wahrnehmung von Gesichtern und Mustern vermuten lässt.
 
 Das **[Elektrookulogram](https://de.wikipedia.org/wiki/Elektrookulografie)** misst die Bewegung der **Augen**, wofür mittlerweile auch **Eye-Tracking** mit Kameras zum Einsatz kommt. Damit erkennt man _Fixationen_, Stellen auf die man längere Zeit blickt, und _Sakkaden_, ruckartige Bewegungen des Auges von einem Punkt zu einem anderen. Diese Beobachtungen stehen im Zusammenhang damit, worauf wir Aufmerksamkeit und somit unsere kognitiven Resourcen richten. Auch der Lidschlag und die Pupillengröße sind psychophysische Messgrößen. (Hussy et al., 2013, S.95)
 
 # Messungen des Hormon- und Immunsystems
 
-Die _HPA-Achse (hypothalamic–pituitary–adrenal axis)_ (Stressachse) als Zusammenspiel dreier Drüsen steuert das Stressniveau und reguliert zahlreiche Prozesse im Körper (Verdauung, Immunsystem...). **Kortisol** als Stresshormon aktiviert Energie im Körper (z.B. morgens bereits vor dem Aufwachen "antizipatorisch" als Wecker)
+Die _[HPA-Achse (hypothalamic–pituitary–adrenal axis)](https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis)_ (Stressachse) als Zusammenspiel dreier Drüsen steuert das Stressniveau und reguliert zahlreiche Prozesse im Körper (Verdauung, Immunsystem...). **Kortisol** als Stresshormon aktiviert Energie im Körper (z.B. morgens bereits vor dem Aufwachen „antizipatorisch“ als Wecker)
 
-Hormone können in Blut, Urin und Speichel nachgewiesen werden.  Experiment, dass Stress prosoziales Verhalten fördert ("tend and befriend" von Taylor)
-
-TODO: binary-tree Grafik vom Paper von Bernadette von Dawans hier erklären
+Hormone können in Blut, Urin und Speichel nachgewiesen werden. Experiment, in dem bei Personen Stress erzeugt wurde ([TSST](https://de.wikipedia.org/wiki/Trier_Social_Stress_Test)) und danach in Spielen mit Personen aus einer Kontrollgruppe das pro-soziale Verhalten gemessen wurde. Egebnis war, dass Stress prosoziales Verhalten fördert ("tend and  befriend"). (von Dawans et al., 2012)
 
 # Messungen des zentralen Nervensystems
 
