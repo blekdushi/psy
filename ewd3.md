@@ -52,15 +52,15 @@ TODO: hier auf Mausfeld eingehen, auf die Wichtigkeit theoriegeleitet zu forsche
     * Erholung, Energie speichern, Immunabwehr, Verdauung
 * [Enterisches Nervensystem](https://de.wikipedia.org/wiki/Enterisches_Nervensystem) (ENS - Magen-Darm-Trakt)
 
-Sympathikus und Parasympathikus handeln antagonistisch aber streben danach sich auszubalancieren.
+Sympathikus und Parasympathikus handeln antagonistisch, aber streben danach sich auszubalancieren.
 
-[Physiologie](https://de.wikipedia.org/wiki/Physiologie): ist die Lehre von den normalen, insbesondere biophysikalischen, Lebensvorgängen in den Zellen, Geweben und Organen aller Lebewesen.
+[Physiologie](https://de.wikipedia.org/wiki/Physiologie): ist die Lehre von den normalen, insbesondere biophysikalischen Lebensvorgängen in den Zellen, Geweben und Organen aller Lebewesen.
 
-Die [Psychophysiologie](https://dorsch.hogrefe.com/stichwort/psychophysiologie) befasst sich mit den Beziehungen zwischen psychischen Vorgängen und den zugrundeliegenden körperlichen Funktionen. Sie beschreibt, wie Emotionen, Bewusstseinsänderungen und Verhaltensweisen mit Hirntätigkeit, Kreislauf, Atmung, Motorik und Hormonausschüttung zusammenhängen.
+Die [Psychophysiologie](https://dorsch.hogrefe.com/stichwort/psychophysiologie) befasst sich mit den Beziehungen zwischen psychischen Vorgängen und den zugrundeliegenden körperlichen Funktionen. Sie beschreibt wie Emotionen, Bewusstseinsänderungen und Verhaltensweisen mit Hirntätigkeit, Kreislauf, Atmung, Motorik und Hormonausschüttung zusammenhängen.
 
 # Messungen des peripheren Nervensystems
 
-Unter **Elektrodermale Aktivität** versteht man die Veränderung der elektrischen Leitfähigkeit der Haut abhängig von der Aktivität der Schweißdrüsen. Diese Reagieren zum Beispiel auf Angst, Stress und andere psychische Zustände und erhöhen die Leitfähigkeit. Man unterscheidet die aktive Hautleitfähigeit (_skin conductance level_) und die direkt auf einen Stimulus folgende reaktive Hautleitfähigkeit (_skin conductance response_). (Hussy et al., 2013, S.93)
+Unter **Elektrodermale Aktivität** versteht man die Veränderung der elektrischen Leitfähigkeit der Haut abhängig von der Aktivität der Schweißdrüsen. Diese reagieren zum Beispiel auf Angst, Stress und andere psychische Zustände und erhöhen die Leitfähigkeit. Man unterscheidet die aktive Hautleitfähigeit (_skin conductance level_) und die direkt auf einen Stimulus folgende reaktive Hautleitfähigkeit (_skin conductance response_). (Hussy et al., 2013, S.93)
 
 Solche psychophysiologische Messungen können trotz ihrer Einfachheit komplexe Fragestellungen beantworten. Zum Beispiel wurde in einer Studie der Hautleitwert der Vpn gemessen, während sie zusehen mussten, wie einer anderen Person Schmerzen zugefügt wurden (als Operationalisierung von Empathie). Außerdem konnten die Personen entscheiden, einen Teil des Stromstoßes zu "übernehmen" (als Operationalisierung von Altruismus). Ergebnis war, dass umso empathischer desto altruistischer. (Hein et al., 2011)
 
