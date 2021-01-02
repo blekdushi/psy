@@ -38,19 +38,19 @@ TODO: hier auf Mausfeld eingehen, auf die Wichtigkeit theoriegeleitet zu forsche
 # Nervensystem
 
 * Zentrales Nervensystem
- * Gehirn
- * Rückenmark
+  * Gehirn
+  * Rückenmark
 * Peripheres Nervensystem
 * Endokrines System (Drüsen & Hormone)
 
 
 * Somatisches Nervensystem (willkürlich)
 * Autonomes/Vegetative Nervensystem (automatisch)
- * [Sympathikus](https://de.wikipedia.org/wiki/Sympathikus) (ergotrop)
-  * Kampf/Flucht, Energie mobilisieren, Aktivierung
- * [Parasympathikus](https://de.wikipedia.org/wiki/Parasympathikus) (trophotrop)
-  * Erholung, Energie speichern, Immunabwehr, Verdauung
- * [Enterisch](https://de.wikipedia.org/wiki/Enterisches_Nervensystem) (ENS - Magen-Darm-Trakt)
+  * [Sympathikus](https://de.wikipedia.org/wiki/Sympathikus) (ergotrop)
+    * Kampf/Flucht, Energie mobilisieren, Aktivierung
+  * [Parasympathikus](https://de.wikipedia.org/wiki/Parasympathikus) (trophotrop)
+    * Erholung, Energie speichern, Immunabwehr, Verdauung
+* [Enterisches Nervensystem](https://de.wikipedia.org/wiki/Enterisches_Nervensystem) (ENS - Magen-Darm-Trakt)
 
 Sympathikus und Parasympathikus handeln antagonistisch aber streben danach sich auszubalancieren.
 
