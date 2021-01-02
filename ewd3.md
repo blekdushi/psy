@@ -88,18 +88,18 @@ Hormone können in Blut, Urin und Speichel nachgewiesen werden. Experiment, in d
 
 Nervenzellen befinden sich in mehreren Schichten im Cortex. Messmethoden können unterschiedlich klassifiziert werden:
 * Messtechnologie
- * elektrische Potenziale
- * Magnetfeld
- * Radiologie
- * Radioaktivität
+  * elektrische Potenziale
+  * Magnetfeld
+  * Radiologie
+  * Radioaktivität
 * Auflösung
- * räumlich
- * zeitlich
+  * räumlich
+  * zeitlich
 * Korrelativ vs. kausal
 * Invasiv vs. non-invasiv
 * Messtiefe
- * topografisch (Oberfläche)
- * tomografisch (Schichten & Volumen)
+  * topografisch (Oberfläche)
+  * tomografisch (Schichten & Volumen)
 
 | Methode                                                               | Räumlich | Zeitlich | korrelativ vs. kausal | topo- vs. tomografisch |
 | --------------------------------------------------------------------- | -------- | -------- | --------------------- | ---------------------- |
