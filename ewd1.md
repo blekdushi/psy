@@ -259,7 +259,7 @@ Nachteile:
 
 Sie ist ein Maß des kausalen Zusammenhangs (Ursache-Wirkungs-Relation) und ist umso höher umso besser Störvariablen minimiert/eliminiert werden konnten. Auch abhängig von Stichprobenziehung, da interpersonelle Unterschiede der Vpn Störvariablen sein können (z.B. kulturelle Unterschiede) → Gegenwirken mit [Randomisierung](https://de.wikipedia.org/wiki/Randomisierung) bzw. [Parallelisierung](https://de.wikipedia.org/wiki/Matching_(Statistik)) (Hussy et al., 2013, S.124)
 
-<q>Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Untersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität.</q> (Hussy et al., 2013, S.137)
+<a id="externeValidität"></a><q>Die **externe Validität** eines Experiments ist gegeben, wenn die Ergebnisse der Untersuchung übertragbar sind. Dabei sind drei Aspekte zu unterscheiden, nämlich die Populationsvalidität, die Situationsvalidität und die Variablenvalidität.</q> (Hussy et al., 2013, S.137)
 
 Sie steigt mit der Repräsentativität der Stichprobe und mit Nachweis des Effekts in unterschiedlichen Stichproben und Kontexten (systematische Replikationsstudien)
 

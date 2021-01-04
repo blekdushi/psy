@@ -170,17 +170,53 @@ Siehe dazu <a href="./ewd1#interneValidität">interne Validität</a>
 
 ## Versuchsplananlage und Versuchsplan
 
-Eine __Versuchsplananlage__ hilft den Aufbau der unabhängigen Variablen eines Experiments einheitlich zu beschreiben. Dabei nennt man jede unabhängige Variable einen "Faktor" und jede mögliche Ausprägung einer Variable (z.B. "divers", "weiblich", "männlich"...bei der Variable "Geschlecht") nennt man "Stufe". Abhängig von der Anzahl der unabhängigen Variablen spricht man von _einfaktoriellen_, _zweifaktoriellen_, ... Versuchsplananlagen. Man kann diese als Tabelle (ein- & zweifaktoriell) darstellen oder sich ab drei Faktoren als [mehrdimensionalen Würfel](https://en.wikipedia.org/wiki/Hypercube) vorstellen.
+Eine __Versuchsplananlage__ hilft den Aufbau der unabhängigen Variablen eines Experiments einheitlich zu beschreiben. Dabei nennt man jede unabhängige Variable einen "Faktor" und jede mögliche Ausprägung einer Variable (z.B. "divers", "weiblich", "männlich"...bei der Variable "Geschlecht") nennt man "Stufe". Abhängig von der Anzahl der unabhängigen Variablen spricht man von _einfaktoriellen_, _zweifaktoriellen_, ... Versuchsplananlagen. Man kann diese als Tabelle (ein- & zweifaktoriell) darstellen oder sich ab drei Faktoren als [mehrdimensionalen Würfel](https://en.wikipedia.org/wiki/Hypercube) vorstellen. Jede Zelle einer Versuchsplananlage enthält dann die Mittelwerte der abhängigen Variable, wie sie unter den Bedingungen laut Zeile und Spalte gemessen wurden:
 
-|triane|iatn|
-|:---|:---|
+<table>
+    <tbody>
+        <tr>
+            <td colspan=2 rowspan=2>Östrogenspiegel</td>
+            <td colspan=3>UV B: Bierkonsum</td>
+        </tr>
+        <tr>
+            <td>Stufe<sub>1</sub> "kein Bier"</td>
+            <td>Stufe<sub>2</sub> "5 Bier"</td>
+            <td>Stufe<sub>3</sub> "10 Bier"</td>
+        </tr>
+        <tr>
+            <td rowspan=3>UV A: Geschlecht</td>
+            <td>Stufe<sub>1</sub> "weiblich"</td>
+            <td>5</td>
+            <td>5</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Stufe<sub>2</sub> "männlich"</td>
+            <td>5</td>
+            <td>7</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Stufe<sub>3</sub> "divers"</td>
+            <td>5</td>
+            <td>6</td>
+            <td>7</td>
+        </tr>
 
+    </tbody>
+</table>
 
+Ziel eines Experiments ist zu messen, ob es einen sog. __Haupteffekt__ einer UV auf die AV gibt. Über die schematische Anordnung einer Versuchsplananlage lässt sich dieser relativ einfach erkennen/berechnen: Vergleicht man die Spaltenmittelwerte miteindaner und unterscheiden sie sich signifkant, gibt es einen Haupteffekt der UV-B auf die AV. Analoges gilt für die Zeilenmittelwerte für UV-A.
 
+__Versuchsplan__
 
-
-
-
+Realisierung der Zellen (vollständig gekreuzter vs. unvollständiger Plan)
+Anzahl der Messungen pro Zellen (balanciert)
+Einzelmessung oder Messwiederholung (interindividuell vs. intraindividuell)
+Zuordnung zu Versuchsbedingung (randomisiert vs. nicht-randomisiert)
+Interaktionshypothese
+Organismische UV
+reine und gemischte Versuchspläne
 
 # Literatur
 
