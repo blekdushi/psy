@@ -14,7 +14,7 @@ In der Psychologie ist der Mensch **Forschungsgegenstand** und Forscher zugleich
 * Bewusstsein & Gedanken
 * Gefühle & Wünsche
 
-Im Gegensatz zu vielen anderen Forschungsgegenständen, haben die meisten Menschen eine Meinung bzw. intuitiven Zugang zu den Fragestellungen der Psychologie ([Alltagspsychologie](https://dorsch.hogrefe.com/stichwort/alltagspsychologie)). Die dabei verwendete Sprache ist kontextabhängig, mehrdeutig und logisch nicht wohldefiniert. Ebenso zeigen sich zahlreiche Tücken wie [Rückschaufehler](https://dorsch.hogrefe.com/stichwort/rueckschaufehler) und das falsche Einschätzen von Wahrscheinlichkeiten.
+Im Gegensatz zu vielen anderen Forschungsgegenständen, haben die meisten Menschen eine Meinung bzw. intuitiven Zugang zu den Fragestellungen der Psychologie ([Alltagspsychologie](https://de.wikipedia.org/wiki/Alltagspsychologie)). Die dabei verwendete Sprache ist kontextabhängig, mehrdeutig und logisch nicht wohldefiniert. Ebenso zeigen sich zahlreiche Tücken wie [Rückschaufehler](https://dorsch.hogrefe.com/stichwort/rueckschaufehler) und das falsche Einschätzen von Wahrscheinlichkeiten.
 
 Es braucht daher eine präzisierte **Fachsprache** für das wissenschaftliche Beschreiben eines Forschungsgegenstandes. Dabei hilft _Mathematik_ und _Logik_ (z.B. definiert das [Weber'sche Gesetz](https://de.wikipedia.org/wiki/Weber-Fechner-Gesetz#Webersches_Gesetz) die Unterschiedsschwelle in der Sinneswahrnehmung mathematisch und eindeutig). So entstehen mit der Zeit eine Vielzahl an Fachausdrücken. Eine logische Folge, wenn man Eindeutigkeit sicherstellen und Missverständnisse vorbeugen möchte. Was auf den ersten Blick verwirrt und im Volksmund als "fachchinesisch" bezeichnet wird, ist notwendig, damit die forschende Community eine gemeinsame Sprache hat und somit ihre Erkenntnisse kommunizieren und diskutieren kann.
 
@@ -209,7 +209,7 @@ Damit die erhobenen Daten und folglich auch die gesamte Studie eine ernstzunehme
 
 Das Untersuchungsdesign lässt sich anhand mehrerer Dimensionen bestimmen:
 * Quantitativ / qualitativ / mixed methods
-* Labor- / Feldstudie
+* Labor- / Feldforschung
 * Experiment / Quasi-Experiment / Nicht-Experiment
 * Quer- / Längsschnittstudie
 
