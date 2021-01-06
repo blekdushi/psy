@@ -24,7 +24,7 @@ Beim [Dualismus](https://dorsch.hogrefe.com/stichwort/dualismus) gehören beide 
 
 Dualismus und Monismus können weiters in Untertypen gegliedert werden. Für den [materialistischen Monismus](https://de.wikipedia.org/wiki/Monismus#Europ%C3%A4ische_Fr%C3%BChe_Neuzeit) sind das zum Beispiel die _Identitätstheorie_ , der _Funktionalismus_ und der _Eliminative Materialismus_)
 
-Weiters stellt sich das [Qualia-Problem](https://dorsch.hogrefe.com/stichwort/qualia-problem) als "hartes Problem der Bewusstseinforschung": ist es uns "überhaupt" möglich einen Zugang zum Erleben zu erhalten? Versuch der Annäherung, z.B. über das Messen von elektrischen Strömen im Gehirn. Beispiele:
+Weiters stellt sich das [Qualia-Problem](https://dorsch.hogrefe.com/stichwort/qualia-problem) als "hartes Problem der Bewusstseinsforschung": ist es uns "überhaupt" möglich einen Zugang zum Erleben zu erhalten? Versuch der Annäherung, z.B. über das Messen von elektrischen Strömen im Gehirn. Beispiele:
 * neuronale Entsprechungen illusionärer Seheindrücke
 * Veränderung oder Beseitigung visuellen Bewusstseins durch Läsionen (partielle Schädigungen des Gehirns)
 * Erzeugung von visuellen Eindrücken durch Hirnstimulation
@@ -79,13 +79,13 @@ Das **[Elektromyogram](https://de.wikipedia.org/wiki/Elektromyografie)** misst d
 
 Bei einem Versuch von Gerger et al. (2011) reagierten obige Muskeln der Vpn auf Fotos von attraktiven und unattraktiven Gesichtern. Die Muskeln reagierten auch auf abstrakte Muster, jedoch auf andere Art und Weise, weshalb eine differenzierte Verarbeitung der Wahrnehmung von Gesichtern und Mustern vermuten lässt.
 
-Das **[Elektrookulogram](https://de.wikipedia.org/wiki/Elektrookulografie)** misst die Bewegung der **Augen**, wofür mittlerweile auch **Eye-Tracking** mit Kameras zum Einsatz kommt. Damit erkennt man _Fixationen_, Stellen auf die man längere Zeit blickt, und _Sakkaden_, ruckartige Bewegungen des Auges von einem Punkt zu einem anderen. Diese Beobachtungen stehen im Zusammenhang damit, worauf wir Aufmerksamkeit und somit unsere kognitiven Resourcen richten. Auch der Lidschlag und die Pupillengröße sind psychophysische Messgrößen. (Hussy et al., 2013, S.95)
+Das **[Elektrookulogram](https://de.wikipedia.org/wiki/Elektrookulografie)** misst die Bewegung der **Augen**, wofür mittlerweile auch **Eye-Tracking** mit Kameras zum Einsatz kommt. Damit erkennt man _Fixationen_, Stellen auf die man längere Zeit blickt, und _Sakkaden_, ruckartige Bewegungen des Auges von einem Punkt zu einem anderen. Diese Beobachtungen stehen im Zusammenhang damit, worauf wir Aufmerksamkeit und somit unsere kognitiven Ressourcen richten. Auch der Lidschlag und die Pupillengröße sind psychophysische Messgrößen. (Hussy et al., 2013, S.95)
 
 # Messungen des Hormon- und Immunsystems
 
 Die _[HPA-Achse (hypothalamic–pituitary–adrenal axis)](https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis)_ (Stressachse) als Zusammenspiel dreier Drüsen steuert das Stressniveau und reguliert zahlreiche Prozesse im Körper (Verdauung, Immunsystem...). **Kortisol** als Stresshormon aktiviert Energie im Körper (z.B. morgens bereits vor dem Aufwachen „antizipatorisch“ als Wecker)
 
-Hormone können in Blut, Urin und Speichel nachgewiesen werden. Experiment, in dem bei Personen Stress erzeugt wurde ([TSST](https://de.wikipedia.org/wiki/Trier_Social_Stress_Test)) und danach in Spielen mit Personen aus einer Kontrollgruppe das pro-soziale Verhalten gemessen wurde. Ergebnis war, dass Stress prosoziales Verhalten fördert ("tend and  befriend"). (von Dawans et al., 2012)
+Hormone können in Blut, Urin und Speichel nachgewiesen werden. Experiment, in dem bei Personen Stress erzeugt wurde ([TSST](https://de.wikipedia.org/wiki/Trier_Social_Stress_Test)) und danach in Spielen mit Personen aus einer Kontrollgruppe das pro-soziale Verhalten gemessen wurde. Ergebnis war, dass Stress prosoziales Verhalten fördert ("tend and befriend"). (von Dawans et al., 2012)
 
 # Messungen des zentralen Nervensystems
 
@@ -154,7 +154,7 @@ Allgemein auch **event related potential (ERP)** genannt, unterscheidet man sie 
 * motorisch (vor einer Bewegung)
 * endogen (kognitive Prozesse)
 
-Die Ausschläge (positiv - _P_ und negativ - _N_) werden dann entlang einer Zeitachse eingetragen und mit dem Zeitpunkt des Auftretens referenziert (z.B. _P100_ für einen positiven Ausschlag bei 100ms nach Einsetzen des Reizes).
+Die Ausschläge, auch **Komponenten** genannt, werden dann entlang einer Zeitachse eingetragen und mit der Richtung des Ausschlags (positiv - _P_ und negativ - _N_) dem Zeitpunkt des Auftretens referenziert (z.B. _P100_ für einen positiven Ausschlag bei 100ms nach Einsetzen des Reizes).
 
 Um ERP von der Spontanaktivität unterscheiden zu können, ermittelt man den **Grand average**: Dafür bietet man den Reiz öfters dar und mittelt dann die Durchgänge um das Rauschen (Spontanaktivität) zu reduzieren und somit das ERP-Signal zu verstärken.
 
@@ -172,11 +172,11 @@ Die **Computertomografie (CT)** ist ein bildgebendes, radiologisches Verfahren. 
 
 ## Positronenemissionstomografie (PET)
 
-Bei der **Positronenemissionstomografie (PET)** werden der Person radioaktive "Tracer" in den Blutkreislauf injiziert. Durch den Zerfall der radioaktiven Isotope entstehen Photonen (Gammastrahlung), die dann gemessen werden. Dadurch kann man den regionalen Blutfuss und damit verbunden psychische Prozesse im ZNS visualisieren.
+Bei der **Positronenemissionstomografie (PET)** werden der Person radioaktive "Tracer" in den Blutkreislauf injiziert. Durch den Zerfall der radioaktiven Isotope entstehen Photonen (Gammastrahlung), die dann gemessen werden. Dadurch kann man den regionalen Blutfuss und damit verbunden psychische Prozesse im ZNS visualisieren. Ähnlich zur PET ist die **Single Photon Emission Computed Tomography (SPECT)**. Sie ist kostengünstiger und weniger technisch aufwändig.
 
 ## Funktionelle Magnetresonanztomografie (fMRT / fMRI)
 
-Die einfache _Magnetresonanztomografie (MRT)_ erzeugt magnetische Felder um Wasserstoffatome aus ihrer "Kernspin" Balance zu heben um sie dann wieder in die Balance zurück kippen zu lassen. Das Zurückkippen erzeugt elektromagnetische Wellen, die dann auf einer Zeitskala gemessen werden. Daraus kann man auf die Gewebebeschaffenheit schließen und ein 3D Bild berechnen.
+Die einfache _Magnetresonanztomografie (MRT)_ erzeugt magnetische Felder um Wasserstoffatome aus ihrer "Kernspin" Balance zu heben um sie dann wieder in die Balance zurück kippen zu lassen. Das Zurückkippen erzeugt elektromagnetische Wellen, die dann auf einer Zeitskala gemessen werden. Daraus kann man auf die Gewebebeschaffenheit schließen und ein 3D Bild berechnen. Die MRT ist sehr anfällig auf Bewegungen der Vpn.
 
 Bei der **[funktionellen Magnetresonanztomografie (fMRT)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)** (engl. functional magnet resonance imaging) stehen die unterschiedlichen magnetischen Eigenschaften von sauerstoffreichem und -armem Hämoglobin im Mittelpunkt. Aktive Regionen im ZNS brauchen mehr Sauerstoff und sind deshalb besser durchblutet (_hämodynamische Antwort_).
 
