@@ -60,9 +60,18 @@ Sie erfüllt im Idealfall folgende Kriterien eines Experiments:
 
 # Wundt-Bühler-Kontroverse
 
-Die _Wundt-Bühler-Kontroverse_ war eine Diskussion darüber, in wie weit man durch Introspektion bei _denkpsychologischen_ Untersuchungen "Daten" gewinnen kann oder lediglich Vermutungen (Hypothesen) daraus ableiten kann. Karl Bühler stellte seinen Probanden Fragen und wollte später von Ihnen wissen, was sie bei der Beantwortung der Frage erlebt hatten. Für ihn waren das "Daten". Für Wundt waren das "Ausfrage- und Scheinexperimente" und die Aussagen der Probanden könnten zwar Ideen für Hypothesen liefern, seien aber keine "Daten". Er meinte, dass innere Vorgänge, welche Aufmerksamkeit erfordern, durch Introspektion verändert würden, weil diese ebenfalls Aufmerksamkeit erfordere. Bühler konterte, dass Erlebnisse automatisch im Gedächtnis gespeichert werden und per se keine Aufmerksamkeit erfordern. Aktuelle Erkenntnisse deuten darauf hin, dass Wundt recht hatte. (Massen & Bredenkamp, 2005)
+Die _Wundt-Bühler-Kontroverse_ war eine Diskussion darüber, in wie weit man durch Introspektion bei _denkpsychologischen_ Untersuchungen "Daten" gewinnen kann oder lediglich Vermutungen (Hypothesen) daraus ableiten kann. Karl Bühler stellte seinen Probanden Fragen und wollte später von Ihnen wissen, was sie bei der Beantwortung der Frage erlebt hatten. Für ihn waren das "Daten". Für Wundt waren das "Ausfrage- und Scheinexperimente" und die Aussagen der Probanden könnten zwar Ideen für Hypothesen liefern, seien aber keine "Daten". Er meinte, dass innere Vorgänge, welche Aufmerksamkeit erfordern, durch Introspektion verändert würden, weil diese ebenfalls Aufmerksamkeit erfordere. Bühler konterte, dass Erlebnisse automatisch im Gedächtnis gespeichert werden und per se keine Aufmerksamkeit erfordern.
 
-TODO: Wundt-Bühler-Kontroverse ausformulieren
+Massen & Bredenkamp (2005) haben die Kontroverse mit Befunden aus der heutigen Kognitionspsychologie kommentiert und legen Nahe, dass Wundt eher recht hatte:
+* Eingeschränkte [Veridikalität](https://en.wikipedia.org/wiki/Veridicality) der Erinnerung
+* Stattgefundene mentale Prozesse werden nicht berichtet bzw. nicht erinnert
+* Nicht-stattgefundene mentale Prozesse werden von der Vpn als stattgefunden hypothetisiert
+* Nicht-sprachliche Gedanken müssen über Sprache kommuniziert werden (fehlendes Vokabular)
+* Reaktivität - Gedanken ändern sich, während sie verbalisiert werden
+* Gedanken äußern während Problemlösen: Vpn verstummen kurz vor dem Aha-Effekt
+* Gedanken retrospektiv nach Problemlösen: Vpn aus der Kontrollgruppe waren besser beim Problemlösen
+* Vpn wurden subtil zur Lösung eines Problem hingewiesen. Die Vpn konnten den Hinweisreiz nicht bewusst erinnern
+* Denkprozesse eher parallel und viele davon bewusster Erfahrung nicht zugänglich: Rechenkünstler berichtete über sein Rechenvorgehen - Mathematisch waren aber noch weitere Rechenschritte notwendig, an die er sich nicht bewusst erinnert, die sein Gehirn aber macht
 
 # Introspektion vs. Objektivität
 
