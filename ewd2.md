@@ -14,7 +14,7 @@ Der Mensch möchte seine Umwelt verstehen, damit er sie in Folge beeinflussen ka
 Beim **internen** Attribuieren vermutet man die Ursache des Verhaltens einer Person in der handelnden Person selbst, beim **externen** in der Situation und Umwelt.
 
 # Induktive Methoden
-
+<a id="Induktion"></a>
 **[Induktion](https://de.wikipedia.org/wiki/Induktion_(Philosophie))** ist das Schlussfolgern von einzelnen Beobachtungen auf ein verallgemeinertes Gesetz. Man sammelt Daten, sucht nach Mustern und leitet davon eine Erkenntnis ab.
 
 John Stuart Mill (1843) sah in der _Induktion_ eine Möglichkeit kausale Ursachen abzuleiten und definierte dafür fünf Methoden:
