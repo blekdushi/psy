@@ -83,5 +83,5 @@ Die Studienautoren merken zu obigen Zahlen an, dass einige Marienthaler zum Zeit
 Die obigen Haltungstypen ließen sich auch mit dem Durchschnittseinkommen (pro Erwachsener/Woche) in Beziehung setzen:
 * Ungebrochen: 34 S
 * Resigniert: 30 S
-* verzweifelt: 25 S
-* apathisch: 19 S
+* Verzweifelt: 25 S
+* Apathisch: 19 S
