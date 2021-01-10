@@ -30,18 +30,16 @@ Die Studie weist folgende Eigenschaften auf:
 * situativ-ganzheitliches und historisches Gegenstandsverständnis
 * Einzelfallanalyse
 * teilnehmende Beobachtung (Feldforschung)
-* jenseits der Ein-Personen-Paradigmas
+* jenseits des Ein-Personen-Paradigmas
 
 # Methoden
 
-Zum Zeitpunkt der Studie gab es (noch) keine so gut erforschten, kategorisierte, standardisierte und publizierte Methoden wie heute. Die folgend vorgestellten Methoden beschreiben daher die Methoden der Marienthalstudie (und _nicht_ aktuelle Methoden der quantitativen oder qualitativen Sozialforschung:.
-
-Die Studie setzte mehrere Methoden ein (**Methodenpluralismus**):
+Zum Zeitpunkt der Studie gab es (noch) keine so gut erforschten, kategorisierte, standardisierte und publizierte Methoden wie heute. Die Studie setzte mehrere Methoden ein (**Methodenpluralismus**). Die folgend vorgestellten Methoden kamen zum Einsatz (und entsprechen _nicht_ aktuellen Methoden der quantitativen oder qualitativen Sozialforschung):
 * Non-reaktive Verfahren
 * Interviews
 * Protokolle
 
-**Non-reaktive Verfahren** (unobtrusive, nonintruding) ermitteln Daten aus bereits vorhandenen, "natürlichen" Quellen. Sie modifizieren das untersuchte Phänomen und setzen keine Begegnung zwischen Forscher und Beforschten voraus. Die Beforschten können die Daten nicht direkt beeinflussen, weil der Vorgang der Datenerhebung nicht bemerkt wird:
+**Non-reaktive Verfahren** (unobtrusive, nonintruding) ermitteln Daten aus bereits vorhandenen, _natürlichen Quellen_. Sie modifizieren das untersuchte Phänomen nicht und setzen keine Begegnung zwischen Forscher und Beforschten voraus. Die Beforschten können die Daten nicht direkt beeinflussen, weil der Vorgang der Datenerhebung nicht bemerkt wird:
 
 | Phyische Spuren                                 | Archive, Statistiken                           | Sonstige Dokumente        |
 | ----------------------------------------------- | ---------------------------------------------- | ------------------------- |
@@ -51,13 +49,14 @@ Die Studie setzte mehrere Methoden ein (**Methodenpluralismus**):
 | Beobachtung der Gehgeschwindigkeit              | Wahlergebnisse                                 | Anzeigen (Polizei)                 |
 |                                                 | Buchhaltung Konsumverein                       | Bilder & Plakate          |
 
-Über **Protokolle** wurden Daten direkt von den Betroffenen erhoben (z.B. Zeitverwendungsbogen).
+Über **Protokolle** wurden Daten direkt von den Betroffenen erhoben (z.B. Zeit- und Geldverwendungsbogen, Mahlzeitberichte).
 
 Über **projektive Verfahren** haben die Forscher Wünsche und Phantasien der Untersuchten erfasst (z.B. über Schulaufsätze und Preisausschreiben). Die Daten darin wurden quantifiziert. Dabei haben sie auch qualitativ die verwendete Sprache (z.B. Indikativ vs. Konjunktiv) analysiert.
 
-Im Gegensatz zu den Protokollen erheben die Forscher in **Interviews** Daten, indem sie den Untersuchten Fragen stellen und in ein Gespräch verwickeln. Das Interview ist eine komplexe, qualitative Forschungsmethode, in welcher die Forscher gut ausgebildet sein sollten, um Fehler zu vermeiden und die Interviewsituation richtig zu führen. (Banister et. al, 1994 , S.49)
+Im Gegensatz zu den Protokollen erheben die Forscher in **Interviews** Daten, indem sie den Untersuchten Fragen stellen und in ein Gespräch verwickeln.
+Das Interview ist eine komplexe, qualitative Forschungsmethode, in welcher die Forscher gut ausgebildet sein sollten, um Fehler zu vermeiden und die Interviewsituation richtig zu führen.
 
-Bei der Marienthalstudie waren die Interviews zunächst strukturiert, dann aber narrativer, weil die Forscher bemerkt haben, dass sie mehr/bessere Daten gewinnen können, wenn sie die Betroffenen einfach erzählen lassen, statt sie über einen Leitfaden in konkrete Fragen zu zwängen.
+Bei der Marienthalstudie waren die Interviews zunächst strukturiert, dann aber narrativer, weil die Forscher bemerkt haben, dass sie mehr/bessere Daten gewinnen können, wenn sie die Betroffenen einfach erzählen lassen. Bei einem Leitfaden und/oder konkreten Fragen über die Arbeitslosigkeit schweigen die Interviewten eher oder antworten mit Floskeln.
 
 # Ergebnisse
 
@@ -73,8 +72,16 @@ Aussagekräftiger als Einzelergebnisse ist deren **integrale Interpretation**, i
 * Zusammenbruch der Zeitstruktur
 
 
-Die Studie identifiziert vier **Haltungstypen:** von Familien:
+Die Studie beobachtete 100 Familien im Detail und identifizierte vier **Haltungstypen:**:
 * Die _Ungebrochenen_ (16%): planvolle Existenz, große Sorgfalt der Haushaltsführung, Atmosphäre der Zufriedenheit, Blick ist hoffnungsvoll auf die Zukunft gerichtet
 * Die _Resignierten_ (48%): erwartungslose Grundhaltung zum Leben, aber Haushalt geordnet, Kinder werden nicht vernachlässigt
-* _Gebrochen-verzweifelten_ (11%): Verzweiflung, Depression, Hoffnungslosigkeit, Gefühl der Vergeblichkeit aller Bemühungen, keine Versuche zur Verbesserung
-* _Gebrochen-apathischen_ (25%): Aufgeben des geordneten Hausstandes, ohne den Versuch etwas vor dem Verfall zu retten, Streit, Betteln und Stehlen, Planlosigkeit
+* _Gebrochen-verzweifelten_ (11%): Verzweiflung, Depression, Hoffnungslosigkeit, Gefühl der Vergeblichkeit aller Bemühungen, keine Versuche zur Verbesserung, aber noch geordneter Hausstand
+* _Gebrochen-apathischen_ (25%): Aufgeben des geordneten Hausstandes, irrationaler Umgang mit Geld, ohne den Versuch etwas vor dem Verfall zu retten, Streit, Betteln und Stehlen, Planlosigkeit
+
+Die Studienautoren merken zu obigen Zahlen an, dass einige Marienthaler zum Zeitpunkt der Studie bereits abgewandert waren. Man könnte mutmaßen, dass das Menschen mit eher hoffnungsvoller und selbstbestimmender Persönlichkeit waren und tendenziell jene Menschen geblieben sind, die zu einer resignierten/gebrochenen Einstellung neigen.
+
+Die obigen Haltungstypen ließen sich auch mit dem Durchschnittseinkommen (pro Erwachsener/Woche) in Beziehung setzen:
+* Ungebrochen: 34 S
+* Resigniert: 30 S
+* verzweifelt: 25 S
+* apathisch: 19 S
