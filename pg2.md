@@ -1,252 +1,67 @@
 ---
 layout: page
-title: PG - 17.11.2020
+title: PG - 13.10.2020
 ---
 
 * VO: Paradigmengeschichte
-* 17.11.2020
-* Psycholog\*innengesetz und berufspolitische Rahmenbedingungen (Wimmer-Puchinger)
+* 13.10.2020
+* Wie ist Psychologie als Wissenschaft möglich? (Benetka)
 
-# Leitbild des BÖP
+Wissenschaft ist ein gemeinschaftlicher Prozess. Alle Forschenden sollen ihre Forschungen ihren Kolleg\*innen kommunizieren einsehen und umgekehrt deren Forschung _[intersubjektiv](https://www.duden.de/rechtschreibung/intersubjektiv)_ nachvollziehen und sogar reproduzieren können.
 
-* Berufsgruppe als Sympathieträger
-* Gesundheit und seelische Gesundheit bedingen einander
-* soziale, gesundheitliche und psychologische Anliegen der Menschen ernst nehmen
-* Kompetenz der Berufsgruppe im Gesundheitswesen positionieren
-* Berufsgruppe ein verständliches Profil geben und stärken
-* Aufbau eines interdisziplinäres Netzwerk mit benachbarten Organisationen und andere Berufsgruppen
-* mediale Präsenz erhöhen
-* Kommunikationsort, Informationsträger sowie Drehscheibe
-* Stellung zu aktuellen Themen beziehen (z.B. Pressekonferenzen)
-* Stark vernetzte Fachkompetenz vermitteln
+__Zentrales Problem__: Der Mensch ist Forscher und Forschungsgegenstand zugleich: Das "Erleben" eines Menschen ist subjektiv und von außen niemand anderem zugänglich. Wie kann es dann die obigen Anforderungen an Wissenschaft erfüllen und Forschungsgegenstand der Psychologie sein?
 
-# Aufgaben des BÖP
+Zu dieser Frage gibt es unterschiedliche Ansätze (Paradigmen):
+* klassisch-deutschsprachige Tradition (Wundt und Bühler)
+* Behaviourismus
+* Geisteswissenschaftliche und verstehende Psychologie
 
-* berufspolitische Interessen von Psycholog\*innen vertreten
-* Serviceleistungen für Mitglieder (Auskunft, juristische Beratung, Versicherung)
-* Qualitätssicherung psychologischer Leistungen
-* Öffentlichkeitsarbeit über Bedeutung und Leistungen der Psychologie
+Die Ansätze sollten sich ergänzen und nicht gegenseitig verdrängen (Methodenpluralismus - Bühler).
 
-# Zahlen, Daten & Fakten des BÖP
+# Klassisch-deutschsprachige Tradition (Wundt und Bühler)
 
-**Geschichte**
-* 1953 : Gründung des BÖP
-* 1991 : 1. Psychologen-Gesetz
-* 1992 : Gründung der [Österreichischen Akademie für Psychologie](http://www.psychologieakademie.at) (ÖAP)
-* 1994 : Gesamtvertrag Klinisch-psychologische Diagnostik
-* 2013 : 2. Psychologen-Gesetz
+__Introspektion__ ist das Beobachten des eigenen Erlebens. Kritik daran kommt u.a. von Immanuel Kant, wenn man das eigene Erleben beobachtet, dann verändert man es gleichzeitig auch.
 
-**Fakten**
-* vertreten in der EFPA, ADP und ÖGP
-* aktuelle Mitgliederanzahl (Nov 20) im BÖP 6.014 (davon 439 PLAST)
+Wilhelm Wundt hat versucht _Introspektion auf ein Minimum zu reduzieren_ und war der Meinung, dass sich innere Vorgänge auch als _äußere physiologisch messbare Vorgänge_ zeigen (siehe dazu auch die [Vorlesung von Laback](./ewd2))
 
-# Struktur des BÖP
+ Auch [Franz Brentano](https://de.wikipedia.org/wiki/Franz_Brentano) sah Introspektion kritisch und schlug stattdessen __Retrospektion__ vor. Also kein Beobachten während des Erlebens, sondern ein Erinnern daran aus dem Gedächtnis. Diesem Ansatz folgte auch die __Würzburger Schule__, zu der auch [Karl Bühler](https://de.wikipedia.org/wiki/Karl_B%C3%BChler) zählte. Mittels der _rückschauenden Selbstbeobachtung_ erforschte man Denk- und Willensvorgänge unter experimentellen Bedingungen. Die Vpn (selbst Studenten und Forscher) mussten Fragen beantworten und danach das Erlebte erinnern. Hauptresultate:
+ * _Gedanken_ als Bausteine des Denkens sind von Wahrnehmungen und "Vorstellungen" losgelöst
+ * Abfolge von Gedanken gehorcht Forderungen der gedachten Gegenstände und nicht einem assoziativem Verknüpfen von "Vorstellungen"
 
-* Präsidium (Präsidentin & 2 Vizepräsidentinnen)
-* 4 Vorstände
-* 13 Fachsektionen (absteigend sortiert nach Mitgliederzahl)
-  * Klinische Ψ
-  * Gesundheits-Ψ
-  * Kinder-Jugend-Familien-Ψ
-  * Psychotherapie
-  * AWO-Ψ
-  * Trauma-Ψ
-  * Pädagogische Ψ
-  * Notfall Ψ
-  * Rechts-Ψ
-  * Geronto-Ψ
-  * Mediation
-  * Verkehrs-Ψ
-  * Sport-Ψ
+Kritik an der Retrospektion ist, dass die Erinnerung an das Erlebte *sprachlich codiert* wird. Das Gegenüber interpretiert die Formulierung eventuell ganz anders, als gemeint. Dem könnte man entgegenwirken, wenn man die Sprache zum Kommunizieren des Erlebten _normiert_, doch dann wird sie auch ausdrucksschwächer und beschreibt das erlebte Phänomen nicht mehr in seiner Ganzheit.
 
-# Tatigkeiten des BÖP
+Obige Ansätze wirken heute noch am ehesten in der [Gestalttheoretischen Schule](https://de.wikipedia.org/wiki/Gestalttheorie) (Wolfgang Köhler, Max Wertheimer, Kurt Koffka).
 
-**Pressearbeit**
-* Interviews
-* Pressegespräche
-* Petitionen - z.B. „Für eine bessere Versorgung von Menschen mit psychischen Erkrankungen in Österreich“
-  1. Ausreichend Behandlungsplätze für psychisch erkrankte Menschen
-  2. Kurzfristig: Klinisch-psychologische Behandlung als Kassenleistung
-  3. Langfristig: „Masterplan: Psychisch gesundes Österreich“ aller PSY-Berufe
+# Behaviourismus
 
-**Veranstaltungen**
-* Jahrestagungen
-* Tag der Psychologie
-* Psychologie im Gespräch
-* „Psychologie bewegt“ Frauenlauf
-* Kunstraum Psychologie
+In den USA stand der _praktische Nutzen der Psychologie_ im Fokus. Ψ war nicht so stark philosophisch verwurzelt wie in Europa. Obige Probleme (Introspektion, Retrospektion) wurden umgangen, indem Psychologie ausschließlich als Lehre des menschlichen Verhaltens, und _nicht_ auch des Erlebens definiert wurde (John B. Watson - Gründungsmanifest des __Behaviourismus__). Es ging dabei nur noch um das Beobachten, Vorhersagen und Kontrollieren von Verhalten.
 
-**BÖP-Helpline**
-* kostenlose, anonyme psychologische Beratung per Telefon und Email
-* Krisenintervention, klinisch-psychologische Beratung, Angehörigenberatung, Drehscheibenfunktion
-* Themen während Corona
-  * Familie und Partnerschaft (17,2%)
-  * Ängste (16%)
-  * Beratung Corona-Pandemie (16%)
-  * Depression (10,2%)
-  * Belastungsreaktionen Corona-Pandemie (8,8%)
-  * Krisenintervention & Suizidalität (6,3%)
-  * Arbeit & Beruf (5,8 %)
+# Geisteswissenschaftliche und verstehende Psychologie
 
-**BÖP und Covid 19**
-* Informationsoffensive für Mitglieder
-* BÖP Informationsblätter zum Umgang mit der Krise
-* Social Media Aktivitäten
-* [Psychnet](https://www.psychnet.at) Relaunch
-* Medienauftritte in Radio und Fernsehen
+Die **geisteswissenschaftliche und verstehende Psychologie** sind der dritte Ansatz neben Intro-/Retrospektion und dem Behaviourismus. Darunter versteht man mehrere Denkansätze, für die ein naturwissenschaftlicher Zugang zur Psychologie unangemessen ist. Sie wollen den Sinn und Zweck des menschlichen Handelns im gesellschaftlichen und kulturellen Kontext
+_verstehen_. Ihre Methode ist die **[Hermeneutik](https://dorsch.hogrefe.com/stichwort/hermeneutik)** (deuten, auslegen, verstehen) von "Lebensäußerungen" (Tagebücher, Gesprochenes, Handlungen...). **Hermeneutischer Zirkel**: Das Ganze kann man nur verstehen, wenn man das Einzelne versteht, und das Einzelne nur, wenn man das Ganze versteht.
 
-# Berufsfelder
+# Desorientierung und Reorientierung
 
-**Arbeits-, Wirtschafts- und Organisationspsychologie**
-* Arbeits- und Organisationspsychologie:
-  <br>Personalauswahl/-entwicklung, Diversity, Führung, Motivation, gesunde Arbeitsbedingungen, betriebliche Gesundheitsförderung, Organisationentwicklung
-* Wirtschaftspsychologie
-  <br>Konsumentenverhalten, Markt- und Meinungspsychologie, Konsumentenforschung, Werbepsychologie, Verhaltensökonomie
+Zusammenfassung von “Desorientierung und Reorientierung – Zum Werden des Faches Psychologie in Wien” (Benetka, Slunecko)
 
-**Gerontopsychologie**
-Erleben und Verhalten des älteren Menschen, Alterungsprozessen und deren Beeinflussbarkeit, Demenzerkrankungen, Altersdepressionen, Schlafstörungen, Angst- oder Abhängigkeitsstörungen. Multiprofessionelle Zusammenarbeit und Schulungen mit dem betreuenden Umfeld (Angehörige, Pflegekräfte etc).
+1920er Jahre Psychologie noch eng mit Philosophie verknüpft. Bühler wollte ein psychologisches Institut gründen, doch die Universität war dagegen. Kompromiss mit (sozialdemokratischem) Stadtschulrat, der Räumlichkeiten, Gerätschaften und Gehalt für Bühler bezahlte.
+Später auch Unterstützung von Rockefeller Stiftung.
+Charlotte Bühler forschte in Kindergarten und Schulen.
+Karl Bühler sah Psychologie in der Biologie aber auch in der sinnhaften Bedeutung von Verhalten. Erforschung der Sprache (dreifache Leistung der Sprache: Gedanken-Ausdruck, Appell an Empfänger und Darstellung eines Sachverhalts.
 
-**Gesundheitspsychologie** Public Health - Förderung und Erhaltung von physischer und psychischer Gesundheit, gesundheits-bezogenen Verhaltens einzelner Personen, Familien und Gruppen, Gesundheitsförderung und Krankheitsverhütung auf Verhaltens- und Verhältnisebene (Verbesserung des Systems gesundheitlicher Versorgung). Gesundheitspsychologische Diagnostik, Beratung und gesundheits-psychologische Maßnahmen in Krankenhäusern, Institutionen und in freier Praxis
+Sozialdemkoraten profitierten, weil sie ihre bildungspolitischen Maßnahmen als wissenschaftlich fundiert darstellen konnten.
 
-**Kinder-, Jugend- und Familienpsychologie** psychischen Veränderungen im Kindes- und Jugendalter. Familienpsychologie (Beziehung zwischen Familienmitgliedern) Entwicklungspotentiale erkennen und fördern, Kindern und Unterstützung bei der Bewältigung von Krisen und Problemen. Traumatisierungen, Vernachlässigung, suizidale Gefährdung, Suchtprobleme, Hochbegabtendiagnostik, Selbstverletzendes Verhalten, etc.
+1933/34 Zerschlagung des roten Wiens - psychologisches Institut verlor Mittel und Mitarbeiter (Auswanderung). 1938 von Gestapo geschlossen, Bühler vorerst festgenommen, später entlassen. Danach wurde das Institut von Nicht-Psychologen geleitet.
 
-**Klinische Psychologie** „No Health without Mental Health“ (WHO) , psychischen Störungen und Folgen von somatischen Erkrankungen, (Diabetes, Rheuma, Schmerz, Onkologie, Rehabilitation, Herz-Kreislauf bis zu Organtransplantationen) psychischen Extremsituationen, den psychischen Folgen akuter Belastungen, mit Entwicklungskrisen und psychischen Krisen, klinisch-psychologische Diagnostik, psychologische Beratung und klinisch-psychologische Behandlung im stationären Bereich wie auch in freier Praxis
+Wachstum der Psychologie im Nationalsozialismus, weil Anwendung in der Wehrmacht (Diagnostik)
 
-**Mediation** Vermittlung zwischen zwei oder mehreren Konfliktparteien, und gemeinsame Lösungserarbeitung ("win-win-solution"). Vorteile durch psychologische Hintergrundwissen Einblick in das Denken, Fühlen und Handeln von Menschen und deren Zusammenhänge als Basis für eine professionelle Begleitung in Konfliktsituationen.
+1941 - Diplomprüfungsordnung Psychologie
 
-**Notfallpsychologie** Prävention, Akutbetreuung und Nachbearbeitung von außergewöhnlich belastenden Ereignissen. Die Betreuung von Betroffenen als auch Familienangehörigen, BeobachterInnen und Einsatzkräften.
+1942 - mit Hubert Rohracher ein Psychologe an die Uni Wien berufen. Forschte an EEG und war experimntell-naturwissenschaftlich ausgerichtet. Er stand anfangs im Fokus der Gestapo, aber wurde wegen Kriegswichtigkeit nicht weiter verfolgt.
 
-**Pädagogische Psychologie** Beschreibung und Erklärung der psychologischen Komponenten von Erziehungs-, Unterrichts- und Sozialisationsprozessen. Ihre Erkenntnisse werden zur Optimierung pädagogischen Handelns bzw. zu seiner zielbezogenen Veränderung angewendet. Pädagogische PsychologInnen bieten somit Begleitung und/oder Unterstützung von Kindern, Jugendlichen und Erwachsenen bei der Persönlichkeitsentwicklung im Bereich der Lehr- und Lernprozesse – lebensbegleitend – vom Kindergarten bis ins hohe Erwachsenenalter.
+1946 - Rohracher kontaktiert Bühler wegen Rückkehr, Uni konnte sich aber mit Bühler nicht über Rückzahlungen einigen.
 
-**Psychotherapie** eigenständige Heilbehandlung zur Verbesserung von psychischen Leidenszuständen, psychosomatisch oder psychosozial bedingten Krankheiten oder Verhaltensstörungen. PsychotherapeutInnen im BÖP - fünfjähriges Universitätsstudium der Psychologie und eine abgeschlossene Psychotherapieausbildung
+Rohracher war eher Gegner von Freuds Thesen und entließ sogar zwei Mitarbeiter, weil sie damit sympathisierten.
 
-**Rechtspsychologie** Erstellen von Gutachten im Zivilrecht (z.B. Obsorge) und im Strafrecht (z.B. Begutachtung der Glaubhaftigkeit von Zeugenaussagen), Behandlung und Rehabilitation von StraftäterInnen, Entlassungsprognosen von Häftlingen, Betreuung von Opfern, TäterInnen und Angehörigen als auch die Untersuchung der Ursachen/Motive zu kriminellem Verhalten. Bearbeitung von psychologischen Fragen zu familienrechtlichen Problemen
-
-**Sportpsychologie** Unterstützung von SportlerInnen durch mentale Techniken. Betreuung im Einzelsetting, Mannschaften oder Gruppen sowie TrainerInnen, Eltern und Teammitglieder. Sportpsychologie wird im Hobby sowie Spitzensport (Bundes Sportorganisation – BSO) eingesetzt und umfasst auch Bereiche aus dem Gesundheitssport. Themen: Leistungsdruck im Sport, Kommunikation und Selbstgespräche, Aktivierung und Entspannung durch Methoden wie Tranceinduktion oder Visualisierungstechniken, Motivationspsychologie
-
-**Traumapsychologie** Folgeerkrankungen von traumatisierender Ereignisse wie Gewalt, Krieg, Vertreibung, Folter, Vergewaltigung, sexueller Missbrauch, Misshandlung, Vernachlässigung, Naturkatastrophen wie Lawinen, Erdbeben, Tsunami etc. Nicht nur das eigene Erleben, auch die Zeugenschaft solcher Ereignisse kann traumatisierend wirken (indirekte Traumatisierung).
-
-**Verkehrspsychologie** verkehrsbezogenen Fragestellungen, wie Verkehrseignung/-tauglichkeit im Straßen- und Luftverkehr, auf Wasserwegen, Schienen. Verhaltensforschung von FußgängerInnen- und RadfahrerInnenverhalten. Schwerpunkt: verkehrspsychologische Diagnostik und Beratung, Rehabilitation und Nachschulung auffälliger KraftfahrerInnen.
-
-# Psycholog\*innengesetz
-
-## Geschichte
-
-* 1956 : Erster Entwurf des Psycholog\*innengesetzes an das Bundeskanzleramt übergeben
-  * Problem: Beruf erstreckt sich auf unterschiedlichste Sachgebiete
-  * Bundeseinheitliche Regelung nicht durchführbar
-* 1977 : Zweiter Entwurf an das BM für Wissenschaft und Forschung übergeben
-  * Forderungen:
-    * Titelschutz
-    * Regelung der Zulassung
-    * Einrichtung Berufsvertretung (davor „Zirkus & Gaukler“)
-    * Psychologie als Heilberuf (davor [Kurpfuscher Paragraf](https://www.jusline.at/gesetz/stgb/paragraf/184))
-  * Probleme:
-    * Abgrenzungsschwierigkeiten mit anderen Berufen
-    * Widerstand gegen die Kammerregelung
-    * öffentliche Diskussion über Berechtigung zur Ausübung von Psychotherapie
-    * Parallel-Verhandlungen zwischen dem BÖP und der Psychotherapeutenvereinigung (Psychotherapie-Gesetz)
-* 1981+82 : Nachweis von Missbrauch psychologischer Tätigkeiten (Auftrag des BKA)
-  * Grundsatzfrage über Notwendigkeit des Psycholog\*innengesetzes
-  * Expansion des psychosozialen Bereiches
-  * Bemühungen um Psychotherapie-Gesetz (1982)
-  * Anspruch der Psychotherapeut\*innen auf Behandlung
-* 1984+85 : Entwurf zu „Kammergesetz-Lösung“
-  * Probleme
-    * keine ganzheitliche Lösung (klinische Psychologen im Fokus)
-    * Widerstand von Psycholg\*Innen und anderer Interessensgruppen
-* 1990 : Beschluss des Psycholog\*innengesetz (wirskam ab 1.1.91)
-  * gleichzeitig mit Psychotherapeut\*innengesetz
-  * Verordung für Lebens- und Sozialberater\*innen
-* 2013 : Novelle des Psycholog\*innengesetzes
-  * Regelung Studienabschluss für Titelschutz „Psycholog\*in“
-  * Details zur Ausbildung Klinischer Psycholog\*in und Gesundheitspsycholog\*in
-
-## Inhalt
-
-* Schutz der Berufsbezeichnung für alle Bereiche (Titelschutz) aber nicht der Tätigkeiten
-* Berufsausübungsrecht im Bereich des Gesundheitswesens (Klinische Psychologie & Gesundheitspsychologie)
-* Ausbildungsregelung für Klinische und GesundheitspsychologInnen
-* Diagnostik und Behandlung nicht mehr ausschließlich ÄrztInnen vorbehalten
-* Einrichtung des _Psychologenbeirats_ unter Vorsitz des Bundesministeriums für Gesundheit (BMG)
-* Einrichtung des _Psychotherapie-Beirats_ unter Vorsitz des BMG
-* „Psycholog\*in“ nur dann, wenn Studienrichtung Psychologie mit mindestens 300 ECTS und Abschluss Magister
-* Zulassung und Inhalte zur postgraduellen Ausbildung zur Klinischen Psycholog\*in (KP) und zur Gesundheitspsycholog\*in (GP)
-* Tätigkeitsvorbehalt im Bereich der Diagnostik
-* Berufsvorbehalt für KP-Behandlung, gesundheitspsychologische Analysen, Maßnahmen und Beratungen sowie Projekten für GP
-* Konkretisierung der Berufspflichten betreffend Fortbildung, Aufklärung und Dokumentation
-* verpflichtende Berufshaftpflichtversicherung für alle eingetragenen KP und GP
-* Rahmenbedingungen für praktische Fachausbildung im Rahmen eines Arbeitsverhältnisses (angemessenes Entgelt, Sozialversicherung...)
-* maximal 4 Hinweise auf zielgruppen-orientierte Spezialisierungen zulässig
-* [Verordnungsermächtigung](https://www.jusline.at/gesetz/pslg/paragraf/46) des Bundesministeriums
-
-TODO: Details zur Ausbildung von KP und GP in Folien wirklich relevant?
-
-## weitere Gesetzeslage
-
-* 1992 : Ärzte müssen eine psychologische Betreuung im Rahmen medizinisch unterstützter Fortpflanzung empfehlen ([FMedG](https://www.ris.bka.gv.at/eli/bgbl/1992/275/P7/NOR40168494))
-* 1992 : klinisch-psychologische Diagnostik als Pflichtleistung der [sozialen Krankenversicherung](https://www.jusline.at/gesetz/asvg/paragraf/135)
-* 1993 : ausreichende klinisch-psychologischen und gesundheitspsychologische Betreuung in Krankenanstalten ([KAKuG](https://www.jusline.at/gesetz/kakug/paragraf/11b))
-* 1994 : Recht zur Verweigerung der Aussage im Rahmen eines Strafprozesses [Strafprozessordnung](https://www.jusline.at/gesetz/stpo/paragraf/157)
-* 1995 : [ASVG Gesamtvertrag](https://www.jusline.at/gesetz/asvg/paragraf/349) über klinisch-psychologische Diagnostik
-* 1997 : Arbeitszeitgesetz gilt auch für PsychologInnen in Krankenanstalten ([KA-AZG](https://www.jusline.at/gesetz/kaazg/paragraf/1))
-* 1997 : Ausbildungsvorschriften Verkehrspsychologie ([Führerscheingesetz](https://www.jusline.at/gesetz/fsg-gv/paragraf/20))
-* 1998 : klinisch-psychologische Beratung und Betreuung als gesundheitsbezogene Maßnahme im [Suchtmittelgesetz](https://www.jusline.at/gesetz/smg/paragraf/11)
-* 2002 : Verankerung des Begriffs „Arbeitspsychologe“ im ([ArbeitnehmerInnenschutzgesetz](https://www.jusline.at/gesetz/aschg/paragraf/82a)) -  gesetzlich vorgeschriebenen Präventionszeiten
-* 2004 : Berücksichtigung der fachlichen Qualifikation von Klinischen PsychologInnen und GesundheitspsychologInnen bei Eintragung in die Liste der MediatorInnen ([ZivMediatG](https://www.jusline.at/gesetz/zivmediatg/paragraf/10))
-* 2006 : Freiheitsstrafe bei Missbrauch eines Autoritätsverhältnisses durch Psycholog\*innen ([StGB](https://www.jusline.at/gesetz/stgb/paragraf/212))
-* 2009 : Zuweisung zur Musiktherapie u.a. auch durch Klinische PsychologInnen nachweislich vor oder nach der ersten, jedenfalls vor der zweiten musiktherapeutischen Behandlung ([MuthG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005868)
-* 2013 : Beratung und Abklärung allfälliger psychischer Störungen durch KP/GP vor Durchführung eines Eingriffs an 16 bis 18-jährigen Personen, ebenso bei Erwachsenen mit psychischen Auffälligkeiten ([ÄsthOpG](https://www.jusline.at/gesetz/aesthopg/paragraf/5))
-* 2013 : Meldepflicht bei Verdacht auf Missbrauch von Minderjährigen ([KJH-G](https://www.jusline.at/gesetz/b-kjhg_2013/paragraf/37))
-* 2013 : Kostenübernahme klinisch-psychologischer Behandlungen bei Krisenintervention ([Verbrechensopfergesetz](https://www.jusline.at/gesetz/vog/paragraf/2))
-* 2013 : Evaluierung psychischer Fehlbelastungen durch ArbeitspsychologInnen (ASchG)
-* 2018 : Psychologisches Gutachten für Umgang mit waffen ([WaffG](https://www.ris.bka.gv.at/eli/bgbl/i/1997/12/P8/NOR40211242))
-
-## Bachelor in Psychologie
-
-Keine „Psycholog\*innen“.
-
-Ausbildung zur „Psychologisch tätigen Fachkraft“ (PTF) möglich:
-* Theoretisch
-  * Bachelor Studium Psychologie
-  * Kommissionelle Prüfung: Berufsrecht und Ethik
-* Praktisch
-  * 750h postgraduell
-
-Tätigkeiten einer PTF:
-* PTF können nur unter Aufsicht von KP/GP arbeiten.
-* Testvorgaben und Testauswertung (unter Aufsicht)
-* Erstellen von Testberichten (unter Aufsicht)
-* Counseling (unter Aufsicht)
-* Führen von Beratungsgesprächen und Interviewführung (unter Aufsicht)
-* Bedienung und Wartung technischer Geräte für psychologische Untersuchungen
-* Dokumentation
-* Weiterbildung in psychologisch relevanten Themen
-* Mitarbeit in Forschungsprojekten
-
-# EFPA
-
-[European Federation of Psychologists' Associations](http://www.efpa.eu/)
-
-**Fakten**
-* seit 1981
-* 12 nationale Psychologenverbände
-* Anerkannte NGO im Europarat
-* 37 europäische Länder, davon 26 EU,
-* repräsentiert > 350.000 Psycholog\*innen
-
-**Tätigkeiten**
-* Promotion of psychology in Europe and beyond
-* European Congress of Psychology
-* The European Psychologist (journal) (Hogrefe Verlag)
-* Collaborative groups and projects
-* Support for Member Associations
-* Representation and lobbying at European level (EU, WHO, etc.)
-
-**Voraussetzungen für EuroPsy psychologists**
-* at least 5 years of academic education in psychology (of a particular profile)
-* at least 1 year of practice under the supervision of a qualified supervisor
-* provide evidence of professional competence
-* subscribe to a statement on ethical conduct
-* engage in continued professional education EuroPsy is a standard of qualification set by EFPA
-* EuroPsy is valid for a limited time (7 years) and for a particular area of professional practice
+1949/50 - Beschäftigung mit amerikanischer Psychologie am Institut: Persönlichkeitstests objektiv mit Pen&Paper statt ganzheitlicher Betrachtung und subjektiver Intuition eines Psychologen, was von den USA auch gezielt unterstützt wurde. Rohracher selbst war der deutschen Tradition verpflichtet (Verstehen von Einzelfällen satt statistischer Auswertung von Stichproben) ließ aber seine Mitarbeiter gewähren. Dieses Nebeneinander von Paradigmen war für die Absolventen der Uni Wien damals fruchtbar. 
