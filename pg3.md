@@ -39,7 +39,7 @@ In der heutigen Zeit wirken die Denker der Antike noch immer nach:
 
 Im Mittelalter keine Forschung im eigentlichen Sinn, sondern dogmatische Unterordnung unter göttliche Schöpfung.
 
-In der Renaissance kommt dann der Empirismus auf. **Sir Francis Bacon** schlägt vor die Natur beim Beobachten bewusst und systematisch zu verändern (**Experiment**). Der Verstand ist für ihn zu leicht täuschbar. Er definiert **vier Arten von Erkenntnisirrtümer**:
+In der Renaissance kommt dann der Empirismus auf. **Francis Bacon** schlägt vor die Natur beim Beobachten bewusst und systematisch zu verändern (**Experiment**). Der Verstand ist für ihn zu leicht täuschbar. Er definiert **vier Arten von Erkenntnisirrtümer**:
 * Idole des Marktes - zwischenmenschliche Kommunikation und Sprache
 * Idole des Stammes - menschliche Natur
 * Idole der Höhle - Persönlichkeit
@@ -47,9 +47,8 @@ In der Renaissance kommt dann der Empirismus auf. **Sir Francis Bacon** schlägt
 
 Er fordert auch eine objektive Beobachterrolle (third-person perspective).
 
-Ein Problem des Empirismus war, dass er Erkenntnisse über Induktion gewonnen hat. Siehe dazu auch <a href="./ewd1#Induktion">Induktionsproblem</a> und <a href="./ewd2#Induktion">Induktion</a>.
-
-
 Auch der Rationalismus erfindet sich neu: Für **René Descartes** ist die Tatsache, dass man denkt, die einzig wahre Erkenntnis.
 
-Für **Immanuel Kant** ordnet der Verstand die chaotischen Sinneserfahrung in Raum und Zeit ein und macht sie verständlich. Er sieht die Psychologie nicht als Wissenschaft, weil man psychologische Zustände nicht räumlich verorten könne und weil er die Introspektion als Erkenntnisquelle anzweifelt. Mathematik sei die Leitwissenschaft.
+Für **Immanuel Kant** ordnet der Verstand die chaotischen Sinneserfahrung in Raum und Zeit ein und macht sie verständlich. Er sieht die Psychologie nicht als Wissenschaft, weil man psychologische Zustände nicht räumlich verorten könne und weil er die Introspektion als Erkenntnisquelle anzweifelt. Mathematik wird die Leitwissenschaft.
+
+Ein Problem des Empirismus war, dass er Erkenntnisse über **Induktion** gewonnen hat. Siehe dazu auch <a href="./ewd1#Induktion">Induktionsproblem</a> und <a href="./ewd2#Induktion">Induktion</a>.
