@@ -27,11 +27,11 @@ Obwohl der kritische Rationalismus das derzeit angenommene Forschungsparadigma d
 
 **Historische Rahmenbedingungen** - Popper berücksichtigt nicht, dass soziale, ideologische und politische Rahmenbedingungen Einfluss auf die Wissenschaft nehmen, wie Fleck und Kuhn ausführen (siehe unten).
 
-Für Ludwig Fleck gibt es **Denkstile**: das gerichtete Wahrnehmen und gerichtete Verarbeiten des Wahrgenommenen. **Denkkollektive** sind Menschen, die im gedanklichen Austausch und Wechselwirkung stehen. Sie haben gemeinsame Grundannahmen. Daraus ergibt sich, was gedacht und beforscht werden soll und darf und was nicht ("Denkzwänge"). Thomas Kuhn greift diese Gedanken auf. Der Einfluss der Denkstile und -kollektive äußere sich nicht nur inhaltlich, sondern auch praktisch, nämlich *wie* Wissenschaft betrieben wird. Wissenschaft sei von ihren *historischen, politischen, religiösen und sozialen Kontexten abhängig*, spiegelt sie wider und dokumentiert sie. **Robert Merton**
+Für Ludwig Fleck gibt es **Denkstile**: das gerichtete Wahrnehmen und gerichtete Verarbeiten des Wahrgenommenen. **Denkkollektive** sind Menschen, die im gedanklichen Austausch und Wechselwirkung stehen. Sie haben gemeinsame Grundannahmen. Daraus ergibt sich, was gedacht und beforscht werden soll und darf und was nicht ("Denkzwänge"). Thomas Kuhn greift diese Gedanken auf. Der Einfluss der Denkstile und -kollektive äußere sich nicht nur inhaltlich, sondern auch praktisch, nämlich *wie* Wissenschaft betrieben wird. Wissenschaft sei von ihren *historischen, politischen, religiösen und sozialen Kontexten abhängig*, spiegelt sie wider und dokumentiert sie.
 
 Auch **Robert Merton** wies darauf hin, dass Wissenschaft nicht "um des Wissens willen" forscht, sondern dass sich ihre Forschungsinteressen nach ihrer Umwelt und ihrem Kontext richten (z.B. Forschung bei Transport- & Kommunikationsmittel im England des 17.Jhdt). Das spräche eher für einen *organisierten Dogmatismus* (statt Skeptizismus laut Popper).
 
-**Thomas Kuhn** zeigt auf, dass Theorien nicht durch Forschungslogik und Falsifizierbarkeit (laut Popper) bestimmt werden, sondern dass sie abhängig von historischen Bedingungen abgestoßen und angenommen werden. Ein **Paradigma** ist eine Menge von Wertvorstellungen, Annahmen, Techniken...die eine überwiegende Mehrheit der Mitglieder eines Wissenschaftsbereichs akzeptiert haben. Es liefert  *Probleme und Antworten* und ist zeitlich begrenzt. Es ist *nicht oder kaum sichtbar*. Es bestimmt inhaltlich **Entitäten** (Was überhaupt beforscht und gesehen wird) , **Methoden** (wie dabei vorgangen wird) und  **Qualitätskriterien** (wie man bewertet). Institutionell bestimmt es wie Wissenschaft betrieben und kommuniziert wird.
+**Thomas Kuhn** meint, dass Theorien nicht durch Forschungslogik und Falsifizierbarkeit (laut Popper) bestimmt werden, sondern dass sie abhängig von historischen Bedingungen abgestoßen und angenommen werden. Ein **Paradigma** ist eine Menge von Wertvorstellungen, Annahmen, Techniken...die eine überwiegende Mehrheit der Mitglieder eines Wissenschaftsbereichs akzeptiert haben. Es liefert  *Probleme und Antworten* und ist zeitlich begrenzt. Es ist *nicht oder kaum sichtbar* (erst im Nachhinein). Es bestimmt inhaltliche **Entitäten** (Was überhaupt beforscht und gesehen wird) , **Methoden** (wie dabei vorgangen wird) und  **Qualitätskriterien** (wie man bewertet). Institutionell bestimmt es wie Wissenschaft betrieben und kommuniziert wird.
 
 Folgende Perioden bei der Entwicklung von Wissenschaften:
 * *prä-paradigmatische Periode* - Pluralismus und Wettstreit von Ansichten
@@ -43,20 +43,24 @@ Folgende Perioden bei der Entwicklung von Wissenschaften:
 **Wichtigste Kritikpunkte** am kritischen Rationalismus (von Kuhn und Fleck)
 * irrationale Machtpolitik statt offener, fairer Forschungslogik
 * Theorien werden nicht widerlegt, sie werden verlassen (verlorene Attraktivität, zu wenige Anhänger...)
-* Wissenschaft deskriptiv statt normativ (präskriptiv) - Wissenschaft komplex, organisch und sozial dynamisch. Präskriptiv (z.B. Methode des kritischen Rationalismus) würde voraussetzen, dass Wissenschaft logisch und rational ist. Aber selbst "rational" ist einem historischen Wandel unterworfen.
-* statement-view-of-science vs. non-statement (praxeologisch) - Theorie sollten nicht nach ihren wahr/falsch Aussagen bewerten werden, sondern nach ihrem langfristigen Impact (fruchtbare Diskurse, Zusammenspiel mit Theorien, eröffnen neuer Ideen & Bereiche)
-* Fortschritt ist weder kumulativ noch kontinuierlich - Popper sieht Wissenschaft als Annäherung an Wahrheit (Enfaltungskonzept) - Kuhn und Fleck sehen Paradigmen auch als Tunnel, die Ideen der Vergangenheit auch wieder verdrängen und den potenziellen Fortschritt eines anderen (nicht vorherrschenden) Paradigmas verhindern. Wissenschaft als Möbius-Band
+* Wissenschaft deskriptiv statt normativ (präskriptiv) - Wissenschaft komplex, organisch und sozial dynamisch. Präskriptiv (z.B. Methode des kritischen Rationalismus) würde voraussetzen, dass Wissenschaft logisch und rational ist. Aber selbst die Bedeutung von "rational" ist einem historischen Wandel unterworfen.
+* statement-view-of-science vs. non-statement (praxeologisch) - Theorie sollten nicht nach ihren wahr/falsch Aussagen bewertet werden, sondern nach ihrem langfristigen Impact (fruchtbare Diskurse, Zusammenspiel mit Theorien, eröffnen neuer Ideen & Bereiche)
+* Fortschritt ist weder kumulativ noch kontinuierlich - Popper sieht Wissenschaft als Annäherung an Wahrheit (Enfaltungskonzept) - Kuhn und Fleck sehen Paradigmen auch als Tunnel, die Ideen der Vergangenheit auch wieder verdrängen und den potenziellen Fortschritt eines anderen (nicht vorherrschenden) Paradigmas verhindern. Wissenschaft als [Möbius-Band](https://en.wikipedia.org/wiki/M%C3%B6bius_strip).
 
 # Paradigmenvielfalt der Psychologie
 
 Schriften von Karl Bühler und Lev Vigotski in den 1920er Jahren legen für damals eine prä-paradigmatische Phase der Psychologie nahe.
 
-Psychologie zwischen Natur- und Geisteswissenschaften: <q>Die Natur erklären wir, das Seelenleben verstehen wir</q> (Wilhelm Dilthey):
+Psychologie zwischen Natur- und Geisteswissenschaften: <q>Die Natur erklären wir, das Seelenleben verstehen wir</q> (Wilhelm Dilthey).
 
-|                     | Perspektive  | Ziele                                                        | Ausrichtung        | Methoden    |
-| ------------------- | ------------ | ------------------------------------------------------------ | ------------------ | ----------- |
-| Naturwissenschaft   | third-person | Erklären & Kausalbeziehungen von zergliederten Bestandteilen | nomoi (Gesetze)    | Quantitativ (Experiment)            |
-| Geisteswissenschaft | first-person | Verstehen und Nachvollziehen von Sinn und Ganzheit           | idios (das Eigene) | Qualitativ (Hermeneutik) |
+Sowohl in Amerika als auch in Deutschland erstarkt die Diagnostik vor und während des 2. Weltkrieges, wegen der Auswahlprozesse für Militär, Schule... Das nährt die Ansicht Robert Mertons, dass der Wirtschaft, Politik, Schule, Militär mit Wissenschaft verwoben sind und somit die Paradigmenentwicklung mitbestimmen, abhängig von Ansehen, Medienpräsenz und Forschungsgeldern.
+
+Nach dem 2. Weltkrieg setzt sich die amerikanische Psychologie (Behaviorismus) durch. Geistenwissenschaftliche Ansätze bleiben in der Psychotherapie und Kulturpsychologie.
+
+|                     | Perspektive  | Ziele                                                        | Ausrichtung        | Methoden                 | Beispiele |
+| ------------------- | ------------ | ------------------------------------------------------------ | ------------------ | ------------------------ | ---------- |
+| Naturwissenschaft   | third-person | Erklären & Kausalbeziehungen von zergliederten Bestandteilen | nomoi (Gesetze)    | Quantitativ (Experiment) | Behaviorismus, Experimentalpsychologie           |
+| Geisteswissenschaft | first-person | Verstehen und Nachvollziehen von Sinn und Ganzheit           | idios (das Eigene) | Qualitativ (Hermeneutik) | Phänomenologie, Psychoanalyse           |
 
 Grundannahmenen der verstehend-geisteswissenschaftlichen Psychologie:
 * Menschliche Welt grundsätzlich sinnhaft strukturiert
@@ -64,7 +68,12 @@ Grundannahmenen der verstehend-geisteswissenschaftlichen Psychologie:
 * Interpretationen im umfassenden Kontext
 * Erkenntnisobjekt und -subjekt nicht strikt getrennt - Beobachter kann nicht neutral sein
 * Beobachter muss eigene Perspektive reflektieren
-* Blinde Flecken entdecken und Distanz gewinnen durch Interpretationsgruppen
+* Forscher sollen blinde Flecken entdecken und Distanz gewinnen durch Interpretationsgruppen
 * Intersubjektive Nachvollziehbarkeit (statt Intuition)
 
-Paradigmen zu Beginn des 20.Jahrhunderts:
+# Abwehr der Psychoanalyse
+
+Anschauliches Beispiel für Paradigmenentwicklung ist der Umgang mit Psychoanalyse in Wien:
+Karl Bühler (in 20er und 30er Jahren) übt Kritik an Psychoanalyse, aber lobt Freud auch (kritische Rezeption).
+Hubert Rohracher folgt Bühler in der Nazizeit. Er ignoriert bzw. verachtet Freuds Thesen als nicht-wissenschaftlich.
+Heute ist Psychologie an Uni Wien naturwissenschaftlich-experimentell ausgerichtet (Statistik). Psychoanalyse lediglich ein Wahlfach. 

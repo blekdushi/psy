@@ -13,7 +13,7 @@ __Zentrales Problem__: Der Mensch ist Forscher und Forschungsgegenstand zugleich
 
 Zu dieser Frage gibt es unterschiedliche Ansätze (Paradigmen):
 * klassisch-deutschsprachige Tradition (Wundt und Bühler)
-* Behaviourismus
+* Behaviorismus
 * Geisteswissenschaftliche und verstehende Psychologie
 
 Die Ansätze sollten sich ergänzen und nicht gegenseitig verdrängen (Methodenpluralismus - Bühler).
@@ -32,13 +32,13 @@ Kritik an der Retrospektion ist, dass die Erinnerung an das Erlebte *sprachlich 
 
 Obige Ansätze wirken heute noch am ehesten in der [Gestalttheoretischen Schule](https://de.wikipedia.org/wiki/Gestalttheorie) (Wolfgang Köhler, Max Wertheimer, Kurt Koffka).
 
-# Behaviourismus
+# Behaviorismus
 
-In den USA stand der _praktische Nutzen der Psychologie_ im Fokus. Ψ war nicht so stark philosophisch verwurzelt wie in Europa. Obige Probleme (Introspektion, Retrospektion) wurden umgangen, indem Psychologie ausschließlich als Lehre des menschlichen Verhaltens, und _nicht_ auch des Erlebens definiert wurde (John B. Watson - Gründungsmanifest des __Behaviourismus__). Es ging dabei nur noch um das Beobachten, Vorhersagen und Kontrollieren von Verhalten.
+In den USA stand der _praktische Nutzen der Psychologie_ im Fokus. Ψ war nicht so stark philosophisch verwurzelt wie in Europa. Obige Probleme (Introspektion, Retrospektion) wurden umgangen, indem Psychologie ausschließlich als Lehre des menschlichen Verhaltens, und _nicht_ auch des Erlebens definiert wurde (John B. Watson - Gründungsmanifest des __Behaviorismus__). Es ging dabei nur noch um das Beobachten, Vorhersagen und Kontrollieren von Verhalten.
 
 # Geisteswissenschaftliche und verstehende Psychologie
 
-Die **geisteswissenschaftliche und verstehende Psychologie** sind der dritte Ansatz neben Intro-/Retrospektion und dem Behaviourismus. Darunter versteht man mehrere Denkansätze, für die ein naturwissenschaftlicher Zugang zur Psychologie unangemessen ist. Sie wollen den Sinn und Zweck des menschlichen Handelns im gesellschaftlichen und kulturellen Kontext
+Die **geisteswissenschaftliche und verstehende Psychologie** sind der dritte Ansatz neben Intro-/Retrospektion und dem Behaviorismus. Darunter versteht man mehrere Denkansätze, für die ein naturwissenschaftlicher Zugang zur Psychologie unangemessen ist. Sie wollen den Sinn und Zweck des menschlichen Handelns im gesellschaftlichen und kulturellen Kontext
 _verstehen_. Ihre Methode ist die **[Hermeneutik](https://dorsch.hogrefe.com/stichwort/hermeneutik)** (deuten, auslegen, verstehen) von "Lebensäußerungen" (Tagebücher, Gesprochenes, Handlungen...). **Hermeneutischer Zirkel**: Das Ganze kann man nur verstehen, wenn man das Einzelne versteht, und das Einzelne nur, wenn man das Ganze versteht.
 
 # Desorientierung und Reorientierung
@@ -64,4 +64,4 @@ Wachstum der Psychologie im Nationalsozialismus, weil Anwendung in der Wehrmacht
 
 Rohracher war eher Gegner von Freuds Thesen und entließ sogar zwei Mitarbeiter, weil sie damit sympathisierten.
 
-1949/50 - Beschäftigung mit amerikanischer Psychologie am Institut: Persönlichkeitstests objektiv mit Pen&Paper statt ganzheitlicher Betrachtung und subjektiver Intuition eines Psychologen, was von den USA auch gezielt unterstützt wurde. Rohracher selbst war der deutschen Tradition verpflichtet (Verstehen von Einzelfällen satt statistischer Auswertung von Stichproben) ließ aber seine Mitarbeiter gewähren. Dieses Nebeneinander von Paradigmen war für die Absolventen der Uni Wien damals fruchtbar. 
+1949/50 - Beschäftigung mit amerikanischer Psychologie am Institut: Persönlichkeitstests objektiv mit Pen&Paper statt ganzheitlicher Betrachtung und subjektiver Intuition eines Psychologen, was von den USA auch gezielt unterstützt wurde. Rohracher selbst war der deutschen Tradition verpflichtet (Verstehen von Einzelfällen satt statistischer Auswertung von Stichproben) ließ aber seine Mitarbeiter gewähren. Dieses Nebeneinander von Paradigmen war für die Absolventen der Uni Wien damals fruchtbar.
