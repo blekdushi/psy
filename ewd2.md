@@ -62,7 +62,7 @@ Sie erfüllt im Idealfall folgende Kriterien eines Experiments:
 
 Die _Wundt-Bühler-Kontroverse_ war eine Diskussion darüber, in wie weit man durch Introspektion bei _denkpsychologischen_ Untersuchungen "Daten" gewinnen kann oder lediglich Vermutungen (Hypothesen) daraus ableiten kann. Karl Bühler stellte seinen Probanden Fragen und wollte später von Ihnen wissen, was sie bei der Beantwortung der Frage erlebt hatten. Für ihn waren das "Daten". Für Wundt waren das "Ausfrage- und Scheinexperimente" und die Aussagen der Probanden könnten zwar Ideen für Hypothesen liefern, seien aber keine "Daten". Er meinte, dass innere Vorgänge, welche Aufmerksamkeit erfordern, durch Introspektion verändert würden, weil diese ebenfalls Aufmerksamkeit erfordere. Bühler konterte, dass Erlebnisse automatisch im Gedächtnis gespeichert werden und per se keine Aufmerksamkeit erfordern.
 
-Massen & Bredenkamp (2005) haben die Kontroverse mit Befunden aus der heutigen Kognitionspsychologie kommentiert und legen Nahe, dass Wundt eher recht hatte:
+Massen & Bredenkamp (2005) haben die Kontroverse mit Befunden aus der heutigen Kognitionspsychologie kommentiert und legen nahe, dass Wundt eher recht hatte:
 * Eingeschränkte [Veridikalität](https://en.wikipedia.org/wiki/Veridicality) der Erinnerung
 * Stattgefundene mentale Prozesse werden nicht berichtet bzw. nicht erinnert
 * Nicht-stattgefundene mentale Prozesse werden von der Vpn als stattgefunden hypothetisiert
@@ -106,7 +106,7 @@ Der Test kann auch mit 7 Phasen durchgeführt werden. In diesem Fall werden die 
 * situations- und aufgabenabhängig
 * verfälschbar (Vpn können Reaktionszeit verzögern)
 * Zweifel an Validität - Test misst vielleicht eher kulturelles Wissen als persönliche Einstellungen
-* Konfundierung ([Salienz](https://dorsch.hogrefe.com/stichwort/salienz) der gezeigten Begriffe beeinflusst das Ergebnis)
+* Konfundierung ([Salienz](https://dorsch.hogrefe.com/stichwort/salienz) der gezeigten Begriffe beeinflusst das Ergebnis). Rothermund & Wentura (2004) haben den UAT mit neutralen und Fantasiewörtern angewendet und gezeigt, dass Salienz eine konfundierende Variable ist.
 
 <q>Zu Störvariablen werden andere Einflussgrößen erst dann, wenn sie systematisch mit den Stufen einer UV variieren und auf die AV einwirken. Diesen Sachverhalt nennt man **Konfundierung**. Zu verhindern ist also die systematische Variation einer potenziellen Einflussgröße mit den Stufen einer oder mehrerer UV.</q> (Hussy et al., 2013, S.121)
 
