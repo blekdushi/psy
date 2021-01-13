@@ -143,8 +143,9 @@ Stichproben werden optimalerweise zufällig gewählt, aber alternativ gibt es au
 
 ## Merkmale und Variablen eines Experiments
 
-siehe <a href="./ewd1#Experiment">Experiment</a>
-Mit dem __Experiment__ lassen sich für die unäbhängige Variable X und die abhängige Variable Y folgende Fragestellungen beantworten:
+siehe auch <a href="./ewd1#Experiment">Experiment</a>
+
+Mit dem __Experiment__ lassen sich für die unabhängige Variable X und die abhängige Variable Y folgende Fragestellungen beantworten:
 * temporal : folgt Y immer auf X?
 * konditional : ist X Bedingung für Y?
 * kausal : ist X die Ursache und Y die Wirkung?
@@ -217,15 +218,40 @@ Eine __Versuchsplananlage__ hilft den Aufbau der unabhängigen Variablen eines E
 
 Ziel eines Experiments ist zu messen, ob es einen sog. __Haupteffekt__ einer UV auf die AV gibt. Über die schematische Anordnung einer Versuchsplananlage lässt sich dieser relativ einfach erkennen/berechnen: Vergleicht man die Spaltenmittelwerte miteindaner und unterscheiden sie sich signifkant, gibt es einen Haupteffekt der UV-B auf die AV. Analoges gilt für die Zeilenmittelwerte für UV-A.
 
+Es kann auch sein, dass sich einfache Haupteffekte einer UV nur in bestimmten Stufen einer anderen UV zeigen. Dann spricht man von **Interaktion**: <q>Unter Interaktion versteht man die kombinierte Wirkung der UV auf die AV. Sie
+umfasst die Wirkungen der einfachen Haupteffekte der UV.</q> (Hussy et al., 2013, S.135)
+
+Hat man eine Interaktion bereits in der Hypothese berücksichtigt, dann spricht man von einer **Interaktionshypothese**.
+
 __Versuchsplan__
 
-Realisierung der Zellen (vollständig gekreuzter vs. unvollständiger Plan)
-Anzahl der Messungen pro Zellen (balanciert)
-Einzelmessung oder Messwiederholung (interindividuell vs. intraindividuell)
-Zuordnung zu Versuchsbedingung (randomisiert vs. nicht-randomisiert)
-Interaktionshypothese
-Organismische UV
-reine und gemischte Versuchspläne
+<q>Unter einem Versuchsplan versteht man eine möglichst konkrete Handlungsanwei-
+sung zur Erhebung von Daten zum Zweck der ökonomischen, validen und präzisen
+experimentellen Hypothesenprüfung. Die Konkretisierung erfolgt auf der Grundlage
+einer zugehörigen Versuchsplananlage und mithilfe folgender vier Entscheidungen,
+die die Bedingungen angeben, unter welchen die Vpn beobachtet werden:</q>(Hussy et al., 2013, S.132)
+1. Wenn alle Zellen einer Versuchsplananlage im Experiment berüchsichtigt werden, dann ist es ein **vollständig ausgekreuzter** Plan, wenn nicht dann ist er unvollständig
+2. Wenn für alle Zellen gleich viele Beobachtungen gemacht werden, dann ist der Plan **ausbalanciert**.
+3. Wenn eine Vpn mehrmals gemessen wird und somit in mehr als einer Zelle vorkommt, dann ist der Plan **intraindividuell**, wenn nicht, dann **interindividuell** bedingungsvariiert
+4. **randomisierte** oder **nichtrandomisierte** Zuordnung der Vpn zu den Zellen.
+
+Versuchspläne werden auch **Design** genannt.
+
+Für den Versuchsplan verwendet man die Tabelle der Versuchsplananlage und trägt in die Zellen die Vpn ein. Dadurch wird ersichtlich, ob und wenn ja wie viele Vpn pro Zelle berücksichtigt werden und ob eine Vpn in mehr als einer Zelle vorkommt.
+
+Den Aufbau eines Versuchsplans kann man durch ein Kürzel angeben: "VPL" + Anzahl der UVs + Angabe der Randomisierung +  Angabe zur Messwiederholung. Beispiele:
+* VPL1R - Eine UV mit randomisierter Zuordung von Vpn
+* VPL2RR - Zwei UV mit randomisierter Zuordnung von Vpn
+* VPL2QQ - Zwei quasiexperimentelle UV (nichtrandomisiert)
+* VPL2QR - Zwei UV: eine quasiexperimentell, die andere randomisiert
+* VPL2Q(W)R - Zwei UV: eine quasiexperimentell mit Messwiederholungen, die andere randomisiert ohne Messwiederholungen
+* VPL2R(W)R - Zwei UV: eine durch interindividuelle Ausbalancierung (um Sequenzeffekt zu vermeiden, siehe oben) randomisierte mit Messwiederholung, die andere randomisiert ohne Messwiederholungen.
+
+
+Ein interindividuelles Ausbalancieren ist nur bei nicht organismischen Variablen möglich: <q>Als organismisch bezeichnet man eine UV, wenn die Vpn deren Ausprägung als Merkmal mit in die Untersuchung einbringen und von daher den Stufen nicht
+zufällig zuzuordnen sind.</q> (Hussy et al., 2013, S.136)
+
+**Reine** Pläne sind jene, in denen alle Faktoren entweder randomisiert oder quasiexperimentell sind. Pläne in denen sowohl randomisierte als auch quasiexperimentelle Faktoren dabei sind, nennt man **gemischte** Pläne.
 
 # Literatur
 
