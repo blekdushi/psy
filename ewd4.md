@@ -41,7 +41,7 @@ Zum Zeitpunkt der Studie gab es (noch) keine so gut erforschten, kategorisierte,
 
 **Non-reaktive Verfahren** (unobtrusive, nonintruding) ermitteln Daten aus bereits vorhandenen, _natürlichen Quellen_. Sie modifizieren das untersuchte Phänomen nicht und setzen keine Begegnung zwischen Forscher und Beforschten voraus. Die Beforschten können die Daten nicht direkt beeinflussen, weil der Vorgang der Datenerhebung nicht bemerkt wird:
 
-| Phyische Spuren                                 | Archive, Statistiken                           | Sonstige Dokumente        |
+| Physische Spuren                                 | Archive, Statistiken                           | Sonstige Dokumente        |
 | ----------------------------------------------- | ---------------------------------------------- | ------------------------- |
 | Sendereinstellungen von Autoradios in Werkstatt | Bibliothek                                     | Tagebücher, Familienalben |
 | Spuren von Drogen im Wasser einer Stadt         | In Betrieben: Fehlzeiten, Unfälle, Personal... | Briefe & Zeitungen        |
