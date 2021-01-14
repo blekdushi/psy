@@ -55,14 +55,14 @@ Psychologie zwischen Natur- und Geisteswissenschaften: <q>Die Natur erklären wi
 
 Sowohl in Amerika als auch in Deutschland erstarkt die Diagnostik vor und während des 2. Weltkrieges, wegen der Auswahlprozesse für Militär, Schule... Das nährt die Ansicht Robert Mertons, dass der Wirtschaft, Politik, Schule, Militär mit Wissenschaft verwoben sind und somit die Paradigmenentwicklung mitbestimmen, abhängig von Ansehen, Medienpräsenz und Forschungsgeldern.
 
-Nach dem 2. Weltkrieg setzt sich die amerikanische Psychologie (Behaviorismus) durch. Geistenwissenschaftliche Ansätze bleiben in der Psychotherapie und Kulturpsychologie.
+Nach dem 2. Weltkrieg setzt sich die amerikanische Psychologie (Behaviorismus) durch. Geisteswissenschaftliche Ansätze bleiben in der Psychotherapie und Kulturpsychologie.
 
 |                     | Perspektive  | Ziele                                                        | Ausrichtung        | Methoden                 | Beispiele |
 | ------------------- | ------------ | ------------------------------------------------------------ | ------------------ | ------------------------ | ---------- |
 | Naturwissenschaft   | third-person | Erklären & Kausalbeziehungen von zergliederten Bestandteilen | nomoi (Gesetze)    | Quantitativ (Experiment) | Behaviorismus, Experimentalpsychologie           |
 | Geisteswissenschaft | first-person | Verstehen und Nachvollziehen von Sinn und Ganzheit           | idios (das Eigene) | Qualitativ (Hermeneutik) | Phänomenologie, Psychoanalyse           |
 
-Grundannahmenen der verstehend-geisteswissenschaftlichen Psychologie:
+Grundannahmen der verstehend-geisteswissenschaftlichen Psychologie:
 * Menschliche Welt grundsätzlich sinnhaft strukturiert
 * Sinnstrukturen historisch gewachsen & wachsend
 * Interpretationen im umfassenden Kontext
@@ -76,4 +76,4 @@ Grundannahmenen der verstehend-geisteswissenschaftlichen Psychologie:
 Anschauliches Beispiel für Paradigmenentwicklung ist der Umgang mit Psychoanalyse in Wien:
 Karl Bühler (in 20er und 30er Jahren) übt Kritik an Psychoanalyse, aber lobt Freud auch (kritische Rezeption).
 Hubert Rohracher folgt Bühler in der Nazizeit. Er ignoriert bzw. verachtet Freuds Thesen als nicht-wissenschaftlich.
-Heute ist Psychologie an Uni Wien naturwissenschaftlich-experimentell ausgerichtet (Statistik). Psychoanalyse lediglich ein Wahlfach. 
+Heute ist Psychologie an Uni Wien naturwissenschaftlich-experimentell ausgerichtet (Statistik). Psychoanalyse lediglich ein Wahlfach.
