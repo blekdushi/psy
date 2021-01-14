@@ -72,7 +72,7 @@ Ethisches Vorgehen beim Veröffentlichen der Studienergebnisse:
 * akkurate, wahrheitsgemäße und umfassende Präsentation der Forschungsergebnisse
 * Daten dürfen nicht „künstlich“ erzeugt oder ignoriert werden (z.B. Sir Cyril Burt, Diederik Stapel)
 
-Die Verantwortung liegt bei den Foschenden, aber Klarheit und Transparenz als Qualitätssicherungsmaßnahme.
+Auch ein kritischer Blick auf die eigenen Daten ist notwendig, z.B. bei entgegengesetzten Ergebnissen. Die Verantwortung liegt bei den Foschenden, aber Klarheit und Transparenz als Qualitätssicherungsmaßnahme.
 
 Sollen bei ethischen Fragestellungen Unterschiede zwischen Mensch und Tier gemacht werden?
 
