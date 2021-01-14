@@ -59,7 +59,7 @@ Nach dem 2. Weltkrieg setzt sich die amerikanische Psychologie (Behaviorismus) d
 
 |                     | Perspektive  | Ziele                                                        | Ausrichtung        | Methoden                 | Beispiele |
 | ------------------- | ------------ | ------------------------------------------------------------ | ------------------ | ------------------------ | ---------- |
-| Naturwissenschaft   | third-person | Erklären & Kausalbeziehungen von zergliederten Bestandteilen | nomoi (Gesetze)    | Quantitativ (Experiment) | Behaviorismus, Experimentalpsychologie           |
+| Naturwissenschaft   | third-person | Erklären & Kausalbeziehungen von zergliederten Bestandteilen | nomoi (Gesetze)    | Quantitativ (Experiment) | Behaviorismus, Experimental-Ψ |
 | Geisteswissenschaft | first-person | Verstehen und Nachvollziehen von Sinn und Ganzheit           | idios (das Eigene) | Qualitativ (Hermeneutik) | Phänomenologie, Psychoanalyse           |
 
 Grundannahmen der verstehend-geisteswissenschaftlichen Psychologie:
