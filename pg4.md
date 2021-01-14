@@ -76,4 +76,4 @@ Grundannahmen der verstehend-geisteswissenschaftlichen Psychologie:
 Anschauliches Beispiel für Paradigmenentwicklung ist der Umgang mit Psychoanalyse in Wien:
 Karl Bühler (in 20er und 30er Jahren) übt Kritik an Psychoanalyse, aber lobt Freud auch (kritische Rezeption).
 Hubert Rohracher folgt Bühler in der Nazizeit. Er ignoriert bzw. verachtet Freuds Thesen als nicht-wissenschaftlich.
-Heute ist Psychologie an Uni Wien naturwissenschaftlich-experimentell ausgerichtet (Statistik). Psychoanalyse lediglich ein Wahlfach.
+Heute ist Psychologie an Uni Wien naturwissenschaftlich-experimentell ausgerichtet (Statistik). Psychoanalyse ist lediglich ein Wahlfach.

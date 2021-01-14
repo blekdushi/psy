@@ -72,7 +72,7 @@ Aussagekräftiger als Einzelergebnisse ist deren **integrale Interpretation**, i
 * Zusammenbruch der Zeitstruktur
 
 
-Die Studie beobachtete 100 Familien im Detail und identifizierte vier **Haltungstypen:**:
+Die Studie beobachtete 100 Familien im Detail und identifizierte vier **Haltungstypen**:
 * Die _Ungebrochenen_ (16%): planvolle Existenz, große Sorgfalt der Haushaltsführung, Atmosphäre der Zufriedenheit, Blick ist hoffnungsvoll auf die Zukunft gerichtet
 * Die _Resignierten_ (48%): erwartungslose Grundhaltung zum Leben, aber Haushalt geordnet, Kinder werden nicht vernachlässigt
 * _Gebrochen-verzweifelten_ (11%): Verzweiflung, Depression, Hoffnungslosigkeit, Gefühl der Vergeblichkeit aller Bemühungen, keine Versuche zur Verbesserung, aber noch geordneter Hausstand
