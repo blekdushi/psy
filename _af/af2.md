@@ -68,6 +68,8 @@ In Wechselwirkung mit den Zielen stehen auch die **Funktionen** von Evaluationen
   * als (politische) Durchsetzungshilfe für Entscheidung bzw. um die Verantwortung an andere delegieren zu können
   * symbolisch/ritualisiert wegen gesetzlicher/vertraglicher Notwendigkeit
 
+Das Wort "Ziel" kann im Kontext von Evaluationen zwei Bedeutungen haben. Eine ist der _Evaluationszweck_, also warum man überhaupt eine Evaluierung durchführt. Die andere ist das Ziel des zu evaluierenden Gegenstandes. Wenn ich z.B. ein Programm zur Förderung der Mitarbeitergesundheit in einem Unternehmen evaluieren, dass ist verbesserte Mitarbeitergesundheit das Ziel des Gegenstandes und das Verbessern der Förderungsmaßnahme das Ziel der Evaluation (Evaluationszweck).
+
 # Ebenen
 
 Bei der Evaluation von Maßnahmen können folgende Ebenen unterschieden werden. Diese Ebenen bauen hierarchisch aufeinander auf, sodass eine Ebene erst dann evaluiert werden kann, wenn auch die vorhergehenden evaluiert wurden. Dabei wird das Erheben von zuverlässigen Daten mit jeder Ebene schwieriger und kostspieliger (Kirkpatrick & Kirkpatrick, 2006):
@@ -75,6 +77,20 @@ Bei der Evaluation von Maßnahmen können folgende Ebenen unterschieden werden. 
 * _Lernen_ - was haben die Teilnehmenden gelernt? Welche Fertigkeiten konnten sie verbessern?
 * _Verhalten_ - Konnte das Erlernte auch umgesetzt werden und hatte es Einfluss auf das Verhalten?
 * _Ergebnisse_ - Was hat sich auf Organisations- und Systemebene durch die Maßnahme verändert (z.B. Umsatz)?
+
+# Dimensionen zur Unterscheidung
+
+Evaluationen können sich anhand folgender **Dimensionen** unterscheiden (DeGEval, 2016):
+* Erkenntnistheoretisches Fundament (kritisch-rational hypothesenprüfend, pragmatisch, konstruktivistisch...)
+* Partizipationsvorstellungen (konkurrierenden „Anwaltsteams“, parlamentarisch-repräsentative, stark oder gemäßigt beteiligungsorientierte, basisdemokratische, ...),
+* Bezugswissenschaften (Wirtschaftswissenschaft, Soziologie, Politikwissenschaft, Erziehungswissenschaft, Ethnologie, Ingenieurwissenschaft, ...),
+* Zwecksetzung (z. B. Vorbereitung von Entscheidungen, Verbesserung von Organisationen oder Programmen...)
+* Leistungen der Evaluation (präformativ – entwickelnd, formativ – gestaltend, summativ – bilanzierend)
+* Steuerungsfaktoren (Zwecksetzungen, Werte und Interessen der Beteiligten, Ziele des evaluierten Programms, Kosten-Nutzen-Relationen...)
+* Phase der Entwicklung des Gegenstands (ex ante, on going, ex post)
+* Umfang und Komplexität
+* Dimension des Evaluationsgegenstandes (Kontext, Struktur, Konzept, Input, Prozess oder Wirkung)
+* Selbst-/Fremd-/Interne/Externe Evaluation
 
 # Akteure und Rollen
 
@@ -88,18 +104,18 @@ Evaluationen können anhand der **Rolle der Evaluatior\*innen** unterschieden we
 <tr><th>Fremd</th><td style="text-align:center">✘</td><td>Unabhängige Dritte (Experten)</td></tr>
 </table>
 
-Rollen:
-Evaluatoren
-Nutzer
-Auftraggeber
-Finanzier
-Adressaten
-Beteiligte != Betroffene
-
-TODO: Evaluationszweck nicht mit Ziele (des Gegenstandes verwechseln)
+An einer Evaluation sind viele Personen in **unterschiedlichen Rollen** beteiligt:
+* Evaluatoren
+* Adressaten - Überbegriff für alle Personen, an die die Ergebnisse gerichtet sind (Nutzer, Finanzier, Auftraggeber...)
+* Nutzer - Generieren den Nutzen aus den Ergebnissen. Setzen darauf aufbauend Maßnahmen.
+* Auftraggeber - manchmal mit Nutzern identisch, muss aber nicht sein (z.B. politisches Umfeld).
+* Finanzier - manchmal mit Auftraggeber identisch, muss aber nicht sein.
+* Beteiligte - Personen, die in die Evaluation und Datenerhebung miteinbezogen werden
+* Betroffene - Personen mit wenig Einfluss, die vom Evaluationsgegenstand aber beeinflusst/benachteiligt werden oder gar von ihm keine Kenntnis haben, obwohl er in ihrem Interesse wäre. Sie sollten identifiziert und zu Beteiligten gemacht werden.
 
 # Standards
 
+Das **Ziel** von Standards ist Orientierung bei der Planung und Durchführung von Evaluationen zu geben und somit die Qualität zu sichern und zu verbessern. Aufgrund der Verschiedenheit von Evaluationen und ihren Kontexten, können nicht immer alle Standards eingehalten werden. Das Nichterfüllen von Standards wertet die Evaluation nicht ab, solange die Evaluatoren es begründen können.
 1981 hat das Joint Committee on Standards for Educational Evaluation (JCSEE, 2021) seinen ersten Standard für die Evaluierung von Programmen veröffentlicht. Die DeGEval – Gesellschaft für Evaluation (2016) definiert 25 Standards, die sie in vier grundlegende Eigenschaften für Evaluationen kategorisiert:
 
 **Nützlichkeit (Utility)**
@@ -134,12 +150,6 @@ TODO: Evaluationszweck nicht mit Ziele (des Gegenstandes verwechseln)
   7. Analyse qualitativer und quantitativer Informationen
   8. Begründete Schlussfolgerungen
   9. Meta-Evaluation
-
-TODO: Zweck und Ziele eines Standards für Evaluationen
-
-TODO: Dimensionen in denen sich Evaluationen unterscheiden können
-
-TODO: keine Personalevaluation gemeint
 
 # Berufs- und Praxisfelder
 
