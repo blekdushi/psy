@@ -19,7 +19,9 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               {% for doc in collection.docs %}
+              {% if doc.published != false %}
               <a class="dropdown-item" href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+              {% endif %}
               {% endfor %}
             </div>
           </li>
