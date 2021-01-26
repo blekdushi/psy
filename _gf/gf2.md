@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Entwicklungspsychologie 2
-published: true
+published: false
 vo: Einführung in die Grundlagenfächer der Psychologie
 date: 22.10.2020
 full_title: Theorien und Konzepte der Entwicklungspsychologie

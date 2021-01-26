@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 title: Bildungspsychologie
 category: Anwendungsfelder
 vo: Einführung in die Anwendungsfelder der Psychologie
