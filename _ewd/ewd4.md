@@ -1,11 +1,14 @@
 ---
 layout: page
-title: EWD - 17.11.2020
+title: Anfänge qualitativer Sozialforschung
+published: true
+vo: Einführung in wissenschaftliches Denken
+date: 17.11.2020
+full_title: Zu den Anfängen der qualitativen Sozialforschung am Wiener Institut für Psychologie
+vortragender: Slunecko
 ---
 
-* VO: Einführung in wissenschaftliches Denken
-* 17.11.2020
-* Zu den Anfängen der qualitativen Sozialforschung am Wiener Institut für Psychologie (Slunecko)
+{% include vo_header.md %}
 
 # Autoren
 

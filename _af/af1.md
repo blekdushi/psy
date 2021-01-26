@@ -1,11 +1,14 @@
 ---
 layout: page
-title: EA - 15.10.2020
+title: Bildungspsychologie
+category: Anwendungsfelder
+vo: Einführung in die Anwendungsfelder der Psychologie
+date: 15.10.2020
+full_title: Einführung in die Bildungspsychologie
+vortragender: Götz
 ---
 
-* VO: Einführung in die Anwendungsfelder der Psychologie
-* 15.10.2020
-* Einführung in die Bildungspsychologie (Götz)
+{% include vo_header.md %}
 
 # Relevanz und Definition: Bildungspsychologie
 

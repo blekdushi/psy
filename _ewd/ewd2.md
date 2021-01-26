@@ -1,11 +1,14 @@
 ---
 layout: page
-title: EWD - 03.11.2020
+title: Experimentelle Methode
+published: true
+vo: Einführung in wissenschaftliches Denken
+date: 03.11.2020
+full_title: Vom schlussfolgernden Beobachten zur experimentellen Methode
+vortragender: Laback
 ---
 
-* VO: Einführung in wissenschaftliches Denken
-* 03.11.2020
-* Vom schlussfolgernden Beobachten zur experimentellen Methode (Laback)
+{% include vo_header.md %}
 
 # Attributionstheorie
 

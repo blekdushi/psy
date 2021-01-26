@@ -1,11 +1,14 @@
 ---
 layout: page
-title: PG - 27.10.2020
+title: Moderne Erkenntnispositionen
+published: true
+vo: Paradigmengeschichte und Rahmenbedingungen der Psychologie
+date: 27.10.2020
+full_title: Die moderne empirische Erkenntnisposition und ihre Kritiker
+vortragender: Slunecko
 ---
 
-* VO: Paradigmengeschichte
-* 27.10.2020
-* Die moderne empirische Erkenntnisposition und ihre Kritiker (Slunecko)
+{% include vo_header.md %}
 
 # Kritischer Rationalismus
 

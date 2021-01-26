@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entwicklungspsychologie
+title: Entwicklungspsychologie 1
 published: true
 vo: Einführung in die Grundlagenfächer der Psychologie
 date: 15.10.2020
@@ -8,9 +8,7 @@ full_title: Einführung in die Entwicklungspsychologie
 vortragender: Höhl
 ---
 
-* VO: {{ page.vo }}
-* Datum: {{ page.date }}
-* {{ page.vo_title }} ({{ page.vortragender }})
+{% include vo_header.md %}
 
 # Definition & Motivation
 

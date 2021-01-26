@@ -7,9 +7,7 @@ full_title: Einführung in die Evaluationsforschung
 vortragender: Schober
 ---
 
-* VO: {{ page.vo }}
-* Datum: {{ page.date }}
-* {{ page.full_title }} ({{ page.vortragender }})
+{% include vo_header.md %}
 
 # Definition und Abgrenzung
 

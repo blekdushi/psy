@@ -1,11 +1,14 @@
 ---
 layout: page
-title: PG - 17.11.2020
+title: Gesetzliche Rahmenbedingungen
+published: true
+vo: Paradigmengeschichte und Rahmenbedingungen der Psychologie
+date: 17.11.2020
+full_title: Psycholog\*innengesetz und berufspolitische Rahmenbedingungen
+vortragender: Wimmer-Puchinger
 ---
 
-* VO: Paradigmengeschichte
-* 17.11.2020
-* Psycholog\*innengesetz und berufspolitische Rahmenbedingungen (Wimmer-Puchinger)
+{% include vo_header.md %}
 
 # Leitbild des BÖP
 

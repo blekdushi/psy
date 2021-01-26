@@ -1,11 +1,14 @@
 ---
 layout: page
-title: PG - 13.10.2020
+title: Psychologie als Wissenschaft
+published: true
+vo: Paradigmengeschichte und Rahmenbedingungen der Psychologie
+date: 13.10.2020
+full_title: Wie ist Psychologie als Wissenschaft möglich?
+vortragender: Benetka
 ---
 
-* VO: Paradigmengeschichte
-* 13.10.2020
-* Wie ist Psychologie als Wissenschaft möglich? (Benetka)
+{% include vo_header.md %}
 
 Wissenschaft ist ein gemeinschaftlicher Prozess. Alle Forschenden sollen ihre Forschungen ihren Kolleg\*innen kommunizieren einsehen und umgekehrt deren Forschung _[intersubjektiv](https://www.duden.de/rechtschreibung/intersubjektiv)_ nachvollziehen und sogar reproduzieren können.
 

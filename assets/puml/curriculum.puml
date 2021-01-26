@@ -1,0 +1,14 @@
+@startuml
+hide empty members
+hide circles
+
+skinparam classbackgroundcolor white
+skinparam classbordercolor black
+skinparam arrowcolor black
+
+class Organisationsentwicklung
+Organisationsentwicklung <--> Unterrichtsentwicklung
+Organisationsentwicklung <-> Personalentwicklung
+Personalentwicklung <--> Unterrichtsentwicklung
+
+@enduml

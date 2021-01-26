@@ -1,0 +1,22 @@
+@startwbs
+<style>
+wbsDiagram {
+  Linecolor black
+  BackgroundColor White
+}
+</style>
+
+
++ Philosophische Ethik
+ + Allgemeine Ethik
+  -_ Normative Ethik
+  -_ Metaethik
+  -_ Deskriptive Ethik
+ + Angewandte Ethik
+  + Bioethik
+   + Medizinethik
+    + Psychologische Ethik
+  - Sozialethik
+   -_ Rechtsethik
+   -_ Wirtschaftsethik
+@endwbs

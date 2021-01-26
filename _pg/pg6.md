@@ -1,11 +1,14 @@
 ---
 layout: page
-title: PG - 10.11.2020
+title: Ethik
+published: true
+vo: Paradigmengeschichte und Rahmenbedingungen der Psychologie
+date: 10.11.2020
+full_title: Ethik in der psychologischen Forschung
+vortragender: Lueger-Schuster
 ---
 
-* VO: Paradigmengeschichte
-* 10.11.2020
-* Ethik in der psychologischen Forschung (Lueger-Schuster)
+{% include vo_header.md %}
 
 # Ethik
 

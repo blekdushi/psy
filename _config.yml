@@ -21,12 +21,27 @@ url: "http://blekdushi.github.io" # the base hostname & protocol for your site, 
 twitter_username: blekdushi
 github_username: blekdushi
 
+collections:
+  ewd:
+    output: true
+    vo_name: Wissenschaftliches Denken
+  pg:
+    output: true
+    vo_name: Paradigmengeschichte
+  gf:
+    output: true
+    vo_name: Grundlagenfächer
+  af:
+    output: true
+    vo_name: Anwendungsfelder
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
+google_analytics: G-DXC1BFBDYF
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

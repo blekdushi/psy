@@ -1,17 +1,24 @@
 ---
 layout: page
-title: PG - 06.10.2020
+title: Entstehung der Psychologie
+published: true
+vo: Paradigmengeschichte und Rahmenbedingungen der Psychologie
+date: 06.10.2020
+full_title: Zur Entstehung der modernen Psychologie
+vortragender: Benetka
 ---
 
-* VO: Paradigmengeschichte
-* 06.10.2020
-* Zur Entstehung der modernen Psychologie (Benetka)
+{% include vo_header.md %}
 
-Definition Psychologie:
+**Definition** Psychologie:
 
 <q>Gegenstand der Psychologie sind Verhalten, Erleben und Bewusstsein des Menschen, deren Entwicklung über die Lebensspanne und deren innere (im Individuum angesiedelte) und äußere (in der Umwelt lokalisierte) Bedingungen und Ursachen</q> (Zimbardo & Gerrig, 2008, S.2)
 
-Beschreiben, erklären, vorhersagen, verändern.
+**Ziele** der Ψ sind:
+* beschreiben
+* erklären
+* vorhersagen
+* verändern
 
 Definition nicht ganz so eindeutig, weil was genau bedeuten "Verhalten", "Erleben" und "Bewusstsein"? Diskussionen über den eigentlichen Gegenstand der Psychologie (besonders in 1970er Jahren), sogar Ansätze, ob es für die Forschungspraxis überhaupt von Bedeutung ist, so eine Definition zu haben/wissen.
 

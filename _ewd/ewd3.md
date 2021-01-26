@@ -1,11 +1,14 @@
 ---
 layout: page
-title: EWD - 10.11.2020
+title: Bio-psychologische Methoden
+published: true
+vo: Einführung in wissenschaftliches Denken
+date: 10.11.2020
+full_title: Leib-Seele-Problematik und bio-psychologische Methoden
+vortragender: Lamm
 ---
 
-* VO: Einführung in wissenschaftliches Denken
-* 10.11.2020
-* Leib-Seele-Problematik und bio-psychologische Methoden (Lamm)
+{% include vo_header.md %}
 
 # Analyseebenen
 

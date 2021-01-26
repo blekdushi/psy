@@ -1,11 +1,14 @@
 ---
 layout: page
-title: PG - 20.10.2020
+title: Vorgaben der Antike
+published: true
+vo: Paradigmengeschichte und Rahmenbedingungen der Psychologie
+date: 20.10.2020
+full_title: Vorlogische Voraussetzungen europäischer Wissenschaft – Die Vorgaben der Antike
+vortragender: Slunecko
 ---
 
-* VO: Paradigmengeschichte
-* 20.10.2020
-* Vorlogische Voraussetzungen europäischer Wissenschaft – Die Vorgaben der Antike (Slunecko)
+{% include vo_header.md %}
 
 # Paradigma
 

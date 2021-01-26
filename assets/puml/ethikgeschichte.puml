@@ -1,0 +1,26 @@
+@startuml
+
+hide empty members
+hide circles
+
+class 1930
+class 1940
+class 1947 as "1947: Nürnberger Codex"
+class 1950
+class 1952 as "1952: APA ethics of code"
+class 1960
+class 1963 as "1963: Milgram experiment\n  1964: Deklartion of Helsinki"
+class 1970
+class 1980
+class tuskegee as "1932 - 1972: Tuskegee"
+1930 -- 1940
+1940 -- 1950
+1950 -- 1960
+1960 -- 1970
+1970 -- 1980
+(1940, 1950) . 1947
+(1950, 1960) . 1952
+(1960, 1970) . 1963
+tuskegee . (1970, 1980)
+tuskegee . (1930, 1940)
+@enduml

@@ -1,10 +1,14 @@
 ---
 layout: page
-title: EWD - 06-20.10.2020
+title: Methodische Grundlagen
+published: true
+vo: Einführung in wissenschaftliches Denken
+date: 06.10.2020
+full_title: Methodische Grundlagen wissenschaftlicher Psychologie
+vortragender: Scharnowski
 ---
-* VO: Einführung in wissenschaftliches Denken
-* 06.10.2020 / 13.10.2020 / 20.10.2020
-* Methodische Grundlagen wissenschaftlicher Psychologie (Scharnowski)
+
+{% include vo_header.md %}
 
 # Inhalte und Ziele der Psychologie
 In der Psychologie ist der Mensch **Forschungsgegenstand** und Forscher zugleich. Daraus entstehen Herausforderungen durch individuelle Unterschiede, sowohl durch Anlage (Persönlichkeit) als auch die Situation (z.B. Tagesform). Beforscht werden:
@@ -92,13 +96,13 @@ Für den Forschungsprozess gilt daher:
 
 Dieser Prozess soll nachvollziehbar und reproduzierbar (prüfbar) sein. Viele Befunde der Vergangenheit haben sich gerade in der Psychologie als [nicht reproduzierbar](https://de.wikipedia.org/wiki/Reproduzierbarkeit_(Psychologie)) herausgestellt, weshalb zunehmend gefordert wird in der Forschung dem _[Open Science](https://dorsch.hogrefe.com/stichwort/open-science)_ Ansatz zu folgen, der als Zusammenspiel von _[Open Source](https://de.wikipedia.org/wiki/Open_Source), [Open Access](https://de.wikipedia.org/wiki/Open_Access)_ und _[Open Data](https://de.wikipedia.org/wiki/Open_Data)_ verstanden wird.
 
-![Open Science als Zusammenspiel von Open Data, Open Access und Open Source](/assets/img/openscience.svg)
+![Open Science als Zusammenspiel von Open Data, Open Access und Open Source]({{ "/assets/img/openscience.svg" | relative_url }})
 
 # Überprüfung psychologischer Ideen
 
 Einen groben, typischen Ablauf einer Studie kann man wie folgt skizzieren:
 
-![Ablauf einer Studie: Forschungsfrage diskutieren - Hypothese formulieren - Signifikanzniveau festlegen -Stichprobe wählen - Daten erheben - Statistisch auswerten - Hypothese verwerfen/akzeptieren](/assets/img/studie.svg)
+![Ablauf einer Studie: Forschungsfrage diskutieren - Hypothese formulieren - Signifikanzniveau festlegen -Stichprobe wählen - Daten erheben - Statistisch auswerten - Hypothese verwerfen/akzeptieren]( {{ "/assets/img/studie.svg" | relative_url }})
 
 
 ## <a id="Hypothesen"></a>Hypothesen
@@ -121,7 +125,7 @@ Weil man in der Psychologie Hypothesen eigentlich nie zu 100% widerlegen kann, i
 
 Eine Hypothese kann auf unterschiedlichen <a id="Hypothesenebenen"></a> **Hypothesenebenen** formuliert werden. Sobald man eine Hypothese empirisch prüfen möchte, z.B. durch ein Experiment, muss man die darin verwendeten Begriffe operationalisieren. So wird aus einer _theoretisch-inhaltlichen_ eine _empirisch-inhaltliche_ Hypothese, welche man in einem nächsten Schritt statistisch vorhersagbar formuliert. Abschließend bildet man daraus die Alternativ- bzw. **Arbeitshypothese H<sub>1</sub>** (es gibt einen Effekt) und Null- bzw. **Gegenhypothese H<sub>0</sub>** (es gibt keinen Effekt), die sich gegenseitig ausschließen. Folgende Grafik zeigt Beispiele von Hussy et al. (2013, S.116) für Hypothesen und ihre Ebenen:
 
-![Hypothesenebenen mit Beispielen](/assets/img/hypothesenebenen.svg)
+![Hypothesenebenen mit Beispielen]({{"assets/img/hypothesenebenen.svg" | relative_url}})
 
 Da wir laut _Kritischem Rationalismus_ Erkenntnisgewinn nur durch Falsifizieren erlangen können, müssen wir versuchen die Nullhypothese zu falsifizieren, um zu beweisen, dass es überhaupt einen Effekt gibt, und um somit unsere Arbeitshypothese zu stärken (ähnlich der Unschuldsvermutung vor Gericht). Hypothesen können _gerichtet_ ("etwas ist besser/schlechter") oder _ungerichtet_ ("es gibt einen Unterschied") sein.
 
@@ -164,17 +168,17 @@ Eine Stichprobe ist nie "perfekt" repräsentativ, wodurch ihre _Generalisierbark
 
 Je nach Fragestellung und Hypothese kommen unterschiedliche Methoden der Inferenzstatistik zum Einsatz (Details dazu dann in _VO Einführung in quantitative Methoden_):
 
-![Inferenzmethoden gegliedert nach ihrem Anwendungszweck](/assets/img/inferenzmethoden.svg)
+![Inferenzmethoden gegliedert nach ihrem Anwendungszweck]({{"assets/img/inferenzmethoden.svg" | relative_url}})
 
 # Einführung in die empirische Forschung - Daten sind das neue Gold
 
 Psychologie ist eine **[empirische Wissenschaft](https://de.wikipedia.org/wiki/Empirie#Empirische_Wissenschaften)**. Sie erklärt das Erleben und Verhalten von Menschen basierend auf Erfahrungen und mit systematischer und methodischer _Datenerhebung_ und _Datenauswertung_.
 
-![Zirkulärer Forschungsprozess](/assets/img/theorie_daten.svg)
+![Zirkulärer Forschungsprozess]({{"assets/img/theorie_daten.svg" | relative_url}})
 
 Innerhalb der empirischen Wissenschaften unterscheiden wir Sozial-, Natur- und Technikwissenschaften. Im Gegensatz dazu stehen Nicht-empirische Wissenschaften wie die Formal- und Geisteswissenschaften:
 
-![Gegenüberstellung nicht-empirischer und empirischer Wissenschaften](/assets/img/wissenschaften.svg)
+![Gegenüberstellung nicht-empirischer und empirischer Wissenschaften]({{"assets/img/wissenschaften.svg" | relative_url}})
 
 Die Psychologie bedient und überschneidet sich in ihren Forschungsprozessen mit anderen Disziplinen:
 * Medizin (Diagnostik, Psychotherapie...)
@@ -223,7 +227,7 @@ Quantitative und qualitative Designs stehen nicht (mehr) im Widerspruch zu einan
 
 |Quantitative Studie|Qualitative Studie|
 |---|---|
-|![Ablauf einer qualitativen Studie](/assets/img/quantitative_studie.svg)|![Ablauf einer qualitativen Studie](/assets/img/qualitative_studie.svg)|
+|![Ablauf einer qualitativen Studie]({{ "/assets/img/quantitative_studie.svg" | relative_url }})|![Ablauf einer qualitativen Studie]({{ "/assets/img/qualitative_studie.svg" | relative_url }})|
 
 <q>_**[Mixed-Methods](https://en.wikipedia.org/wiki/Multimethodology)**_ bezeichnet eine Forschungsmethode, die eine Kombination von Elementen qualitativer und quantitativer Forschungstraditionen beinhaltet, typischerweise (aber nicht notwendig) innerhalb einer Untersuchung.</q> (Hussy et al., 2013, S.290)
 
