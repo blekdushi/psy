@@ -116,7 +116,7 @@ Bei der **reaktiven** Genotyp-Umwelt Passung reagieren z.B. die Eltern auf die e
 
 Bei der **aktiven** Genotyp-Umwelt-Anpassung fördert/lebt das Kind bewusst seine Veranlagung, z.B. hört es gezielt Musik, musiziert aus eigenem Antrieb...
 
-Wenn ein Kind eher schüchtern veranlagt ist, dann wird es weniger soziale Erfahrungen machen (aktiv) und auch die Mitmenschen werden ihr Verhalten an die Schüchternheit anpassen (reaktiv) und auf Distanz gehen. Die Eltern sind ebenfalls schüchtern und suchen selbst weniger soziale Interaktionen (passiv).
+Beispiel: Schüchterne Eltern suchen weniger soziale Interaktionen, wodurch auch ihre Kinder weniger soziale Interaktionen haben (passiv). Wenn ihre Kinder ebenfalls schüchtern veranlagt ist, dann werden sie weniger soziale Erfahrungen suchen und machen (aktiv) und auch die Mitmenschen werden ihr Verhalten an die Schüchternheit anpassen und auf Distanz gehen (reaktiv). 
 
 # Literatur
 
