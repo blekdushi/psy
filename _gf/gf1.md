@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Differentielle Ψ
-published: false
+published: true
 vo: Einführung in die Grundlagenfächer der Psychologie
 date: 08.10.2020
 full_title: „Jeder anders? Alle gleich?“ Einführung in die Persönlichkeitspsychologie
