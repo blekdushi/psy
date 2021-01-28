@@ -77,7 +77,7 @@ Entwicklung ist ein **multidirektionales Geschehen**. Personen können sich stet
 
 Entwicklungsschritte bedeuten idR. **Gewinn und Verlust**. Zum Beispiel verlieren Säuglinge Nervenzellen, im Gegenzug entstehen neue Verbindungen. Ähnliche Mechanismen bei fluider und kristalliner Intelligenz.
 
-Entwicklung ist ein **systemisches Geschehen** in dem Sinne, dass ein Mensch in unterschiedlichen Systemen lebt und agiert und diese Systeme sich gegenseitig beeinflussen. Ein bekannter Ansatz dazu ist _Bronfenbrenner's Ecological Systems Theory_ (Guy-Evans, 2020):
+Entwicklung ist ein **systemisches Geschehen** in dem Sinne, dass ein Mensch in unterschiedlichen Systemen lebt und agiert und diese Systeme sich gegenseitig beeinflussen. Ein bekannter Ansatz dazu ist <a id="ecological_systems_theory"></a> _Bronfenbrenner's Ecological Systems Theory_ (Guy-Evans, 2020):
 * _Mikrosystem_ - direkte Bezugspunkte (Familie, Schule...)
 * _Mesosystem_ - Ebene auf der die Mikrosystem einander beeinflussen (z.B. Elternsprechtag)
 * _Exosystem_ - Systeme, in die das Kind nicht eingebettet ist, die aber Auswirkungen auf seine Mikrosysteme haben (Arbeitsplatz der Eltern, Schuldirektion, Gesundheitswesen...)
@@ -116,7 +116,7 @@ Bei der **reaktiven** Genotyp-Umwelt Passung reagieren z.B. die Eltern auf die e
 
 Bei der **aktiven** Genotyp-Umwelt-Anpassung fördert/lebt das Kind bewusst seine Veranlagung, z.B. hört es gezielt Musik, musiziert aus eigenem Antrieb...
 
-Beispiel: Schüchterne Eltern suchen weniger soziale Interaktionen, wodurch auch ihre Kinder weniger soziale Interaktionen haben (passiv). Wenn ihre Kinder ebenfalls schüchtern veranlagt ist, dann werden sie weniger soziale Erfahrungen suchen und machen (aktiv) und auch die Mitmenschen werden ihr Verhalten an die Schüchternheit anpassen und auf Distanz gehen (reaktiv). 
+Beispiel: Schüchterne Eltern suchen weniger soziale Interaktionen, wodurch auch ihre Kinder weniger soziale Interaktionen haben (passiv). Wenn ihre Kinder ebenfalls schüchtern veranlagt ist, dann werden sie weniger soziale Erfahrungen suchen und machen (aktiv) und auch die Mitmenschen werden ihr Verhalten an die Schüchternheit anpassen und auf Distanz gehen (reaktiv).
 
 # Literatur
 

@@ -26,9 +26,9 @@ Freud hat seine Überlegungen im Laufe der Jahre mehrmals geändert/angepasst. B
 * _Lustprinzip_ - Energieanstieg wird als unangenehm und Triebreduktion als lustvoll empfunden. Jedes Verhalten soll Spannung reduzieren und Lust fördern. Die Gesellschaft gibt aber Verhaltensgrenzen vor: der Mensch gerät in einen Konflikt mit seinen Triebimpulsen (siehe auch dynamische Personlichkeitskonzepte weiter unten).
 
 Freud sieht folgende **Struktur der Psyche**:
-* _ES_ - Repräsentiert Triebenergie des Sexual- und Aggressionstriebs und möchte sie befriedigen. Impulsiv, unorganisiert und irrational. Nach der Geburt tonangebend, danach bekommt das ICH kontinuierlich mehr Kontrolle. Beinhaltet auch verdrängte Wünsche, Erinnerungen, Einstellungen und ähnliches mehr. Inhalte und Funktionen des ES sind unbewusst.
-* _ICH_ - Entwickelt sich aus dem ES und bezieht von ihm Energie. Hat Sinneswahrnehmungen der Außenwelt. Denken, Erinnern, Fühlen und willkürliche Bewegungen sind Funktionen des ICH. Vermittelt rational, kompromissbereit und realistisch zwischen Impulsen des ES und den wahrgenommenen Realität unter Rücksichtnahme des ÜBER-ICH.
-* _ÜBER-ICH_ - Entwickelt sich aus dem ES durch Verinnerlichung von Ge- und Verboten und integriert laufend Konzepte von Gut, Böse und Gewissen. Leitet das ICH bei der Vermittlung mit dem ES und bestraft (Schuldgefühle) bzw. belohnt (Stolz) Verhalten. Kann flexibel oder streng schwarz-weiß ausgeprägt sein.
+* _ES_ - Repräsentiert Triebenergie des Sexual- und Aggressionstriebs und möchte sie befriedigen. Impulsiv, unorganisiert und irrational. Nach der Geburt tonangebend, danach bekommt das ICH kontinuierlich mehr Kontrolle. Beinhaltet auch verdrängte Wünsche, Erinnerungen, Einstellungen und ähnliches mehr. Inhalte und Funktionen des ES sind unbewusst. (Lustprinzip)
+* _ICH_ - Entwickelt sich aus dem ES und bezieht von ihm Energie. Hat Sinneswahrnehmungen der Außenwelt. Denken, Erinnern, Fühlen und willkürliche Bewegungen sind Funktionen des ICH. Vermittelt rational, kompromissbereit und realistisch zwischen Impulsen des ES und den wahrgenommenen Realität unter Rücksichtnahme des ÜBER-ICH. (Realitätsprinzip)
+* _ÜBER-ICH_ - Entwickelt sich aus dem ES durch Verinnerlichung von Ge- und Verboten und integriert laufend Konzepte von Gut, Böse und Gewissen. Leitet das ICH bei der Vermittlung mit dem ES und bestraft (Schuldgefühle) bzw. belohnt (Stolz) Verhalten. Kann flexibel oder streng schwarz-weiß ausgeprägt sein. (Moralitätsprinzip)
 
 Diese drei Instanzen stehen ständig miteinander in Konflikt: Impuls (ES) vs. Realität (ICH) vs. Ideale (ÜBER-ICH). Diese **Dynamik der Psyche** hat zwei (persönlichkeitstheoretisch) zentrale Konzepte:
 * Angst
@@ -70,15 +70,15 @@ Er teile Menschen in _extrovertierte_ (Libido auf äußere Welt gerichtet) und _
 
 Tatsächlich legen Studien nahe, dass es einen Zusammenhang zwischen Persönlichkeit und Geburtenreihenfolge besteht (wenn auch nicht ganz so wie oben von Adler beschrieben).
 
-**Erik Erikson** sah die Persönlichkeitsentwicklung als lebenslangen Prozess und nicht vollständig in der frühen Kindheit verankert. Er beschreibt acht Phasen der Entwicklung, die alle eine Ich-Krise auslösen und deren Überwindung zu einem optimalen Persönlichkeitswachstum beiträgt:
-* 1. Lebensjahr: Primärbedürfnisse befriedigen → Urvertrauen vs. Urmisstrauen
-* 2-3: Kontrolle über Körper → Autonomie vs. Scham/Zweifel
-* 4-5: Mit anderen Auskommen → Initiative vs. Schuldgefühle
-* 6-13: Stolz auf eigene Leistungen → Selbstwert vs. Minderwertigkeit
-* 13-18: Konfusion der Rollen → Identität vs. Rollenunsicherheit
-* 20-30: Öffnung anderen gegenüber → Intimität vs. Isolation
-* 30-50: Anderen etwas mitgeben → Generativität vs. Sinnverlust
-* 60-80: Lebensrückblick und -bewertung → Ich-Integrität vs. Verzweiflung
+**Erik Erikson** sah die Persönlichkeitsentwicklung als lebenslangen Prozess und nicht vollständig in der frühen Kindheit verankert. Für ihn sind Veränderung von sozialen Beziehungen ausschlaggebender als Verschiebungen von erogenen Zonen. Er beschreibt acht Phasen der Entwicklung, die alle eine _Ich-Krise_ auslösen und deren Überwindung zu einem optimalen Persönlichkeitswachstum beiträgt. Ungelöste Konflikte können in spätere Phasen mitgenommen werden:
+* 1. Lebensjahr: Primärbedürfnisse befriedigen → Urvertrauen vs. Urmisstrauen (Hoffnung vs. Rückzug)
+* 2-3: Kontrolle über Körper → Autonomie vs. Scham/Zweifel (Wille vs. Zwang)
+* 4-5: Handlungen planen und mit anderen Auskommen → Initiative vs. Schuldgefühle (Zielstrebigkeit vs. Hemmung)
+* 6-13: Stolz auf eigene Leistungen → Selbstwert vs. Minderwertigkeit (Kompetenz vs. Trägheit)
+* 13-18: Konfusion der Rollen → Identität vs. Identitätsdiffusion (Treue vs. Zurückweisung)
+* 20-30: Öffnung anderen gegenüber → Intimität vs. Isolation (Liebe vs. Exklusivität)
+* 30-50: Anderen etwas mitgeben → Generativität vs. Sinnverlust (Fürsorge vs. Ablehnung)
+* 60-80: Lebensrückblick und -bewertung → Ich-Integrität vs. Verzweiflung (Weisheit vs. Verachtung)
 
 # Literatur
 
