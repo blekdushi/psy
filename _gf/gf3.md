@@ -10,6 +10,16 @@ vortragender: Höhl
 
 {% include vo_header.md %}
 
+# Theorien menschlicher Entwicklung
+
+Theorien der menschlichen Entwicklung unterscheiden sich in:
+* inhaltliche Aspekte menschlichen Erlebens und Verhaltens
+  * z.B. Kognition, Emotion und Motivation, Umgang mit der dinglichen oder der sozialen Umwelt...
+* zugrundeliegende Menschenbild
+  * z.B. Humanismus vs. mechanistische Ansätze der Psychoanalyse oder Behaviorismus
+* Gewichtung von biologischen Faktoren und Umweltfaktoren
+  * z.B. nativistische, domänenspezifische Ansätze vs. statistical learning
+
 # Psychodynamische Theorien
 
 **Sigmund Freud** vermutete die Existenz von psychischer Energie (_Triebenergie_). Diese Energie verteilt, bindet, wandelt und entlädt sich (**Psychodynamik**). Dabei war er inspiriert von Erkenntnissen der Physik (z.B. Thermodynamik, Energieerhaltung). Elementarer Trieb ist die _Libido_. Entwicklung war somit eine durch biologische Reifung und Sozialisation bedingte Veränderung des Ortes, an dem diese Libido wirkt und die Art, wie sie kontrolliert werden kann. Für Entwicklungsphasen und Details zur Psychoanalyse siehe auch [Zusammenfassung - Differentielle Psychologie]({{ "./gf/gf1" | relative_url }}).
@@ -71,11 +81,46 @@ Für heutige pädagogische Praxis haben diese Ansätze noch immer Relevanz: Päd
 # Theorien der kognitiven Entwicklung
 
 **Jean Piaget** hat Kinder verschiedenen Alters beobachtet, hauptsächlich aber seine eigenen Kinder.  
-<blockquote>Piagets kognitiver Entwicklungstheorie zufolge, einer universalkonstruktivistischen Sichtweise, konstruieren Kinder ihr Wissen selbst, indem sie aktiv auf ihre Umwelt einwirken, sie erkunden und in ihrem Bewusstsein abbilden (mental repräsentieren). (Berk, 2011)</blockquote>
+<blockquote>Piagets kognitiver Entwicklungstheorie zufolge, einer universalkonstruktivistischen Sichtweise, konstruieren Kinder ihr Wissen selbst, indem sie aktiv auf ihre Umwelt einwirken, sie erkunden und in ihrem Bewusstsein abbilden (mental repräsentieren). (Berk, 2011, S.21)</blockquote>
 
-Die intrinsische Neugier sei also der Entwicklungsmotor. Bei Entwicklungsprozessen wirken drei Mechanismen:
+Die intrinsische Neugier sei also der Entwicklungsmotor und Wissen wird basierend auf den Erfahrung mit der Umwelt konstruiert. Bei Entwicklungsprozessen wirken drei Mechanismen:
 * Assimilation - Informationen aus der Umwelt werden in bestehende gedanklichen Konstrukte eingegliedert
 * Akkomodation - Informationen aus der Umwelt erfordern eine Anpassung der gedanklichen Konstrukte
 * Äquilibration - Assimilation und Akkomodation balancieren sich aus, sodass die gedanklichen Konstrukte die wahrgenommene Umwelt abbilden können, aber gleichzeitig stabil und konsistent bleiben.
 
-Informationsverarbeitungsansätze Domänenspezifische Ansätze Statistical learning/ machinelearning Ansätze
+Die Entwicklung laufe in aufeinander aufbauenden Stadien ab:
+
+Das **sensumotorisches Stadium** (0-2 Jahre) umfasst das Erforschen der unmittelbaren Umwelt mit den Sinnen und das Entwickeln von motorischen Fähigkeiten. Als kognitive Fähigkeit bildet sich die mentale Abbildung von Objekten heraus (symbolisches Denken), auch wenn diese gerade nicht mit den Sinnen erfasst werden können (**Objektpermanenz**) (Gerrig, 2015, S.380).
+
+Im **präoperatorischen Stadium** (2-7 Jahre) verbessert sich die mentale Repräsentation der Umwelt (flexibles Denken). Objekte können zunehmend abstrahiert werden (z.B. wird ein Bauklotz als Telefonhörer improvisiert), die Selbstbezogenheit nimmt ab (z.B. Füttern einer Puppe) und Spielabläufe werden zunehmend komplexer (Rollenspiele mit anderen Kindern) (Berk, 2011, S.303). Trotzdem zeigen sich deutliche Grenzen, weshalb Piaget dieses Stadium auch _defizitär definiert_, also dadurch abgrenzt, dass er angibt, was ein Kind _noch nicht_ kann: Kinder seien **egozentriert**. Sie nehmen an, dass andere genauso denken, wahrnehmen und fühlen wie sie selbst. Sie hätten ein **animistisches Denken**, sodass sie unbelebten Dingen Eigenschaften von Lebewesen zuschreieben. Und sie können **Invarianz** noch nicht erkennen, dass physikalische Eigenschaften gleich bleiben können, wenn sich die äußere Erscheinung von Gegenständen ändert (z.B. Umschüttversuche mit Wasserglas) (Berk, 2011, S.305).
+
+Im **konkret-operatorischen Stadium** (7-11 Jahre) entwickelt sich das logische Denken und das Kind ist fähig Handlungen gedanklich auszuführen (logisch mentale Operationen). Es kann nun **Invarianzaufgaben** lösen und ist zu Reversibilität fähig, also Handlungen gedanklich umzukehren. Objekte können hierarchisch klassifiziert werden sowie sortiert und geordnet werden (z.B. nach Größe). Die räumliche Vorstellung verbessert sich (z.B. Landkarten oder Pläne). Diese Aufgaben sind jedoch nur verbunden mit konkreten Vorstellungen und Wahrnehmungen lösbar.
+
+Im **formal-operatorischen Stadium** (11 - ? Jahre) wird das Denken zunehmend abstrakter. Das eigene Denken wird klar von dem anderer abgegrenzt. Lösungen werden systematisch gesucht, es werden mehrere Lösungsmöglichkeiten ausgelotet, logische Schlüsse gezogen, Hypothesen gebildet und geprüft.
+
+**Kritik an Piaget** ist, dass er soziale und kulturelle Komponenten nicht berücksichtigt hat. Er hat viele Fähigkeiten von Kleinkindern nicht entdeckt, weil seine Aufgabenstellungen zum Teil zu sprachlich orientiert und oft nicht an den unmittelbaren Kontext des Kindes adaptiert waren. Seine Theorien erklären kognitive Prozesse und Mechanismen nicht. Sein Stadienkonzept ist umstritten und empirisch nicht ganz haltbar.
+
+Ansätze zur **Informationsverarbeitung** teilen mit Piaget die aktiven und konstruktivistischen Aspekte der Entwicklung. Sie sehen jedoch Entwicklung als kontinuierliche Verbesserung von kognitiven Resourcen (Verarbeitungsgeschwindigkeit, Gedächtnisgröße...) und Strategien und eher keine qualitative Entwicklung in Stadien. Analog zur Arbeitsweise eines Computers bekommt ein Mensch Input aus seiner Umwelt, verarbeitet diesen und zeigt dann Verhalten als Output. Besonders die Verabeitungsprozesse (z.B. Wissenstruktur, Gedächtnis und logische Operationen) stehen bei diesen Ansäzten im Fokus. Als **Kritik** wurde genannt, dass die Ergebnisse dieses Ansatzes keine umfassende Theorie bilden konnten und dass nichtlineare, nichtlogische Prozesse (Fantasie, Kreativität) nicht berücksichtigt wurden (Berk, 2011, S.25).
+
+Karl Friston hat mit **Predictive Processing** eine neurowissenschaftlichen Ansatz geprägt. Dabei konstruiert das Gehirn ständig Modelle der Umwelt und trifft Vorhersagen. Sobald die Vorhersagen in der Realität nicht eintreten, wird das Modell angepasst um in Zukunft bessere Vorhersagen zu treffen.
+
+In obigen Theorien wird selten die Domäne unterschieden, also ob es sich um numerisches, sprachliches, anschauliches,... Denken und seine Entwicklung handelt. **Domänenspezifische Theorien** lenken den Fokus auf ebendiese und fordern zusätzlich, dass Kinder evolutionäre bedingt bereits kognitive Fähigkeiten angeboren haben (Nativismus & Phylogenese). Diese Fähigkeiten werden dann durch Erfahrung angereichert. Dafür sprechen Versuche bei denen sich bereits Säuglinge verwundert zeigten, wenn sich die Anzahl von Objekten plötzlich ändert oder wenn Essen statt zum Mund zum Ohr geführt wird. Bekannte Vertreter sind Elizabeth Spelke und Susan Carey. Letztere meint man hätte **intuitive Theorien**, die sich stark halten und erst nach heftiger inkonsistenter Information einem Theoriewandel unterworfen werden, wodurch es zu einer Neuorganisation und qualitativen Veränderung des Denkens/Wissensystems kommt (z.B. Vorstellungen der Kinder über eine runde Erde).
+
+Denis Mareschal hat mit **Statistical Learning / Machine Learning** einen mechanistischen Ansatz. Er setzt u.a. Computermodellierung ein um z.B. über neuronale Netze Erklärungsmechanismen aus zu testen. Ebenfalls eine Vertreterin ist Natasha Kirkham, die beobachtete Häufigkeiten und darauf basierende Wahrscheinlichkeitsberechnungen als Basis von Denken annimmt. Sie untermauert das z.B. durch Versuche, in denen Babies unterschiedliche geometrische Formen in variierender Abfolge gezeigt wurden. Manche Formen folgten immer direkt aufeinander, andere wiederum waren variabel. Die Blickdauer korrelierte mit der Häufigkeit/Regelmäßigkeit.
+
+# Zeitliche Einordnung
+
+| Jahr   | Paradigma       | Ansatz                           |
+| ------ | --------------- | -------------------------------- |
+| ~ 1920 | Psychodynamik   | Freud                            |
+| ~ 1935 | Kontexttheorien | Vygotski                         |
+| ~ 1940 | Kognitiv        | Piaget                           |
+| ~ 1950 | Lerntheorie     | Klassische Lerntheorie - Skinner |
+| ~ 1955 | Humanismus      | Maslow, Rogers                   |
+| ~ 1960 | Neo-Analytiker  | Erikson                          |
+| ~ 1970 | Psychodynamik   | Soziale Lerntheorie - Bandura    |
+| ~ 1975 | Kontexttheorien | Bronfenbrenner                   |
+| ~ 1975 | Kognitiv        | Informationsverarbeitung         |
+| ~ 1995 | Kognitiv        | Domänenspezifisch                |
+| ~ 2005 | Kognitiv        | Predictive Processing            |
+| ~ 2010 | Kognitiv        | Statistical Learning             | 
