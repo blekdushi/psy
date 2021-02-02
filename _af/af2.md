@@ -32,9 +32,9 @@ Professionelle Evaluation bedeutet, dass sie systematisch, nachvollziehbar und w
 * _Monitoring_ ist die regelmäßige Überwachung und Begleitungen von Prozessen.
 * _Bildungsmonitoring_ hat fließenden Übergang zur Evaluationsforschung:
   * Trotz des _deskriptiven_ Charakters (es liefert Rückmeldung über IST-Zustand des Bildungssystems) dient es als Grundlage für politische Entscheidungen
-  * Viele Stakeholder, deshalb funktioniert die der Prozess "Evaluationsdesign → Ergebnisse → Verbesserung" nicht so gut
+  * Viele Stakeholder, deshalb funktioniert der Prozess "Evaluationsdesign → Ergebnisse → Verbesserung" nicht so gut
   * Es zieht aussagekräftige Stichproben und _testet_ ein breites Kompetenzspektrum
-  * Es ist Basis für Bildungsberichte (PISA, TIMSS, PIRLS, TALIS, PIAAC), wovon PISA und TIMSS als “Evaluationen” des Bildungssystem gesehen wreden
+  * Es ist Basis für Bildungsberichte (PISA, TIMSS, PIRLS, TALIS, PIAAC), wovon PISA und TIMSS als “Evaluationen” des Bildungssystem gesehen werden
   * Beispiel zur Kompetenzarmut bei österreichischen Schüler\*innen: _Individualeffekte_ bei Bildungsstand und Herkunft der Eltern (höhere Kompetenzarmut bei schlechter Bildung der Eltern mit Migrationshintergrund) und _Kompositionseffekte_ bei Unterrichtsbedingungen der Schule (Höhere Kompetenzarmut bei großen Klassen mit wenigen Lehrer\*innen).
 
 **Evaluationsgegenstände** können sein (Spiel et al., 2010, S.224):
@@ -54,19 +54,19 @@ Je nach Art der Evaluationen möchte man folgende **Ziele** erreichen. Evaluatio
 * _Programmeffizienz_ - Bewertet die Kosten-Nutzen-Relation einer Maßnahme
 * _Impact Evaluation_ - Bewertet die nachhaltigen Effekte einer Maßnahme
 
+Das Wort "Ziel" kann im Kontext von Evaluationen zwei Bedeutungen haben: (1) eine ist der _Evaluationszweck_, also warum man überhaupt eine Evaluierung durchführt. Die (2) andere ist das Ziel des zu evaluierenden Gegenstandes. Wenn man z.B. ein Programm zur Förderung der Mitarbeitergesundheit in einem Unternehmen evaluiert, dann ist verbesserte Mitarbeitergesundheit das _Ziel des Gegenstandes_ und das Verbessern der Förderungsmaßnahme das _Ziel der Evaluation_ (Evaluationszweck).
+
 In Wechselwirkung mit den Zielen stehen auch die **Funktionen** von Evaluationen. Diese lassen sich nicht klar von einander abgrenzen und haben fließende Übergänge. Sie werden in der Literatur nicht einheitlich definiert. Die folgende Liste ist konsoldiert aus Spiel et al.(2010, S.228-229) und Stockmann (2006, S.20):
 * _Bewertung ohne klare Zielsetzung_ - Umfassende Informationssammlung, oft Widerstand bei Stakeholdern
-* _Erkenntnisfunktion_ - Eigenschaften und Wirkung von Maßnahmen/Interventionen
-* _Kontrollfunktion_ - Ähnlich wie Erkenntnis- und Aufklärung, mit Schwerpunkt auf Korrektheit der Umsetzung, Effizienz, Effektivität, Nebenwirkungen...
+* _Erkenntnisfunktion_ - Eigenschaften und Wirkung von Maßnahmen/Interventionen.
+* _Entscheidungsunterstützung_ - Vergleichen von Vor- und Nachteilen von Entscheidungsalternativen.
+* _Kontrollfunktion_ - Ähnlich wie Erkenntnisfunktion, mit Schwerpunkt auf Korrektheit der Umsetzung, Effizienz, Effektivität, Nebenwirkungen...
 * _Dialog-/Lernfunktion_ - Ergebnisse dienen den Stakeholdern als Diskussionsgrundlage für Retrospektive und Verbesserungen bei zukünftiger Zusammenarbeit
-* _Entscheidungsunterstützung_ - Vergleichen von Vor- und Nachteilen von Entscheidungsalternativen
 * _Optimierungsfunktion_ - z.B. Verbessern von Prozessen, eher qualitative Daten und formative Evaluationen um Problembereiche zu entdecken
-* _Strategisches Instrument_ - Der Nutzen ist weniger das Ergebnis der Evaluation, sondern bereits der, _dass_ überhaupt evaluiert wird:
+* _Strategisches Instrument_ & _Legitimierungsfunktion_ - Der Nutzen ist weniger das Ergebnis der Evaluation, sondern bereits der, _dass_ überhaupt evaluiert wird:
   * Erhöhung von Motivation und Leistung durch das Bewusstsein, wahrgenommen zu werden
   * als (politische) Durchsetzungshilfe für Entscheidung bzw. um die Verantwortung an andere delegieren zu können
   * symbolisch/ritualisiert wegen gesetzlicher/vertraglicher Notwendigkeit
-
-Das Wort "Ziel" kann im Kontext von Evaluationen zwei Bedeutungen haben. Eine ist der _Evaluationszweck_, also warum man überhaupt eine Evaluierung durchführt. Die andere ist das Ziel des zu evaluierenden Gegenstandes. Wenn ich z.B. ein Programm zur Förderung der Mitarbeitergesundheit in einem Unternehmen evaluieren, dass ist verbesserte Mitarbeitergesundheit das Ziel des Gegenstandes und das Verbessern der Förderungsmaßnahme das Ziel der Evaluation (Evaluationszweck).
 
 # Ebenen
 
@@ -114,7 +114,7 @@ An einer Evaluation sind viele Personen in **unterschiedlichen Rollen** beteilig
 # Standards
 
 Das **Ziel** von Standards ist Orientierung bei der Planung und Durchführung von Evaluationen zu geben und somit die Qualität zu sichern und zu verbessern. Aufgrund der Verschiedenheit von Evaluationen und ihren Kontexten, können nicht immer alle Standards eingehalten werden. Das Nichterfüllen von Standards wertet die Evaluation nicht ab, solange die Evaluatoren es begründen können.
-1981 hat das Joint Committee on Standards for Educational Evaluation (JCSEE, 2021) seinen ersten Standard für die Evaluierung von Programmen veröffentlicht. Die DeGEval – Gesellschaft für Evaluation (2016) definiert 25 Standards, die sie in vier grundlegende Eigenschaften für Evaluationen kategorisiert:
+1981 hat das _Joint Committee on Standards for Educational Evaluation_ (JCSEE, 2021) seinen ersten Standard für die Evaluierung von Programmen veröffentlicht. Die DeGEval – Gesellschaft für Evaluation (2016) definiert 25 Standards, die sie in vier grundlegende Eigenschaften für Evaluationen kategorisiert:
 
 **Nützlichkeit (Utility)**
   1. Identifizierung der Beteiligten und Betroffenen
@@ -168,12 +168,12 @@ Das **Ziel** von Standards ist Orientierung bei der Planung und Durchführung vo
 * Schlüsselqualifikationen (z.B. Projektmanagement)
 * Hohes Allgemeinwissen im inhaltlichen Bereich
 
-Besonders das Methodenwissen ist von großer Bedeutung, weshalb Psychologen gut für die Evaluationsforschung geeignet sind.
+Besonders das Methodenwissen ist von großer Bedeutung, weshalb Psycholog\*innen gut für die Evaluationsforschung geeignet sind.
 
 # Durchführung von Evaluationen
 
-Dabei stehen folgende **Fragen am Beginn einer Evaluation** (von Maßnahmen):
-* Welche Ziele soll die Maßnahme (nicht die Evaluation!) erreichen
+Es stehen folgende **Fragen am Beginn einer Evaluation** (von Maßnahmen):
+* Welche Ziele soll die Maßnahme (nicht die Evaluation!) erreichen?
 * Woran erkennt man die Zielerreichung?
 * Wie sollen diese Ziele erreicht werden?
 * Sind ausreichende Ressourcen vorhanden?
@@ -236,7 +236,7 @@ Viele Evaluationen scheitern bzw. wird kein Nutzen daraus gezogen. Um den **Nutz
   * hoher Verantwortung
   * hoher Entscheidungsfreiraum
   * langer Verweildauer in Position
-  * Schlechter Unternehmenssiuation (starker Druck)
+  * Schlechter Unternehmenssituation (starker Druck)
   * Vorwürfen durch Vorgesetzte
 
 Nur Evaluationen mit **ausreichender Qualitätssicherung** können sinnvolle und ernstzunehmende Ergebnisse liefern:
