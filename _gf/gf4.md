@@ -34,7 +34,7 @@ Die **Kaufman Assessment Battery for Children** (K-ABC) misst Intelligenz von Ki
 
 Der **Sprachentwicklungstest für Kinder** (SETK) wird für Kinder im Alter von 3-5 Jahren eingesetzt um Sprachkompetenz, -verstehen und -produktion zu messen. Er ist objektiv, reliabel und valide im Sinne seiner Prognosen der weiteren Sprachentwicklung. Zuletzt 2014 normiert.
 
-# Experimentelle Verhaltensstudien
+# Verhaltensstudien
 
 Experimente sind bei und mit Babys und Kindern schwierig, weil sprachliche Kompetenzen und Selbstkontrolle noch nicht ausgeprägt sind und somit die Kontrolle der Versuchsbedingungen behindert wird. Folgend sind einige Beispiele für Experimente:
 
@@ -48,26 +48,71 @@ Beim **Erwartungsverletzungsparadigma** (Violation-of-Expectation - VoE) präsen
 
 **Familiarisierung** heißt einen Reiz für alle Probanden gleich lange dar zu bieten, wohingegen **Habituation** bedeutet, dass ein Reiz so lange gezeigt wird, bis der Proband ein Habituationskriterium erfüllt (z.B. Wegschauen, bestimmte Saugrate...).
 
+# Eye-Tracking
+
 **Eye-Tracking** arbeitet auch mit Blickzeiten, jedoch kann man damit viel genauer Messen, wohin geschaut wird (_Area of Interest_). Beispielstudie von Gredeback & Melinder (2010), in der das **antizipatorische Blickverhalten** gemessen wurde. Babys sahen zwei Frauen in einer Fütterszene. 12-Monate alte Babys blickten bereits auf den Mund der zu fütternden Person bevor der Löffel dorthin geführt wurde, 6-Monate alte aber noch nicht.
 
 Eye-Tracking kann auch **interaktiv** gestaltet werden, sodass abhängig davon, wohin das Baby blickt, unterschiedliche Dinge passieren. Zum Beispiel haben Wang et al. (2012) 6-Monate alten Babys interessante Bilder gezeigt, wenn sie auf bestimmte Bereiche eines Bildschirms geblickt haben. Die Babys haben dann häufiger auf diese Trigger-Areale geblickt.
 
 Zusätzlich kann man beim Eye-Tracking **Pupillometrie** verwenden um die Aktivierung des Sympathikus zu messen (Vergrößerung der Pupille). Höhl et al. (2017) haben 6-Monate alten Babys Blumen, Fische, Spinnen und Schlangen gezeigt. Bei Spinnen war die Pupillenreaktion größer als bei Blumen. Kritik an dieser Studie und ihrer Interpretation übt Denzer (2018).
 
-Mit dem **Elektroenzephalogram** (EEG) hat man die Vorteile, dass man Gehirnaktivität misst und dass das Kind kein Verhalten zeigen muss um Daten zu erhalten. Nachteile ist, dass man still sitzen muss, was bei Kindern nicht so einfach ist. In einer Studie von Höhl et al. (2008) hat man 3-Monate alten Babys Objekte gezeigt neben Gesichtern, die auf das Objekt blicken: in der Versuchsbedingung zusammen mit einem angstverzerrtem Gesicht, in der Kontrollbedingung mit einem neutralen Gesicht. Danach wurde das Objekt ohne Gesicht gezeigt und die neuronale Aktivierung gemessen. Im EEG war die Negative Central Component (also die neuronale Aktivierung) für die Versuchsbedingung höher als in der Kontrollgruppe. Erklärungsmöglichkeiten sind:
+# Elektroenzephalographie (EEG)
+
+Mit der **Elektroenzephalographie** (EEG) hat man die Vorteile, dass man Gehirnaktivität misst und dass das Kind kein Verhalten zeigen muss um Daten zu erhalten. Nachteile ist, dass man still sitzen muss, was bei Kindern nicht so einfach ist. In einer Studie von Höhl et al. (2008) hat man 3-Monate alten Babys Objekte gezeigt neben Gesichtern, die auf das Objekt blicken: in der Versuchsbedingung zusammen mit einem angstverzerrtem Gesicht, in der Kontrollbedingung mit einem neutralen Gesicht. Danach wurde das Objekt ohne Gesicht gezeigt und die neuronale Aktivierung gemessen. Im EEG war die Negative Central Component (also die neuronale Aktivierung) für die Versuchsbedingung höher als in der Kontrollgruppe. Erklärungsmöglichkeiten sind:
 * Kopplung der Angstemotion mit dem Objekt
 * Kopplung der Angstemotion mit dem Objekt, aber Blickrichtung des Gesichts spielt keine Rolle → weitere Versuchsbedingung mit unterschiedlicher Blickrichtung hat ergeben, dass Blickrichtung Voraussetzung ist
 * Das ängstliche Gesicht erzeugt Erregung unabhängig vom Objekt → weitere Versuchsbedingung mit wechselndem Objekt hat ergeben, dass das Objekt das selbe sein muss um Effekt messen zu können
 * Das ängstliche Gesicht zieht Aufmerksamkeit, wodurch das Objekt erst später richtig wahrgenommen wir
 
-Ebenfalls mit dem EEG wurde eine Studie zu **Joint Attention** durchgeführt (Striano et al., 2006). Joint Attention bedeutet, dass z.B. ein Kind und ein Erwachsener zuerst Blickkontakt herstellen und dann gemeinsam auf einen Reiz reagieren. In der Studie wurden 9-Monate alte Babys mit einem EEG verbunden und der/die Versuchsleiter\*in hat in manchen Trials Joint Attention hergestellt und gemeinsam auf einen visuellen Reiz auf einem Monitor reagiert. In anderen Trials hat sie keinen Blickkontakt zuvor hergestellt, sondern nur auf den Reiz im Monitor reagiert. Die _event-related potentials (ERPs)_ waren bei Joint Attention höher, womit höhere Aufmerksamkeit angenommen werden kann. Eine Studie von Höhl et al. (2014) zeigte ähnliche Ergebnisse. Bei dieser Studie wurden mittels EEG die _event-related oscillations (ERO)_ gemessen und in der Joint Attention Bedingung zeigte sich eine Desycnhronisation des Alpha-Rhythmus, wodurch man auf erhöhte Gehirnaktivität schließen kann. 
+Ebenfalls mit dem EEG wurde eine Studie zu **Joint Attention** durchgeführt (Striano et al., 2006). Joint Attention bedeutet, dass z.B. ein Kind und ein Erwachsener zuerst Blickkontakt herstellen und dann gemeinsam auf einen Reiz reagieren. In der Studie wurden 9-Monate alte Babys mit einem EEG verbunden und der/die Versuchsleiter\*in hat in manchen Trials Joint Attention hergestellt und gemeinsam auf einen visuellen Reiz auf einem Monitor reagiert. In anderen Trials hat sie keinen Blickkontakt zuvor hergestellt, sondern nur auf den Reiz im Monitor reagiert. Die _event-related potentials (ERPs)_ waren bei Joint Attention höher, womit höhere Aufmerksamkeit angenommen werden kann. Eine Studie von Höhl et al. (2014) zeigte ähnliche Ergebnisse. Bei dieser Studie wurden mittels EEG die _event-related oscillations (ERO)_ gemessen und in der Joint Attention Bedingung zeigte sich eine Desycnhronisation des Alpha-Rhythmus, wodurch man auf erhöhte Gehirnaktivität schließen kann.
 
 
+# Functional Near-Infrared Spectroscopy (fNIRS)
 
+Die Functional Near-Infrared Spectroscopy (fNIRS), auf Deutsch Funktionelle Nahinfrarot-Spektroskopie schickt Infrarotlicht durch die Schädeloberfläche und misst das reflektierte Licht. Das Licht wird abhängig vom Sauerstoffgehalt unterschiedlich reflektiert (_blood oxygen level dependent_ wie bei fMRT).
+Vorteile sind:
+* non-invasiv
+* kaum Bewegungsartefakte: kein Scanner und kein Magnetfeld (im Vergleich zu fMRT)
+* Gehirnaktivität kann lokalisiert werden
 
+Nachteile sind:
+* nur oberflächliche Strukturen messbar
+* geringere räumliche Auflösung als fMRT
+* geringere zeitliche Auflösung als EEG
 
-EEG
-fNIRS (Nahinfrarotspektroskopie)
-fMRT
+Beispiel einer Studie von Lloyd-Fox et al. (2011), die 5-Monate alten Babys unterschiedliche Bewegungen gezeigt haben (z.B. Augen-, Hand-, Mundbewegungen). Es hat sich gezeigt, dass je nach Art der Bewegung unterschiedliche Hirnareale für die Verarbeitung des Reizes aktiv sind.
+
+In einer anderen Studie von Nguyen et al. (2020) hat man 5-jährige Kinder und ihre Mütter sowohl zusammen als auch getrennt Puzzles lösen lassen. Dabei hat man mittels fNIRS ihre Gehirnaktivität gemessen. Beim gemeinsamen Lösen haben sich die Gehirnaktivitäten bei manchen Paaren synchronisiert. Diese Paare konnten auch mehr Puzzles lösen.
+
+# funktionelle Magnetresonanztomographie
+
+Auch die fMRT wird für entwicklungspsychologische Forschung angewendet.
+
+Vorteile sind:
+* non-invasiv
+* erlaubt anatomische und funktionelle Aufnahmen
+* hohe räumliche Auflösung
+
+Nachteile sind:
+* Lärm - besonders für Kinder störend
+* Röhre wirkt für Kinder bedrohlich
+* sehr sensibel auf Bewegung
+* schlechte zeitliche Auflösung
+* teuer
+
+In einer Studie haben Bedny et al. (2015) blind geborene Kinder untersucht und festgestellt, dass ihr visueller Cortex auf Sprachreize reagiert. Ein Hinweis auf die Plastizität des Gehirns: also dass sich Gehirnregionen auf die Umwelt anpassen.
+
+# Vergleich neurowissenschaftlicher Methoden
+
+Lloyd-Fox et al. (2010) haben die neurowissenschaftliche Methoden in Hinblick auf die Eignung für Forschung mit Kindern gegenübergestellt. Die Angaben "gut", "mittel", "schlecht" sind nicht absolut, sondern relativ in Bezug auf die Methoden zueinander:
+
+| Methode | räumlich | zeitlich | Eignung für  Kinder |
+| ------- | -------- | -------- | ------------------- |
+| NIRS    | mittel   | mittel   | gut                 |
+| EEG     | schlecht | gut      | gut                 |
+| MEG     | schlecht | gut      | mittel              |
+| PET     | gut      | schlecht | schlecht            |
+| fMRI    | sehr gut | schlecht | mittel              |
+
 
 # Literatur
