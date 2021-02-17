@@ -7,6 +7,8 @@ date: 29.10.2020
 full_title: Forschungsmethoden der Entwicklungspsychologie
 vortragender: Höhl
 ---
+{% include vo_header.md %}
+
 Viele der im [Überblick]( {{ "./gf/gf3" | relative_url }} ) vorgestellten Theorien sind nur mangelhaft empirisch gestützt (Piaget hat hauptsächlich eigene Kinder getestet, Freud hat nie Kinder behandelt). Ziel der heutigen wissenschaftlichen Forschung ist _objektiv überprüfbare, verallgemeinerbare, evidenzbasierte_ Aussagen zu tätigen und im gesellschaftlichen Diskurs solche Aussagen _kritisch zu bewerten_.
 
 In der (Entwicklungs-)Psychologie sollen basierend auf diesen Aussagen auch Fördermethoden abgeleitet werdenn und umgekehrt Fördermethoden evidenzbasiert und kritisch beurteilt werden.
