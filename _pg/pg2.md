@@ -25,7 +25,7 @@ Die Ansätze sollten sich ergänzen und nicht gegenseitig verdrängen (Methodenp
 
 __Introspektion__ ist das Beobachten des eigenen Erlebens. Kritik daran kommt u.a. von Immanuel Kant, wenn man das eigene Erleben beobachtet, dann verändert man es gleichzeitig auch.
 
-Wilhelm Wundt hat versucht _Introspektion auf ein Minimum zu reduzieren_ und war der Meinung, dass sich innere Vorgänge auch als _äußere physiologisch messbare Vorgänge_ zeigen (siehe dazu auch die [Vorlesung von Laback]( {{ "../ewd/ewd2" | relative_url }}))
+Wilhelm Wundt hat versucht _Introspektion auf ein Minimum zu reduzieren_ und war der Meinung, dass sich innere Vorgänge auch als _äußere physiologisch messbare Vorgänge_ zeigen (siehe dazu auch die [Vorlesung von Laback]( {{ "./ewd/ewd2" | relative_url }}))
 
  Auch [Franz Brentano](https://de.wikipedia.org/wiki/Franz_Brentano) sah Introspektion kritisch und schlug stattdessen __Retrospektion__ vor. Also kein Beobachten während des Erlebens, sondern ein Erinnern daran aus dem Gedächtnis. Diesem Ansatz folgte auch die __Würzburger Schule__, zu der auch [Karl Bühler](https://de.wikipedia.org/wiki/Karl_B%C3%BChler) zählte. Mittels der _rückschauenden Selbstbeobachtung_ erforschte man Denk- und Willensvorgänge unter experimentellen Bedingungen. Die Vpn (selbst Studenten und Forscher) mussten Fragen beantworten und danach das Erlebte erinnern. Hauptresultate:
  * _Gedanken_ als Bausteine des Denkens sind von Wahrnehmungen und "Vorstellungen" losgelöst
@@ -37,7 +37,7 @@ Obige Ansätze wirken heute noch am ehesten in der [Gestalttheoretischen Schule]
 
 # Behaviorismus
 
-In den USA stand der _praktische Nutzen der Psychologie_ im Fokus. Ψ war nicht so stark philosophisch verwurzelt wie in Europa. Obige Probleme (Introspektion, Retrospektion) wurden umgangen, indem Psychologie ausschließlich als Lehre des menschlichen Verhaltens, und _nicht_ auch des Erlebens definiert wurde (John B. Watson - Gründungsmanifest des __Behaviorismus__). Es ging dabei nur noch um das Beobachten, Vorhersagen und Kontrollieren von Verhalten.
+In den USA stand der _praktische Nutzen der Psychologie_ im Fokus. Ψ war nicht so stark philosophisch verwurzelt wie in Europa. Obige Probleme (Introspektion, Retrospektion) wurden umgangen, indem Psychologie ausschließlich als Lehre des menschlichen Verhaltens, und _nicht_ auch des Erlebens definiert wurde (John B. Watson - Gründungsmanifest des __Behaviorismus__). Es ging dabei nur noch um das Beobachten, Vorhersagen und Kontrollieren von Verhalten. Für Details zum Behaviorismus siehe [Skinner und das Lernen]({{ "./gf/gf6" | relative_url }}).
 
 # Geisteswissenschaftliche und verstehende Psychologie
 

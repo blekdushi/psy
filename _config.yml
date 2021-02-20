@@ -40,6 +40,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 google_analytics: G-DXC1BFBDYF
 # Exclude from processing.
