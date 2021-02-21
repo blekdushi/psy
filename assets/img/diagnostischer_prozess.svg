@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="417px" preserveAspectRatio="none" style="width:417px;height:417px;" version="1.1" viewBox="0 0 417 417" width="417px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1okb8zje78fzg" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0" />
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0" />
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3" />
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal" />
+        </filter>
+    </defs>
+    <g>
+        <path d="M10,10 L10,35.1328 L405,35.1328 L405,20 L395,10 L10,10 " fill="#FBFB77" filter="url(#f1okb8zje78fzg)" style="stroke:#A80036;stroke-width:1.0;" />
+        <path d="M395,10 L395,20 L405,20 L395,10 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="374" x="16" y="27.0669">Ziel ist die Beantwortung der diagnostischen Fragestellung</text>
+        <rect fill="#FFFFFF" filter="url(#f1okb8zje78fzg)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.5;" width="149" x="133" y="55.1328" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="129" x="143" y="76.2715">Fragestellung klären</text>
+        <rect fill="#FFFFFF" filter="url(#f1okb8zje78fzg)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.5;" width="170" x="122.5" y="109.1016" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="150" x="132.5" y="130.2402">Hypothesen formulieren</text>
+        <rect fill="#FFFFFF" filter="url(#f1okb8zje78fzg)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.5;" width="153" x="131" y="163.0703" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="133" x="141" y="184.209">Verfahren auswählen</text>
+        <rect fill="#FFFFFF" filter="url(#f1okb8zje78fzg)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.5;" width="249" x="83" y="217.0391" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="229" x="93" y="238.1777">Verfahren anwenden und auswerten</text>
+        <rect fill="#FFFFFF" filter="url(#f1okb8zje78fzg)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.5;" width="369" x="23" y="271.0078" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="349" x="33" y="292.1465">Ergebnisse interpretieren &amp; Fragestellung beantworten</text>
+        <rect fill="#FFFFFF" filter="url(#f1okb8zje78fzg)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.5;" width="160" x="127.5" y="324.9766" /><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="140" x="137.5" y="346.1152">Maßnahme auswählen</text>
+        <ellipse cx="207.5" cy="389.9453" fill="#FFFFFF" filter="url(#f1okb8zje78fzg)" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;" />
+        <ellipse cx="207.5" cy="389.9453" fill="#000000" rx="6" ry="6" style="stroke:#7F7F7F;stroke-width:1.0;" />
+        <line style="stroke:#000000;stroke-width:1.5;" x1="207.5" x2="207.5" y1="35.1328" y2="55.1328" />
+        <polygon fill="#000000" points="203.5,45.1328,207.5,55.1328,211.5,45.1328,207.5,49.1328" style="stroke:#000000;stroke-width:1.0;" />
+        <line style="stroke:#000000;stroke-width:1.5;" x1="207.5" x2="207.5" y1="89.1016" y2="109.1016" />
+        <polygon fill="#000000" points="203.5,99.1016,207.5,109.1016,211.5,99.1016,207.5,103.1016" style="stroke:#000000;stroke-width:1.0;" />
+        <line style="stroke:#000000;stroke-width:1.5;" x1="207.5" x2="207.5" y1="143.0703" y2="163.0703" />
+        <polygon fill="#000000" points="203.5,153.0703,207.5,163.0703,211.5,153.0703,207.5,157.0703" style="stroke:#000000;stroke-width:1.0;" />
+        <line style="stroke:#000000;stroke-width:1.5;" x1="207.5" x2="207.5" y1="197.0391" y2="217.0391" />
+        <polygon fill="#000000" points="203.5,207.0391,207.5,217.0391,211.5,207.0391,207.5,211.0391" style="stroke:#000000;stroke-width:1.0;" />
+        <line style="stroke:#000000;stroke-width:1.5;" x1="207.5" x2="207.5" y1="251.0078" y2="271.0078" />
+        <polygon fill="#000000" points="203.5,261.0078,207.5,271.0078,211.5,261.0078,207.5,265.0078" style="stroke:#000000;stroke-width:1.0;" />
+        <line style="stroke:#000000;stroke-width:1.5;" x1="207.5" x2="207.5" y1="304.9766" y2="324.9766" />
+        <polygon fill="#000000" points="203.5,314.9766,207.5,324.9766,211.5,314.9766,207.5,318.9766" style="stroke:#000000;stroke-width:1.0;" />
+        <line style="stroke:#000000;stroke-width:1.5;" x1="207.5" x2="207.5" y1="358.9453" y2="378.9453" />
+        <polygon fill="#000000" points="203.5,368.9453,207.5,378.9453,211.5,368.9453,207.5,372.9453" style="stroke:#000000;stroke-width:1.0;" />
+        <!--MD5=[30eab9fa8f1c3649582fb21f53338888]
+@startuml
+skinparam activity {
+    backgroundcolor white
+    bordercolor black
+    diamondbackgroundcolor white
+    diamondbordercolor black
+}
+skinparam arrowcolor black
+skinparam partitionbackgroundcolor lightgrey
+note
+Ziel ist die Beantwortung der diagnostischen Fragestellung
+end note
+:Fragestellung klären;
+:Hypothesen formulieren;
+:Verfahren auswählen;
+:Verfahren anwenden und auswerten;
+:Ergebnisse interpretieren & Fragestellung beantworten;
+:Maßnahme auswählen;
+stop
+@enduml
+
+PlantUML version 1.2020.23(Sun Dec 13 20:14:58 CET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+@startuml
+skinparam activity {
+    backgroundcolor white
+    bordercolor black
+    diamondbackgroundcolor white
+    diamondbordercolor black
+}
+skinparam arrowcolor black
+skinparam partitionbackgroundcolor lightgrey
+note
+Ziel ist die Beantwortung der diagnostischen Fragestellung
+end note
+:Fragestellung klären;
+:Hypothesen formulieren;
+:Verfahren auswählen;
+:Verfahren anwenden und auswerten;
+:Ergebnisse interpretieren & Fragestellung beantworten;
+:Maßnahme auswählen;
+stop
+@enduml
