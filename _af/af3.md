@@ -83,7 +83,18 @@ In der Personalauswahl ist das **Assessment-Center** eine Methode um Verhaltensb
 
 # Anwendungsfelder
 
-AOW
-Bildungsbereich
-Klinisch
-Recht & Forensik
+Besonders breite Anwendung findet die psychologische Diagnostik im gesundheitlichen und klinischen Bereich. **Gesundheitlich** relevant ist Diagnostik in Krisen, bei Konflikten und Belastungssituationen im Alltag und Beruf. **Klinisch** also bei Störungen und Krankheit sind die Ziele:
+* das Störungsbild quantitativ und qualitatv zu beschreiben
+* es zu klassifizieren (ICD-10, DSM 5)
+* ihre Entstehung, den Verlauf und die (Lebens-)Umstände zu beschreiben
+* die Symptomatik im Verlauf der Therapie/der Intervention zu beobachten
+* und den Therapieerfolg zu überprüfen
+
+Diagnostik im **Arbeits-, Organisations- und Wirtschaftspsychologie** wird für folgende Ziele eingesetzt:
+* _Personalbeurteilung_ - Testen der berufsbezogenen Eignung einer Person und Entscheidungshilfe für die Personalauswahl. Zur Qualitätssicherung existieren Standards (ÖNORM D-4000, DIN 33430), die jedoch freiwillig angewendet werden können.
+* _Personalentwicklung_ - Testen der Potenziale und Entscheidungshilfe für Förderungsmaßnahmen
+* _Tätigkeitsbezogene Diagnostik und Intervention_ - Arbeitszufriedenheit, Vorbeugen von bzw. Rehabilitation nach Belastungen, Stress und Burnout.
+
+Im **Bildungsbereich** wird Diagnostik eingesetzt um die Eignung (z.B. Aufnahme in Schulen) zu prüfen und Kompetenzen, Begabungen und Defizite zu entdecken. Heutzutage möchte man gezielt fördern, statt das Kind später einzuschulen oder eine Klasse wiederholen zu lassen.
+
+Weitere Anwendung finden diagnostische Verfahren **Rechtsbereich**, z.B. in der Verkehrspsychologie um die Eignung für den Führerschein festzustellen. Beim Strafvollzug um Vollzugsmaßnahmen zu lockern oder einzuschränken, sowie Interventionen für die Reintegration festzulegen. Bei Versicherungsfällen setzt man Diagnostik ein um die Glaubhaftigkeit von Aussagen besser einschätzen zu können. Ähnlich dazu wird die Zurechnungs- und Schuldfähigkeit von Angeklagten eingeschätzt. Für den Waffenbesitz können ebenfalls psychologische Gutachten notwendig sein.
