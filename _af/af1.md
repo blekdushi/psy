@@ -94,7 +94,7 @@ Die (3) **Handlungsebenen** zeigen die Gestaltungsräume über die Einfluss auf 
 
 <img src="{{ "/assets/img/strukturmodell.png" | relative_url }}" alt="Strukturmodell der Bildungspsychologie" width="86%" />
 
-Bildungspsychologische Themen und Fragestellungen lassen sich im Strukturmodell an 105 "Modulen" verorten. Das sind die Schnittpunkte von drei Segmenten, je eines pro Dimension. Beispiel für ein Modul ist zum Beispiel die Beratung zur Gestaltung der bundesweiten Zentralmatura (Makroebene + Sekundärbereich). Im Strukturmodell erkennt man auch deutlich **Überschneidungen mit Entwicklungspsychologie**.
+Bildungspsychologische Themen und Fragestellungen lassen sich im Strukturmodell wie in einem dreidimensionalen Koordinatensystem verorten. Schnittpunkte entlang der drei Dimensionen nennt man **Module**. Es gibt insgesamt 105 Module (Multiplikation der Segmente pro Dimension: 3 x 5 x 7). Beispiel für ein Modul: Beratung zur Gestaltung der bundesweiten Zentralmatura (Beratung + Makroebene + Sekundärbereich). Im Strukturmodell erkennt man auch deutlich **Überschneidungen mit der Entwicklungspsychologie**.
 
 # Ausgewählte Themen der Bildungspsychologie
 
@@ -125,7 +125,7 @@ Schwerpunkte und Projekte des Arbeitsbereichs "Bildungspsychologie" am "Institut
 * Motivationszuwachs
 * Grundlage für lebenslanges Lernen
 
-Das ist zum Beispiel ein Gegenstand der Bildungspsychologie, dass man selbstreguliertes Lernen stärker und breiter im Bildungssystem verankert.
+Selbstreguliertes Lernen stärker und breiter im Bildungssystem zu verankern ist zum Beispiel ein Gegenstand der Bildungspsychologie.
 
 TODO: Kapitel SLR zusammenfassen
 
@@ -141,6 +141,19 @@ Fünf Typen von Langeweile entlang zwei Dimensionen (Erregung, Valenz):
 
 Wirkt **Angst** leistungsförderlich? Kurzfristig ja, langfristig negativ.
 
-Gibt es verschiedene **Lerntypen**? Leichte Präferenzen, aber Ratgeber übertreiben das. Besser ist es, wenn wir möglichst viele verschiedene Sinne zum Lernen einsetzt. 
+Gibt es verschiedene **Lerntypen**? Leichte Präferenzen, aber die meisten Ratgeber übertreiben das. Besser ist es, wenn man möglichst viele verschiedene Sinne zum Lernen einsetzt.
 
 Sind kleinere Schulklassen erfolgreicher? Nur, wenn auch die Lehrmethoden daran angepasst sind.
+
+# Kontrollfragen
+
+
+
+# Literatur
+
+<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">Goetz, T., Frenzel, A. C., Hall, N. C., Nett, U. E., Pekrun, R., &amp; Lipnevich, A. A. (2014). Types of boredom: An experience sampling approach. <i>Motivation and Emotion</i>, <i>38</i>(3), 401–419. <a href="https://doi.org/10.1007/s11031-013-9385-y">https://doi.org/10.1007/s11031-013-9385-y</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs11031-013-9385-y&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Types%20of%20boredom%3A%20An%20experience%20sampling%20approach&amp;rft.jtitle=Motivation%20and%20Emotion&amp;rft.stitle=Motiv%20Emot&amp;rft.volume=38&amp;rft.issue=3&amp;rft.aufirst=Thomas&amp;rft.aulast=Goetz&amp;rft.au=Thomas%20Goetz&amp;rft.au=Anne%20C.%20Frenzel&amp;rft.au=Nathan%20C.%20Hall&amp;rft.au=Ulrike%20E.%20Nett&amp;rft.au=Reinhard%20Pekrun&amp;rft.au=Anastasiya%20A.%20Lipnevich&amp;rft.date=2014-06-01&amp;rft.pages=401-419&amp;rft.spage=401&amp;rft.epage=419&amp;rft.issn=1573-6644&amp;rft.language=en"></span>
+  <div class="csl-entry">Spiel, C. (2010). <i>Bildungspsychologie</i>. Hogrefe. <a href="https://usearch.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_hogrefe_books_99_110005_9783840920813&amp;context=PC&amp;vid=UWI">https://usearch.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_hogrefe_books_99_110005_9783840920813&amp;context=PC&amp;vid=UWI</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-8409-2081-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bildungspsychologie&amp;rft.place=G%C3%B6ttingen%20Wien&amp;rft.publisher=Hogrefe&amp;rft.aufirst=Christiane&amp;rft.aulast=Spiel&amp;rft.au=Christiane%20Spiel&amp;rft.date=2010&amp;rft.tpages=1%20Online-Ressource%20(457%20Seiten)%2C%20Diagramme&amp;rft.isbn=978-3-8409-2081-3"></span>
+</div>
