@@ -92,7 +92,7 @@ Evaluationen können sich anhand folgender **Dimensionen** unterscheiden (DeGEva
 
 # Akteure und Rollen
 
-Evaluationen können anhand der **Rolle der Evaluatior\*innen** unterschieden werden:
+Evaluationen können anhand der **Rolle der Evaluator\*innen** unterschieden werden:
 * _Selbstevaluation_ ↔ _Fremdevaluation_
 * _Interne Evaluation_ ↔ _Externe Evaluation_
 
@@ -198,20 +198,21 @@ Der **Idealverlauf** so einer Evaluierung kann wie folgt skizziert werden:
 * _Outcome_ - Vergleich mit altem Studienplan
 * _Impact_ - Summative Evaluation der langfristigen Auswirkungen
 
-Es wurde eine externe, summative Selbst- (?!externe Selbstevaluation widerspricht sich doch?!) und Fremdevaluation gemacht. _Vorinterviews_ halfen die Dimensionen des Evaluationsgegenstandes zu klären. Ausgehend davon wurde eine Fragenbogenrehebung gemacht (Studierende, Turnusärzt\*innen, Lehrende und (Turnus-)Supervisor\*innen). Der Rücklauf bei Lehrenden und Supervisor\*innen lag in etwa bei einem Drittel. Erfragt wurden:
+Es wurde eine summative, externe Selbst- (externe Selbstevaluation widerspricht sich doch?!) und Fremdevaluation gemacht. _Vorinterviews_ halfen die Dimensionen des Evaluationsgegenstandes zu klären. Ausgehend davon wurde eine Fragenbogenrehebung gemacht (Studierende, Turnusärzt\*innen, Lehrende und (Turnus-)Supervisor\*innen). Der Rücklauf bei Lehrenden und Supervisor\*innen lag in etwa bei einem Drittel. Erfragt wurden:
 
-| Frage                                                   | Ergebnisse                                                                                                                                                                                                         |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Was _soll_ das Studium vermitteln und was vermittelt es | große Kluft! Bei der Frage nach dem Soll gab es Unterschiede bei Lehrenden und Studierenden.                                                                                                      |
-| Was _können_ junge Mediziner\*innen?                    | Fremdeinschätzung war höher als Selbsteinschätzung. Bei der Selbsteinschätzung: umso länger das Studium her ist, umso geringer werden die vermittelnden Kompetenzen eingeschätzt (Ausnahme: naturw. Faktenwissen). |
-| Welche Lernmethoden werden eingesetzt?                  | "aus Bücher lernen" dominiert. Nicht optimal, wenn Problemlösungskompetenzen nun fokussiert werden sollen                                                                                                          |
-| Wie ist die Einstellung zur Reform?                     | Fast alle hielten es für wichtig. Lehrende im 1./2. Abschnitt mit der geringsten Zustimmung                                                                |
+| Frage                                                                   | Ergebnisse                                                                                                                                                                                              |     |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Was _soll_ das Studium vermitteln und was vermittelt es                 | Große Kluft! Bei der Frage nach dem Soll gab es Unterschiede bei Lehrenden und Studierenden.                                                                                                            |     |
+| Wie gut werden Kompetenzen derzeit vermittelt (_Kompetenzvermittlung_)? | Selbsteinschätzung der Studierenden und jungen Ärzte. Vermittelte Kompetenzen wurden umso schlechter eingeschätzt, desto länger das Studium her war. Mit Ausnahme naturwissenschaftliches Faktenwissen. |     |
+| Was _können_ junge Mediziner\*innen (_Kompetenzlevel_)?                 | Fremdeinschätzung war niedriger als Selbsteinschätzung der Studierenden und jungen Ärzte.                                                                                                               |     |
+| Welche Lernmethoden werden eingesetzt?                                  | "Aus Büchern lernen" dominiert. Nicht optimal, wenn Problemlösungskompetenzen nun fokussiert werden sollen                                                                                               |     |
+| Wie ist die Einstellung zur Reform?                                     | Fast alle hielten es für wichtig. Lehrende im 1./2. Abschnitt mit der geringsten Zustimmung                                                                                                             |     |
 
 **Zentrale Ergebnisse**
 * Notwendigkeit einer Reform bestätigt
 * Kompetenzen der Studierenden als nicht hoch eingeschätzt
 * Diskrepanz zwischen Ideal und Real - lediglich verzerrte Wahrnehmung? Wenn nicht, was sind die Ursachen
-* Mit wachsender Praxiserfahrung wird die Leistung des Studiums geringer eingeschätzt
+* Mit wachsender Praxiserfahrung schätzen Ärzte die Leistung ihres Studiums geringer ein
 * Studierende waren bereit die Studierendenzahl zu beschränken, wenn dafür ihre Ausbildung verbessert würde
 * Curriculumreform alleine zu wenig. Reformdreieck:<br>
 ![Notwendigkeit von Organisations-, Personal- und Unterrichtsentwicklung]({{ "/assets/img/curriculum.svg" | relative_url }})
@@ -242,6 +243,23 @@ Viele Evaluationen scheitern bzw. wird kein Nutzen daraus gezogen. Um den **Nutz
 Nur Evaluationen mit **ausreichender Qualitätssicherung** können sinnvolle und ernstzunehmende Ergebnisse liefern:
 * Standards einhalten
 * qualifizierte Evaluator\*innen beauftragen!
+
+# Kontrollfragen
+
+1. Wie grenzt sich Evaluation von _Monitoring_ und _Qualitätssicherung_ ab? Wie ist _Bildungsmonitoring_ unter diesem Aspekt zu verorten?
+1. Welche Ziele können Evaluationen verfolgen?
+1. Welche Funktionen können Evaluationen haben?
+1. Welche Rollen gibt es bei Evaluationen?
+1. Was sind typische Evaluationsgegenstände?
+1. Welche Evaluationsebenen haben Kirkpatrick und Kirkpatrick definiert?
+1. Was sind typische Berufs- und Praxisfelder für Evaluationen und Evaluator*innen?
+1. Welche typischen Fragen stehen zu Beginn der Durchführung einer Evaluation?
+1. Anhand welcher Dimensionen unterscheiden sich Evaluationen?
+1. Wie war 2002 das Vorgehen bei der Evaluation des Medizin-Curriculums?
+1. Welche Ergebnisse brachte die Evaluation des Medizin-Curriculums?
+1. Welche Eigenschaften und Fähigkeiten sollten Evaluator*innen haben?
+1. Welche Voraussetzungen müssen gegeben sein, damit man aus Evaluationen lernen kann?
+1. Welche Standards definiert die DeGEval? Wie viele sind es und in welch Kategorien sind sie eingeteilt?
 
 # Literatur
 
