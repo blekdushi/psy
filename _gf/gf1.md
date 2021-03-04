@@ -50,7 +50,7 @@ Freud sah in der Kindheit einen großen Einfluss auf den Charakter und die **psy
 
 Innerhalb der psychoanalytischen Strömung kam es zu Kritik, Anpassungen und Erweiterungen von Freuds Ideen, auch **Neoanalyse** bezeichnet:
 
-**Carl Gustal Jung** ein Schüler Freuds, passte die Struktur der Psyche in seiner _Analytischen Psychologie_ an:
+**Carl Gustav Jung** ein Schüler Freuds, passte die Struktur der Psyche in seiner _Analytischen Psychologie_ an:
 * das bewusste ICH
 * das persönlich Unbewusste (Vorbewusstes)
 * das kollektiv Unbewusste (Archetypen, Animus, Anima, Persona, Schatten, Held, Dämon)
