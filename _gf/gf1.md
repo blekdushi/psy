@@ -12,7 +12,7 @@ vortragender: Pietschnig
 
 # Zusatztext: Psychoanalyse Freuds als Persönlichkeitstheorie
 
-Der folgende Absätze sind eine Zusammenfassung von Stemmler et al. (2011). Allen tiefenpsychologischen Theorien ist gemein, dass sie einer empirischen Prüfung schwer zugänglich sind und somit schwer falsifizieren lassen.
+Der folgende Absätze sind eine Zusammenfassung von Stemmler et al. (2011). Allen tiefenpsychologischen Theorien ist gemein, dass sie einer empirischen Prüfung schwer zugänglich sind und sich somit schwer falsifizieren lassen.
 
 Mehrere **Bedeutungen** des Begriffs Psychoanalyse:
 * _Therapieform_ - Heilung durch Bewusstmachen unbewusster Ängste, Wünsche...
@@ -21,9 +21,9 @@ Mehrere **Bedeutungen** des Begriffs Psychoanalyse:
 
 Freud hat seine Überlegungen im Laufe der Jahre mehrmals geändert/angepasst. Bis zu seinem Tod waren seine Arbeiten somit widersprüchlich, inkonsistent und in sich nicht geschlossen. Ausnahme: **Freuds Menschenbild** blieb konsistent:
 * _Mensch als Energiesystem_ - Physische und psychische Energie ineinander umwandelbar über das ES.
-* _Angeborene Triebe als Energiespender_ - Libido als Quelle psychischer Energie - kann in soziales und kulturulles Verhalten _sublimiert_ werden. Später postulierte Freud auch einen Todes-/Aggressionstrieb.
+* _Angeborene Triebe als Energiespender_ - Libido als Quelle psychischer Energie - kann in soziales und kulturelles Verhalten _sublimiert_ werden. Später postulierte Freud auch einen Todes-/Aggressionstrieb.
 * _Verhalten ist determiniert_ - Verhalten ist zu einem Großteil von Unbewusstem gesteuert. Verhalten ist nicht zufällig, sondern die Ursachen sind im Unterbewussten verborgen.
-* _Lustprinzip_ - Energieanstieg wird als unangenehm und Triebreduktion als lustvoll empfunden. Jedes Verhalten soll Spannung reduzieren und Lust fördern. Die Gesellschaft gibt aber Verhaltensgrenzen vor: der Mensch gerät in einen Konflikt mit seinen Triebimpulsen (siehe auch dynamische Personlichkeitskonzepte weiter unten).
+* _Lustprinzip_ - Energieanstieg wird als unangenehm und Triebreduktion als lustvoll empfunden. Jedes Verhalten soll Spannung reduzieren und Lust fördern. Die Gesellschaft gibt aber Verhaltensgrenzen vor: der Mensch gerät in einen Konflikt mit seinen Triebimpulsen (siehe auch dynamische Persönlichkeitskonzepte weiter unten).
 
 Freud sieht folgende **Struktur der Psyche**:
 * _ES_ - Repräsentiert Triebenergie des Sexual- und Aggressionstriebs und möchte sie befriedigen. Impulsiv, unorganisiert und irrational. Nach der Geburt tonangebend, danach bekommt das ICH kontinuierlich mehr Kontrolle. Beinhaltet auch verdrängte Wünsche, Erinnerungen, Einstellungen und ähnliches mehr. Inhalte und Funktionen des ES sind unbewusst. (Lustprinzip)
@@ -39,7 +39,7 @@ Diese drei Instanzen stehen ständig miteinander in Konflikt: Impuls (ES) vs. Re
 * Angst vor Liebesverlust (z.B. Anerkennung durch andere)
 * Angst vor Objektverlust (z.B. Verlust von Bezugspersonen)
 
-Angst ist ein Zustand, denn das ICH auflösen bzw. verhindern möchte. Dafür hat es **Abwehrmechanismen** (siehe Überblick in Stemmler et al., 2011, S.345). Der wichtigste davon ist die _Verdrängung_. Dabei verdrängt das ICH Wünsche, Gedanken, Erinnerungen... unbewusst in das Unbewusste, wodurch sie keine Angst mehr auslösen können. Diese Verdrängung und das Zurückhalten des Verdrängten kostet Kraft, die für andere Aufgaben nicht zu Verfügung steht. Das Verdrängte kann sich dann in Neurosen und psychosomatischen Zuständen äußern. Die vermiedene Angst wurde dann durch Leid ersetzt. In schwachen Momenten (Schlaf, Trunkenheit...) kann das Verdrängte wieder ausbrechen und zu unkontrollierten Handlungen bzw. Träumen führen.
+Angst ist ein Zustand, denn das ICH auflösen bzw. verhindern möchte. Dafür hat es **Abwehrmechanismen** (siehe Überblick in Stemmler et al., 2011, S.345). Der wichtigste davon ist die _Verdrängung_. Dabei verdrängt das ICH Wünsche, Gedanken, Erinnerungen... unbewusst in das Unbewusste, wodurch sie keine Angst mehr auslösen können. Diese Verdrängung und das Zurückhalten des Verdrängten kostet Kraft, die für andere Aufgaben nicht zu Verfügung steht. Das Verdrängte kann sich dann in Neurosen und psychosomatischen Zuständen äußern. Die vermiedene Angst wurde somit durch Leid ersetzt. In schwachen Momenten (Schlaf, Trunkenheit...) kann das Verdrängte wieder ausbrechen und zu unkontrollierten Handlungen bzw. Träumen führen.
 
 Freud sah in der Kindheit einen großen Einfluss auf den Charakter und die **psychosexuelle Entwicklung**, welche in Phasen verläuft. Wenn in einer Phase die Triebbefriedigung zu kurz oder zu ausführlich erfolgt, manifestiere sich das bis ins Erwachsenenalter:
 * _Orale Phase_ (bis 1 Jahr) - symbiotischer Bindung mit der Mutter zum eigenständigen Selbst. Fixierung in dieser Phase führe zu selbstbezogenem, abhängigem, sarkastischem Charakter mit Tendenz zu oralen Ersatzbefriedigungen (z.B. Rauchen)
@@ -61,17 +61,17 @@ Er unterschied vier _Funktionen der Psyche_, wovon eine bei jeder Person dominie
 * Fühlen (was ist es wert?)
 * Intuition (wo kommt es her, wo geht es hin?)
 
-Er teile Menschen in _extrovertierte_ (Libido auf äußere Welt gerichtet) und _introvertierte_ ein. In Kombinationen mit den vier Funktionen der Psyche könne man acht wesentliche Charaktertypen unterscheiden.
+Er teilte Menschen in _extrovertierte_ (Libido auf äußere Welt gerichtet) und _introvertierte_ ein. In Kombination mit den vier Funktionen der Psyche könne man acht wesentliche Charaktertypen unterscheiden.
 
 **Alfred Adler** sah den Menschen nicht so stark von Sexualität dominiert. Er sah das Streben nach Überlegenheit als ein zentrales Motiv. Hilflosigkeit würde zu Minderwertigkeitsgefühlen führen. Diese werden manchmal durch einen Überlegenheitskomplex überkompensiert. Er beschäftigte sich auch mit der Auswirkung der Geburtenfolge auf die Persönlichkeit und meinte:
 * Erstgeborene haben Unabhängigkeitsstreben
 * Zweitgeborene eher Minderwertigkeitskomplex, weil ständige Rivalität mit Geschwister
 * Letztgeborene eher faul, weil ältere Geschwister als unerreichbare Vorbilder wahrgenommen werden
 
-Tatsächlich legen Studien nahe, dass es einen Zusammenhang zwischen Persönlichkeit und Geburtenreihenfolge besteht (wenn auch nicht ganz so wie oben von Adler beschrieben).
+Tatsächlich legen Studien nahe, dass ein Zusammenhang zwischen Persönlichkeit und Geburtenreihenfolge besteht (wenn auch nicht ganz so wie oben von Adler beschrieben).
 
 **Erik Erikson** sah die Persönlichkeitsentwicklung als lebenslangen Prozess und nicht vollständig in der frühen Kindheit verankert. Für ihn sind Veränderung von sozialen Beziehungen ausschlaggebender als Verschiebungen von erogenen Zonen. Er beschreibt acht Phasen der Entwicklung, die alle eine _Ich-Krise_ auslösen und deren Überwindung zu einem optimalen Persönlichkeitswachstum beiträgt. Ungelöste Konflikte können in spätere Phasen mitgenommen werden:
-* 1. Lebensjahr: Primärbedürfnisse befriedigen → Urvertrauen vs. Urmisstrauen (Hoffnung vs. Rückzug)
+* 0-1: Primärbedürfnisse befriedigen → Urvertrauen vs. Urmisstrauen (Hoffnung vs. Rückzug)
 * 2-3: Kontrolle über Körper → Autonomie vs. Scham/Zweifel (Wille vs. Zwang)
 * 4-5: Handlungen planen und mit anderen Auskommen → Initiative vs. Schuldgefühle (Zielstrebigkeit vs. Hemmung)
 * 6-13: Stolz auf eigene Leistungen → Selbstwert vs. Minderwertigkeit (Kompetenz vs. Trägheit)
