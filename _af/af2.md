@@ -31,7 +31,7 @@ Professionelle Evaluation bedeutet, dass sie systematisch, nachvollziehbar und w
 * _Qualitätssicherung_ stammt aus der Wirtschaft mit dem Fokus Produkte, Dienstleistungen und dahinter stehende Prozesse zu verbessern.
 * _Monitoring_ ist die regelmäßige Überwachung und Begleitungen von Prozessen.
 * _Bildungsmonitoring_ hat fließenden Übergang zur Evaluationsforschung:
-  * Trotz des _deskriptiven_ Charakters (es liefert Rückmeldung über IST-Zustand des Bildungssystems) dient es als Grundlage für politische Entscheidungen
+  * _Deskriptiver_ Charakter (es liefert Rückmeldung über IST-Zustand des Bildungssystems) und dient es als Grundlage für politische Entscheidungen
   * Viele Stakeholder, deshalb funktioniert der Prozess "Evaluationsdesign → Ergebnisse → Verbesserung" nicht so gut
   * Es zieht aussagekräftige Stichproben und _testet_ ein breites Kompetenzspektrum
   * Es ist Basis für Bildungsberichte (PISA, TIMSS, PIRLS, TALIS, PIAAC), wovon PISA und TIMSS als “Evaluationen” des Bildungssystem gesehen werden
@@ -50,7 +50,7 @@ Je nach Art der Evaluationen möchte man folgende **Ziele** erreichen. Evaluatio
 * _Baseline Evaluation_ - IST-Stand beschreiben
 * _Prospektive Evaluation_ - Abschätzung von Machbarkeit und (Neben-)Effekten geplanter Maßnahmen
 * _Formative Evaluation_ - Bewertet nicht die Maßnahme selbst, sondern die Umsetzung einer Maßnahme
-* _Summitve Evaluation_ - Bewertung der Wirksamkeit einer Maßnahme nach ihrer Umsetzung
+* _Summative Evaluation_ - Bewertung der Wirksamkeit einer Maßnahme nach ihrer Umsetzung
 * _Programmeffizienz_ - Bewertet die Kosten-Nutzen-Relation einer Maßnahme
 * _Impact Evaluation_ - Bewertet die nachhaltigen Effekte einer Maßnahme
 
@@ -99,7 +99,7 @@ Evaluationen können anhand der **Rolle der Evaluator\*innen** unterschieden wer
 <table class="table table-bordered">
 <tr><td></td><th>Selbst</th><th>Fremd</th></tr>
 <tr><th>Intern</th><td>Evaluator*in an Maßnahme beteiligt</td><td>Evaluator*in aus selber Organisation, aber nicht an Maßnahme beteiligt </td></tr>
-<tr><th>Fremd</th><td style="text-align:center">✘</td><td>Unabhängige Dritte (Experten)</td></tr>
+<tr><th>Extern</th><td style="text-align:center">✘</td><td>Unabhängige Dritte (Experten)</td></tr>
 </table>
 
 An einer Evaluation sind viele Personen in **unterschiedlichen Rollen** beteiligt:
@@ -246,6 +246,7 @@ Nur Evaluationen mit **ausreichender Qualitätssicherung** können sinnvolle und
 
 # Kontrollfragen
 
+1. Wie ist Evaluationsforschung definiert? Welche Eigenschaften zeichnen professionelle Evaluationen aus?
 1. Wie grenzt sich Evaluation von _Monitoring_ und _Qualitätssicherung_ ab? Wie ist _Bildungsmonitoring_ unter diesem Aspekt zu verorten?
 1. Welche Ziele können Evaluationen verfolgen?
 1. Welche Funktionen können Evaluationen haben?
