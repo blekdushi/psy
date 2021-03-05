@@ -74,7 +74,7 @@ Für die damalige Zeit waren solche Quantifizierungen und experimentelle Untersu
 
 Die Messmethoden waren **nicht besonders exakt**.
 
-Da die Vpn waren bei Fechners Vorgehen selbst berichten mussten, enthielt das Vorgehen subjektive Elemente und die Gefahr des **response bias** war gegeben.
+Da die Vpn bei Fechners Vorgehen selbst berichten mussten, enthielt das Vorgehen subjektive Elemente und die Gefahr des **Response Bias** war gegeben.
 
 Seine Annahmen und Formeln kamen durch **Spekulation** zustande und wurden dann empirisch überprüft.
 
@@ -90,7 +90,7 @@ Seine innere Psychophysik war Vorläufer der modernen Biopsychologie.
 
 Wahrnehmungsvorgänge bei der Objekterkennung unterscheidet man als:
 * **Bottom-Up** - Reize werden wahrgenommen und das Gehirn verarbeitet und integriert die Reize. Frühere Erfahrungen nehmen keinen Einfluss bzw. es gibt keine früheren Erfahrungen zu diesen Reizen, auf die das Gehirn zurückgreifen könnte.
-* **Top-Down** - Wissen um die Situation (Ort, Zeit, Kontext) lassen Erwartungen entstehen, als Gerüst in das die wahrgenommenen Reize (oft richtig, manchmal auch irrtümlich) eingeordnet werden. Unvollständige Reizinformationen werden durch heuristisch ergänzt.
+* **Top-Down** - Wissen um die Situation (Ort, Zeit, Kontext) lassen Erwartungen entstehen, als Gerüst in das die wahrgenommenen Reize (oft richtig, manchmal auch irrtümlich) eingeordnet werden. Unvollständige Reizinformationen ergänzt das Gehirn heuristisch.
 
 Biederman (1987) stellte die Theorie auf, dass 36 einfache geometrische Figuren (**Geons**) ausreichen um bekannte Objekte wiedererkennbar darstellen zu können. Er zeichnete Objekte mit diesen Geons nach (z.B. Koffer, Telefon...) und verdeckte dann unterschiedliche Bereiche der Zeichnung. In manchen Fällen verdeckte er Bereiche, die notwendig waren ein Geon eindeutig identifizieren zu können, in anderen Fällen weniger wesentliche Bereiche der Zeichnung. Er testete somit systematisch, ob die Vpn das Objekt noch immer erkennen können. Sobald ein Geon nicht mehr eindeutig identifizierbar ist, ist auch das Objekt nicht mehr als solches erkennbar.
 

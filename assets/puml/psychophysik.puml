@@ -1,0 +1,21 @@
+@startuml
+skinparam classbackgroundcolor white
+skinparam classbordercolor black
+skinparam arrowcolor black
+skinparam notebackgroundcolor lightgrey
+skinparam notebordercolor grey
+hide circle
+hide empty members
+class "Empfindungen" as e
+class "physikalische Reize" as pr
+class "Zustände des\nneuronalen Systems" as z
+e <--> pr
+e <--> z
+pr <-> z
+note "äußere Psychophysik" as n1
+note "innere Psychophysik" as n2
+note "Neurophysiologie" as n3
+n1 .. (e, pr)
+(e, z) .. n2
+n3 .. (pr, z)
+@enduml
