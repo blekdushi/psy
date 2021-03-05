@@ -46,13 +46,23 @@ Seine Verdienste für die Psychologie:
 * **institutionell** - weil er maßgeblich dazu beigetragen hat, dass die Psychologie sich als eigene Wissenschaft emanzipiert
 * **programmatisch** - weil er mit seiner Psychophysik und seinen Beiträgen zur psychologischen Ästhetik inhalticher Wegbereiter war. Er zeigte auch das _Introspektionsproblem_ auf.
 
+# Ästhetik
+
+Fechner kann man auch als Pionier bei der _psychologischen Feldforschung_ sehen: Er stellte ein Eintragungsbuch für die Besucher eines Museums auf, in dem er sie aufforderte ihre Gedanken, Empfindungen und Meinungen zu den zwei ausgestellten Bildern der Holbein'schen Madonna nieder zu schreiben. Die Rücklaufquote sehr bescheiden.
+
+Fechner war der Meinung Ästhetik beruhe auf:
+* objektiven Faktoren (Farbe, Proportionen, Helligkeit...)
+* assoziativen Faktoren (Bildinhalt & -bedeutung)
+
+Er erkannte auch schon das ästhetische Prinzip der _Einheitlichkeit im Mannigfaltigen (Unity in Variety)_, also mehrere unterschiedliche Elemente in ein organisches Ganzes zu überführen.
+
 # Psychophysik
 
 **Psychophysik** bedeutet übertragen die Erforschung von Zusammenhängen zwischen Körper und Psyche. Fechner unterscheidet:
 * _innere_ Psychophysik - Zusammenhänge innerhalb des Körpers (heute Neurowissenschaften)
 * _äußere_ (klassische) Psychophysik - Zusammenhänge der Psyche mit der Außenwelt des Körpers: den Reizen, ihren Eigenschaften und ihre entsprechenden Empfindungen.
 
-TODO: Dreieck Grafik
+![Innere und äußere Psychophysik]({{ "/assets/img/psychophysik.svg" | relative_url }})
 
 Fechner untersuchte Wahrnehmungsschwellen. Er untersuchte die **Unterschiedsschwelle** bei Temperaturempfindungen und bestimmte die objektiv gemessenen Reizintensitäten. Er stellte fest, dass es sich dabei um eine Konstante handelt (z.B. 4% Unterschied bei Wassertemperatur - siehe auch [Weber'sche Gesetz](https://de.wikipedia.org/wiki/Weber-Fechner-Gesetz#Webersches_Gesetz)). Der Punkt an dem zwei Reize in 50% der Fälle voneinander unterschieden werden, wird **just noticable difference** genannt. Ähnliches gilt für die **Absolutschwelle**: jene Reizintensität, mit der man einen Reiz gerade noch bzw. gerade erst wahrnehmen kann.
 
