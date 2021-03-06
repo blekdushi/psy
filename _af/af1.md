@@ -30,7 +30,7 @@ Bildung entfaltet seine Wirkung zunächst im Individuum und seinem sozialen Umfe
   * Kulturelle Teilhabe
   * ...
 
-Da das Individuum Teil einer Gesellschaft ist, wirkt sich seine Bildung auch auf diese volkswirtschaftlich aus. Aus **ökonomischer Perspektive** bewertet man Bildung daher als Investition und somit welche Rendite sie erwarten lässt. Auch zahlreiche Zitate bekannter Politiker und Forscher legen nahe, dass es volkswirtschaftlich kaum bessere Investitionen als Bildung gäbe. Wößmann (2009) weist auf das entgangene Bruttoinlandsprodukt hin, weil Kinder mit unzureichender Bildung nicht genügend gefördert werden. Politisch schwer umsetzbar, weil sich die "Rendite" der Investition erst Jahrzehnte später zeigt.
+Da das Individuum Teil einer Gesellschaft ist, wirkt sich seine Bildung auf diese volkswirtschaftlich aus. Aus **ökonomischer Perspektive** bewertet man Bildung daher als Investition und somit welche Rendite sie erwarten lässt. Auch zahlreiche Zitate bekannter Politiker und Forscher legen nahe, dass es volkswirtschaftlich kaum bessere Investitionen als Bildung gäbe. Wößmann (2009) weist auf das entgangene Bruttoinlandsprodukt hin, weil Kinder mit unzureichender Bildung nicht genügend gefördert werden. Politisch schwer umsetzbar, weil sich die "Rendite" der Investition erst Jahrzehnte später zeigt.
 
 Eine **Definition** von **Bildung** kann auf _formaler_ und _inhaltlicher_ Ebene erfolgen. Auf **formaler Ebene** unterscheidet man:
   * _Produkt_ - überdauernde Ausprägungen der Persönlichkeit
@@ -53,7 +53,7 @@ Hentig (2001) hatte einen abstrakteren und somit auch schwer operationalisierbar
 * Bewusstsein der Geschichtlichkeit der eigenen Existenz
 * Wachheit für "letzte Fragen" (z.B. Sinn des Lebens...)
 
-Baumert (2000, 2002) hat schulische Bildung modernen Gesellschaften analysiert und dabei drei **allgemeine Grundmuster (Universalien)** als Inhaltsbereiche identifiziert:
+Baumert (2000, 2002) hat schulische Bildung moderner Gesellschaften analysiert und dabei drei **allgemeine Grundmuster (Universalien)** als Inhaltsbereiche identifiziert:
 * Vermittlung der kulturellen Basiskompetenzen (Sprache, Mathematik, Selbstregulation des Wissenserwerbs)
 * Vermittlung eines breiten, organisierten und erprobten Orientierungswissens in zentralen kulturellen Wissensbereichen
 * Aufbau sozial-kognitiver und sozialer Kompetenzen
