@@ -16,7 +16,7 @@ Der Mensch entwickelt sich über die gesamte Lebensspanne, aber bei Kindern ist 
 * *Körperliche Entwicklung* - Größe, Gewicht...
 * *Motorikentwicklung* - z.B. greifen, sitzen, krabbeln, aufstehen, gehen...
 * *Gehirnentwicklung* - schwierig zu beobachten
-* *Denkentwicklung* - für Psychologen besonders interessant. Schwierig zu beobachten, vor allem bei Kindern im vorsprachlichem Alter.
+* *Denkentwicklung* - für Psychologen besonders interessant. Schwierig zu beobachten, vor allem bei Kindern im vorsprachlichen Alter.
 
 Die **Motive** um die Entwicklung in der Kindheit zu untersuchen sind:
 * Einschätzen was _normal_ ist und wo Interventionen sinnvoll wären, als Hilfestellung für Eltern und pädagogisch Tätige
@@ -46,7 +46,7 @@ Dabei kann man folgende **Perspektiven** einnehmen:
 
 **Differentielle** Entwicklungspsychologie beschäftigt sich mit Unterschieden in der individuellen Entwicklung und ihren Ursachen (Warum entwickeln manche Kinder eine Sprachentwicklungsstörung und manche nicht?).
 
-**Entwicklung** und Veränderung kann qualitativ und quantitativ sein. Bei **qualitativen** Veränderungen ändert sich eine Eigenschaft/eine Fähigkeit grundlegende in ihrer Art und Weise (z.B. vom Greifreflex zum gezielten Greifen, Gedächtnisstrategien...). Die Entwicklung verläuft meist _diskontinuierlich_ und stufenförmig (z.B. von der Raupe zum Schmetterling). Bei **quantitativen** Veränderungen ändert sich das Ausmaß/die Ausprägung einer Eigenschaft _kontinuierlich_ (aber nicht unbedingt stetig), ohne dass die Eigenschaft selbst sich verändert (z.B. Körpergröße, Wortschatz, Gedächtnisspanne...).
+**Entwicklung** und Veränderung kann qualitativ und quantitativ sein. Bei **qualitativen** Veränderungen ändert sich eine Eigenschaft/eine Fähigkeit grundlegend in ihrer Art und Weise (z.B. vom Greifreflex zum gezielten Greifen, Gedächtnisstrategien...). Die Entwicklung verläuft meist _diskontinuierlich_ und stufenförmig (z.B. von der Raupe zum Schmetterling). Bei **quantitativen** Veränderungen ändert sich das Ausmaß/die Ausprägung einer Eigenschaft _kontinuierlich_ (aber nicht unbedingt stetig), ohne dass die Eigenschaft selbst sich verändert (z.B. Körpergröße, Wortschatz, Gedächtnisspanne...).
 
 
 Die **biologischen Entwicklung** ist eine Kombination von:
@@ -59,17 +59,17 @@ Die **psychische Entwicklung** umfasst _nachhaltige_ Veränderungen im Verhalten
 
 # Komponenten von Entwicklung
 
-Das **Wachstum** ist eine quantitative Entwicklung. Es ist eindimensionaler Prozess und ist sowohl genetisch bedingt als auch von der Umwelt (z.B. Ernährung) abhängig
+Das **Wachstum** ist eine quantitative Entwicklung. Es ist ein eindimensionaler Prozess und sowohl genetisch bedingt als auch von der Umwelt (z.B. Ernährung) abhängig.
 
-<blockquote>In der Entwicklungspsychologie bezeichnet man als **Reifung** Veränderungen in Funktionen und Strukturen innerhalb von Individuen, die universell beobachtbar sind und nicht auf Erfahrung, Übung oder Lernen zurückgeführt werden können. (Kray, 2016, S.17)</blockquote>
+<blockquote>In der Entwicklungspsychologie bezeichnet man als <b>Reifung</b> Veränderungen in Funktionen und Strukturen innerhalb von Individuen, die universell beobachtbar sind und nicht auf Erfahrung, Übung oder Lernen zurückgeführt werden können. (Kray, 2016, S.17)</blockquote>
 
 Reifung ist an das Alter gebunden, genetisch bedingt und nicht umkehrbar.
 
-Beim **Lernen** entwickeln sich Wissen und Kompetenzen, die nicht an ein Alter/Lebensabschnitt gebunden sind (auch wenn viele davon typischerweise in einem gewissen Lebensabschnitt erlernt werden). Dazu zählen auch vorübergehende Veränderungen. Lernen ist von der Umwelt abhängig.
+Beim **Lernen** entwickeln sich Wissen und Kompetenzen, die nicht an ein Alter oder einen Lebensabschnitt gebunden sind (auch wenn viele davon typischerweise in einem gewissen Lebensabschnitt erlernt werden). Dazu zählen auch vorübergehende Veränderungen. Lernen ist von der Umwelt abhängig.
 
-Entwicklung ist auch von der **Sozialisation**, von kulturspezifischen Gegebenheiten (Entwicklungszielen, Erziehungsmethoden, Umweltfaktoren...) abhängig. Deshalb ist die Bezeichnung "universell" im Bezug auf die Beschreibungen von Entwicklungsprozessen häufig problematisch, sondern kulturbezogen. Beispiel sind balinesische Kinder, die zuerst geozentrische, statt egozentrische Raumbegriffe lernen.
+Entwicklung ist auch von der **Sozialisation**, von kulturspezifischen Gegebenheiten (Entwicklungszielen, Erziehungsmethoden, Umweltfaktoren...) abhängig. Deshalb ist die Bezeichnung "universell" im Bezug auf die Beschreibungen von Entwicklungsprozessen häufig problematisch, weil kulturbezogen. Beispiel sind balinesische Kinder, die zuerst geozentrische, statt egozentrische Raumbegriffe lernen.
 
-**Sensible Phasen/Perioden** sind biologisch determinierte Phasen im Leben, in denen spezifische Erfahrungen maximale Wirkungen haben, sowohl positiv (Chancen) als auch negativ (Risiken). Beispiel von Säuglingen, die mit Linsentrübung geboren wurden: Das erste Lebensjahr ist für das visuelle System eine sensible Phase. Wird die Linsentrübung erst später operiert können diese Kinder die visuellen Entwicklungen "normaler" Kinder kaum aufholen.
+**Sensible Phasen/Perioden** sind biologisch determinierte Phasen im Leben, in denen spezifische Erfahrungen maximale Wirkungen haben, sowohl positiv (Chancen) als auch negativ (Risiken). Beispiel von Säuglingen, die mit Linsentrübung geboren wurden: Das erste Lebensjahr ist für das visuelle System eine sensible Phase. Wird die Linsentrübung erst später operiert, können diese Kinder die visuellen Entwicklungen "normaler" Kinder kaum aufholen.
 
 # Modernes Verständnis von Entwicklung
 
@@ -79,18 +79,18 @@ Entwicklungsschritte bedeuten idR. **Gewinn und Verlust**. Zum Beispiel verliere
 
 Entwicklung ist ein **systemisches Geschehen** in dem Sinne, dass ein Mensch in unterschiedlichen Systemen lebt und agiert und diese Systeme sich gegenseitig beeinflussen. Ein bekannter Ansatz dazu ist <a id="ecological_systems_theory"></a> _Bronfenbrenner's Ecological Systems Theory_ (Guy-Evans, 2020):
 * _Mikrosystem_ - direkte Bezugspunkte (Familie, Schule...)
-* _Mesosystem_ - Ebene auf der die Mikrosystem einander beeinflussen (z.B. Elternsprechtag)
+* _Mesosystem_ - Ebene auf der die Mikrosysteme einander beeinflussen (z.B. Elternsprechtag)
 * _Exosystem_ - Systeme, in die das Kind nicht eingebettet ist, die aber Auswirkungen auf seine Mikrosysteme haben (Arbeitsplatz der Eltern, Schuldirektion, Gesundheitswesen...)
 * _Makrosystem_ - sozioökonomischer Status, Ideologien, Kultur...
 * _Chronosystem_ - Ereignisse, die die Umwelt verändern und die Entwicklung beeinflussen (Schuleintritt, Scheidung der Eltern...)
 
 Der **Kontextualismus** (laut Paul B. Baltes) sieht Entwicklungsverläufe beeinflusst durch:
 
-| Art der Veränderung | Komponente                | Einfluss Jung | Einfluss Erw. | Einfluss Alt |
-| ------------------- | ------------------------- | ------------- | ------------- | ------------ |
-| Altersbedingt       | Organismus                | hoch          | wenig         | zunehmend    |
-| Geschichtlich       | Generation                | wenig         | hoch          | wenig        |
-| Nicht-normativ      | Individuelle Erfahrungen | niedrig       | mittel        | noch         |
+| Art der Veränderung | Komponente               | Einfluss Jung | Einfluss Erw. | Einfluss Alt |
+| ------------------- | ------------------------ | ------------- | ------------- | ------------ |
+| Altersbedingt       | Organismus               | hoch          | wenig         | zunehmend    |
+| Geschichtlich       | Generation               | wenig         | hoch          | wenig        |
+| Nicht-normativ      | Individuelle Erfahrungen | niedrig       | mittel        | hoch         |
 
 Verwandt zu obigem, aber mit anderem Fokus beschreiben Pinel und Pauli (2012) das beobachtete Verhalten einer Person als Ergebnis eines **transaktionalen Prozess**. Dabei stehen drei Faktoren im Mittelpunkt:
 * Gene
@@ -117,6 +117,24 @@ Bei der **reaktiven** Genotyp-Umwelt Passung reagieren z.B. die Eltern auf die e
 Bei der **aktiven** Genotyp-Umwelt-Anpassung fördert/lebt das Kind bewusst seine Veranlagung, z.B. hört es gezielt Musik, musiziert aus eigenem Antrieb...
 
 Beispiel: Schüchterne Eltern suchen weniger soziale Interaktionen, wodurch auch ihre Kinder weniger soziale Interaktionen haben (passiv). Wenn ihre Kinder ebenfalls schüchtern veranlagt ist, dann werden sie weniger soziale Erfahrungen suchen und machen (aktiv) und auch die Mitmenschen werden ihr Verhalten an die Schüchternheit anpassen und auf Distanz gehen (reaktiv).
+
+# Kontrollfragen
+
+* Welche Eigenschaften/Merkmale entwickeln sich bei einem Menschen?
+* Wie sind _Entwicklung_ und _Entwicklungspsychologie_ definiert?
+* Warum untersucht man Entwicklung? Was sind Motive und Nutzen?
+* Was ist die zentrale Frage der Entwicklungspsychologie und was bedeuten die einzelnen W-Wörter?
+* Aus welchen Perspektiven kann man Entwicklung betrachten?
+* Was bedeuten Phylogenese und Ontogenese?
+* Welche Komponenten der Entwicklung nimmt man in der Entwicklungspsychologie an?
+* Welchen Einfluss hat die Sozialisation darauf, wie man Entwicklung versteht?
+* Was sind sensible Phasen? Nenne ein Beispiel aus der Forschung!
+* Welche Annahmen zeichnen ein modernes Verständnis von Entwicklung aus?
+* Was hat Bronfenbrenner zum modernen Verständnis von Entwicklung beigetragen?
+* Wodurch sieht Paul B. Baltes Entwicklungsverläufe beeinflusst und wie nennt man diesen Ansatz?
+* Was meinen Pinel und Pauli damit, dass Entwicklung ein transaktionaler Prozess sei?
+* Was versteht man unter probabilistischer Epigenese?
+* Auf welche drei Arten erfolgt die Anpassung von Anlage und Umwelt?
 
 # Literatur
 
