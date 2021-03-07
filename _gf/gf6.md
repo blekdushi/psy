@@ -76,4 +76,19 @@ Der von Behvioristen abgelehnte Gedanke, dass auch kognitive Prozesse eine Rolle
 
 [Albert Bandura](https://en.wikipedia.org/wiki/Albert_Bandura) stellte fest, dass man auch durch Beobachtung (**[Social Learning](https://en.wikipedia.org/wiki/Social_learning_theory)**) lernen kann. Ein Befund, den man mit Skinners Theorien zur Konditionierung nicht erklären konnte.
 
+# Kontrollfragen
+
+* Gib einen Überblick über die Entstehung des Behaviorismus!
+* Wie war das Forschungsvorgehen der Behavioristen. Was waren Stärken und was die Schwächen?
+* Welches Menschenbild liegt dem Behaviorismus zugrunde?
+* Was ist klassische Konditionierung? Welches ethisch fragwürdige Experiment ist dazu bekannt? Von wem wurde es durchgeführt?
+* Erkläre _Reizdiskriminierung_, _Generalisierung_ und _Extinktion_!
+* Was bedeutet _Spontanerholung_?
+* Wer legte womit den Grundstein für Skinners operante Konditionierung?
+* Was verstand Skinner unter _Dreifachkontingenz_?
+* Welche Phänomene konnte man mit behavioristischen Theorien nicht erklären?
+* Was sind Verstärkerpläne? Welche gibt es? Welches Prinzip ist essentiell für bei der Darbietung von Reizen und Verstärkern?
+* Wie unterscheidet sich Bestrafung 1. Art von jener 2. Art? Was ist ausschlaggebend dafür, ob etwas eine Bestrafung ist?
+* Wer kritisierte die Annehme der Behavioristen, dass man durch Trial&Error lerne? Was war sein Argument?
+
 # Literatur
