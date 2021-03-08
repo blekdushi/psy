@@ -86,9 +86,9 @@ Der von Behvioristen abgelehnte Gedanke, dass auch kognitive Prozesse eine Rolle
 * Was bedeutet _Spontanerholung_?
 * Wer legte womit den Grundstein für Skinners operante Konditionierung?
 * Was verstand Skinner unter _Dreifachkontingenz_?
-* Welche Phänomene konnte man mit behavioristischen Theorien nicht erklären?
 * Was sind Verstärkerpläne? Welche gibt es? Welches Prinzip ist essentiell für bei der Darbietung von Reizen und Verstärkern?
 * Wie unterscheidet sich Bestrafung 1. Art von jener 2. Art? Was ist ausschlaggebend dafür, ob etwas eine Bestrafung ist?
 * Wer kritisierte die Annehme der Behavioristen, dass man durch Trial&Error lerne? Was war sein Argument?
+* Welche Phänomene konnte man mit behavioristischen Theorien nicht erklären?
 
 # Literatur

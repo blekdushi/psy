@@ -70,7 +70,7 @@ Er teilte Menschen in _extrovertierte_ (Libido auf äußere Welt gerichtet) und 
 
 Tatsächlich legen Studien nahe, dass ein Zusammenhang zwischen Persönlichkeit und Geburtenreihenfolge besteht (wenn auch nicht ganz so wie oben von Adler beschrieben).
 
-**Erik Erikson** sah die Persönlichkeitsentwicklung als lebenslangen Prozess und nicht vollständig in der frühen Kindheit verankert. Für ihn sind Veränderung von sozialen Beziehungen ausschlaggebender als Verschiebungen von erogenen Zonen. Er beschreibt acht Phasen der Entwicklung, die alle eine _Ich-Krise_ auslösen und deren Überwindung zu einem optimalen Persönlichkeitswachstum beiträgt. Ungelöste Konflikte können in spätere Phasen mitgenommen werden:
+**Erik Erikson** sah die Persönlichkeitsentwicklung als lebenslangen Prozess und nicht vollständig in der frühen Kindheit verankert. Für ihn sind Veränderung von sozialen Beziehungen ausschlaggebender als Verschiebungen von erogenen Zonen. Er beschreibt acht Phasen der Entwicklung, die alle eine _Ich-Krise_ auslösen und deren Überwindung zu einem optimalen Persönlichkeitswachstum beiträgt. Wie Konflikte gelöst werden beeinflusst alle darauf folgenden Phasen. Ungelöste Konflikte können in spätere Phasen mitgenommen werden. Der Sozialraum in dem Entwicklung stattfindet, erweitert sich in jeder Phase:
 * 0-1: Primärbedürfnisse befriedigen → Urvertrauen vs. Urmisstrauen (Hoffnung vs. Rückzug)
 * 2-3: Kontrolle über Körper → Autonomie vs. Scham/Zweifel (Wille vs. Zwang)
 * 4-5: Handlungen planen und mit anderen Auskommen → Initiative vs. Schuldgefühle (Zielstrebigkeit vs. Hemmung)
