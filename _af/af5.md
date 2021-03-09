@@ -52,3 +52,8 @@ Bei psychologischen Erklärungsansätzen haben sich unterschiedliche Modelle/Str
 * Behavioral
 * Kognitiv - humanistisch
 * Soziokulturell
+
+
+Warum wurde das römische Nummerieren zugunsten arabischer Ziffern für DSM aufgegeben?
+
+<blockquote>This change reflects APA’s intention to make future revision processes more responsive to breakthroughs in research with incremental updates until a new edition is required. Since the research base of mental disorders is evolving at different rates for different disorders, diagnostic guidelines will not be tied to a static publication date but rather to scientific advances. These incremental updates will be identified with decimals, i.e. DSM–5.1, DSM–5.2, etc., until a new edition is required. Quelle: [APA](https://www.psychiatry.org/psychiatrists/practice/dsm/feedback-and-questions/frequently-asked-questions)</blockquote>

@@ -84,7 +84,7 @@ Nachteile sind:
 
 Beispiel einer Studie von Lloyd-Fox et al. (2011), die 5-Monate alten Babys unterschiedliche Bewegungen gezeigt haben (z.B. Augen-, Hand-, Mundbewegungen). Es hat sich gezeigt, dass je nach Art der Bewegung unterschiedliche Hirnareale für die Verarbeitung des Reizes aktiv sind.
 
-In einer anderen Studie von Nguyen et al. (2020) hat man 5-jährige Kinder und ihre Mütter sowohl zusammen als auch getrennt Puzzles lösen lassen. Dabei hat man mittels fNIRS ihre Gehirnaktivität gemessen. Beim gemeinsamen Lösen haben sich die Gehirnaktivitäten bei manchen Paaren synchronisiert. Diese Paare konnten auch mehr Puzzles lösen.
+In einer anderen Studie von Nguyen et al. (2020) hat man 5-jährige Kinder und ihre Mütter sowohl zusammen als auch getrennt Puzzles lösen lassen. Dabei hat man mittels fNIRS ihre Gehirnaktivität gemessen. Beim gemeinsamen Lösen haben sich die Gehirnaktivitäten bei manchen Paaren synchronisiert. Diese Paare konnten auch mehr Puzzles lösen als die Kontrollbedingungen (getrenntes Spielen, Ruhephase - kein Spielen).
 
 # funktionelle Magnetresonanztomographie
 
