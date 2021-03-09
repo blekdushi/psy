@@ -57,7 +57,7 @@ Die **Nützlichkeit** eines Tests ist dann gegeben, wenn er ein Merkmal misst, f
 
 **Zumutbarkeit** ist gegeben, wenn die Testpersonen nicht über- oder unterfordert werden. Das Maß kann je Testperson variieren. Tests können zeitaufwändig, ermüdend und anstrengend sein sowie Unbehagen auslösen (z.B. indiskrete Fragen).
 
-**Unverfälschbarkeit** ist theoretisch gegeben, wenn die Testperson das Ergebnis nicht manipulieren kann. Personen möchten sich manchmal besser (z.B. Jobinterview) und manchmal schlechter (z.B. Frühpension) darstellen, als sie es wirklich sind. Praktisch  Das kann bewusst oder unbewusst geschehen. Bei Leistungstests kann man sich in der Regel nicht besser darstellen als man ist, sondern nur schlechter.
+**Unverfälschbarkeit** ist theoretisch gegeben, wenn die Testperson das Ergebnis nicht manipulieren kann. Personen möchten sich manchmal besser (z.B. Jobinterview) und manchmal schlechter (z.B. Frühpension) darstellen, als sie es wirklich sind. Das kann bewusst oder unbewusst geschehen. Bei Leistungstests kann man sich in der Regel nicht besser darstellen als man ist, sondern nur schlechter.
 
 # Leistungstest
 
@@ -69,7 +69,7 @@ Es gibt **spezifische** Leistungstests um eine oder wenige kognitive Fähigkeite
 
 Auch bei Persönlichkeitstests unterscheidet man **spezifische** und **ganzheitliche**. In der Regel sind das Fragebögen (Selbstbericht), die faktorenanalytisch und/oder theoretisch begründet sind, aber auch projektive Verfahren (z.B. freie Assoziation, Rohrschach-Test...) sind Persönlichkeitstests, wobei diese Art von Tests viele der oben beschriebenen Gütekriterien nicht erfüllen.
 
-Eine besondere Herausforderung ist die Unverfälschbarkeit solcher Tests. Bei Leistungstests kann man zwar bewusst schlechtere Ergebnisse erzielen, aber man kann sich nicht besser machen, als man ist. Bei Persönlichkeitstests ist das komplizierter und sozial erwünschte Antworten, ob unbewusst oder bewusst, können schwer verhindert werden. Ein Ansatz ist den Test so gestalten, dass sich der Testperson nicht erschließt _was_ und _wie_ ein Item messen soll: zum Beispiel Rückschlüsse die Reaktionszeit beim Größenvergleich von geometrischen Figuren um auf Gewissenhaftigkeit zu schließen. Doch dann ist nicht mehr ganz eindeutig, ob man auch wirklich misst, wass man messen möchte und gefährdet somit die Validität.
+Eine besondere Herausforderung ist die Unverfälschbarkeit solcher Tests. Bei Leistungstests kann man zwar bewusst schlechtere Ergebnisse erzielen, aber man kann sich nicht besser machen, als man ist. Bei Persönlichkeitstests ist das komplizierter und sozial erwünschte Antworten, ob unbewusst oder bewusst, können schwer verhindert werden. Ein Ansatz ist den Test so zu gestalten, dass sich der Testperson nicht erschließt _was_ und _wie_ ein Item messen soll: zum Beispiel Rückschlüsse von der Reaktionszeit beim Größenvergleich von geometrischen Figuren um auf Gewissenhaftigkeit zu schließen. Doch dann ist nicht mehr ganz eindeutig, ob man auch wirklich misst, was man messen möchte und gefährdet somit die Validität.
 
 # Weitere Erhebungstechniken
 
