@@ -139,10 +139,52 @@ Die **Relevanz von SRL** zeigt sich in:
 
 Selbstreguliertes Lernen stärker und breiter im Bildungssystem zu verankern ist zum Beispiel ein Gegenstand der Bildungspsychologie.
 
-Modelle gibt es viele. Sie haben Gemeinsamkeiten: Sie haben Unterschiede
+Es gibt viele Modelle, die SRL beschreiben. Manche sind so spezifisch und komplex, dass sie sich in ihrer Gesamtheit nicht überprüfen lassen, anderen wiederum so allgemein, dass sich kaum konkrete Aussagen ableiten lassen können (Götz & Nett, 2017, S.160). Grob lassen sie sich in **hierarchische** und **prozessorientierte** unterscheiden. Je eines soll im Folgenden beispielhaft vorgestellt werden.
 
-TODO: Drei Schichten Hierarchisches Modell (Boekaerts)
-TODO: Prozessmodell (Schmitz)
+Das **Dreischichten Modell** von Boekaerts (1999) ist ein _hierarchisches_ Modell, das die Regulation des Verarbeitungsmodus (Wahl kognitiver Strategien) in den Fokus stellt. Darüber stülpt sich die Regulation des Lernprozesses (meta-kognitiv). Und außen herum die Regulation des Selbst (Ressourcen, Ziele und Motivation).
+
+Das **Prozessmodell** von Schmitz (2001) ist wie der Name schon sagt nicht hierarchisch, sondern _prozessorientiert_. Es unterscheidet drei Phasen:
+* _präaktionale Phase_ - Aufgabe und Situation bedingen Emotionen, Ziele und Motivation und diese den geplanten Strategieeinsatz.
+* _aktionale Phase_ - Zeit und Volition der Lernstrategien begleitet von Monitoring und der daraus resultierenden (Lern-)Leistung.
+* _postaktionale_ Phase - Reflexion, Vergleich und Bewertung führen zu Emotionen, Ziel- & Strategiemodifikationen.
+
+Das **Messen und Erfassen von SRL** ist eine große Herausforderung. Wie obige Beschreibungen bereits nahe legen, handelt es sich dabei um ein komplexes Konstrukt aus vielen ebenso komplexen Teilkonstrukten (Motivation, Emotion, Metakognition...). Deshalb messen wissenschaftliche Zugänge meistens Teilaspekte von SRL,  optimalerweise mit Bezug auf ein Modell (siehe oben). Für die Praxis z.B. als Lehrkraft kann es auch hilfreich und ausreichend sein die Aspekte von SRL bei Schüler*innen heuristisch zu schätzen.
+
+Die **Personengruppe**, bei der man SRL Aspekte messen möchte, macht einen großen Unterschied für die Fragestellungen (z.B. Schüler*innen vs. Studierende).
+
+Der **Zeitpunkt** ist ebenso relevant:
+* _Prospective Assessment_
+* _Concurrent Assessment_
+* _Retrospective Assessment_
+* _Stimulated Recall_
+
+Als **Methoden** kommen zum Einsatz:
+* Interview
+* Fragebogen
+* Lautes Denken
+* Lerntagebuch
+* Experience-Sampling (z.B. App, die ab und zu piepst und nachfragt)
+* Verhaltensbeobachtung
+* Dokumenten-Analyse (z.B. Hausaufgeben...)
+* Analyse von Log-Files (am Computer)
+* Multi-methodal (Kombination mehrere Methoden)
+
+Lerntagebücher und Experience-Sampling können auch als Intervention gesehen werden, weil sie die Reflexion über das Lerngeschehen anregen.  
+
+Zusammenfassend kann man sagen, dass das Erfassen von SRL aufgrund seiner Konstruktkomplexität, den Zeitpunkten, Zielgruppen und Methoden der Messung facettenreich ist. Das könnte erklären, warum wissenschaftliche Befunde zu SRL sehr verschieden ausfallen können.
+
+Mehrere **Meta-Analysen** haben gezeigt, dass SRL einen positiven Effekt auf Leistung, Strategieeinsatz, Motivation (und andere mehr) hat. Im Konkreten unterscheiden sich Studien aber anhand der Teilkonstrukte, die sie betrachten bzw. intervenieren und die Aspekte, bei denen sie mögliche Auswirkungen beobachten wollen.
+
+In welchem Umfang und in welcher Intensität SRL eingesetzt werden kann, ist auch vom **Entwicklungsverlauf** der Lernenden abhängig. Besonders bei meta-kognitive Komponenten von SRL stellt sich die Frage, ab welchem Alter Kinder dazu fähig sind. Studien zeigen, dass sich manche meta-kognitive Fähigkeiten sich schon sehr früh (ab 6 Jahren) entwickeln. Das Verknüpfen von Monitoring mit der Regulation des Lernprozesses und der Lernzeit an die Schwierigkeit des Stoffs entwickeln sich erst etwas später.
+
+Bei all den positiven Aspekten von SRL liegt es nahe, dass man es stärker im Schulsystem und Unterricht verankern sollte. Dafür ist es sinnvoll sich aus den vielen Definitionen und Modellen eines auszuwählen, das man dann den Schüler*innen vermittelt. Man vermittelt dann sowohl theoretische Inhalte (z.B. Was ist Monitoring des Lernens?), als auch praktische Kompetenzen (Lernstrategien, Zeitplanung). Dieser Prozess soll sich bereits der Vorteile des SRL bedienen. Wenn die Lehrkraft enthusiastisch vorgeht, kann er positive Emotionen erzeugen. Damit auch Motivation. Die meta-kognitive Erkenntnis, wenn man mittels meta-kognitiven Fähigkeiten z.B. seine Vokabel viel effizienter lernen konnte. Dann ist man auch motivierter mehr über SRL zu lernen.
+
+Voraussetzung für obigen Prozess ist:
+* Lehrkräfte besitzen Kompetenzen im SRL
+* Ressourcen für die Wissensvermittlung im Unterricht
+* an die SRL Kompetenzen der Schüler*innen angepasste Freiheiten in der Unterrichtsgestaltung
+
+Effizienter ist das Erlernen von SRL, wenn man es fachspezifisch vermittelt und dann bewusst und explizit den Transfer auf ein anderen Schulfach fördert, was auch eine Abstimmungen zwischen den Lehrkräften erfordert.
 
 # Ausgewählte Themen der Bildungspsychologie
 
