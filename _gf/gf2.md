@@ -38,6 +38,9 @@ Die Entwicklungspsychologie behandelt die **zentrale Frage**: _Was_ entwickelt s
 Eine **Definition**:
 <blockquote>Die <b>Entwicklungspsychologie</b> beschäftigt sich mit längerfristigen Veränderungen im Verhalten und Erleben innerhalb von Individuen und versucht, Gemeinsamkeiten und Unterschiede in individuellen Entwicklungsverläufen zu verstehen. (Kray, 2019, S.1)</blockquote>
 
+Eine weitere Definition:
+<blockquote>Die Entwicklungspsychologie ist eine Wissenschaft, die zum Ziel hat, Veränderungen im menschlichen Erleben und Verhalten über die Lebensspanne zu beschreiben und zu erklären. Ihre Erkenntnisse sollen in der Praxis helfen, Entwicklungsverläufe vorherzusagen und günstig zu beeinflussen. (Vgl. Höhl & Weigelt, 2015)</blockquote>
+
 # Perspektiven
 
 Dabei kann man folgende **Perspektiven** einnehmen:
@@ -49,7 +52,7 @@ Dabei kann man folgende **Perspektiven** einnehmen:
 **Entwicklung** und Veränderung kann qualitativ und quantitativ sein. Bei **qualitativen** Veränderungen ändert sich eine Eigenschaft/eine Fähigkeit grundlegend in ihrer Art und Weise (z.B. vom Greifreflex zum gezielten Greifen, Gedächtnisstrategien...). Die Entwicklung verläuft meist _diskontinuierlich_ und stufenförmig (z.B. von der Raupe zum Schmetterling). Bei **quantitativen** Veränderungen ändert sich das Ausmaß/die Ausprägung einer Eigenschaft _kontinuierlich_ (aber nicht unbedingt stetig), ohne dass die Eigenschaft selbst sich verändert (z.B. Körpergröße, Wortschatz, Gedächtnisspanne...).
 
 
-Die **biologischen Entwicklung** ist eine Kombination von:
+Die **biologische Entwicklung** ist eine Kombination von:
 * _[Phylogenese](https://dorsch.hogrefe.com/stichwort/phylogenese)_ - Stammesentwicklung und Evolution
 * _[Ontogenese](https://dorsch.hogrefe.com/stichwort/ontogenese)_
 
@@ -121,7 +124,7 @@ Beispiel: Schüchterne Eltern suchen weniger soziale Interaktionen, wodurch auch
 # Kontrollfragen
 
 * Welche Eigenschaften/Merkmale entwickeln sich bei einem Menschen?
-* Wie sind _Entwicklung_ und _Entwicklungspsychologie_ definiert?
+* Wie sind _Psychische Entwicklung_ und _Entwicklungspsychologie_ definiert?
 * Warum untersucht man Entwicklung? Was sind Motive und Nutzen?
 * Was ist die zentrale Frage der Entwicklungspsychologie und was bedeuten die einzelnen W-Wörter?
 * Aus welchen Perspektiven kann man Entwicklung betrachten?

@@ -122,7 +122,7 @@ _Denis Mareschal_ hat mit **Statistical Learning / Machine Learning** einen mech
 | ~ 1950 | Lerntheorie     | Klassische Lerntheorie - Skinner |
 | ~ 1955 | Humanismus      | Maslow, Rogers                   |
 | ~ 1960 | Neo-Analytiker  | Erikson                          |
-| ~ 1970 | Psychodynamik   | Soziale Lerntheorie - Bandura    |
+| ~ 1970 | Lerntheorie   | Soziale Lerntheorie - Bandura    |
 | ~ 1975 | Kontexttheorien | Bronfenbrenner                   |
 | ~ 1975 | Kognitiv        | Informationsverarbeitung         |
 | ~ 1995 | Kognitiv        | Domänenspezifisch                |

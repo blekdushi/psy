@@ -33,7 +33,7 @@ Konditionierte Reize lassen sich über **Extinktion** wieder in neutrale Reize �
 # Operantes Konditionieren
 
 Ein großer Teil von Skinners Forschung beschäftigte sich mit dem operanten Konditionieren. Den Grundstein dafür legte **Edward L. Thorndike** mit seinem **Law of effect**: Er beobachtete, dass ein Katze sich aus einem Käfig zunächst durch Zufall selbst befreit. Sperrt man sie wieder ein, befreit sie sich schneller.
-Er schlussfolgert, dass man Verhalten durch _Trial and Error_ erlernt und bei angenehmen Konsequenzen öfter, bei unangenehmen dafür seltener wiederholt. Diese Theorie ist auch als **Reinforcement Theory** bekannt. Skinner ging davon aus, dass sämtliches menschliche Verhalten auf Basis dieses Mechanismus erlernt sei. Er erforschte Erlernen und die Häufigkeit von Verhalten mit Ratten und Tauben in seiner **Skinner Box**.
+Er schlussfolgert, dass man Verhalten durch _Trial and Error_ erlernt und bei angenehmen Konsequenzen öfter, bei unangenehmen dafür seltener wiederholt. Dieses Konzept der Verstärkung wurde von Skinner **Reinforcement Theory** genannt. Skinner ging davon aus, dass sämtliches menschliches Verhalten auf Basis dieses Mechanismus erlernt sei. Er erforschte Erlernen und die Häufigkeit von Verhalten mit Ratten und Tauben in seiner **Skinner Box**.
 
 [Wolfgang Köhler](https://en.wikipedia.org/wiki/Wolfgang_K%C3%B6hler) kritisierte Thorndikes Annahme, dass man durch Versuch und Irrtum lerne.
 Er machte Experimente mit Affen, die zeigten, dass die Affen Probleme mit Einsicht lösten (z.B. Kisten stapeln um zur Banane zu kommen).
@@ -66,7 +66,7 @@ Im einfachen Fall haben diese beiden Variablen (Zeitintervall und Quote) einen _
 * VR-10 : variable ratio - im Durchschnitt jedes 10. Mal
 * VI-10 : variable interval = im Durschschnitt alle 10 Sekunden einmal
 
-Die Versuche wurden zwar mit Ratten und Tauben durchgeführt, ihre Befunde konnten aber auch bei anderen Tieren und Menschen reproduziert werden. Obwohl ihre Theorien keinen Platz für Kognition, Selbstbestimmung und Emotionen ließen, verstanden Behavioristen sie als optimistisch und hofften mit ihnen den Menschen zu einem glücklicherem Leben zu befähigen.
+Die Versuche wurden zwar mit Ratten und Tauben durchgeführt, ihre Befunde konnten aber auch bei anderen Tieren und Menschen reproduziert werden. Obwohl ihre Theorien keinen Platz für Kognition, Selbstbestimmung und Emotionen ließen, verstanden Behavioristen sie als optimistisch und hofften mit ihnen den Menschen zu einem glücklicheren Leben zu befähigen.
 
 # Kognitive Wende
 

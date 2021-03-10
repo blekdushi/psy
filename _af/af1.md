@@ -125,7 +125,7 @@ Die **historische Entwicklung von SRL** fasst sich wie folgt zusammen:
 * Johann Amos Comenius betonte bereits im 17. Jhdt die Wichtigkeit selbstbestimmten Lernens
 * Die _Aufklärung_ im 18. Jhdt (z.B. Jean-Jacques Rousseau) forderte, dass Menschen grundsätzlich selbstbestimmt lernen sollen und die Fremdbestimmung durch Pädagogen lediglich aus Hilfestellung und Förderung bei der Mündigkeit der Lernenden bestehen soll.
 * Ebenso forderten _reformpädagogische Ansätze_ Ende des 19./Anfang des 20. Jhdts freies und selbstbestimmtes Lernen.
-* Bezugnehmend auf den Begriff "selbstreguliertes Lernen" (bzw. seiner englischen Übersetzung "self-regulated learning") gab es bis in die 1980er Jahre nur wenige Publikationen, die diesen Begriff verwendeten
+* Bezugnehmend auf den Begriff "selbstreguliertes Lernen" (bzw. seiner englischen Übersetzung "self-regulated learning") gab es bis in die 1980er Jahre nur wenige Publikationen, die diesen Begriff verwendeten.
 * Ab den 1990er Jahren gibt es einen erheblicher Anstieg der Publikationen dazu im pädagogisch-psychologischen Bereich. Das Interesse dafür steht im engen Kontext zur wachsenden Heterogenität an Schulen und Konzepten für individualisierten Unterricht.
 
 Die **Relevanz von SRL** zeigt sich in:
