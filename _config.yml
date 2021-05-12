@@ -34,6 +34,9 @@ collections:
   af:
     output: true
     vo_name: Anwendungsfelder
+  KogEmo1:
+    output: true
+    vo_name: KogEmo 1
 
 # Build settings
 markdown: kramdown
