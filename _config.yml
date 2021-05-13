@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Psychologie - STEOP / WS20
+title: Psychologie - Bachelor (Universität Wien)
 description: >- # this means to ignore newlines until "baseurl:"
-  Notizen zur STEOP Psychologie / WS20 / Wien
+  Notizen zu Lehrveranstaltungen des Bachelorstudiums Psychologie an der Universität Wien
 baseurl: "/psy" # the subpath of your site, e.g. /blog
 url: "http://blekdushi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blekdushi
@@ -25,18 +25,23 @@ collections:
   ewd:
     output: true
     vo_name: Wissenschaftliches Denken
+    steop: true
   pg:
     output: true
     vo_name: Paradigmengeschichte
+    steop: true
   gf:
     output: true
     vo_name: Grundlagenfächer
+    steop: true
   af:
     output: true
     vo_name: Anwendungsfelder
+    steop: true
   KogEmo1:
     output: true
     vo_name: KogEmo 1
+    steop: false
 
 # Build settings
 markdown: kramdown

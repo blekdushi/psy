@@ -5,6 +5,7 @@ published: true
 vo: Kognitions- und Emotionspsychologie 1
 full_title: Theorien der Kunstwahrnehmung
 vortragender: Leder
+semester: 2020W
 ---
 
 {% include vo_header.md %}
