@@ -56,19 +56,35 @@ Miesler et al. (2011) haben Frontalansichten von Autos am Computer manipuliert, 
 
 # Umweltpsychologie
 
+Wikipedia definiert [Umweltpsychologie](https://de.wikipedia.org/wiki/Umweltpsychologie):
+<blockquote>Die Umweltpsychologie (auch: ökologische Psychologie) ist eine relativ junge Disziplin der Psychologie mit starken interdisziplinären und Forschungs- und Anwendungscharakteristika. Sie befasst sich mit Mensch-Umwelt-Wechselwirkungen, den Einflüssen der Umwelt auf den Menschen und dem Verhalten und den Handlungen des Menschen gegenüber der Umwelt. Die Umwelt wirkt sich auf das Erleben, Verhalten und die Gesundheit des Menschen aus, und der Mensch gestaltet und beeinflusst die Umwelt in Abhängigkeit von seinem Erleben und Verhalten. </blockquote>
 
-Kaplan & Kaplan erforschten: Welche Umwelten gefallen? Natürliche Umwelten werden gegenüber gebauten präferiert. Folgende Variablen haben sie identifiziert:
+Laut Wikipedia eng damit verwandt, bzw. von Leder im Skriptum als Teilgebiet der Umweltpsychologie gesehen, ist die [Architekturpsychologie](https://de.wikipedia.org/wiki/Architekturpsychologie). Diese beschäftigt sich zum Beispiel mit der Frage, welche Rolle Komplexität beim Gefallen (z.B. von Gebäuden) spielt. Objektiv lässt sich Komplexität schwer messen. Studien mit subjektiver Einschätzung der Vpn ergaben, dass Gefallen und Komplexität sowohl lineare als auch U-förmige Zusammenhänge (siehe auch Berlyne) haben.
+
+Kaplan & Kaplan (1989) haben Vpn sowohl urbane Bilder als auch Landschaftsbilder gezeigt und bewerten lassen. Dabei wurden hauptsächlich Landschaftsbilder präferiert. Komplexität (wie oben beschrieben) spielte dabei nur innerhalb einer Bildergruppe und nicht über alle Bilder hinweg eine Rolle.
+
+Bei genauerer Betrachtung fiel auf, dass bestimmte Eigenschaften der Bilder bevorzugt wurden:
+* Bilder mit versteckten Informationen (Mystery)
+* Zusammenhang der im Bild sichtbaren Elemente (Coherence)
+* Informationsfülle (Complexity)
+* Leichtigkeit des Erkennens (Legibility)
+
+Davon leiteten die Forscher*innen zwei Dimensionen ab, auf denen sich obige Eigenschaften verorten lassen, wie unten stehende Tabelle zeigt:
+* Verstehen <-> Exploration
+* unmittelbar <-> geschlussfolgert
 
 |                                 | Verstehen  | Exploration      |
 | ------------------------------- | ---------- | ---------------- |
 | spontan & unmittelbar           | Kohärenz   | Komplexität      |
 | geschlussfolgert & vorhergesagt | Lesbarkeit (Legibility) | Rätselhaftigkeit (Mystery) |
 
-Findings im Einklang mit evolutionspsychologischen Ansätzen
+Diese Erkenntnisse sind auch im Einklang mit den oben erwähnten Gegenspielern von Vertautheit und Novelty.
+
+In weiteren Untersuchungen stellte sich heraus, dass jene Szenen präferiert wurden, an die der menschliche Organismus gut angepasst zu sein scheint. Das ist im Einklang zu evolutionspsychologischen Ansätzen. Zum Beispiel stellten Balling und Falk (1982) die Hypothese auf, dass Kinder eher die für den Menschen natürlichen Landschaften bevorzugen würden als die an urbane und zeitgenössische Landschaften gewohnten Erwachsenen. In ihren Studien zeigten Kinder z.B. Präferenzen für Savannen, angeblich jene Landschaften in denen sich Menschen ursprünglich entwickelt hatten. Einen weiteren Beleg dafür lieferten Lohr & Pearson-Mims (2006), die zeigen konnten, dass Landschaften mit Bäumen bevorzugt werden und besonders solche mit Savannenbäumen (die sich nach oben stark verbreitern).
 
 Kinder bevorzugen Savannen (Balling & Falk, 1982). Forscher nehmen an, dass die ursprünglichen Landschaften der Menschen sind. Erwachsene zeigen diesen Effekt nicht so stark (bedingt durch Erfahrung und Kultur).
 
-Studie, in welcher Vpn eckige und runde Räume einschätzen mussten. Gleichzeitig wurde mit fMRT die Gehirnaktivität gemessen. Rund wurde bevorzugt und im Gehirn wurden Areale für positive Belohnung aktiviert.
+Es gibt auch neuropsychologische Ansätze dazu. Zum Beispiel mussten die Vpn einer Studie eckige und runde Räume einschätzen. Gleichzeitig wurde mit fMRT die Gehirnaktivität gemessen. Runde Räume wurden bevorzugt und dabei waren im Gehirn Areale für Belohnung aktiviert.
 
 # Emotionen
 
