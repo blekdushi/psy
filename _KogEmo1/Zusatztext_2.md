@@ -12,7 +12,7 @@ semester: 2020W
 
 # Paper
 
-<div class="csl-entry">Brieber, D., Nadal, M., Leder, H., &amp; Rosenberg, R. (2014). Art in time and space: Context modulates the relation between art experience and viewing time. <i>PloS One</i>, <i>9</i>(6), e99019–e99019. <a href="https://doi.org/10.1371/journal.pone.0099019">https://doi.org/10.1371/journal.pone.0099019</a></div>
+<div>Brieber, D., Nadal, M., Leder, H., &amp; Rosenberg, R. (2014). Art in time and space: Context modulates the relation between art experience and viewing time. <i>PloS One</i>, <i>9</i>(6), e99019–e99019. <a href="https://doi.org/10.1371/journal.pone.0099019">https://doi.org/10.1371/journal.pone.0099019</a></div>
 
 # Ziele und Hypothesen
 
