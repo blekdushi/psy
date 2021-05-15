@@ -85,8 +85,10 @@ In weiteren Untersuchungen stellte sich heraus, dass jene Szenen präferiert wur
 Kinder bevorzugen Savannen (Balling & Falk, 1982). Forscher nehmen an, dass die ursprünglichen Landschaften der Menschen sind. Erwachsene zeigen diesen Effekt nicht so stark (bedingt durch Erfahrung und Kultur).
 
 Es gibt auch neuropsychologische Ansätze dazu. Zum Beispiel mussten die Vpn einer Studie eckige und runde Räume einschätzen. Gleichzeitig wurde mit fMRT die Gehirnaktivität gemessen. Runde Räume wurden bevorzugt und dabei waren im Gehirn Areale für Belohnung aktiviert.
-
+ 
 # Emotionen
+
+TODO: Notizen unten zu Emotion der letzten VO-Einheit konsolidieren mit den Anfangskapiteln
 
 Positiv - Annäherung
 Negativ - Vermeidung
@@ -115,4 +117,4 @@ Desmet (2000) "PrEmo" : interkulturell, non-verbale Messungen von Emotionen bei 
 
 **Emotionsinduktion**
 
-IAPS - International A? Picture System
+IAPS - International Affective Picture System
