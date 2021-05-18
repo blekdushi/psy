@@ -10,12 +10,11 @@ semester: 2020W
 
 {% include vo_header.md %}
 
-Forschungsfeld ist Teil der Kognitionspsychologie und seit den 1980er etabliert. Besonders erforscht werden die komplexen Prozesse, mit denen Gesichter verarbeitet und erkannt werden. Gesichter dienen im Alltag dazu:
+Forschungsfeld ist Teil der Kognitionspsychologie und seit den 1980er etabliert. Die offenen Fragen übersteigen bei weitem die seither gefundenen Ergebnisse dieser Grundlagenforschung.\
+Besonders erforscht werden die komplexen Prozesse, mit denen Gesichter verarbeitet und erkannt werden. Gesichter dienen im Alltag dazu:
 * Personen wiederzuerkennen
 * Gemüts- und Gefühlsausdrücke zu lesen
 * non-verbal zu kommunizieren
-
-Relevanz von Gesichtserkennung hoch auch im Bezug auf automatische, computergestützte Erkennung.
 
 # Modell nach Bruce und Young
 
@@ -35,7 +34,11 @@ In den 80ern präsentierten Bruce und Young ein konsolidiertes Modell der Gesich
 
 TODO: jede Komponente beschreiben
 
-# Merkmale zur Gesichtswiedererkennung
+**Structural encoding**
+_view-centered descriptions_
+_expression-independent descriptions_
+
+# Gesichtswiedererkennung
 
 Der [**Inversionseffekt (Face Inversion Effect)**](https://en.wikipedia.org/wiki/Face_inversion_effect) ist ein häufig verwendetes Instrument bei der Erforschung der Gesichtserkennung. Er kennzeichnet das Phänomen, dass das Erkennen eines Gesichts länger dauert, wenn es auf den Kopf gedreht ist (Yin, 1969). Bei anderen Objekten (z.B. Alltagsgegenständen) ist das nämlich nicht der Fall.
 
@@ -50,6 +53,24 @@ Manche Forschungen machen sich die Einprägsamkeit und Auffälligkeit (**Distinc
 
 TODO: Principal components analysis (PCA) von Hancock, Bruce & Burton
 
-TODO: Prototypen anhand von Average Bildung. Ein Algorithmus hat aus mehreren Bildern von Bill Clinton ein Average gebildet und dieses wurde dann als am meisten mit Bill Clinton assoziiert.
+Konfigurale Merkmale erklären nur einige Aspekte der Gesichtserkennung. Bereits bekannte Gesichter können auch dann wiedererkannt werden, wenn sie stark verzerrt sind. Hinzu kommt, dass verzerrte Versionen dieser Gesichter Adaptionseffekte haben, sodass man danach leichte Verzerrungen sogar gegenüber dem Original bevorzugt. Eine Erklärung dafür ist, dass wir **Prototypen** als kognitive Repräsentation bilden, also so etwas wie einen Durchschnitt über alle Wahrnehmungen, die wir von einem Gesicht machen. Zum Beispiel hat ein Algorithmus aus mehreren Fotos von Bill Clinton ein Average gebildet und dieses wurde dann von den Vpn als am meisten mit Bill Clinton (im Vergleich zu den Fotos, die als Input für den Algorithmus dienten) assoziiert.
 
-**Prosopagnosie** wurde erstmals 1947 beschrieben. Menschen mit Prosopagnosie können keine Gesichter identifizieren. Sie können aber erkennen, dass es sich prinzipiell um ein Gesicht handelt und dieses auch strukturell beschreiben. Die Störung scheint im Zusammenhang mit Läsionen im Temporallappen (z.B. Schlaganfall) zu stehen. Da diese Störung isoliert auftreten kann, nimmt man an, dass bestimmte Gehirnregionen dediziert der Gesichtserkennung dienen.
+# Relevanz und Anwendungsbereiche
+
+Ein Anwendungsgebiet für Gesichtserkennung und die Forschung dazu sind **Identifikationsparaden und Fahndungssysteme**. Trotz stetiger Verbesserungen haben Bilder von Überwachungskameras oft schlechte Auflösungen, sind farblos und zeigen die verdächtige Person in schlechtem Winkel. Hinzu kommt, dass Menschen zwar gut darin sind bekannte Gesichter, aber erstaunlich schlecht darin unbekannte Gesichter wiederzuerkennen. Für akademische Anwendungen wurde dafür der [Glasgow Face Matching Test (GFMT)](https://en.wikipedia.org/wiki/Glasgow_Face_Matching_Test) entwickelt. Selbst dann, wenn man das Zielgesicht neben anderen Gesichtern sieht und direkt vergleichen kann, erkennen nur 70% das richtige Gesicht. Diese schlechte Quote stellt Augenzeugenberichte und Gegenüberstellung in kriminalpolizeilichen Bereichen in Frage. Auch Kontrolleure bei der Einreise am Flughafen zeigten bei einer Studie eine 10% Fehlerquote (6% false negative / 14% false positive). Zusätzlich stellte sich heraus, dass Erfahrung und Anzahl der Dienstjahre keinen Einflusss auf die Fähigkeit zur Gesichtserkennung hatte und somit nicht erlern- oder trainierbar ist. \
+Schönheitsoperationen können (klarerweise) die Wiedererkennung erschweren, bzw. die Gesichtsidentität verändern.
+
+Ähnlich dazu haben Leder, Gerger und Forster (2011) erforscht, welche Effekte **Brillen** auf die Gesichtswahrnehmung haben. Effekte waren:
+* Brillen hebt Vertrauenswürdigkeit
+* Brillen machen weniger attraktiv
+* Brillen behindern Wiedererkennung
+* Brillen erhöhen die Einschätzung der Intelligenz
+
+Ein weiteres Anwendungsgebiet sind **Face-Head-Modelle** (nach Vetter und Banz). Dabei handelt es sich um ein vom Computer anhand zahlreicher Fotos berechnetes Durchschnittsgesicht (**Morphing**). Der Computer hat auch diverse Dimensionen für Mimik (Lachen, Stirn runzeln), Hautfarbe, Nase, Mund, Wangenknochen, Geschlecht, Alter... herausgerechnet. Somit kann der Computer anhand von zweidimensionalen Fotos ein dreidimensionales Modell eines Gesichts konstruieren, dass dann auf den oben genannten Dimensionen beliebig variiert und animiert werden kann. Haupteinsatzzwecke dafür ist die Entertainment/Film Industrie.
+
+Gesichter sollen zunehmend auch durch **automatisierte Gesichtserkennung** von Computern erkannt werden können (derzeit sind Pupillen und Fingerabdrücke jedoch noch besser für die Identifikation geeignet). Ein Teilgebiet davon ist das Erkennen des Gesichtsausdrucks. Das [Facial Action Coding System](https://en.wikipedia.org/wiki/Facial_Action_Coding_System) hilft beim Erlernen von Gesichtsmuskulatur und ihre Rollen bei Gesichtsausdrücken.
+
+**Prosopagnosie** wurde erstmals 1947 von Bodamer beschrieben. Menschen mit Prosopagnosie können keine Gesichter identifizieren. Sie können aber erkennen, dass es sich prinzipiell um ein Gesicht handelt und dieses auch strukturell beschreiben. Prosopagnosie kann erworben oder angeboren sein. Sie scheint im Zusammenhang mit Läsionen im Temporallappen (z.B. Schlaganfall) zu stehen. Da diese Störung isoliert auftreten kann, nimmt man an, dass bestimmte Gehirnregionen dediziert der Gesichtserkennung dienen:
+* Fusiformes face area (FFA)
+* Superior temporal sulcus (STS)
+* Occipital face area (OFA)
