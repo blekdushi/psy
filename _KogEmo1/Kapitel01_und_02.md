@@ -23,23 +23,41 @@ Aktuelle Entwicklungen in:
 
 # Definitionen
 
+<div style="background-color:lavender;margin-bottom:1em">Dieses Subkapitel ist eine Zusammenfassung von Teilen des Kapitels V von:<br>
+  Bruce, V., &amp; Young, A. (1986). Understanding face recognition. <i>British Journal of Psychology</i>, <i>77</i>(3), 305–327. <a href="https://doi.org/10.1111/j.2044-8295.1986.tb02199.x">https://doi.org/10.1111/j.2044-8295.1986.tb02199.x</a>
+</div>
+
+Emotionen (_emovere_ = hinaus bewegen) bewegen und erregen uns. Sie lenken die Aufmerksamkeit, motivieren zu Handlungen und bereiten den Organismus physiologisch auf diese vor.
+
+Emotionen sind...
+* ...psychisch erlebt und bewusst empfunden
+* ...qualitativ unterschiedlich
+* ...auf eine Sache gerichtet
+* ...von begrenzter Dauer
+* ...von unterschiedlicher Intensität
+* ...unwillkürlich
+
 # Abgrenzung von verwandten Konzepten
 
-Nicht ganz einheitlich in der Community. Folgend ein Versuch der Abgrenzung laut Skriptum.
+Nicht ganz einheitlich in der scientific community. Folgend ein Versuch der Abgrenzung laut Skriptum.
 
-Gefühl
+Gefühl - subjektiv empfunden
 Kognition
 Stimmung
+emotionale Disposition (Persönlichkeitseigenschaft)
 Affekt
 Metastimmung
 evaluatives Urteil
 emotionsgeladenes Urteil
+
 Motivation - Aufrechterhalten von körperlichen und psychischen Aktivitäten mit dem Ziel die physische und soziale Umwelt zu kontrollieren (Wirksamkeit). Zusätzlich Explorationsstreben. Biologisch, psychologisch und sozial bedingt. Kann unabhängig vom Willen sein. Intervenierende Variable, die nicht direkt beobachtet werden kann. Siehe auch Maslows Bedürfnispyramide. Abgrenzung zu Emotion:
 | Motivation                             | Emotion                                  |
 | -------------------------------------- | ---------------------------------------- |
 | von innen ausgelöst                    | von außen ausgelöst                      |
 | durch spezifisches Bedürfnis ausgelöst | durch unterschiedliche Stimuli ausgelöst |
 | auf Zukunft gerichtet                  | auf Vergangenes gerichtet                |
+
+Wenn auf mögliche, zukünftige Ereignisse gerichtet, dann verschwimmt diese Abgrenzung und Emotionen werden zu Motivatoren.
 
 # Geschichte
 
