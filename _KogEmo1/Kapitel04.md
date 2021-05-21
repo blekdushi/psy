@@ -33,12 +33,26 @@ Emotionen können auch **Motivation** für Handlungs- und Verhaltenstendenzen er
 # Funktionen von Emotionen
 
 Sind Emotionen irrational, störend und somit überflüssig oder erfüllen sie wichtige, zentrale Funktionen für unser Dasein? Im Laufe der Geschichte wurden beide Ansichten populär vertreten. In den letzten Jahrzehnten herrscht das Paradigma vor, dass Emotionen als Anpassung auf unsere Umwelt verstanden werden, die folgende Funktionen erfüllen:
-* handlungsanleitend
+* handlungsleitend
 * informativ
 * sozial-kommunikativ
 
-**Handlungsanleitend**
+Aus evolutionspsychologischer Sicht haben Emotionen **handlungsleitende** Funktionen. Sie motivieren sie zu Handlungen, mit denen die emotionsauslösende Situation bewältigt werden können soll. Theorien über das Mapping von Emotion und Funktion sind vielfältig und unterschiedlich. Als gemeinsamer, empirisch bestärkter Nenner gild, dass positive Emotionen annäherndes Verhalten motivieren und negative Emotionen vermeidendes Verhalten.
 
-**Informativ**
+Eine der eben erwähnten Theorien ist jene von Plutchik (1980). Er identifiziert 8 Basisemotionen und schreibt jeder davon ein auslösendes Ereignis, eine Handlungsanleitung (Verhaltensimpuls) und eine Funktion zu. Kritik zu diesem Modell ist z.B. dass Freude viel weitläufigere Auslöser und Funktionen haben kann als nur auf Reproduktion ausgerichtet zu sein:
 
-**Sozial-kommunikativ**
+| Emotion                | Ereignis                   | Verhaltensimpuls      | Funktion          |
+| ---------------------- | -------------------------- | --------------------- | ----------------- |
+| Furcht                 | Bedrohung                  | Fliehen, Vermeiden    | Schutz            |
+| Ärger                  | Hindernis, Blockade        | Beißen, Schlagen      | Zerstörung        |
+| Freude                 | Potentieller Partner       | Werben, Paaren        | Reproduktion      |
+| Traurigkeit            | Verlust einer Bezugsperson | Ruf nach Hilfe        | Wiedervereinigung |
+| Akzeptanz              | Gruppenmitglied            | Umsorgen, Teilen      | Affiliation       |
+| Ekel                   | Ungenießbares Objekt       | Ausspucken, Wegstoßen | Zurückweisung     |
+| Antizipation<br>Erwartung | Neues Territorium          | Untersuchen, Erkunden | Exploration       |
+| Überraschung           | Unerwartetes Objekt        | Stoppen, Alarmieren   | Orientierung      |
+
+**Informativ** sind Emotionen, weil sie uns Auskunft über die auslösende Situation geben. Sie lenken die Aufmerksamkeit (_Relevanz-Detektoren_) und erleichtern das Merken (Gedächtnis). Sie informieren über Fortschritt der Zielerreichung (_Überwachungssystem_). _Antizipatorische_ Emotionen nehmen Einfluss auf die strategische Ausrichtung des Handelns. _Zielbezogene_ Emotionen geben Feedback über unser Verhalten (_Feedback-System_). Die _Hypothese der somatischen Marker_ besagt, dass wir die emotionalen und somatischen Folgen eines Verhaltens mit diesem verknüpfen und reaktivieren, sobald wir in Zukunft in Erwägung ziehen, dieses Verhalten erneut zu zeigen.\
+Ebenso nehmen Emotionen Einfluss auf unsere Urteile und Entscheidungen (_"Bauchgefühl"_) und dies auf subtile sowie irrational erscheinende Art und Weise: so berichten Menschen an sonnigen Tagen zufriedener mit ihrem Leben zu sein, als an regnerischen.
+
+Im Gegensatz zu obigen _intrapersonalen_ Funktionen, sind die **sozial-kommunikativen** Funktionen von Emotionen _interpersonal_. Über den Ausdruck kommunizieren wir folgende Informationen über unsere Emotionen an andere: (1) unsere Befindlichkeit, (2) unsere Absichten und (3) Verhaltensaufforderungen an andere. Sie regulieren somit unser Zusammenleben mit anderen.
