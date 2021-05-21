@@ -23,8 +23,8 @@ Aktuelle Entwicklungen in:
 
 # Definitionen
 
-<div style="background-color:lavender;margin-bottom:1em">Dieses Subkapitel ist eine Zusammenfassung von Teilen des Kapitels V von:<br>
-  Bruce, V., &amp; Young, A. (1986). Understanding face recognition. <i>British Journal of Psychology</i>, <i>77</i>(3), 305–327. <a href="https://doi.org/10.1111/j.2044-8295.1986.tb02199.x">https://doi.org/10.1111/j.2044-8295.1986.tb02199.x</a>
+<div style="background-color:lavender;margin-bottom:1em">Dieses Kapitel enthält auch Zusammenfassungen von Teilen des Kapitels V von:<br>
+Rothermund, Klaus., &amp; Eder, Andreas. (2011). <i>Motivation und Emotion</i> (1st ed. 2011). VS Verlag für Sozialwissenschaften .
 </div>
 
 Emotionen (_emovere_ = hinaus bewegen) bewegen und erregen uns. Sie lenken die Aufmerksamkeit, motivieren zu Handlungen und bereiten den Organismus physiologisch auf diese vor.

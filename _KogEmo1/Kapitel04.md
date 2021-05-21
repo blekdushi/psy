@@ -8,6 +8,10 @@ vortragender: Leder
 semester: 2020W
 ---
 
+<div style="background-color:lavender;margin-bottom:1em">Dieses Kapitel enthält auch Zusammenfassungen von Teilen des Kapitels V von:<br>
+Rothermund, Klaus., &amp; Eder, Andreas. (2011). <i>Motivation und Emotion</i> (1st ed. 2011). VS Verlag für Sozialwissenschaften.
+</div>
+
 # Dimensionsmodelle von Emotionen
 
 Um Emotionen voneinander und auch von anderen psychischen Phänomenen (z.B. Kognitionen) abzugrenzen, beschreibt man sie entlang der Dimensionen des _Komponentenmodells der Emotion_:
@@ -17,7 +21,7 @@ Um Emotionen voneinander und auch von anderen psychischen Phänomenen (z.B. Kogn
 * Ausdruck
 * Motivation
 
-Man nimmt an, dass die Ausprägungen entlang dieser Dimensionen für eine Emotion **Reaktionskohärenz** zeigen, also miteinander korrelieren und _Profile_ bilden. Studien konnten das bislang nicht untermauern und zeigten lediglich einen losen Zusammenhang.
+Man nimmt an, dass die Ausprägungen entlang dieser Dimensionen für eine Art von Emotion **Reaktionskohärenz** zeigen, also miteinander korrelieren und _Profile_ bilden. Studien konnten das bislang nicht untermauern und zeigten lediglich einen losen Zusammenhang.
 
 Das **Erleben** von Emotionen ist der Forschung aufgrund des [Qualia-Problems](https://de.wikipedia.org/wiki/Qualia#Das_R%C3%A4tsel_der_Qualia) und den Unzulänglichkeiten der [Intro-](https://en.wikipedia.org/wiki/Introspection_illusion) und [Retrospektion](https://dorsch.hogrefe.com/stichwort/rueckschaufehler) nur sehr eingeschränkt zugänglich.\
 Trotzdem haben Barrett und Russell (1999) Wörter und Sprache von Selbstberichten mittels Cluster- und Faktorenanalyse ausgewertet und darauf aufbauend das **Circumplex-Modell** postuliert. Dieses hat zwei Dimensionen: _Valenz_ und _Erregung_. Entlang zweier Kreise, ähnlich eines Kompass, können Emotionen dann verortet werden. Der innere Kreis enthält die grundlegenden Basisemotionen und der äußere Kreis prototypische, emotionale Zustände.
@@ -56,3 +60,5 @@ Eine der eben erwähnten Theorien ist jene von Plutchik (1980). Er identifiziert
 Ebenso nehmen Emotionen Einfluss auf unsere Urteile und Entscheidungen (_"Bauchgefühl"_) und dies auf subtile sowie irrational erscheinende Art und Weise: so berichten Menschen an sonnigen Tagen zufriedener mit ihrem Leben zu sein, als an regnerischen.
 
 Im Gegensatz zu obigen _intrapersonalen_ Funktionen, sind die **sozial-kommunikativen** Funktionen von Emotionen _interpersonal_. Über den Ausdruck kommunizieren wir folgende Informationen über unsere Emotionen an andere: (1) unsere Befindlichkeit, (2) unsere Absichten und (3) Verhaltensaufforderungen an andere. Sie regulieren somit unser Zusammenleben mit anderen.
+
+# Kontrolle von Emotionen

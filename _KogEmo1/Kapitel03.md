@@ -10,6 +10,10 @@ semester: 2020W
 
 {% include vo_header.md %}
 
+<div style="background-color:lavender;margin-bottom:1em">Dieses Kapitel enthält auch Zusammenfassungen von Teilen des Kapitels V von:<br>
+Rothermund, Klaus., &amp; Eder, Andreas. (2011). <i>Motivation und Emotion</i> (1st ed. 2011). VS Verlag für Sozialwissenschaften.
+</div>
+
 # Biologische Emotionstheorien
 
 <blockquote>Biologische Emotionstheorien teilen das Spektrum von Emotionen in diskrete Typen oder Klassen von Emotionen ein, die Basisemotionen genannt werden. Jede Basisemotion wird als ein eigenständiges informationsverarbeitendes System (Modul) gesehen, das auf eine spezifische Klasse von Umweltreizen selektiv anspricht (Domänenspezifität) und auf dessen Verarbeitungsprinzipien Prozesse außerhalb des Systems (z. B. Kognitionen) nur begrenzt Einfluss nehmen können.(Rothermund & Eder, 2011, S.181)</blockquote>
@@ -50,7 +54,7 @@ Richard S. Lazarus (1966) zufolge werden nach einer ersten Einschätzung darübe
 
 Die Frage, was zuerst kommt, die Kognition oder die Emotion, hat Lazarus akademisch mit Robert B. Zajonc und diskutiert. Zajonc hat in einem Experiment seinen Vpn Polygone fast subliminal gezeigt. Danach hat er sie wieder zusammen mit noch nicht dargebotenen Polygonen gezeigt und zwei Fragen gestellt: (1) welches als schöner empfunden wird und (2) welches den Vpn bekannt vorkommt. Da auf die erste eindeutig mit bereits bekannten Polygonen geantwortet wurde und auf die zweite auf Zufallsniveau geantwortet wurde, meinte Zajonc, dass affektives Verarbeiten vorrangig erfolgt. Kritik an der Interpretation ist, dass es mit dem Konzept der [Fluency]( {{ "./KogEmo1/Kapitel??" | relative_url }}) eine alternative Erklärung gibt und dass das Experiment eher Präferenzen und schlichte Reiz-Emotionsmuster erklärt.
 
-**LeDoux** (1992) hat eine Erklärung geliefert, die beide obigen Positionen zufriedenstellen könnte: Er identifizierte zwei Nervenzirkel zur Amygdala: eine kürzeren, direkten vom Thalamus zur Amygdala, der schnelle und automatisierte Reaktionen auf Reizei ermöglicht und einen längeren, der vom Thalamus über den sensorischen Kortex zur Amygdala führt und somit eine kognitive Verarbeitung des Reizes mit möglicher Abwägung von Handlungsalternativen.
+**LeDoux** (1992) hat mit seinem <a href="#integrativ">integrativen Ansatz</a> eine Erklärung geliefert, die beide obigen Positionen zufriedenstellen könnte: Er identifizierte zwei Nervenzirkel zur Amygdala: eine kürzeren, direkten vom Thalamus zur Amygdala, der schnelle und automatisierte Reaktionen auf Reizei ermöglicht und einen längeren, der vom Thalamus über den sensorischen Kortex zur Amygdala führt und somit eine kognitive Verarbeitung des Reizes mit möglicher Abwägung von Handlungsalternativen.
 
 Eine frühe, kognitive Emotionstheorie stammt von **Alexius Meinong**. Darin postulierte er anhand rein introspektiver Annahmen (unter anderem) die Existenz von Urteilsgefühlen, also Emotionen für reale Sachverhalte. Eine Person bildet Urteile und Annahmen und unterscheidet dann zwischen _Gewissheit_ oder _Unsicherheit_. Bei Unsicherheit entstehen je nach positiver oder negativer Bewertung Hoffnung oder Furcht. Wenn sie sich der Urteile gewiss ist, dann unterscheidet sie weiter, ob sich der Sachverhalt auf sie selbst oder jemand anderen bezieht. Wenn sie selbst, dann entstehen Freude und Leid. Und wenn jemand anderer, dann weiter, ob die Person Freund oder Feind ist. Bei Freunden entstehen Mitleid und Mitfreude, bei Feinden Neid und Schadenfreude.
 
@@ -72,7 +76,8 @@ Ebenfalls introspektiv entwickelte **Magda Arnold** ihre Theorie, dass wir Sachv
 
 Obige drei Einschätzungen sind notwendig für das Entstehen von Emotionen. Sie führen zu _Handlungstendenzen_ (Annäherung / Vermeidung), die dann als Emotion erlebt werden. Physiologische Reaktionen und Ausdruck sind Beiprodukte, die zwar durch Evolution entstanden sind, aber nicht mehr auf unsere menschliche Gesellschaft übertragen werden können. Dagegen spricht, dass man annimmt, dass kein anderes Wesen so differenziert Emotionen erleben und ausdrücken kann, wie der Mensch. Somit müsste eigentlich das Gegenteil gelten, dass Physiologische Reaktionen und Ausdruck sich _aufgrund_ der menschlichen Gesellschaft so ausgebildet haben.
 
-# Integrative (und konstruktivistische) Ansätze
+<a id="integrativ">
+# Integrative und konstruktivistische Ansätze
 
 Obig beschriebene biologische und kognitive Emotionstheorien setzen voraus, dass Emotionen klar voneinander abgrenzbar sind und eindeutige Eigenschaftsprofile besitzen. Dieses Axiom stellen konstruktivistische Theorien in Frage (auch aufgrund empirischer Daten). Die Angst vor einem Bär in freier Wildbahn ist anders als die Angst vor den ökologischen Folgen der andauernden Umweltverschmutzung.  Vertreter dieser Ansätze meinen, dass beiden gemein sei, dass sie dem _Prototyp_ von Angst ähnlich sind, und dass wir lediglich **Basisaffekte (core effects)** empfinden (bottom-up), denen wir auf Basis unserer Valenzeinschätzung eine emotionale Kategorisierung (top-down) zuschreiben.
 
@@ -82,13 +87,13 @@ In ihrem **berühmten Experiment** haben Schachter und Singer diesen Ansatz empi
 
 **Valins** (1966) ging noch einen Schritt weiter und konnte zeigen, dass alleine die Vortäuschung physiologischer Reaktionen (falscher Puls) Einfluss auf die emotionale Bewertung nahm.
 
-Emotionen werden also auf Basis dieser Ursachenzuschreibung "konstruiert" und sind nicht von der Natur vorgegeben. Je nach Sozialisierung verfügen wir über unterschiedliche Repertoires an Emotionskategorien, was auch erklären würde, warum es im Deutschen Sprachraum das emotionale Konzept der Schadenfreude gibt, wofür es in anderen Sprachen keine Entsprechung gibt.
+Emotionen werden also bei diesen Ansätzen auf Basis der Ursachenzuschreibung "konstruiert" und sind nicht von der Natur vorgegeben. Je nach Sozialisierung verfügen wir über unterschiedliche Repertoires an Emotionskategorien, was auch erklären würde, warum es im Deutschen Sprachraum das emotionale Konzept der Schadenfreude gibt, wofür es in anderen Sprachen keine Entsprechung gibt.
 
-Das ist gleichzeitig ihr Schwachpunkt laut Kritikern. Konstruktivistische Ansätze können Beobachtungen von universell auftretenden Emotionen nicht erklären. Weitere Kritik ist, dass sie das Auslösen der Basisaffekte per se und in Bezug auf Valenz und Erregung nicht weiter spezifizieren.
+Das ist gleichzeitig ihr Schwachpunkt laut Kritikern: Konstruktivistische Ansätze können Beobachtungen von universell auftretenden Emotionen nicht erklären. Weitere Kritik ist, dass sie das Auslösen der Basisaffekte per se und in Bezug auf Valenz und Erregung nicht weiter spezifizieren.
 
-Scherer - 5 Punkte:
-1. internale oder externale Veränderung? (Neugier vs. Langeweile)
-2. angenehm? (Lust vs. Unlust)
+Eine moderne Theorie ist der **Appraisal Ansatz** von **Scherer**. Er postuliert fünf Schritte **Stimulus-Evaluation-Checks (SECs)**
+1. Gibt es etwas Neues (= internale oder externale) Veränderung? (Neugier vs. Langeweile)
+2. Ist das Neue angenehm? (Lust vs. Unlust)
 3. betrifft es meine Ziele und Bedürfnisse? (Furcht, Freude, Wut, Zufriedenheit)
 4. kann ich es bewältigen? (Traurigkeit, Furcht, Wut)
 5. Beurteilung im Hinblick auf eigene Werte und Normen (Stolz, Scham, Verlegenheit)
