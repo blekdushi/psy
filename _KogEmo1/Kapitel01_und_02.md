@@ -41,32 +41,33 @@ Emotionen sind...
 
 Nicht ganz einheitlich in der scientific community. Folgend ein Versuch der Abgrenzung laut Skriptum.
 
-Gefühl - subjektiv empfunden
-Kognition
-Stimmung
-emotionale Disposition (Persönlichkeitseigenschaft)
-Affekt
-Metastimmung
-evaluatives Urteil
-emotionsgeladenes Urteil
+* Gefühl - subjektiv empfunden
+* Kognition
+* Stimmung
+* emotionale Disposition (Persönlichkeitseigenschaft)
+* Affekt
+* Metastimmung
+* evaluatives Urteil
+* emotionsgeladenes Urteil
 
-Motivation - Aufrechterhalten von körperlichen und psychischen Aktivitäten mit dem Ziel die physische und soziale Umwelt zu kontrollieren (Wirksamkeit). Zusätzlich Explorationsstreben. Biologisch, psychologisch und sozial bedingt. Kann unabhängig vom Willen sein. Intervenierende Variable, die nicht direkt beobachtet werden kann. Siehe auch Maslows Bedürfnispyramide. Abgrenzung zu Emotion:
+Als **Motivation** bezeichnet man das Aufrechterhalten von körperlichen und psychischen Aktivitäten mit dem Ziel die physische und soziale Umwelt zu kontrollieren (Wirksamkeit) und zu explorieren. Sie ist biologisch, psychologisch und sozial bedingt und kann auch unabhängig vom Willen sein. Sie ist eine _intervenierende_ Variable, weil sie nicht direkt beobachtet werden kann. Motivation entsteht auf Basis unserer Bedürfnisse, Maslow in seiner Bedürfnispyramide hierarchisch anordnet. Motivation lässt sich zu Emotion wie folgt abgrenzen:
+
 | Motivation                             | Emotion                                  |
 | -------------------------------------- | ---------------------------------------- |
 | von innen ausgelöst                    | von außen ausgelöst                      |
 | durch spezifisches Bedürfnis ausgelöst | durch unterschiedliche Stimuli ausgelöst |
 | auf Zukunft gerichtet                  | auf Vergangenes gerichtet                |
 
-Wenn auf mögliche, zukünftige Ereignisse gerichtet, dann verschwimmt diese Abgrenzung und Emotionen werden zu Motivatoren.
+Wenn Emotionen auf mögliche, zukünftige Ereignisse gerichtet sind, dann verschwimmt die Abgrenzung zur Motivation, weil Emotionen so zu Motivatoren werden.
 
 # Geschichte
 
-**Antike** Fokus auf lebenspraktische Fragen. Emotionen als etwas "Behandlungsbedürftiges", wobei die Art der Behandlung stark variieren kann. In der Antike war das philosophische Reflexion, weil jede Emotion auch Leiden hervorrufen kann.
-Aristoteles - Lust <-> Unlust - Emotionen beeinflussen Urteile
-Platon - Begierde (Unterleib), Zorn (Brust), Vernunft (Kopf)
-Thykidides - Emotionen eng verbunden mit Handlungen (Motive)
-Epikur - Freude und Lust als Ziel
-Stoiker - Emotionen als störend. Gelassenheit und Selbstbeherrschung um sich der natürlichen Ordnung besser zu fügen.
+In der **Antike** lag der Fokus auf lebenspraktische Fragen. Emotionen seien etwas "Behandlungsbedürftiges", weil jede Emotion auch Leiden hervorrufen kann. Die Art der Behandlung kann stark variieren. In der Antike war philosophische Reflexion die gängige Form der "Behandlung".
+* Aristoteles - Lust <-> Unlust - Emotionen beeinflussen Urteile
+* Platon - Begierde (Unterleib), Zorn (Brust), Vernunft (Kopf)
+* Thykidides - Emotionen eng verbunden mit Handlungen (Motive)
+* Epikur - Freude und Lust als Ziel
+* Stoiker - Emotionen als störend. Gelassenheit und Selbstbeherrschung um sich der natürlichen Ordnung besser zu fügen.
 
 **Mittelalter**
 Einteilung in gut und böse.
