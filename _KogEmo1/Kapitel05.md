@@ -16,6 +16,7 @@ Besonders erforscht werden die komplexen Prozesse, mit denen Gesichter verarbeit
 * Gemüts- und Gefühlsausdrücke zu lesen
 * non-verbal zu kommunizieren
 
+<a id="BruceYoung">
 # Modell nach Bruce und Young
 
 Dieses Subkapitel ist auch eine Zusammenfassung des **Zusatztext 1**:
@@ -46,6 +47,7 @@ Biederman hat untersucht, ob die **Geons** der Objekterkennung auch für die Ges
 
 In einem Experiment von Leder (1996) wurden Gesichtsfotos zu **Linienzeichnungen** transformiert. Das _structural encoding_ schien dafür nicht optimal ausgelegt zu sein, woraus man schlussfolgert, dass Gesichtserkennung nicht auf Linien als Informationsquelle basiert.
 
+<a id="Gesichtskonfiguration">
 Bei den Theorien zur Gesichtsverarbeitung gibt es Ansätze, die ein [_holistische Verarbeitung_](https://dorsch.hogrefe.com/stichwort/verarbeitung-holistische) annehmen und solche, die davon ausgehen, dass das Gesicht in seine Teile getrennt analysiert werden. Als konstituierenden Element für Gesichter werden _Augen_, _Nase_ und _Mund_ angenommen. Ihre Abstände und Anordnung in einem Gesicht nennt man **Gesichtskonfiguration**. Eines dieser Elemente alleine (z.B. nur Augen) ist nicht hinreichend für die Wiedererkennung. Außerdem erklären sie den Inversionseffekt nicht, weil Augen, Nase und Mund auf den Kopf gedreht trotzdem sehr gut erkannt werden.\
 Für eine holistische Verarbeitung spricht auch eine Studie von Tanakah und Farah (1993), in der zwei Gesichter bis auf die Nase identisch waren. Danach wurde untersucht, was besser unterschieden werden konnte: wenn man beide Gesichter sieht oder nur die Nase. Den Vpn fiel die Unterscheidung mit den Gesichtern leichter.
 
@@ -68,7 +70,7 @@ Schönheitsoperationen können (klarerweise) die Wiedererkennung erschweren, bzw
 
 Ein weiteres Anwendungsgebiet sind **Face-Head-Modelle** (nach Vetter und Banz). Dabei handelt es sich um ein vom Computer anhand zahlreicher Fotos berechnetes Durchschnittsgesicht (**Morphing**). Der Computer hat auch diverse Dimensionen für Mimik (Lachen, Stirn runzeln), Hautfarbe, Nase, Mund, Wangenknochen, Geschlecht, Alter... herausgerechnet. Somit kann der Computer anhand von zweidimensionalen Fotos ein dreidimensionales Modell eines Gesichts konstruieren, dass dann auf den oben genannten Dimensionen beliebig variiert und animiert werden kann. Haupteinsatzzwecke dafür ist die Entertainment/Film Industrie.
 
-Gesichter sollen zunehmend auch durch **automatisierte Gesichtserkennung** von Computern erkannt werden können (derzeit sind Pupillen und Fingerabdrücke jedoch noch besser für die Identifikation geeignet). Ein Teilgebiet davon ist das Erkennen des Gesichtsausdrucks. Das [Facial Action Coding System](https://en.wikipedia.org/wiki/Facial_Action_Coding_System) hilft beim Erlernen von Gesichtsmuskulatur und ihre Rollen bei Gesichtsausdrücken.
+Gesichter sollen zunehmend auch durch **automatisierte Gesichtserkennung** von Computern erkannt werden können (derzeit sind Pupillen und Fingerabdrücke jedoch noch besser für die Identifikation geeignet). Ein Teilgebiet davon ist das Erkennen des Gesichtsausdrucks. Das [Facial Action Coding System (FACS)](https://en.wikipedia.org/wiki/Facial_Action_Coding_System) hilft beim Erlernen von Gesichtsmuskulatur und ihre Rollen bei Gesichtsausdrücken.
 
 **Prosopagnosie** wurde erstmals 1947 von Bodamer beschrieben. Menschen mit Prosopagnosie können keine Gesichter identifizieren. Sie können aber erkennen, dass es sich prinzipiell um ein Gesicht handelt und dieses auch strukturell beschreiben. Prosopagnosie kann erworben oder angeboren sein. Sie scheint im Zusammenhang mit Läsionen im Temporallappen (z.B. Schlaganfall) zu stehen. Da diese Störung isoliert auftreten kann, nimmt man an, dass bestimmte Gehirnregionen dediziert der Gesichtserkennung dienen:
 * Fusiformes face area (FFA)
