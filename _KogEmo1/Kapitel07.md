@@ -24,7 +24,7 @@ Drei Zugänge:
 * Platon - Ziel ist die _Idee_ als Erkenntnis. Reale Dinge sind "nur" Instanzen der Idee. Kunst ist Abklatsch der Dinge und somit noch weiter von Erkenntnis entfernt.
 * David Hume - Schönheit subjektiv und sozial bedingt. Gesetzmäßigkeiten des Schönen möglich, wenn sie zeit- und kulturunabhängig sind.
 * Alexander Gottlieb Baumgarten - sieht Schönheit und ihre Wahrnehmung als _niedere Kognition_. Das "Gute" wird somit direkt über die Schönheit erfasst und nicht durch höhere Kognitionen "erkannt".
-* Kant - Schönheit ist subjektives Urteil, das man nicht beweisen kann, dass aber durchaus empirisch untersucht werden kann.
+* Kant - Schönheit ist subjektives Urteil, das man nicht beweisen kann, das aber durchaus empirisch untersucht werden kann.
 
 
 **Kunstgeschichtliche** Ansätze setzen den Fokus auf die Wirkung von Kunst wie Stil, historische Epoche, Technik. Dabei muss es nicht unbedingt um Schönheit gehen, sondern allgemein um Wirkung. Diese Überlegungen setzen einen _idealen Betrachter_ voraus und ignorieren somit individuelle Unterschiede.
