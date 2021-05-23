@@ -34,7 +34,7 @@ Drei Zugänge:
 # Psychophysik
 
 **Gustav T. Fechner**, Begründer der (inneren und äußeren) Psychophysik, beschäftigte sich mit ästhetischer Wahrnehmung und Erleben. Zum Beispiel legten seine Forschungen nahe, dass der **Goldene Schnitt** (ein Verhältnismaß c:b = b:a, wobei gilt c = a+b) als ästhetisch empfunden wird. Das konnte jedoch bisweilen nicht repliziert werden. Man vermutet, dass die Vpn den goldenen Schnitt aufgrund seiner damaligen Alltagsdominanz (_fluency_) als schöner empfanden.
-Auch mit dem Selbstberichten zur Holbeinschen Madonna leistete Fechner einen wichtigen Einstieg in die empirisch fundierte Ästhetik. Seine Versuche Schönheit empirisch beim Betrachter zu erfassen können als _Bottom-up_ Vorgehen gesehen werden. Dem gegenüber steht das _Top-down_ Vorgehen, bei dem Fragen zur Schönheit Experten behandelt werden (vergleiche auch Baumgartens _niedere_ und _höhere_ Kognitionen)
+Auch mit dem Selbstberichten zur Holbeinschen Madonna leistete Fechner einen wichtigen Einstieg in die empirisch fundierte Ästhetik. Seine Versuche Schönheit empirisch beim Betrachter zu erfassen können als _Bottom-up_ Vorgehen gesehen werden. Dem gegenüber steht das _Top-down_ Vorgehen, bei dem Fragen zur Schönheit von Experten behandelt werden (vergleiche auch Baumgartens _niedere_ und _höhere_ Kognitionen)
 
 Auch **Wilhelm Wundt** machte Untersuchungen zur Wirkung von Farben.
 
@@ -54,7 +54,7 @@ Der **Behaviorismus** schränkte das allgemeine Forschungsinteresse an ästhetis
 
 Er bezeichnet...
 * **hedonic value** als den Gefallen, den Betrachter an einem Kunstwerk finden
-* **arousal** als Grad den ein Kunstwerk den Betrachter stimuliert
+* **arousal** als das Ausmaß in dem ein Kunstwerk den Betrachter stimuliert
 
 Hedonic value und arousal stehen als auf den Kopf gestellte U-förmige Kurve miteinander in Verhältnis. Anfangs führt mehr arousal zu mehr hedonic value, dann kommt es zu einem Peak und danach nimmt hedonic value mit zunehmendem arousal ab.
 
