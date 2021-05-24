@@ -55,17 +55,27 @@ Die Gesetzmäßigkeiten Ramachandrans können jedoch nicht erklären, wieso mode
 
 # Fluency
 
-**Fluency** ist ein Maß, wie einfach und gut wir einen Stimulus verarbeiten können. Umso mehr _fluent_ Reize sind, umso besser gefallen sie uns. Reize, die wir bereits kennen, können wir besser verarbeiten als neue Reize. Annahmen für Fluency:
-* Reize unterscheiden sich in ihrer Fluency
-* einfache Verarbeitung ist affektiv positiv, weil die Verarbeitung fehlerfrei zu sein scheint und keine Gefahr lauert (nicht empirisch belegt)
-* dieses gute Gefühl der Verarbeitung wird auf den Reiz attribuiert
-* Fluency kann durch Attributionen und Erwartungen beeinflusst werden
+Processing **Fluency** ist ein Maß, wie einfach und gut wir einen Stimulus verarbeiten können. Umso mehr _fluent_ Reize sind, umso besser gefallen sie uns. Reize, die wir bereits kennen, können wir besser verarbeiten als neue Reize. Annahmen für Fluency:
+1. Reize unterscheiden sich in ihrer Fluency
+2. einfache Verarbeitung ist affektiv positiv, weil die Verarbeitung fehlerfrei zu sein scheint und keine Gefahr lauert (nicht empirisch belegt)
+3. dieses gute Gefühl der Verarbeitung wird auf den Reiz attribuiert
+4. Fluency kann durch Attributionen und Erwartungen beeinflusst werden
 
 Arten von Fluency:
-* processing
 * perzeptuell
 * konzeptuell
 * kognitiv
 * motorisch
 
-Fluency beeinflusst zwar, wie wir Objekte bewerten, aber nicht, wie wir uns fühlen.
+Fluency beeinflusst zwar, wie wir Objekte bewerten, aber nicht, wie wir uns fühlen. Forschungen über Fluency ist insofern eine Herausforderung, weil dafür Objekte gefunden werden, die von allen Vpn gleich häufig/selten wahrgenommen wurden. Für die Kunstwahrnehmung liefert Fluency nur teilweise Erklärung, denn bei moderner Kunst finden sich auch Stilmittel, die gängige Verarbeitung bewusst erschweren wollen.
+
+Processing fluency kann simple Präferenzen gut erklären kann. Dies vor allem, wenn die Situation besonders unsicher ist, die Alternativen relativ ähnlich sind, sie sich hauptsächlich in der fluency unterscheiden, und auch, wenn die Personen rasch entscheiden müssen. Gerade in der Kunst sind die Reize komplex, die Personen haben genug Zeit und somit ist es unwahrscheinlich, dass Fluency alleine das Gefallensurteil bei Kunst bestimmt.
+
+Eng damit verwandt ist der **Mere-exposure** Effekt: Umso öfter wir einen Reiz wahrnehmen, umso besser gefällt er uns. Dieser Effekt ist auch in der Kunst zu beobachten, z.B. waren der Eiffelturm und impressionistische Kunst anfangs als hässlich verschrien. Durch Mere-exposure erhöht sich die Vertrautheit des Reizes, wodurch er einfacher zu verarbeiten ist (_Fluency_). Der Effekt ist dann besonders stark, wenn:
+* Darbietungshäufigkeit im mittleren Bereich liegt (ca. 10-20 Wiederholungen)
+* Darbietungsdauer kurz ist (weniger als eine Sekunde)
+* bewusstes Erinnern unwahrscheinlich ist (wenn die Aufmerksamkeit gering ist)
+
+Die Wirkung des Mere-exposure Effekts ist abhängig von der Reizklasse: Buchstaben und Wortfolgen waren geeigneter als Fotografien und Kunst. Das kann damit erklärt werden, dass z.B. bei Kunst noch viel mehr Variablen in die Wahrnehmung einfließen (z.B. Bedeutung des Bildes) und dass durch die Bewusste Wahrnehmung Erwartungen und Attributionen gebildet werden, die den Effekt von Fluency modiereren (siehe oben Punkt 4).
+
+Das Prinzip der **Prototypikalität** besagt, dass wir Objekte kategorisieren. Kategorien beschreiben somit typische Eigenschaften der in ihnen enthaltenen Objekte. Sie sind so etwas wie Prototypen. Umso einfacher ein Objekt kategorisiert werden kann, umso höher ist seine  Fluency bzw. das Gefallen. Dieser Effekt kann aber ebenfalls durch Semantik und höhere Kognitionen beeinflusst werden.
