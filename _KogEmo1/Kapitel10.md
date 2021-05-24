@@ -12,24 +12,24 @@ semester: 2020W
 
 # Ergonomie & Design
 
-Der [Mere-Exposure-Effekt](https://de.wikipedia.org/wiki/Mere-Exposure-Effekt) bedeutet allgemein, dass wiederholte Wahrnehmungen eines Reizes zu mehr Fluency führt und folglich dieser Reiz besser gefällt. Im Speziellen zeigen sich aber Grenzen und Bedingungen, denen der Mere-Exposure-Effekt unterliegt. Er ist zum Beispiel nicht für alle Reizklassen gleich stark zu beobachten, ist vom Kontext abhängig und durch häufige Darbietung kann auch Langeweile und Übersättigung eintreten. Das ist besonders für Produkte und Werbung relevant.
+Der [Mere-Exposure-Effekt](https://de.wikipedia.org/wiki/Mere-Exposure-Effekt) bedeutet allgemein, dass wiederholte Wahrnehmungen eines Reizes zu mehr Fluency führen und folglich dieser Reiz besser gefällt. Im Speziellen zeigen sich aber Grenzen und Bedingungen, denen der Mere-Exposure-Effekt unterliegt. Er ist zum Beispiel nicht für alle Reizklassen gleich stark zu beobachten, ist vom Kontext abhängig und durch häufige Darbietung kann auch Langeweile und Übersättigung eintreten. Das ist besonders für Produkte und Werbung relevant.
 
 **Novelty** (Neuheit) kann ebenfalls zu Attraktivität beitragen, was etwas verwirrend erscheint, weil sie quasi ein Gegensatz zu Vertrautheit (_familiarity_) und Prototypikalität ist. Besonders im Design (z.B. von Produkten) können Weiterentwicklungen und Innovation positive Effekte auf Attraktivität haben. Der positive Effekt stellt sich nicht umgehend ein, sondern allmählich. Damit man aber den Effekt von Neuheit und Innovation auf die ästhetische Wahrnehmung verstehen kann, muss man neben reiner _Exposure_ (die auch subliminal sein kann) auch _Elaboration_ und _Evaluation_ der Reize berücksichtigen. Carbon & Leder (2005) haben mittels der **repeated-evaluation technique (RET)** zeigen können, dass wenn innovative Designs mehrmals dargeboten werden und auch von den Vpn bewertet werden müssen, diese Designs mit zunehmender Anzahl an Darbietungen attraktiver eingeschätzt wird. Bei weniger innovativen Designs, die bereits anfänglich als angenehm bewertet wurden, zeigte sich keine weitere Verbesserung durch die Evaluation.
 
-Hekkert, Snelders und van Wieringen haben 2003 den scheinbaren Widerspruch genauer untersucht, dass sowohl Novelty als auch Prototypikalität positive Wirkung auf das ästhetische Empfinden haben. Sie haben gezeigt, dass beide negative miteinander korrelieren und sich gegenseitig unterdrücken.
+Hekkert, Snelders und van Wieringen haben 2003 den scheinbaren Widerspruch, dass sowohl Novelty als auch Prototypikalität positive Wirkung auf das ästhetische Empfinden hätten, genauer untersucht. Sie haben gezeigt, dass beide negativ miteinander korrelieren und sich gegenseitig unterdrücken.
 
-Die emotionale Wirkung von Designprodukten erst seit der Jahrtausendwende im wissenschaftlichen Fokus
+Die emotionale Wirkung von Designprodukten ist erst seit der Jahrtausendwende im wissenschaftlichen Fokus.
 
 Jordan (2000) hat für Usability (Handhabbarkeit) eine Hierarchie der Konsumentenbedürfnisse postuliert (angelehnt an Maslow):
-* Funktionalität
-* Benutzbarkeit
-* Gefallen
+* Gefallen (oben)
   * Physiologisch
   * Ideologisch
   * Soziologisch
   * Psychologisch
+* Benutzbarkeit (mittig)
+* Funktionalität (unten)
 
-Höhere Ebenen können nur erreicht werden, wenn die darunter liegende(n) erfüllt sind. Wenn ein Produkt _gefällt_, dann bauen die Benutzer*innen eine Bindung zum Produkt auf und verbinden mit ihm Persönlichkeit, Wünsche, Hoffnungen, Träume u.v.m. (z.B. Red Bull für Freiheit und Abenteuer). Jordan beschreibt jedoch nicht, wie das Gefallen eigentlich entsteht.
+Höhere Ebenen können nur erreicht werden, wenn die darunter liegenden erfüllt sind. Wenn ein Produkt _gefällt_, dann bauen die Benutzer*innen eine Bindung zum Produkt auf und verbinden mit ihm Persönlichkeit, Wünsche, Hoffnungen, Träume u.v.m. (z.B. Red Bull für Freiheit und Abenteuer). Jordan beschreibt jedoch nicht, wie das Gefallen eigentlich entsteht.
 
 Die Lebensräume der Menschen sind zu einem hohen Maß _designed_ also von Menschen gestaltet. Design ist deshalb auch ein Thema für Psycholog*innen. Wikipedia definiert **Ergonomie** als <q>_...die Wissenschaft von der Gesetzmäßigkeit menschlicher bzw. automatisierter Arbeit_</q>. Sie hat verschiedene wissenschaftliche Perspektiven. Für die psychologische Ergonomie steht die Verbesserung der Mensch-Artefakt/Maschine-Interaktion (z.B. Arbeitspsychologie) im Vordergrund. Ziele sind:
 * Reduktion von Fehlern
@@ -40,7 +40,7 @@ Die Lebensräume der Menschen sind zu einem hohen Maß _designed_ also von Mensc
 * Benutzerakzeptanz
 * Ästhetisches Wohlbefinden
 
-Auch Donald E. Norman hat sich mit der Usability und dem **user-centered design** von Gegenständen beschäftigt. Zum Beispiel bemängelt er bei Türen ("Norman door"), dass für den User oft nicht ersichtlich ist, in welche Richtung die Tür sich öffnet. Die Kennzeichnungen (Push/Pull) seien bereits ein eindeutiger Hinweis auf das mangelhafte Design.
+Auch Donald E. Norman hat sich mit der Usability und dem **user-centered design** von Gegenständen beschäftigt. Zum Beispiel bemängelt er bei Türen ("Norman door"), dass für den User oft nicht ersichtlich ist, in welche Richtung sich die Tür öffnet. Die Kennzeichnungen (Push/Pull) seien bereits ein eindeutiger Hinweis auf das mangelhafte Design.
 
 Neben der Usability stellt sich bei Konsumgütern auch die Frage, in wieweit ästhetische Eigenschaften eine Rolle bei der Kaufentscheidung spielen. Diese Frage wird erst seit den 90er wissenschaftlich aufgegriffen. Bei der Kaufentscheidung sind nach Helander und Khalid (2006) zwei Prozesse maßgeblich:
 1. affective matching of needs
@@ -85,7 +85,7 @@ In weiteren Untersuchungen stellte sich heraus, dass jene Szenen präferiert wur
 Kinder bevorzugen Savannen (Balling & Falk, 1982). Forscher nehmen an, dass die ursprünglichen Landschaften der Menschen sind. Erwachsene zeigen diesen Effekt nicht so stark (bedingt durch Erfahrung und Kultur).
 
 Es gibt auch neuropsychologische Ansätze dazu. Zum Beispiel mussten die Vpn einer Studie eckige und runde Räume einschätzen. Gleichzeitig wurde mit fMRT die Gehirnaktivität gemessen. Runde Räume wurden bevorzugt und dabei waren im Gehirn Areale für Belohnung aktiviert.
- 
+
 # Emotionen
 
 TODO: Notizen unten zu Emotion der letzten VO-Einheit konsolidieren mit den Anfangskapiteln
@@ -118,3 +118,10 @@ Desmet (2000) "PrEmo" : interkulturell, non-verbale Messungen von Emotionen bei 
 **Emotionsinduktion**
 
 IAPS - International Affective Picture System
+
+# Kontrollfragen
+
+* Welche zwei _affektive Komponenten_ liegen (laut Helander und Khalid) Kaufprozessen zugrunde?
+* Worin besteht das umweltpsychologische Forschungsparadigma (S.104)?
+* Welche Eigenschaften von Landschaftsbildern führten laut Kaplan & Kaplan dazu, dass sie bevorzugt wurden (S.104)? Anhand welcher Dimensionen können diese Eigenschaften verortet werden (S.105)?
+* Was haben die Konzepte _Vertrautheit_ und _Novelty_ mit Eigenschaften von Landschaftsbildern laut Kaplan & Kaplan zu tun (S.106)?

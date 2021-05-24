@@ -12,13 +12,13 @@ semester: 2020W
 
 Quantitatives Vorgehen basiert auf Mittelwerten und deren statistischen Vergleichen. Problematisch ist dieses Vorgehen dann, wenn die Daten eine hohe Streuung aufweisen. Der Mittelwert verliert seine Aussage- und Erklärungskraft. Ursachenzuschreibungen sind nicht mehr möglich, weil zu viele (individuelle) Variablen Einfluss auf die gemessenen Größen genommen haben.
 
-Variationen & Cluster durch kulturelle Aspekte erklärbar.
+Variationen & Cluster, wie sie zum Beispiel durch Trends oder unterschiedliche Zielgruppen bei Produkten entstehen, sind durch kulturelle Aspekte erklärbar.
 
-Phänomene, die vermeintlich allgemeingültigen Regeln für Schönheit folgen, müssen daher überdurchschnittlich häufig, bei großen Stichproben/Populationen, zeit-, kultur- und reizklassenübergreifend beobachtbar sein.
+Will man also Phänomene identifizieren, die allgemeingültigen Schönheitsgesetzen folgen, dann ist es Voraussetzung, dass diese überdurchschnittlich häufig, bei großen Stichproben/Populationen, zeit-, kultur- und reizklassenübergreifend beobachtbar sind.
 
 # Gestaltpsychologie
 
-**Gestaltpsychologie** betrachtet Wahrnehmungsprozess ganzheitlich: "Das Ganze ist etwas anderes als die Summe seiner Teile". Wie werden Wahrnehmungsinhalte strukturiert? Wie werden Wahrnehmung und Wahrnehmungsfeld geformt?
+Die **Gestaltpsychologie** betrachtet (als Gegenentwurf zur Psychophysik) Wahrnehmungsprozesse ganzheitlich: "Das Ganze ist etwas anderes als die Summe seiner Teile". Sie behandelt Fragen wie: Wie werden Wahrnehmungsinhalte strukturiert? Wie werden Wahrnehmung und Wahrnehmungsfeld geformt?
 
 Will man Kunst psychologisch beforschen, muss man Beobachter, Künstler und Kunstwerk konzeptualisieren (Kurt Koffka).
 
@@ -41,7 +41,7 @@ Das **Peak-shift Prinzip** ist die Überbetonung von Unterscheidungsmerkmalen. P
 
 **Grouping & Binding** ist den Gesetzen der Gestaltpsychologie sehr ähnlich. Werden Elemente erst mal als zusammengehörig wahrgenommen (_Grouping_), dann ist es nicht mehr so einfach sie _nicht mehr_ als solches wahrzunehmen.
 
-Durch **Isolierung** werden irrelevante Aspekte weggelassen, sodass der Fokus auf die relevanten Aspekte gelenkt wird. Deshalb sind Skizzen eher Kunst als Fotografien.
+Durch **Isolierung** werden irrelevante Aspekte weggelassen, sodass der Fokus auf die relevanten Aspekte gelenkt wird. Deshalb werden Skizzen eher als Kunst wahrgenommen als Fotografien.
 
 Durch **Kontraste** werden Gegensätze verstärkt, wodurch die Aufmerksamkeit gelenkt wird. Kontraste können auch inhaltlich sein (z.B. nackter Mann mit Goldschmuck).
 
@@ -67,7 +67,7 @@ Arten von Fluency:
 * kognitiv
 * motorisch
 
-Fluency beeinflusst zwar, wie wir Objekte bewerten, aber nicht, wie wir uns fühlen. Forschungen über Fluency ist insofern eine Herausforderung, weil dafür Objekte gefunden werden, die von allen Vpn gleich häufig/selten wahrgenommen wurden. Für die Kunstwahrnehmung liefert Fluency nur teilweise Erklärung, denn bei moderner Kunst finden sich auch Stilmittel, die gängige Verarbeitung bewusst erschweren wollen.
+Fluency beeinflusst zwar, wie wir Objekte bewerten, aber nicht, wie wir uns fühlen. Forschungen zur Fluency sind insofern eine Herausforderung, weil dafür Objekte gefunden werden, die von allen Vpn gleich häufig/selten wahrgenommen wurden. Für die Kunstwahrnehmung liefert Fluency nur teilweise Erklärung, denn bei moderner Kunst finden sich auch Stilmittel, die gängige Verarbeitung bewusst erschweren wollen.
 
 Processing fluency kann simple Präferenzen gut erklären kann. Dies vor allem, wenn die Situation besonders unsicher ist, die Alternativen relativ ähnlich sind, sie sich hauptsächlich in der fluency unterscheiden, und auch, wenn die Personen rasch entscheiden müssen. Gerade in der Kunst sind die Reize komplex, die Personen haben genug Zeit und somit ist es unwahrscheinlich, dass Fluency alleine das Gefallensurteil bei Kunst bestimmt.
 
