@@ -23,21 +23,68 @@ Dieses Subkapitel ist auch eine Zusammenfassung des **Zusatztext 1**:
 
 <div style="background-color:lavender;margin-bottom:1em">Bruce, V., &amp; Young, A. (1986). Understanding face recognition. <i>British Journal of Psychology</i>, <i>77</i>(3), 305–327. <a href="https://doi.org/10.1111/j.2044-8295.1986.tb02199.x">https://doi.org/10.1111/j.2044-8295.1986.tb02199.x</a></div>
 
-In den 80ern präsentierten Bruce und Young ein konsolidiertes Modell der Gesichtsverarbeitung, das die komplexen Erkennungsprozesse in funktionale Komponenten aufteilt:
-* _structural encoding_ - piktorales, strukturelles Enkodieren
-* _expression analysis_ - Gesichtsausdruck
-* _facial speech analysis_ - Mimik
-* _directed visual processing_
-* _face recognition units (FRU)_
-* _person identity nodes (PIN)_
-* _name generation_
-* _cognitive system_
+## Codes
+In den 80ern präsentierten Bruce und Young ein konsolidiertes Modell der Gesichtsverarbeitung, das die komplexen Erkennungsprozesse in funktionale Komponenten aufteilt. Sie unterscheiden verschiedene Arten von Informationen, die wir aus Gesichtern ableiten, und nennen sie **Codes**:
 
-TODO: jede Komponente beschreiben
+Gesichter werden in Studien oft in Form von Fotos präsentiert. Der **pictorial code** ist jene Art von Information, die wir bezogen auf das Foto, auf dem wir das Gesicht sehen, ableiten. Dazu gehören Belichtung, Farbgebung, Rauschen, besondere Pose oder Ausdruck des Gesichts und ähnliches mehr. Also jene Information anhand derer wir eher die identische fotografische Abbildung des Gesichts wiedererkennen würden als das Gesicht selbst.
 
-**Structural encoding**
-_view-centered descriptions_
-_expression-independent descriptions_
+Der **structural code** ist jene Information über das Gesicht, die vom Medium (z.B. Foto) abstrahiert ist und die visuellen Eigenschaften des Gesichts codiert. Man unterscheidet den (1) **primal sketch**, also die grobe Einteilung des Gesehenen in Schattierungen und Formen. Die (2) **view-centred description**, jene Information über das Gesicht abhängig vom Blickwinkel. Und (3) die **expression-independent description**, jene Informationen, die vom Blickwinkel und vom Gesichtsausdruck abstrahiert werden und zu einem dreidimensionalen Modell des Gesichts beitragen.<br>
+Dieser structural code ist (besonders für bekannte Gesichter) eigentlich eine Menge von Codes mit unterschiedlicher Detailtiefe. Einer beschreibt z.B. eher die Konfiguration des Gesichts, ein anderer dafür im Detail den Mund oder die Nase. Diese Codes sind miteinander verbunden. So lässt sich erklären, wieso wir manche Menschen einerseits nur anhand ihrer Augenpartie erkennen können, aber auch dann, wenn sie Sonnebrillen tragen.
+
+**Visually derived semantic code** sind Informationen, die wir unbekannten (und bekannten) Gesichtern zuschreiben: Geschlecht, Alter, Vertrauenswürdigkeit, u.a.m.
+
+Im Kontrast dazu stehen **Identity-specific semantic codes**. Informationen, die wir mit einer uns bekannten Person verknüpfen. Diese spielen auch eine Rolle beim Wiedererkennen von Gesichtern. Das Gefühl ein Gesicht wiedererkannt zu haben ist relativ stark, wenn man identity-specific semantic codes zu diesem Gesicht abrufen kann.
+
+Die Namen zu wiederkannten Gesichtern sind **Name codes**. Der Grund warum Namen nicht zu identity-specific semantic codes gezählt werden ist, dass Namen eben keinen semantischen Gehalt haben. Das erklärt auch, wieso sie schwieriger zu merken sind.
+
+**Expression codes** sind Informationen über den Ausdruck, die wir sowohl von unbekannten als auch von bekannten Gesichtern ableiten.
+
+Die Bewegungen von Mund, Lippen, Zunge, während jemand mit uns spricht, erzeugen **Facial speech codes** und können den Informationsgehalt des Gesprochenen beeinflussen.
+
+Bruce und Young nehmen an, dass expression codes und facial speech codes keinen Einfluss auf das Wiedererkennen von Gesichtern nehmen.
+
+## Verarbeitungseinheiten
+
+Neben den obigen beschrieben Arten von Information, die bei der Gesichtverarbeitung entstehen und verwendet werden, unterscheiden Bruce und Young auch _funktionale Einheiten_, welche die Verarbeitungsschritte dieser Informationen repräsentieren. Die Einheiten sind so voneinander abgegrenzt, dass sie voneinander getrennt funktionieren können (z.B. durch Versuchsanordnung oder durch Gehirnverletzungen). Im Folgenden werden diese funktionalen Einheiten zusammengefasst:
+
+Das **Structural encoding** produziert _view-centred_ und _expression-independent_ descriptions. _View-centred_ descriptions bilden den Input für **expression analysis** und **facial speech analysis**.
+
+ Die **Face recognition units (FRU)** speichern _strucutral codes_ über bereits bekannte Gesichter. Diese gleicht sie mit den wahrgenommenen  _expression-independent_ descriptions (=Input) ab und erkennt so Gesichter wieder. FRUs können geprimed sein, wenn wir Personen erwarten zu sehen oder vor kurzem erst gesehen haben.
+
+Für jede bekannte Person speichert wir _identity-specific semantic codes_ in einem **person identity node (PIN)**. Das durch das FRU erkannte Gesicht dient als Schlüssel um auf die Informationen über die Person (zu der das Gesicht gehört) zugreifen zu können.
+
+Sobald wir das Gesicht erkannt (FRU) und Zugang zu den Informationen zur Person (PIN) haben, können wir in der Regel auch die Namen einer Person über die Einheit **Name generation** abrufen.
+
+Eine besondere Rolle hat das **Cognitive system**. Es steht für "all die anderen" kognitiven Prozesse und Informationen (Denken, Erinnerungen, Schlussfolgern, Problemlösen...), die ebenfalls bei der Personenerkennung Input liefern. Bruce und Young sehen die person identity nodes streng genommen als Teil des kognitiven Systems, haben sie aber in ihrem Modell prominenter platziert, weil ihre Rolle so einen wichtigen Stellenwert hat. Es erfüllt drei funktionen:
+1. Entscheidungen treffen
+2. Erinnerungen & Assoziationen bereitstellen
+3. Aufmerksamkeit lenken
+
+Eine ähnliche Stellung hat das **directed visual processing**. Das gezielte Richten von Aufmerksamkeit auf Merkmale. Wenn uns jemand bittet sich ein Gesicht gut zu merken, werden unsere kognitiven Prozesse etwas anders ablaufen, als wenn wir uns ein Gesicht unbewusst und automatisch bei einer Party merken.
+
+Teil des kognitiven Systems sind auch _visually derived semantic codes_, obwohl die Autoren explizit offen lassen, dass diese in zukünftigen Modellen auch spezifiziert und in eigene Einheiten hervorgehoben werden könnten.
+
+Mit dem Modell von Bruce und Young lassen sich folgende Phänomene erklären:
+* Wir sehen ein Gesicht, das uns bekannt vorkommt, aber wir wissen nicht wer und woher (FRU hat funktioniert, aber kein Zugriff auf PIN)
+* Wir erkennen die Person (PIN) und können ihre identitiy-specific semantic codes abrufen, aber den Namen nicht (kein Zugriff auf _name generation_)
+* Wir sind schneller _identity-specific semantic codes_ abzurufen als den Namen zu nennen
+* Wir sind schneller eine Person wiederzuerkennen als semantische Informationen über sie abzurufen
+* Wir sind unsicher, ob es sich bei einem Gesicht um eine bekannte Person handelt oder nicht (kognitives System)
+* Wir erkennen ein Person als unbekannt, trotz verblüffender Ähnlichkeit mit einem Bekannten (kognitives System)
+* Aufgrund von Gehirnverletzungen und/oder Störungen konnten Patienten...
+  * ...unbekannte Gesichter matchen (_structural codes_), aber bekannte Gesichter nicht wiedererkennen und umgekehrt
+  * ...das Gesicht wiedererkennen, aber _expression codes_ nicht  lesen und umgekehrt
+  * ...Gesichter nicht erkennen, aber _facial speech codes_
+
+Es erklärt aber auch, warum folgende Phänomene nicht auftreten, z.B. passiert es uns nie, dass uns der Name zu einem Gesicht einfällt, aber nicht wer diese Person eigentlich ist (deshalb ist PIN als Voraussetzung für _name generation_)
+
+## Einschränkungen
+
+* Die Verarbeitungseinheiten sind unterschiedlich genau spezifiziert: FRU genauer als _structural encoding_ genauer als _cognitive system_
+* Gesichter werden leicht als solches erkannt. Trotzdem enthält das Modell keine vorgeschaltete "Recognize as face unit". Die Autoren sehen das als Teil des _structural encodings_
+* Das Modell liefert als Erklärung für kontextuelle Effekte das Priming von PINs. Die beobachtbaren Kontexteffekte sind jedoch sehr vielseitig und könnten spezifischer ins Modell integriert werden.
+
+
 
 # Gesichtswiedererkennung
 
