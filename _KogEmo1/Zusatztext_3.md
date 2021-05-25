@@ -26,7 +26,7 @@ Hypothesen:
 
 # Vorgehen
 
-56 Vpn (Psychologiestudent*innen und Kunstgeschichtestudent*innen). Eigentlich 62, aber 6 wurden wegen technischen Problemen ausgeschlossen. Drei Gruppen: _low (18)_, _medium (18)_ und _high (20)_ Expertise.
+56 Vpn (Psychologiestudent\*innen und Kunstgeschichtestudent\*innen). Eigentlich 62, aber 6 wurden wegen technischer Problemen ausgeschlossen. Drei Gruppen: _low (18)_, _medium (18)_ und _high (20)_ Expertise.
 
 64 Kunstwerke. 32 mit positiver und 32 mit negativer Valenz.
 40 Fotos aus IAPS (International Affective Picture System). 20 mit positiver und 20 mit negativer Valenz.
@@ -47,14 +47,14 @@ Das Ausmaß der _emotional response_ gemessen mit dem EMG war bei Experten abged
 
 Die expliziten Valenz Ratings der Experten waren _bei den Kunstwerken_ ebenfalls abgedämpft im Vergleich zu den Laien.
 
-Jedoch unterschieden sich die expliziten Valenz Ratings der Experten bei den _IAPS Fotos_ nicht signifikant denen der Laien.
+Jedoch unterschieden sich die expliziten Valenz Ratings der Experten bei den _IAPS Fotos_ nicht signifikant von jenen der Laien.
 
 Experten hatten öfter auch Gefallen an emotional negativen Kunstwerken. Das könnte aber auch mit Vertrautheit erklärt werden, weil Experten viel öfter Kunst konsumieren. Zur Gänze könnte das den Effekt trotzdem nicht erklären, weil er auch bei den Fotos zu beobachten war und die Experten die Fotos zuvor nie gesehen hatten.
 
 Daher folgt die Annahme, dass die emotionalen und kognitiven Prozesse der Kunstwahrnehmung bei Experten anders ablaufen als bei Laien.
 
-Die Autoren zitieren auch Kants _Kritik der Urteilskraft_, in der er beschrieb, dass Experten sich von der konkreten Situation loslösen können und sie mit einer gewissen emotionalen Distanz beurteilen können (_detached mode_). Man könne sich dann besser auf andere Eigenschaften des Kunstwerks konzentrieren, zum Beispiel der Stil, angewandte Techniken, historischer und formaler Kontext...
+Die Autoren zitieren auch Kants _Kritik der Urteilskraft_, in der er beschrieb, dass Experten sich von der konkreten Situation loslösen können und sie mit einer gewissen emotionalen Distanz beurteilen können (_detached mode_). Man könne sich dann besser auf andere Eigenschaften des Kunstwerks konzentrieren, zum Beispiel auf den Stil, angewandte Techniken, historischer und formaler Kontext...
 
 # Ausblick
 
-Genauere Untersuchungen zur Generalisierbarkeit: Fotografie ist auch ein Gebiet der Kunst, somit könnte der abgedämpfte emotionale Aspekt bei Experten darauf zurück zu führen sein, dass die IAPS Fotos zu nahe mit Kunst verwandt sind. Außerdem wurde in der Studie ja der Kunst-Kontext beim Betrachten der Kunstwerke hergestellt. Somit könnte es sein, dass die Experten bei den arauf folgenden IAPS Fotos auf ihre Kunstwahrnehmungsprozesse hin aktivert waren. Man müsste visuelle Stimuli finden, die mit Kunst nur ganz wenig zu tun hat und dann in einem Nicht-Kunst Kontext betrachten und bewerten.
+Genauere Untersuchungen zur Generalisierbarkeit: Fotografie ist auch ein Gebiet der Kunst, somit könnte der abgedämpfte emotionale Aspekt bei Experten darauf zurück zu führen sein, dass die IAPS Fotos zu nahe mit Kunst verwandt sind. Außerdem wurde in der Studie ja der Kunst-Kontext beim Betrachten der Kunstwerke hergestellt. Somit könnte es sein, dass die Experten bei den darauf folgenden IAPS Fotos auf ihre Kunstwahrnehmungsprozesse hin aktiviert waren. Man müsste visuelle Stimuli finden, die mit Kunst nur ganz wenig zu tun haben und dann in einem Nicht-Kunst Kontext betrachten und bewerten.

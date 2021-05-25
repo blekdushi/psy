@@ -42,15 +42,15 @@ Drei Blöcke:
 
 # Ergebnisse
 
-Betrachtungsdauern waren allgemein länger als in vorhergegangene ähnlichen Studien. Eine Vermutung ist, dass soziale Erwünschtheit einen Einfluss hatte, weil die Vpn durch das Eye-Tracking wussten, dass ihre Blicke gemessen wurden.
+Betrachtungsdauern waren allgemein länger als in vorhergegangenen, ähnlichen Studien. Eine Vermutung ist, dass soziale Erwünschtheit einen Einfluss hatte, weil die Vpn durch das Eye-Tracking wussten, dass ihre Blicke gemessen wurden.
 
 Im Museum war...
 * ...die Betrachtungsdauer länger als im Labor.
 * ...die Bewertung der Kunstwerke höher und das Interesse größer als im Labor
 
-Die Betrachtungsdauer war umso höher, umso höher die Wertschätzung (Kombination aus Gefallen und Interesse) war. Dieser Zusammenhang war im Labor stärker als im Museum. Im Museum scheinen noch andere Faktoren auf die Betrachtungsdauer zu wirken.
+Die Betrachtungsdauer war umso länger, umso höher die Wertschätzung (Kombination aus Gefallen und Interesse) war. Dieser Zusammenhang war im Labor stärker als im Museum. Im Museum scheinen noch andere Faktoren auf die Betrachtungsdauer zu wirken.
 
-Die Betrachtungsdauer war umso höher, umso mehr die Vpn das Kunstwerk zu verstehen geglaubt haben. Interessanterweise hatte Verständnis aber keinen Zusammenhang mit der Betrachtungsdauer des Schilds, das bei jedem Kunstwerk dabei hängt (wo Titel, Künstler und eventuell Erläuterungen drauf stehen). Das verwundert, weil man annimmt, dass diese Kontextinformation zum Verständnis des Werkes beiträgt. Vielleicht waren die Schilder bei dieser Studie eher bedeutungsschwach und somit für das Verständnis nicht hilfreich.
+Die Betrachtungsdauer war umso länger, umso mehr die Vpn das Kunstwerk zu verstehen geglaubt haben. Interessanterweise hatte Verständnis aber keinen Zusammenhang mit der Betrachtungsdauer des Schilds, das bei jedem Kunstwerk dabei hängt (wo Titel, Künstler und eventuell Erläuterungen drauf stehen). Das verwundert, weil man annimmt, dass diese Kontextinformation zum Verständnis des Werkes beiträgt. Vielleicht waren die Schilder bei dieser Studie eher bedeutungsschwach und somit für das Verständnis nicht hilfreich.
 
 Keinen Unterschied machten die Kontexte auf die Einschätzung der Mehrdeutigkeit. Trotzdem gab es einen wesentlichen Unterschied zwischen den Kontexten: bei der Laborgruppe gab es einen negativen Zusammenhang zwischen Mehrdeutigkeit und Betrachtungsdauer und bei der Museumsgruppe einen positiven. Und das obwohl beide die Mehrdeutigkeit ähnlich einschätzten.
 
