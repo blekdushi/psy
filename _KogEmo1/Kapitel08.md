@@ -69,13 +69,13 @@ Arten von Fluency:
 
 Fluency beeinflusst zwar, wie wir Objekte bewerten, aber nicht, wie wir uns fühlen. Forschungen zur Fluency sind insofern eine Herausforderung, weil dafür Objekte gefunden werden, die von allen Vpn gleich häufig/selten wahrgenommen wurden. Für die Kunstwahrnehmung liefert Fluency nur teilweise Erklärung, denn bei moderner Kunst finden sich auch Stilmittel, die gängige Verarbeitung bewusst erschweren wollen.
 
-Processing fluency kann simple Präferenzen gut erklären kann. Dies vor allem, wenn die Situation besonders unsicher ist, die Alternativen relativ ähnlich sind, sie sich hauptsächlich in der fluency unterscheiden, und auch, wenn die Personen rasch entscheiden müssen. Gerade in der Kunst sind die Reize komplex, die Personen haben genug Zeit und somit ist es unwahrscheinlich, dass Fluency alleine das Gefallensurteil bei Kunst bestimmt.
+Processing fluency kann simple Präferenzen gut erklären. Dies vor allem, wenn die Situation besonders unsicher ist, die Alternativen relativ ähnlich sind, sie sich hauptsächlich in der fluency unterscheiden, und auch, wenn die Personen rasch entscheiden müssen. Gerade in der Kunst sind die Reize komplex, die Personen haben genug Zeit und somit ist es unwahrscheinlich, dass Fluency alleine das Gefallensurteil bei Kunst bestimmt.
 
 Eng damit verwandt ist der **Mere-exposure** Effekt: Umso öfter wir einen Reiz wahrnehmen, umso besser gefällt er uns. Dieser Effekt ist auch in der Kunst zu beobachten, z.B. waren der Eiffelturm und impressionistische Kunst anfangs als hässlich verschrien. Durch Mere-exposure erhöht sich die Vertrautheit des Reizes, wodurch er einfacher zu verarbeiten ist (_Fluency_). Der Effekt ist dann besonders stark, wenn:
 * Darbietungshäufigkeit im mittleren Bereich liegt (ca. 10-20 Wiederholungen)
 * Darbietungsdauer kurz ist (weniger als eine Sekunde)
 * bewusstes Erinnern unwahrscheinlich ist (wenn die Aufmerksamkeit gering ist)
 
-Die Wirkung des Mere-exposure Effekts ist abhängig von der Reizklasse: Buchstaben und Wortfolgen waren geeigneter als Fotografien und Kunst. Das kann damit erklärt werden, dass z.B. bei Kunst noch viel mehr Variablen in die Wahrnehmung einfließen (z.B. Bedeutung des Bildes) und dass durch die Bewusste Wahrnehmung Erwartungen und Attributionen gebildet werden, die den Effekt von Fluency modiereren (siehe oben Punkt 4).
+Die Wirkung des Mere-exposure Effekts ist abhängig von der Reizklasse: Buchstaben und Wortfolgen waren geeigneter als Kunst. Das kann damit erklärt werden, dass z.B. bei Kunst noch viel mehr Variablen in die Wahrnehmung einfließen (z.B. Bedeutung des Bildes) und dass durch die bewusste Wahrnehmung Erwartungen und Attributionen gebildet werden, die den Effekt von Fluency moderieren (siehe oben Punkt 4).
 
 Das Prinzip der **Prototypikalität** besagt, dass wir Objekte kategorisieren. Kategorien beschreiben somit typische Eigenschaften der in ihnen enthaltenen Objekte. Sie sind so etwas wie Prototypen. Umso einfacher ein Objekt kategorisiert werden kann, umso höher ist seine  Fluency bzw. das Gefallen. Dieser Effekt kann aber ebenfalls durch Semantik und höhere Kognitionen beeinflusst werden.

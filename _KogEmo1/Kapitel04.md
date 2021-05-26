@@ -39,7 +39,7 @@ Weil das Erleben von Emotionen nicht objektiv messbar ist, gibt es zwei Methoden
 * Introspektion (und Befragung)
 * Linguistik - Analyse der Sprache von Texten
 
-Barrett und Russell (1999) haben Wörter und Sprache von Selbstberichten mittels Cluster- und Faktorenanalyse ausgewertet und darauf aufbauend das **Circumplex-Modell** postuliert. Dieses hat zwei Dimensionen: _Valenz_ und _Erregung_. Entlang zweier Kreise, ähnlich eines Kompass, können Emotionen dann verortet werden. Der innere Kreis enthält Emotionen und der äußere Kreis prototypische, emotionale Zustände, welche sind[^1]:
+Barrett und Russell (1999) haben Wörter und Sprache von Selbstberichten mittels Cluster- und Faktorenanalyse ausgewertet und darauf aufbauend das **Circumplex-Modell** postuliert. Dieses hat zwei Dimensionen: _Valenz_ und _Erregung_. Entlang zweier Kreise, ähnlich einem Kompass, können Emotionen dann verortet werden. Der innere Kreis enthält Emotionen und der äußere Kreis prototypische, emotionale Zustände, welche sind[^1]:
 * Angst
 * Trauer
 * Ärger
@@ -66,10 +66,10 @@ Kritik an diesen Ansätzen ist, dass (1) keine Einigkeit herrscht, was nun Basis
 
 Populär ist das [**Wheel of Emotions**](https://www.6seconds.org/2020/08/11/plutchik-wheel-emotions/) von Plutchik. Es ist _kategorial_ und _dimensional_, weil es je zwei seiner acht Basisemotionen als Gegensätze annimmt, die eine Dimension bilden. Weitere Emotionen können als Kombination von Basisemotionen abgebildet werden (z.B. Liebe als Kombination von "Freude" und "Vertrauen"). Je nach "Entfernung" der vermischten Basisemotionen im Modell nennt man diese dann _primäre_ (benachbart), _sekundäre_ und _tertiäre_ (gegenüberliegende) _Dyaden_. Wenn sich drei Basisemotionen zu einer Emotion mischen, dann nennt man das _Triade_.
 
-<div style="background-color:lavender;margin-bottom:1em">Notiz: die obige Darstellung ist streng genommen verwirrend, weil sie die grafische Darstellung des Modells beschreibt, aber nicht seine Semantik. Eigentlich handelt es sich um ein 9-dimensionales Modell (8 Basisemotionen + Intensität). Die Gegensatzpaare bilden nicht EINE Dimension, sondern jede Basisemotion ihre eigene, da sonst semantisch keine Triaden möglich wären. Emotionen können dann als 9-dimensionaler (bzw. 8, wenn man Intensität weglässt) Vektor dargestellt werden. Dyaden wären dann Vektoren mit Ausprägungen an zwei Dimensionen (z.B. X, Y, 0, 0, 0, 0, 0, 0), und Triaden mit drei (z.B. X, Y, Z, 0, 0, 0, 0, 0)
+<div style="background-color:lavender;margin-bottom:1em">Notiz: die obige Darstellung ist streng genommen verwirrend, weil sie die grafische Darstellung des Modells beschreibt, aber nicht seine Semantik. Eigentlich handelt es sich um ein 9-dimensionales Modell (8 Basisemotionen + Intensität). Die Gegensatzpaare bilden nicht EINE Dimension, sondern jede Basisemotion ihre eigene, da sonst semantisch keine tertiären Dyaden möglich wären. Emotionen können dann als 9-dimensionaler (bzw. 8, wenn man Intensität weglässt) Vektor dargestellt werden. Dyaden wären dann Vektoren mit Ausprägungen an zwei Dimensionen (z.B. X, Y, 0, 0, 0, 0, 0, 0), und Triaden mit drei (z.B. X, Y, Z, 0, 0, 0, 0, 0)
 </div>
 
-Als zusätzliche Dimension gibt es noch die _Intensität_, die das grafisch veranschaulichte Modell dreidimensional und wie eine Tüte erscheinen lässt. Auf dieser Dimension lässt sich z.B. Freude je nach Intensität zu Extase oder leichte Heiterkeit transformieren.
+Als zusätzliche Dimension gibt es noch die _Intensität_, die das grafisch veranschaulichte Modell dreidimensional und wie eine Tüte erscheinen lässt. Auf dieser Dimension lässt sich z.B. Freude je nach Intensität zu Extase oder leichter Heiterkeit transformieren.
 
 TODO: Meyer, Schützwohl & Reisenzein,1999, S. 148 laut Skriptum
 

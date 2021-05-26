@@ -26,7 +26,6 @@ Drei Zugänge:
 * Alexander Gottlieb Baumgarten - sieht Schönheit und ihre Wahrnehmung als _niedere Kognition_. Das "Gute" wird somit direkt über die Schönheit erfasst und nicht durch höhere Kognitionen "erkannt".
 * Kant - Schönheit ist subjektives Urteil, das man nicht beweisen kann, das aber durchaus empirisch untersucht werden kann.
 
-
 **Kunstgeschichtliche** Ansätze setzen den Fokus auf die Wirkung von Kunst wie Stil, historische Epoche, Technik. Dabei muss es nicht unbedingt um Schönheit gehen, sondern allgemein um Wirkung. Diese Überlegungen setzen einen _idealen Betrachter_ voraus und ignorieren somit individuelle Unterschiede.
 
 **Psychologische** Ansätze setzen den Fokus auf das Erleben und Empfinden des Betrachters.
@@ -34,11 +33,11 @@ Drei Zugänge:
 # Psychophysik
 
 **Gustav T. Fechner**, Begründer der (inneren und äußeren) Psychophysik, beschäftigte sich mit ästhetischer Wahrnehmung und Erleben. Zum Beispiel legten seine Forschungen nahe, dass der **Goldene Schnitt** (ein Verhältnismaß c:b = b:a, wobei gilt c = a+b) als ästhetisch empfunden wird. Das konnte jedoch bisweilen nicht repliziert werden. Man vermutet, dass die Vpn den goldenen Schnitt aufgrund seiner damaligen Alltagsdominanz (_fluency_) als schöner empfanden.
-Auch mit dem Selbstberichten zur Holbeinschen Madonna leistete Fechner einen wichtigen Einstieg in die empirisch fundierte Ästhetik. Seine Versuche Schönheit empirisch beim Betrachter zu erfassen können als _Bottom-up_ Vorgehen gesehen werden. Dem gegenüber steht das _Top-down_ Vorgehen, bei dem Fragen zur Schönheit von Experten behandelt werden (vergleiche auch Baumgartens _niedere_ und _höhere_ Kognitionen)
+Auch mit den Selbstberichten zur Holbeinschen Madonna leistete Fechner einen wichtigen Einstieg in die empirisch fundierte Ästhetik. Seine Versuche Schönheit empirisch beim Betrachter zu erfassen können als _Bottom-up_ Vorgehen gesehen werden. Dem gegenüber steht das _Top-down_ Vorgehen, bei dem Fragen zur Schönheit von Experten behandelt werden (vergleiche auch Baumgartens _niedere_ und _höhere_ Kognitionen)
 
 Auch **Wilhelm Wundt** machte Untersuchungen zur Wirkung von Farben.
 
-Der **Behaviorismus** schränkte das allgemeine Forschungsinteresse an ästhetischem Empfinden ein.
+Der **Behaviorismus** schränkte das allgemeine Forschungsinteresse an ästhetischem Empfinden ein. Einerseits, weil nur noch beobachtbares Verhalten als psychologisch relevant erachtet wurden, und andererseits, weil Kunstwerke mit ihren vielfältigen Reizen nicht mit dem Anspruch auf eine objektive Reiz-Reaktion-Anordnung für Experimente vereinbar waren.
 
 # Psychoanalyse
 
@@ -56,6 +55,8 @@ Er bezeichnet...
 * **hedonic value** als den Gefallen, den Betrachter an einem Kunstwerk finden
 * **arousal** als das Ausmaß in dem ein Kunstwerk den Betrachter stimuliert
 
-Hedonic value und arousal stehen als auf den Kopf gestellte U-förmige Kurve miteinander in Verhältnis. Anfangs führt mehr arousal zu mehr hedonic value, dann kommt es zu einem Peak und danach nimmt hedonic value mit zunehmendem arousal ab.
+Der Mensch hat das Bedürfnis nach Stimulation. Hedonic value und arousal stehen als auf den Kopf gestellte U-förmige Kurve miteinander in Verhältnis. Anfangs führt mehr arousal zu mehr hedonic value, dann kommt es zu einem Peak und danach nimmt hedonic value mit zunehmendem arousal ab.
+
+Berlyne unterscheidet **spezifische** und **diversive Exploration**. Erstere ist eher kognitiv und versucht Unstimmigkeiten und Mehrdeutigkeiten aufzulösen.
 
 Man nimmt an, dass **Komplexität** (Anzahl visueller Elemente und ihre Unterschiedlichkeiten) eine wichtige Rolle bei der Ästhetik von Bildern spielt.

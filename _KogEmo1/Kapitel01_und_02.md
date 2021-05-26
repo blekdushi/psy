@@ -36,6 +36,7 @@ Emotionen sind...
 * ...von begrenzter Dauer
 * ...von unterschiedlicher Intensität
 * ...unwillkürlich
+* ...physiologische und Verhaltensaspekte
 
 # Abgrenzung von verwandten Konzepten
 
