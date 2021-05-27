@@ -29,9 +29,9 @@ Hypothesen:
   * Kontext
   * Kunstexpertise
   * Kunstinteresse
-2. Wenn dargeboten im Museumskontext, dann blicken die Vpn öfter und länger auf das Kunstwerk, weil der (puristische) Kontext modernen Museen weniger ablenkt...
-3. ...und davon abhängig: wenn das Kunstwerk länger angesehen wurde, dann wird es auch höher bewertet
-4. Wenn Vpn den Kunststil der Kunstwerke einschätzen, dann machen verwechseln sie Graffiti mit moderner Kunst häufiger, wenn es im Museumskontext dargeboten wird.
+2. Wenn dargeboten im Museumskontext, dann blicken die Vpn öfter und länger auf das Kunstwerk, weil der (puristische) Kontext moderner Museen weniger ablenkt...
+3. ...und davon abhängig: wenn das Kunstwerk länger angesehen wird, dann wird es auch höher bewertet
+4. Wenn Vpn den Kunststil der Kunstwerke einschätzen, dann verwechseln sie Graffiti mit moderner Kunst häufiger, wenn es im Museumskontext dargeboten wird.
 
 Die in der dritten Hypothese angesprochene _Bewertung des Kunstwerks_ operationalisierten die Forscher, indem sie die Vpn bei jedem Kunstwerk nach folgenden Einschätzungen fragten:
 * Valenz (emotionale Verarbeitung)
@@ -46,7 +46,7 @@ Die in der dritten Hypothese angesprochene _Bewertung des Kunstwerks_ operationa
 
 Jedes Kunstwerk wurde digital in je einen Museumskontext und einen Straßenkontext eingebettet, somit gab es 2x2x20 = 80 Stimuli.
 
-Darbietung auf normalem Computerbildschirm. Jener Bereich des Stimulus, der das eingebettet Kunstwerk enthielt wurde für das Eye-Tracking als _Area of Interest (AOI)_ definiert.
+Darbietung auf normalem Computerbildschirm. Jener Bereich des Stimulus, der das eingebettete Kunstwerk enthielt wurde für das Eye-Tracking als _Area of Interest (AOI)_ definiert.
 
 Zwei Fragebogen zu Interesse an... (9-Punkte Skala):
 * ...Kunst allgemein
@@ -66,15 +66,15 @@ Blöcke:
 
 # Ergebnisse
 
-* Kontext & Interesse an Graffiti <-> Beauty
-* Kontext & Interesse an Graffiti <-> Interesse an Kunstwerk
-* Kontext <-> Interesse
-* Stil & Kontext <-> Beauty
-* Stil & Kontext <-> Interesse an Kunstwerk
 * Wenn Museumskontext, dann längere Blickzeiten (unabhängig vom Stil)
 * Längere Blickzeiten führten **nicht** bei allen Kunstwerken zu besseren Bewertungen
   * Nur moderne Kunst wurde im Museumskontext besser bewertet als im Straßenkontext
   * Bewertungen von Graffiti Kunst waren **nicht** vom Kontext abhängig
+* Kontext <-> Interesse
+* Kontext & Interesse an Graffiti <-> Beauty
+* Kontext & Interesse an Graffiti <-> Interesse an Kunstwerk
+* Stil & Kontext <-> Beauty
+* Stil & Kontext <-> Interesse an Kunstwerk
 * Wenn moderne Kunst im Museumskontext, dann 90% richtige Stilzuordnung
 * Wenn moderne Kunst im Straßenkontext, dann 75% richtige Stilzuordnung
 * Wenn Graffiti im Straßenkontext, dann 76% richtige Stilzuordnung
