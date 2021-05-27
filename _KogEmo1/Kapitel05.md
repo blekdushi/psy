@@ -45,22 +45,22 @@ Bruce und Young nehmen an, dass expression codes und facial speech codes keinen 
 
 ## Verarbeitungseinheiten
 
-Neben den obigen beschrieben Arten von Information, die bei der Gesichtverarbeitung entstehen und verwendet werden, unterscheiden Bruce und Young auch _funktionale Einheiten_, welche die Verarbeitungsschritte dieser Informationen repräsentieren. Die Einheiten sind so voneinander abgegrenzt, dass sie voneinander getrennt funktionieren können (z.B. durch Versuchsanordnung oder durch Gehirnverletzungen). Im Folgenden werden diese funktionalen Einheiten zusammengefasst:
+Neben den obigen beschriebenen Arten von Information, die bei der Gesichtverarbeitung entstehen und verwendet werden, unterscheiden Bruce und Young auch _funktionale Einheiten_, welche die Verarbeitungsschritte dieser Informationen repräsentieren. Die Einheiten sind so voneinander abgegrenzt, dass sie voneinander getrennt funktionieren können (z.B. durch Versuchsanordnung oder durch Gehirnverletzungen). Im Folgenden werden diese funktionalen Einheiten zusammengefasst:
 
 Das **Structural encoding** produziert _view-centred_ und _expression-independent_ descriptions. _View-centred_ descriptions bilden den Input für **expression analysis** und **facial speech analysis**.
 
  Die **Face recognition units (FRU)** speichern _strucutral codes_ über bereits bekannte Gesichter. Diese gleicht sie mit den wahrgenommenen  _expression-independent_ descriptions (=Input) ab und erkennt so Gesichter wieder. FRUs können geprimed sein, wenn wir Personen erwarten zu sehen oder vor kurzem erst gesehen haben.
 
-Für jede bekannte Person speichert wir _identity-specific semantic codes_ in einem **person identity node (PIN)**. Das durch das FRU erkannte Gesicht dient als Schlüssel um auf die Informationen über die Person (zu der das Gesicht gehört) zugreifen zu können.
+Für jede bekannte Person speichern wir _identity-specific semantic codes_ in einem **person identity node (PIN)**. Das durch das FRU erkannte Gesicht dient als Schlüssel um auf die Informationen über die Person (zu der das Gesicht gehört) zugreifen zu können.
 
 Sobald wir das Gesicht erkannt (FRU) und Zugang zu den Informationen zur Person (PIN) haben, können wir in der Regel auch die Namen einer Person über die Einheit **Name generation** abrufen.
 
-Eine besondere Rolle hat das **Cognitive system**. Es steht für "all die anderen" kognitiven Prozesse und Informationen (Denken, Erinnerungen, Schlussfolgern, Problemlösen...), die ebenfalls bei der Personenerkennung Input liefern. Bruce und Young sehen die person identity nodes streng genommen als Teil des kognitiven Systems, haben sie aber in ihrem Modell prominenter platziert, weil ihre Rolle so einen wichtigen Stellenwert hat. Es erfüllt drei funktionen:
+Eine besondere Rolle hat das **Cognitive system**. Es steht für "all die anderen" kognitiven Prozesse und Informationen (Denken, Erinnerungen, Schlussfolgern, Problemlösen...), die ebenfalls bei der Personenerkennung Input liefern. Bruce und Young sehen die _person identity nodes_ streng genommen als Teil des kognitiven Systems, haben sie aber in ihrem Modell prominenter platziert, weil ihre Rolle so einen wichtigen Stellenwert hat. Das _cognitive system_ erfüllt drei Funktionen:
 1. Entscheidungen treffen
 2. Erinnerungen & Assoziationen bereitstellen
 3. Aufmerksamkeit lenken
 
-Eine ähnliche Stellung hat das **directed visual processing**. Das gezielte Richten von Aufmerksamkeit auf Merkmale. Wenn uns jemand bittet sich ein Gesicht gut zu merken, werden unsere kognitiven Prozesse etwas anders ablaufen, als wenn wir uns ein Gesicht unbewusst und automatisch bei einer Party merken.
+Eine ähnliche Stellung hat das **directed visual processing**. Das gezielte Richten von Aufmerksamkeit auf Merkmale. Wenn uns jemand bittet ein Gesicht gut einzuprägen, werden unsere kognitiven Prozesse etwas anders ablaufen, als wenn wir uns ein Gesicht unbewusst und automatisch bei einer Party merken.
 
 Teil des kognitiven Systems sind auch _visually derived semantic codes_, obwohl die Autoren explizit offen lassen, dass diese in zukünftigen Modellen auch spezifiziert und in eigene Einheiten hervorgehoben werden könnten.
 
@@ -70,7 +70,7 @@ Mit dem Modell von Bruce und Young lassen sich folgende Phänomene erklären:
 * Wir sind schneller _identity-specific semantic codes_ abzurufen als den Namen zu nennen
 * Wir sind schneller eine Person wiederzuerkennen als semantische Informationen über sie abzurufen
 * Wir sind unsicher, ob es sich bei einem Gesicht um eine bekannte Person handelt oder nicht (kognitives System)
-* Wir erkennen ein Person als unbekannt, trotz verblüffender Ähnlichkeit mit einem Bekannten (kognitives System)
+* Wir erkennen ein Gesicht als uns unbekannt, trotz verblüffender Ähnlichkeit mit einem Bekannten (kognitives System)
 * Aufgrund von Gehirnverletzungen und/oder Störungen konnten Patienten...
   * ...unbekannte Gesichter matchen (_structural codes_), aber bekannte Gesichter nicht wiedererkennen und umgekehrt
   * ...das Gesicht wiedererkennen, aber _expression codes_ nicht  lesen und umgekehrt
@@ -80,11 +80,9 @@ Es erklärt aber auch, warum folgende Phänomene nicht auftreten, z.B. passiert 
 
 ## Einschränkungen
 
-* Die Verarbeitungseinheiten sind unterschiedlich genau spezifiziert: FRU genauer als _structural encoding_ genauer als _cognitive system_
-* Gesichter werden leicht als solches erkannt. Trotzdem enthält das Modell keine vorgeschaltete "Recognize as face unit". Die Autoren sehen das als Teil des _structural encodings_
+* Die Verarbeitungseinheiten sind unterschiedlich genau spezifiziert: FRU genauer als _structural encoding_, dieses wiederum genauer als das _cognitive system_.
+* Gesichter werden leicht als solches erkannt. Trotzdem enthält das Modell keine vorgeschaltete "Recognize as face unit". Die Autoren sehen das als Teil des _structural encodings_.
 * Das Modell liefert als Erklärung für kontextuelle Effekte das Priming von PINs. Die beobachtbaren Kontexteffekte sind jedoch sehr vielseitig und könnten spezifischer ins Modell integriert werden.
-
-
 
 # Gesichtswiedererkennung
 
@@ -102,7 +100,7 @@ Manche Forschungen machen sich die Einprägsamkeit und Auffälligkeit (**Distinc
 
 TODO: Principal components analysis (PCA) von Hancock, Bruce & Burton
 
-Konfigurale Merkmale erklären nur einige Aspekte der Gesichtserkennung. Bereits bekannte Gesichter können auch dann wiedererkannt werden, wenn sie stark verzerrt sind. Hinzu kommt, dass verzerrte Versionen dieser Gesichter Adaptionseffekte haben, sodass man danach leichte Verzerrungen sogar gegenüber dem Original bevorzugt. Eine Erklärung dafür ist, dass wir **Prototypen** als kognitive Repräsentation bilden, also so etwas wie einen Durchschnitt über alle Wahrnehmungen, die wir von einem Gesicht machen. Zum Beispiel hat ein Algorithmus aus mehreren Fotos von Bill Clinton ein Average gebildet und dieses wurde dann von den Vpn als am meisten mit Bill Clinton (im Vergleich zu den Fotos, die als Input für den Algorithmus dienten) assoziiert.
+Konfigurale Merkmale erklären nur einige Aspekte der Gesichtserkennung. Bereits bekannte Gesichter können auch dann wiedererkannt werden, wenn sie stark verzerrt sind. Hinzu kommt, dass verzerrte Versionen dieser Gesichter Adaptionseffekte haben, sodass man danach leichte Verzerrungen sogar gegenüber dem Original bevorzugt. Eine Erklärung dafür ist, dass wir **Prototypen** als kognitive Repräsentation bilden, also so etwas wie einen Durchschnitt über alle Wahrnehmungen, die wir von einem Gesicht machen. Zum Beispiel hat ein Algorithmus aus mehreren Fotos von Bill Clinton ein Average gebildet und dieses wurde dann von den Vpn als am meisten mit Bill Clinton assoziiert (im Vergleich zu den Fotos, die als Input für den Algorithmus dienten).
 
 # Relevanz und Anwendungsbereiche
 
