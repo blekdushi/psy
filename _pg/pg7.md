@@ -8,7 +8,7 @@ full_title: Psycholog\*innengesetz und berufspolitische Rahmenbedingungen
 vortragender: Wimmer-Puchinger
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Leitbild des BÖP
 

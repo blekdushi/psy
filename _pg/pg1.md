@@ -8,7 +8,7 @@ full_title: Zur Entstehung der modernen Psychologie
 vortragender: Benetka
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 **Definition** Psychologie:
 

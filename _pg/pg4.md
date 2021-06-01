@@ -8,7 +8,7 @@ full_title: Die moderne empirische Erkenntnisposition und ihre Kritiker
 vortragender: Slunecko
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Kritischer Rationalismus
 

@@ -8,7 +8,7 @@ full_title: Wie ist Psychologie als Wissenschaft möglich?
 vortragender: Benetka
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 Wissenschaft ist ein gemeinschaftlicher Prozess. Alle Forschenden sollen ihre Forschungen ihren Kolleg\*innen kommunizieren einsehen und umgekehrt deren Forschung _[intersubjektiv](https://www.duden.de/rechtschreibung/intersubjektiv)_ nachvollziehen und sogar reproduzieren können.
 

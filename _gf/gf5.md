@@ -7,7 +7,7 @@ date: 05.11.2020
 full_title: Fechner und die Psychophysik
 vortragender: Leder
 ---
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Allgemeine Psychologie
 

@@ -8,7 +8,7 @@ full_title: Leib-Seele-Problematik und bio-psychologische Methoden
 vortragender: Lamm
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Analyseebenen
 

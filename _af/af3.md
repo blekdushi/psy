@@ -7,7 +7,7 @@ full_title: Psychologische Diagnostik
 vortragender: Hirschmann
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Definition und Geschichte
 

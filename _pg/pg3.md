@@ -8,7 +8,7 @@ full_title: Vorlogische Voraussetzungen europäischer Wissenschaft – Die Vorga
 vortragender: Slunecko
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Paradigma
 

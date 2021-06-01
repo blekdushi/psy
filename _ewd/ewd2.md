@@ -8,7 +8,7 @@ full_title: Vom schlussfolgernden Beobachten zur experimentellen Methode
 vortragender: Laback
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Attributionstheorie
 

@@ -8,7 +8,7 @@ full_title: Theorien und Konzepte der Entwicklungspsychologie
 vortragender: Höhl
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Theorien menschlicher Entwicklung
 

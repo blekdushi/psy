@@ -7,7 +7,7 @@ date: 12.11.2020
 full_title: Skinner und das Lernen
 vortragender: Leder
 ---
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Behaviorismus
 

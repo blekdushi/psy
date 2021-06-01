@@ -9,7 +9,7 @@ full_title: Einführung in die Bildungspsychologie
 vortragender: Götz
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Relevanz und Definition: Bildungspsychologie
 

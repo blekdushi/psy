@@ -8,7 +8,7 @@ full_title: „Jeder anders? Alle gleich?“ Einführung in die Persönlichkeits
 vortragender: Pietschnig
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Zusatztext: Psychoanalyse Freuds als Persönlichkeitstheorie
 

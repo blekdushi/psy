@@ -7,6 +7,8 @@ full_title: Klinische Psychologie
 vortragender: Lueger-Schuster
 ---
 
+{% include steop_header.md %}
+
 # Psychische Störungen (Zusatztext)
 
 Die folgenden Absätze sind eine Zusammenfassung des Buchkapitels von Gerrig (2015, S.550-560):

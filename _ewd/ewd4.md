@@ -8,7 +8,7 @@ full_title: Zu den Anfängen der qualitativen Sozialforschung am Wiener Institut
 vortragender: Slunecko
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Autoren
 

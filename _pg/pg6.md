@@ -8,7 +8,7 @@ full_title: Ethik in der psychologischen Forschung
 vortragender: Lueger-Schuster
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Ethik
 

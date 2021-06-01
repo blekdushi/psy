@@ -8,7 +8,7 @@ full_title: Einführung in die Entwicklungspsychologie
 vortragender: Höhl
 ---
 
-{% include vo_header.md %}
+{% include steop_header.md %}
 
 # Definition & Motivation
 
