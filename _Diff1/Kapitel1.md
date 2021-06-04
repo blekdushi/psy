@@ -26,3 +26,9 @@ vo: Differentielle Psychologie 1
 * Auf welche zwei Arten definieren Forscher psychologische Konzepte?
 * Welche Forschungsrichtungen hat die Differentielle Ψ eingeschlagen?
 * Nenne historische Definitionsversuche und Beispiele für Typologien (der Persönlichkeit)!
+* Um welche Fragen geht es bei der trait-orientierten Forschung?
+* Was gibt es bei der Stabilität von Traits zu beachten?
+* Was ist das "Überbrückungsproblem"?
+* Wodurch standardisiert eine operationale Definition einen Begriff?
+* Inwiefern sind mehrere Operationalisierungen ein und des selben Konzepts hilfreich?
+* Mit welchen Ansätzen analysiert die Differentielle Ψ Unterschiede in Personeneigenschaften?
