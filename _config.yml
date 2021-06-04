@@ -41,10 +41,14 @@ collections:
   KogEmo1:
     output: true
     vo_name: KogEmo 1
+    vortragender: Leder
+    semester: 2020W
     steop: false
   Diff1:
     output: true
     vo_name: Differentielle Psychologie 1
+    vortragender: Pietschnig
+    semester: 2020W
     steop: false
 
 # Build settings
