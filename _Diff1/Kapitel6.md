@@ -143,12 +143,74 @@ semester: 2020W
 
 # Hochbegabung
 
-* Terman
+* 2 konträre Hypothesen:
+  * Harmoniehypothese
+    * Hochbegabung korreliert _positiv_ mit psychischen/physischen Merkmalen
+  * Divergenzhypothese
+    * Hochbegabung korreliert _negativ_ mit psychischen/physischen Merkmalen
+* Terman-Längsschnittstudie (1925)
+  * Auswahlvorgehen (n=250k)
+    * Nominierung durch Lehrer
+    * 10% Besten bei "National Intelligence Test"
+    * Kurzform Stanford-Binet IQ > 130
+    * Langform Stanford-Binet IQ > 140
+    * n=1528
+  * Ergebnisse
+    * Kindheit
+      * größer & gesünder
+      * neugieriger
+      * Schulleistung besser & Wissensbasis größer
+    * Jugend
+      * Schulleistung besser & Überspringen von Schulklassen
+      * hohe Übertrittsrate ins College
+    * Erwachsenenalter
+      * Intellektueller Vorsprung & höhere Produktivität
+      * Frauen gleich hohe Positionen wie Männer
+  * Kritik
+    * Lehrerurteile als Auswahlkriterium
+    * Unterschicht unterrepräsentiert
+    * IQ als einziges Maß für Begabung
+    * Stanford-Binet kein Abweichungsquotient (ältere Kinder hatten es schwerer hohen IQ zu erreichen)
+  * Schlussfolgerungen
+    * Harmoniehypothese scheint wahrscheinlicher
+    * mehrdimensionale Sichtweise für Intelligenz erwünscht
 * Definitionsklassen
+  * "ex post facto"
+    * 2 Merkmale
+      * Eminenz (Auszeichnungen, Urteil von Fachexperten...)
+      * Produktivität (geschaffene Werke)
+  * statistisch
+    * Definition nach Normalverteilung, z.B. IQ
+  * integriert
+    * Fokus auf Potenzial für Innovation und Zukunftsproblemlösung
+    * Kritischer und praktischer Intellekt
+    * Drei-Ringe-Modell, SOI, triadische Interdependenz (siehe auch unten)
 * Integrierte Definitionen
-* Checkliste
-
-TODO: Zusammenfassung Hochbegabung
+  * Dreikomponentenmodell (Renzulli)
+    * Hochbegabung ist Schnittmenge von:
+      * Task Commitment
+      * Creativity
+      * Above Average Ability
+  * Triadisches Interdependenzmodell (Mönks)
+    * Mönks erweitert um folgende Umwelteinflüsse:
+      * Familie
+      * Peer group
+      * Schule
+* Checkliste für Hochbegabung
+  * Lernen und Denken
+    * viel Wissen
+    * sprachlich gewandt
+    * gutes Gedächtnis & Lernfähigkeit
+    * Abstraktionsfähigkeit
+    * Beobachtungsfähigkeit
+  * Arbeitshaltung & Interessen
+    * Flow-Erlebnis bei fordernden Aufgaben
+    * Perfektionismus, selbstkritisch, motiviert
+  * Sozialverhalten
+    * moralisch-ethisches Interesse
+    * individualistisch
+    * planen, organisieren, Verantwortung übernehmen
+    * kommen gut mit jedem gut aus, bevorzugen Gesellschaft gleichfähiger
 
 <hr>
 
