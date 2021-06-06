@@ -15,7 +15,7 @@ semester: 2020W
 * Was ist das Kompetenz-Performanz-Problem?
 * Was ist das Aggregationsprinzip?
 * Wie definierten Stern und Wechsler Intelligenz und was ist die Kritik an ihren Definitionen?
-* Wie definiert Hofstätter Intelligenz?
-* Welche Rollen spielen die Konzepte Chaos und Ordnung für die Definition von Intelligenz? Was hat Aberglaube damit zu tun?
+* Wie definiert Hofstätter Intelligenz? Welche Rollen spielen die Konzepte Chaos und Ordnung für die Definition von Intelligenz?
+* Was hat Aberglaube mit Intelligenz zu tun? Welche zwei "Arten von Fehlern" beschreibt Hofstätter?
 * Welche Analysatoren gibt es um Ordnungen aufzufinden?
 * Welche drei Entwicklungsschritte des Intelligenzkonzepts umreißen grob seine Geschichte?

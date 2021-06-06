@@ -26,4 +26,4 @@ vo: Differentielle Psychologie 1
 * Welchen Ansatz hatte Wechsler beim Erstellen seines IQ-Konzepts?
 * Warum ist der IQ normalverteilt?
 * Welche Kritik übt man an einem einzelnen IQ-Wert?
-* Welche Änderungen beim Testen (u.a. durch die USA im 1.Weltkrieg) ermöglichten empirisch-differentialpsychologische Forcshung?
+* Was bedeuteten Änderungen bei der Testdurchführung (u.a. durch die USA im 1.Weltkrieg) für die differentielle psychologische Forschung? Welche Änderungen waren das?
