@@ -31,25 +31,24 @@ semester: 2020W
 * Beschreibe die fünf Faktoren des NEO-FFI!
 * Wie sehen die Skalen des NEO-PI-R aus?
 * Wieviele Items hat die Vollversion der Big Five Inventare?
-* Welche Vorteile haben die neuen Fragebogenverfahren zu den Big Five?
+* Welche Vorteile haben die neuen Fragebogenverfahren der Big Five?
 * Beschreibe _Negative Emotionalität_ nach Fehr! Welchem Faktor der Big Five entspricht sie?
 * Beschreibe _Verträglichkeit_ nach Fehr!
 * Beschreibe _Gewissenhaftigkeit_ nach Fehr!
 * Beschreibe _Extroversion_ nach Fehr!
 * Beschreibe _Offenheit für Erfahrung_ nach Fehr!
 * Was ist das _Semantische Differential_ bzw. _Polaritätsprofil_?
+* Wie interpretiert man das Ergebnis eines Big Five Test korrekterweise?
+* Beschreibe drei Bedeutungsaspekte des Begriffs "Verhaltenstedenzen"!
+* Wie werden die Big Five bei der Personalauswahl angewendet?
+* Beschreibe bespielhaft zwei Big Five Persönlichkeitsprofile für eine Leitungsposition und einen Verkäufer!
+* Welche Kritik wurde an den Big Five und ihrem Enstehungsprozess geübt? Wieso ist das HEXACO Modell enstanden?
+* Um welchen Faktor erweitert das HEXACO-Modell die Big Five? Welche Faktoren gleichen sich und welche haben Änderungen an den Facetten?
+* Welche drei Eigenschaften kennzeichnen die _Dunkle Triade_? Wie korrellieren sie untereinander?
+* Bewerte faktorenanalytische, traitorientierte Persönlichkeitstheorien anhand der 8 Gütekriterien von Theorien (siehe auch Kapitel 8)!
+* Welche 3 Schwächen haben sie?
+* Welche Kritik übt Asendorpf am psycho-lexikalischen Ansatz?
 
-Norman
-Big Five (OCEAN)
-Openess
-Extraversion
-Agreeableness
-Neuroticism
-Consciousness
-Facetten
-HEXACON
-Honesty
 
-lexikalisches Vorgehen Ocean
 Dunkle Triade
 Psychopathie
