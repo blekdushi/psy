@@ -44,11 +44,7 @@ semester: 2020W
 * Beschreibe bespielhaft zwei Big Five Persönlichkeitsprofile für eine Leitungsposition und einen Verkäufer!
 * Welche Kritik wurde an den Big Five und ihrem Enstehungsprozess geübt? Wieso ist das HEXACO Modell enstanden?
 * Um welchen Faktor erweitert das HEXACO-Modell die Big Five? Welche Faktoren gleichen sich und welche haben Änderungen an den Facetten?
-* Welche drei Eigenschaften kennzeichnen die _Dunkle Triade_? Wie korrellieren sie untereinander?
+* Welche drei Eigenschaften kennzeichnen die _Dunkle Triade_? Wie korrellieren sie untereinander? Welche Kritik wird an der dunklen Triade geübt?
 * Bewerte faktorenanalytische, traitorientierte Persönlichkeitstheorien anhand der 8 Gütekriterien von Theorien (siehe auch Kapitel 8)!
 * Welche 3 Schwächen haben sie?
 * Welche Kritik übt Asendorpf am psycho-lexikalischen Ansatz?
-
-
-Dunkle Triade
-Psychopathie
