@@ -16,7 +16,7 @@ semester: 2020W
 * Wie beschreibt Jensen das Schicksal von Persönlichkeitstheorien?
 * Nenne Definitionen des Begriffs "Persönlichkeit"! Worin unterscheiden sie sich?
 * Was sind "Persönlichkeitstheorien"? Welche grundsätzlichen Fragen behandeln sie?
-* Was ist die "Struktur" einer Persönlichkeitstheorie? Worin unterscheiden sie sich?
+* Was ist die "Struktur" einer Persönlichkeitstheorie? In welche Teile/Aspekte gliedert sie sich?
 * Was sind "Prozesse" einer Persönlichkeitstheorie?
 * Was sind Aspekte der "Entwicklung" bei einer Persönlichkeitstheorie?
 * Warum sind Theorien in der Praxis voreingenommen? Welche Einflüsse sind die Ursache dafür?
