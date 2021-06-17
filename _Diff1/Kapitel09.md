@@ -12,7 +12,7 @@ semester: 2020W
 * Wie berechnet sich das Verhältnis von Dimensionen und ihren Stufen um eine bestimmte Anzahl X an unterschiedlichen Persönlichkeiten beschreiben zu können? Was muss man dieser Rechnung noch für eine Variable miteinbeziehen, damit sie realistisch ist?
 * Warum sind viele Dimensionen heutzutage 5-9 stufig? Wer steckt dahinter?
 * Gib einen kurzen Überblick über die Biografie von Raymond B. Cattell? Wie hat er Persönlichkeit definiert?
-* Welche drei Datenarten hat R.B. Cattell unterschieden?
+* Welche drei Datenarten hat R.B. Cattell unterschieden und nach welchem Merkmal hat er sie gereiht?
 * Mit welchen Gruppen klassifizierte Cattell die Bereiche der Persönlichkeit?
 * Wie mappte Pervin diese Gruppen auf die "drei grundsätzlichen Fragen" von Persönlichkeitstheorien (vgl. Kapitel 7)?
 * Welche Ebenen von Verhaltensbeobachtung unterscheidet Cattell?
