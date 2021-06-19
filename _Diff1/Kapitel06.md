@@ -320,5 +320,36 @@ semester: 2020W
 
 # Kontrollfragen
 
-TODO: Kontrollfragen erstellen
-* Nenne Beispiele für explizite Sichtweisen sozialer Intelligenz anhand des SOI Modells!
+* Wie sieht Sternbergs Prozessmodell aus, mit dem er die für Intelligenz verantwortlichen Prozesse untersuchen wollte?
+* Was ist ein "ECT"? Nenne ein Beispiel! In welchem Kontext wurde er verwendet?
+* Was besagt das Hick-Paradigma? Wie kann man es prüfen? Wie heißt dieser Apparat?
+* Nenne Beispiele wie man versucht hat das _Working Memory_ zu messen?
+* Welchen Zusammenhang haben _Working Memory_ und _Mental Speed_?
+* Welche neurowissenschaftlichen Untersuchungen hat man bezüglich Intelligenz gemacht? Welche Hypothese (und von wem) stützen ihre Ergebnisse?
+* Welche zwei Hypothesen sind mögliche Erklärungen für neurale Effizienz?
+* Wer entdeckte erstmalig Geschlechtsunterschiede beim IQ und wie gingen sie damit um?
+* Welche Fortschritte führten dazu, dass Geschlechtsunterschiede beim IQ _gender-fair_ gemessen werden können?
+* Eine Studie zu Geschlechtsunterschieden ist besonders repräsentativ. Warum? Wer hat sie durchgeführt? Was waren die Ergebnisse?
+* Welche Ursachen werden für den Geschlechtsunterschied vermutet?
+* Was ist der Flynn-Effekt und wie hat er sich seit Beginn des 20.Jhdts entwickelt?
+* Welche möglichen Erklärungen gibt es für den Flynn-Effekt?
+* Welche Folgen hatte die Entdeckung des Flynn-Effekts?
+* Welche zwei gegensätzlichen Hypothesen über Hochbegabte wurden prominent diskutiert?
+* Welche Ergebnisse lieferte Termans Studie über Hochbegabte?
+* Welche Kritik muss sich die Terman Studie gefallen lassen?
+* Welche Definitionsklassen von Hochbegabung unterscheidet Lucito?
+* Wie heißen die Modelle zur integrativen Betrachtung von Hochbegabung von Renzulli und Mönk?
+* In welche drei Bereiche ist die Checkliste für Hochbegabung geteilt? Welche Aspekte beinhalten diese jeweils?
+* Welche Probleme ergeben sich beim erforschen von _Entwicklungshypothesen_?
+* Was ist _praktische Intelligenz_? Findet sich dafür eine eindeutige Definition?
+* Nenne ein Beispiel, wie im Bewerbungskontext praktische Intelligenz bei Bewerbern getestet wird. Was sind die entscheidenden Erkenntnisse solchen Ansätze?
+* Welche zwei Faktoren erklären _praktische Intelligenz_?
+* Was ist _Tacit Knowledge_? Wie ist sie charakterisiert? Welche Zusammenhänge bestehen mit anderen Messgrößen?
+* Mit welchem Teilquader des SOI lässt sich _Ideenflüssigkeit_ beschreiben.
+* Welche zwei Aspekte _sozialer Intelligenz_ werden unterschieden?
+* Welche impliziten Sichtweisen auf _soziale Intelligenz_ gibt es?
+* Nenne Beispiele für explizite Sichtweisen _sozialer Intelligenz_ anhand des SOI Modells! Welche Inhaltsdimension steht dabei im Fokus?
+* Was wird rund um das Konzept der _sozialen Intelligenz_ diskutiert und warum ist es noch eher schwammig?
+* Welche vier vierschieden Fähigkeitsbereiche unterscheidet Asendorpf für _emotionale Intelligenz_?
+* Welche Tests versuchen _soziale Intelligenz_ zu messen? Worin unterscheiden sie sich grundlegend?
+*
