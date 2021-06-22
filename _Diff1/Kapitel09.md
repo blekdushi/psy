@@ -38,6 +38,37 @@ semester: 2020W
 * Beschreibe _Extroversion_ nach Fehr!
 * Beschreibe _Offenheit für Erfahrung_ nach Fehr!
 * Was ist das _Semantische Differential_ bzw. _Polaritätsprofil_?
+* Ordne jede der folgenden _Facetten_ ihrem Faktor der Big Five zu:
+  * Liberalismus
+  * Besorgtheit
+  * Befangenheit
+  * Vertrauen
+  * Geselligkeit
+  * Altruismus
+  * Durchsetzungsfähigkeit
+  * Abenteuerlust
+  * Pflichtbewusstsein
+  * Moral
+  * Unternehmungslust
+  * Heiterkeit
+  * Bescheidenheit
+  * Selbstdisziplin
+  * Leistungsstreben
+  * Besonnenheit
+  * Kompetenz
+  * Ordnung
+  * Erlebnishunger
+  * Freundlichkeit
+  * Vulnerabilität
+  * Ästhetik
+  * Erregbarkeit
+  * Entgegenkommen
+  * Emotionalität
+  * Mitgefühl
+  * Intellektualismus
+  * Pessimismus
+  * Fantasie
+  * Impulsivität
 * Wie interpretiert man das Ergebnis eines Big Five Test korrekterweise?
 * Beschreibe drei Bedeutungsaspekte des Begriffs "Verhaltenstedenzen"!
 * Wie werden die Big Five bei der Personalauswahl angewendet?
