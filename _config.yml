@@ -16,8 +16,11 @@
 title: Psychologie - Bachelor (Universität Wien)
 description: >- # this means to ignore newlines until "baseurl:"
   Notizen zu Lehrveranstaltungen des Bachelorstudiums Psychologie an der Universität Wien
+
 baseurl: "/psy" # the subpath of your site, e.g. /blog
-url: "http://blekdushi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: ""
+# url: "http://blekdushi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""
 twitter_username: blekdushi
 github_username: blekdushi
 
@@ -50,7 +53,13 @@ collections:
     vortragender: Pietschnig
     semester: 2020W
     steop: false
-
+  Allgemeine2:
+    output: true
+    vo_name: Allgemeine Psychologie 2
+    vortragender: Job
+    semester: 2025S
+    steop: false
+    
 # Build settings
 markdown: kramdown
 theme: minima
